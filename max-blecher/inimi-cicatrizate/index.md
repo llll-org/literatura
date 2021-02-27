@@ -29,11 +29,11 @@ Peștii continuau să alunece triști în lumina mohorîtă. În sală era atât
 
 În prag apăru o ființă mică, întunecată, ca un animal speriat ieșind dintr’o vizuină.
 
-— Sunteți trimis de doctorul Bertrand? Bine! Știu, mi-a telefonat… dureri violente în șale, nu-i așa?… O radiografie a coloanei vertebrale.
+― Sunteți trimis de doctorul Bertrand? Bine! Știu, mi-a telefonat… dureri violente în șale, nu-i așa?… O radiografie a coloanei vertebrale.
 
 Omulețul își freca nervos mâinile ca pentru a îndepărta resturile de țărână ce-i rămăseseră prinse de degete când își săpase bârlogul. Avea ochi mici de cârtiță, tumefiați, sticlind auriu în lumina slabă.
 
-— Vom vedea îndată ce este… Poftim după mine.
+― Vom vedea îndată ce este… Poftim după mine.
 
 Emanuel îl urmă, străbătu coridorul și se trezi în fața unei odăi absolut întunecoase. De aici venea mirosul greu de cauciuc ars.
 
@@ -41,31 +41,31 @@ Un bec slab se aprinse descoperind o sală plină de aparate medicale cu structu
 
 Erau atâtea fire electrice pretutindeni încât Emanuel rămase nedumerit în prag, de teamă ca intrând și atingând vreunul să nu declanșeze un formidabil curent plin de trăsnete și scântei.
 
-– Poftim!… poftim… îi spuse doctorul aproape luându-l de mână. Puteți să vă desbrăcați aici…
+― Poftim!… poftim… îi spuse doctorul aproape luându-l de mână. Puteți să vă desbrăcați aici…
 
 Și doctorul îi arătă o ladă cu șuruburi, o mașină enigmatică ce servea după cum se vede, din când în când drept canapea. Emanuel comitea pentru întâia oară în viața lui acțiunea atât de simplă și de intimă de a-și desbrăca hainele, într’un cadru atât de solemn.
 
 Medicul continua să fumeze, aruncând nepăsător scrumul pe podea, pe podeaua acestei teribile odăi științifice unde fiecare centimetru pătrat părea încărcat cu mistere și electricitate.
 
-— Vă scoateți numai cămașa…
+― Vă scoateți numai cămașa…
 
 Emanuel era gata. Începu să tremure.
 
-— Vă este frig? întrebă doctorul. Totul durează o minută.
+― Vă este frig? întrebă doctorul. Totul durează o minută.
 
 Contactul rece, tăios cu masa de tinichea pe care se întinse, îl străbătu cu un fior mai intens.
 
-— Și acum atenție… când vă voi spune eu, veți opri respirația… aș vrea să iasă o radiografie bună.
+― Și acum atenție… când vă voi spune eu, veți opri respirația… aș vrea să iasă o radiografie bună.
 
 Doctorul deschise și închise o cutie metalică. Becul se stinse. Un clinchet declanșă un declic precis. O manetă căzu net, cu o tăietură liniară în întuneric. Curentul începu a vibra surd ca un animal iritat. Totul se desfășura metalic și precis ca în jocurile acelea de atenție unde o bilă nichelată cade cu exactitudine din despărțitură în despărțitură…
 
-— Acum! spuse doctorul.
+― Acum! spuse doctorul.
 
 Emanuel își opri respirația. Inima prinse a-i bate puternic răsunând parcă în tabla pe care stătea culcat. Tot întunericul îi vâjâia în urechi.
 
 Se auzi un nou fâșâit, care se înteți și care se stinse apoi brusc ca un cărbune aruncat în apă.
 
-— Puteți respira, spuse din nou doctorul.
+― Puteți respira, spuse din nou doctorul.
 
 Se făcu iar lumină. Emanuel avu deodată un moment de extremă luciditate. Pentru ce era el acolo întins pe masă? Pentru ce?
 
@@ -75,7 +75,7 @@ Avu certitudinea clară că e foarte bolnav. Totul în jurul lui o spunea cu evi
 
 Medicul scotea placa din masa de tinichea.
 
-— Vă rog nu vă îmbrăcați încă… să văd dacă e bună… stați așa… întins.
+― Vă rog nu vă îmbrăcați încă… să văd dacă e bună… stați așa… întins.
 
 Doctorul luă haina lui Emanuel și i-o puse pe piept, păturind-o cu îngrijiri tandre; numai mama lui în copilărie, îl învelea așa cu plapoma înainte de culcare.
 
@@ -85,17 +85,17 @@ Se simțea acum din nou bine, sub haina caldă și moale. Dacă nu l-ar fi tăia
 
 În fundul coridorului, undeva, se auzi o ușă trântită cu sgomot. Așa dar viața continua în depărtare să funcționeze mai departe… El se simți retras dintr’însa, la adăpost sub haină, așa cum era, gol pe masa de radiografie.
 
-— Placa e bună, spuse doctorul ieșind din cabină. Mi se pare însă că o vertebră e atacată rău de tot… Lipsește din ea o bucată de os…
+― Placa e bună, spuse doctorul ieșind din cabină. Mi se pare însă că o vertebră e atacată rău de tot… Lipsește din ea o bucată de os…
 
 Doctorul spuse toate acestea într’o franțuzească rapidă pe care Emanuel n’o înțelegea prea bine și cu întreruperi, arzându-și degetele cu capătul de țigară pe care îl reluase de pe o măsuță și din care trăgea avid.
 
 Emanuel rămase nedumerit, nu înțelese bine. Îi lipsea o bucată de os din vertebră? Dar cum dispăruse de acolo? Întrebă pe doctor.
 
-— E roasă… roasă de microbi, răspunse omulețul negru. Complet mistuită… ca un dinte ros de carie.
+― E roasă… roasă de microbi, răspunse omulețul negru. Complet mistuită… ca un dinte ros de carie.
 
-— Chiar în coloana vertebrală?
+― Chiar în coloana vertebrală?
 
-— Da, chiar în coloană… o vertebră distrusă…
+― Da, chiar în coloană… o vertebră distrusă…
 
 „Și atunci cum de nu m’am prăbușit până acum stând în picioare, de vreme ce însăși axa de susținere a corpului e ruptă?” gândi Emanuel. Își aduse aminte că trebue să se îmbrace dar nu îndrăzni să se ridice decât cu precauțiuni infinite, sprijinindu-se tot timpul de aparate. În piept i se făcuse un asemenea gol încât îi auzea vuietul clar ca zumzetul din interiorul unei scoici pusă la ureche. Inima bătea în vid cu lovituri amplificate. Putea așa dar corpul lui să se frângă dintr’un moment în altul, ca un copac rupt, ca o păpușă de cârpă.
 
@@ -107,25 +107,25 @@ Medicul intrase din nou în cabină. Emanuel se gândi atunci brusc să se sinuc
 
 De altfel nici nu rămase mult timp singur. Medicul veni cu clișeul, umed încă, să i-l arate. Aprinse un bec mai mare și puse radiografia în lumina lui. Emanuel privi uimit, absent, umbrele negre care îi reprezentau scheletul; cea mai secretă și intimă structură a corpului lui imprimată acolo în transparențe întunecate și funebre.
 
-— Iată… aici… E o vertebră sănătoasă, explică doctorul. Și aici, mai jos, aceea din care lipsește o bucată de os… se vede bine că e roasă.
+― Iată… aici… E o vertebră sănătoasă, explică doctorul. Și aici, mai jos, aceea din care lipsește o bucată de os… se vede bine că e roasă.
 
 Într’adevăr era acolo o vertebră știrbă.
 
-— Asta se chiamă Morbul lui Pott… tuberculoză osoasă la vertebre.
+― Asta se chiamă Morbul lui Pott… tuberculoză osoasă la vertebre.
 
 Totul părea foarte clar de vreme ce știrbitura aceea avea și un nume științific.
 
-— Mai este apoi ceva suspect aici… continuă doctorul și arătă o umbră largă ca o pâlnie. Mă tem să nu fie vorba de un abces… Ar trebui să vă examinez în cabinetul meu.
+― Mai este apoi ceva suspect aici… continuă doctorul și arătă o umbră largă ca o pâlnie. Mă tem să nu fie vorba de un abces… Ar trebui să vă examinez în cabinetul meu.
 
 Până atunci doctorul vorbise într’una fără a privi pe Emanuel. Când ridică ochii și îl văzu atât de palid și înghețat, se repezi în cabină să lase clișeul, apoi, revenind, îl apucă de mâini și începu să-l zgâlțâie.
 
-— Ei haide! Ce-i asta? Curaj… puțin curaj! E ceva ce se poate vindeca… veți merge la Berck… acolo e salvarea… puțin curaj… puțin curaj!
+― Ei haide! Ce-i asta? Curaj… puțin curaj! E ceva ce se poate vindeca… veți merge la Berck… acolo e salvarea… puțin curaj… puțin curaj!
 
 Îl târî după dânsul de-a-lungul coridorului și al salonașului vechiu unde peștii în aquarium, nepăsători, continuau închiși hermetica lor migrațiune.
 
 Intrară în cabinetul de consultații. Și aici erau perdelele trase, și aici era întuneric, și aici ardea un singur bec în mijlocul unui torent împietrit de cărți și droguri medicinale. Omulețul umbla agil printre ele, dibuindu-le parcă în trecere și adulmecându-le ușor cu miros animalic.
 
-— Să vedem mai întâi spatele, spuse doctorul.
+― Să vedem mai întâi spatele, spuse doctorul.
 
 Emanuel se întinse cu fața în jos pe o canapea acoperită cu cearceaf alb.
 
@@ -133,39 +133,39 @@ Medicul începu să pipăie încet, cu atenție, coloana vertebrală de sus în 
 
 Într’un loc unde apăsă mai tare răsună o durere fulgerătoare.
 
-— E tocmai ce arată și radiografia… Aici este vertebra bolnavă.
+― E tocmai ce arată și radiografia… Aici este vertebra bolnavă.
 
 Și doctorul o mai apăsă odată și încă odată răsună în coloană aceeași notă clară de durere.
 
-— Dacă nu sunt indiscret, pentru ce ați venit în Franța? întrebă doctorul în timp ce-l examina. Am cunoscut după accent că sunteți străin.
+― Dacă nu sunt indiscret, pentru ce ați venit în Franța? întrebă doctorul în timp ce-l examina. Am cunoscut după accent că sunteți străin.
 
-— Într’adevăr, răspunse Emanuel. Am venit aici pentru studii.
+― Într’adevăr, răspunse Emanuel. Am venit aici pentru studii.
 
-— Și ce anume studiați? întrebă din nou doctorul.
+― Și ce anume studiați? întrebă din nou doctorul.
 
-— Chimia, răspunse Emanuel.
+― Chimia, răspunse Emanuel.
 
-— Aha! Chimia!… vă place chimia, vă interesează?
+― Aha! Chimia!… vă place chimia, vă interesează?
 
 „Mă interesează acum numai viața”, vru să răspundă Emanuel, dar tăcu.
 
-— Credeți că părinții vă vor putea întreține aici într’un loc la mare? continuă doctorul. Vă trebue multă odihnă, hrană bună… mai ales liniște… la Berck, de pildă, pe malul oceanului într’un sanatoriu de acolo…
+― Credeți că părinții vă vor putea întreține aici într’un loc la mare? continuă doctorul. Vă trebue multă odihnă, hrană bună… mai ales liniște… la Berck, de pildă, pe malul oceanului într’un sanatoriu de acolo…
 
-— Voi scrie tatălui meu în România, răspunse Emanuel. Cred că mă va ajuta.
+― Voi scrie tatălui meu în România, răspunse Emanuel. Cred că mă va ajuta.
 
 Curios lucru, cuvântul „sanatoriu” pe care il pronunțase medicul aduse deodată în Emanuel o amintire suavă și plină de soare ca o adiere de briză răcoroasă în atmosfera înnăbușitoare a cabinetului medical. Anul trecut la Teckirghiol, unde stătuse o lună să-și îngrijească presupusul lui reumatism (așa diagnosticaseră toți doctorii durerile din spate), tot timpul fusese obsedat de ideea că foarte curând va trăi într’un sanatoriu. Își aducea acum perfect aminte de o dimineață însorită, pe plajă la umbra unui parasol unde prietenii lui jucau cărți întinși cu burta pe nisip, cum îi trecuse așa brusc și absurd prin minte, că ar trebui să-și ia rămas bun dela ei, spunându-le că pleacă la un sanatoriu.
 
 Acum în cabinetul întunecos, în lumina chlorotică a becului, amintirea aceasta era tot ce putea fi mai senin și mai proaspăt, printre hârtiile prăfuite.
 
-— Și acum să vedem burta…
+― Și acum să vedem burta…
 
 Emanuel se întoarse cu fața în sus. Medicul întinse palma pe toată pielea, o alunecă ușor și rămase deodată stupefiat privindu-l fix în ochi pe Emanuel.
 
-— Aveți de mult asta?
+― Aveți de mult asta?
 
 Îi arătă pe burtă o umflătură groasă și rotundă, netedă și bine conturată ca un ou care ar fi crescut acolo sub piele, lângă șold („enormă” se gândi Emanuel, extraordinar de speriat). În zadar căuta să-și aducă aminte de ea; n’o văzuse acolo niciodată. Și nici doctorul Bertrand n’o observase. Era poate ceva nou, apărut de câteva ceasuri.
 
-— În tot cazul, e bine că am descoperit-o la timp, spuse doctorul. Asta dacă spărgea făcea comedie mare… e un abces rece plin de puroi și care vine dela osul bolnav… Va trebui puncționat… va trebui extras puroiul cu seringa.
+― În tot cazul, e bine că am descoperit-o la timp, spuse doctorul. Asta dacă spărgea făcea comedie mare… e un abces rece plin de puroi și care vine dela osul bolnav… Va trebui puncționat… va trebui extras puroiul cu seringa.
 
 De un ceas încoace atâtea lucruri îngrozitoare se petrecuseră sentențios și calm, atâtea prăbușiri avuseseră loc, încât lui Emanuel, ostenit de sensaționalul zilei, într’o secundă de amețitoare inconștiență îi veni să râdă.
 
@@ -173,23 +173,23 @@ Consultația la doctorul Bertrand, radiografia, vertebra roasă și acum abcesul
 
 Dar doctorul tăcu, fără să-și ia privirea dela abces.
 
-— Și acum ce-i de făcut? întrebă Emanuel slab cu o voce din alte lumi.
+― Și acum ce-i de făcut? întrebă Emanuel slab cu o voce din alte lumi.
 
-— Ei bine, puncția! răspunse doctorul. Mai întâi puncția! Eu v’aș sfătui să v’o facă tot doctorul Bertrand care va trimis la mine pentru radiografie. Îi pot telefona, dacă vreți. Are o mână foarte sigură… de altfel nici nu-i vorba despre vreo operație importantă… o simplă împunsătură cu acul… atâta tot. Îi voi telefona să vie acasă toate cele necesare. Ce adresă aveți?
+― Ei bine, puncția! răspunse doctorul. Mai întâi puncția! Eu v’aș sfătui să v’o facă tot doctorul Bertrand care va trimis la mine pentru radiografie. Îi pot telefona, dacă vreți. Are o mână foarte sigură… de altfel nici nu-i vorba despre vreo operație importantă… o simplă împunsătură cu acul… atâta tot. Îi voi telefona să vie acasă toate cele necesare. Ce adresă aveți?
 
 În timp ce doctorul nota adresa într’un carnet Emanuel respiră puțin ca să se libereze de opresiune. Ascultase cu respirația tăiată tot ce spunea doctorul.
 
-— Apoi, peste câteva zile veți pleca la Berck, la mare…
+― Apoi, peste câteva zile veți pleca la Berck, la mare…
 
-— Berck? întrebă Emanuel. Unde vine asta?
+― Berck? întrebă Emanuel. Unde vine asta?
 
 Doctorul luă dintr’un raft un „Larousse” enorm și îl deschise la harta Franței.
 
-— Iată aici… vedeți… canalul Mânecii… mai jos de Boulogne este Berck… nu-i însemnat pe hartă. E o plajă mică, pierdută în dune, un orășel maritim unde vin bolnavi ca dumneata din toate părțile lumii ca să se vindece… Stau acolo culcați în ghips, dar duc o viață absolut normală. Ba ies și cu trăsura la plimbare, trăsuri speciale în care stau întinși, trase de cai sau de măgăruși.
+― Iată aici… vedeți… canalul Mânecii… mai jos de Boulogne este Berck… nu-i însemnat pe hartă. E o plajă mică, pierdută în dune, un orășel maritim unde vin bolnavi ca dumneata din toate părțile lumii ca să se vindece… Stau acolo culcați în ghips, dar duc o viață absolut normală. Ba ies și cu trăsura la plimbare, trăsuri speciale în care stau întinși, trase de cai sau de măgăruși.
 
 Doctorul debita toate aceste explicații cu un ton savant, și murmurat, uitându-se tot timpul pe hartă ca și cum ar fi cetit din dicționar tot ce spunea.
 
-— Dar până acasă umflătura nu va sparge? întrebă Emanuel.
+― Dar până acasă umflătura nu va sparge? întrebă Emanuel.
 
 Ar fi vrut să întrebe multe; dacă până la pensiune nu i se va rupe coloana vertebrală, dacă nu se va prăbuși în stradă, dacă nu-i va cădea capul de pe umeri rostogolindu-se pe trotuar ca o bilă de popice. De câteva minute se simțea foarte fragil încleiat. În fabricile de sticlă lucrătorii se amuză să arunce în apă bucăți de compoziție topită care se întăresc și devin mai rezistente decât sticla obișnuită, de pot fi lovite chiar cu ciocanul, dar dacă un mic fragment se desprinde din ele toată masa se preface în pulbere. O singură vertebră sfărâmată, nu era oare de ajuns să transforme în praf întregul trup? Mergând pe stradă s’ar fi putut desprinde osul bolnav și atunci Emanuel s’ar fi prăbușit pe loc, rămânând din el o simplă grămăjoară de cenușă fumegândă.
 
@@ -197,11 +197,11 @@ Ar fi vrut să întrebe multe; dacă până la pensiune nu i se va rupe coloana 
 
 Cât privește de onorariu nu vru să accepte nimic. - „Dela studenți nu iau bani…”. În ochii lui mici ardeau scântei vii, Emanuel se simți invadat de o tandreță atât de moleșitoare încât îi veniră lacrimile în ochi. Mulțumi doctorului cu exagerată efuziune. Se agăță de această recunoștință cu frenezia unei eliberări. Îi venea să se arunce la picioarele doctorului și să rămâie prosternat în fața lui.
 
-– Vă mulțumesc domnule doctor! (Ossana! Ossana!). Se îmbrăcă în grabă și trecu prin același vechiu salonas.
+― Vă mulțumesc domnule doctor! (Ossana! Ossana!). Se îmbrăcă în grabă și trecu prin același vechiu salonas.
 
-— Curaj! mai spuse odată doctorul pe scări cu un mic plescăit de limbă ca un îmblânzitor care îndeamnă animalul să sară printr’un cerc.
+― Curaj! mai spuse odată doctorul pe scări cu un mic plescăit de limbă ca un îmblânzitor care îndeamnă animalul să sară printr’un cerc.
 
-— Curaj! Curaj! răsună înăuntrul lui Emanuel ecoul lovindu-se de pereții pieptului.
+― Curaj! Curaj! răsună înăuntrul lui Emanuel ecoul lovindu-se de pereții pieptului.
 
 Se trezi astfel deodată în plină stradă, în plină lumină a zilei. Era ca o dilatare bruscă și imensă a lumii. Așa dar mai existau case, asfalt veritabil și un cer îndepărtat, vaporos și alb. Părăsise lumea de afară în această lumină și o regăsea acum identică, poate mai vastă și mai pustie, cu mai mult aer limpede în ea și mai puține lucruri decât odăile întunecoase din apartamentul doctorului. Totul părea însă mult mai trist și mai indiferent… Acum pășea în această lume un Emanuel bolnav, cu o vertebră roasă, un nenorocit în drumul căruia casele se dădeau cu frică la o parte. Umbla pe trotuar moale ca și cum ar fi plutit pe consistența asfaltului. În intervalul cât stătuse închis în cabinetul doctorului, lumea se subțiase straniu. Conturul obiectelor mai exista încă, dar acest firișor subțire care la fel ca pe un desen, înconjoară o casă pentru a face din ea o casă, sau stabilește profilul unui om, conturul acela care închide lucruri și oameni, copaci și câini, abia de mai ținea în limitele lui materia gata să se prăbușească. Ar fi fost deajuns ca să desprindă cineva firișorul acela din marginea lucrurilor pentru ca deodată casele acelea impozante, lipsite de propriul lor contur, să se lichefieze într’o materie uniform de turbure și cenușie.
 
@@ -225,15 +225,15 @@ Era de altfel singurul animal submarin din acele străfunduri oceanice și Emanu
 
 În pragul pensiunii, portăreasa îl aștepta cu nerăbdare. Îl zări de departe și îi făcu semn cu mâna:
 
-— S’a telefonat din partea doctorului Bertrand. Vine la ora 4 cu tot ce trebue. Așa a spus și a mai adăugat să vă găsească în pat.
+― S’a telefonat din partea doctorului Bertrand. Vine la ora 4 cu tot ce trebue. Așa a spus și a mai adăugat să vă găsească în pat.
 
-— Am înțeles, răspunse Emanuel vrând să intre coridor. Dar portăreasa suptă de curiozitate și de nerăbdarea așteptării îl opri în prag.
+― Am înțeles, răspunse Emanuel vrând să intre coridor. Dar portăreasa suptă de curiozitate și de nerăbdarea așteptării îl opri în prag.
 
-— Ce ai? Pentru ce ești atât de palid? Ești bolnav? E ceva grav?
+― Ce ai? Pentru ce ești atât de palid? Ești bolnav? E ceva grav?
 
 Îl apucă de haină și începu să-l zgâlțâie ca pe un sac din care ar fi vrut să scuture tot conținutul.
 
-— Mai încet! Mai încet! o domoli Emanuel. Hai în odaie și am să-ți spun totul.
+― Mai încet! Mai încet! o domoli Emanuel. Hai în odaie și am să-ți spun totul.
 
 Avea o odaie mică, destul de incomodă, chiar lângă aceea a portăresei, la parter. O luase pentru a nu fi nevoit să urce scările, tot din cauza durerilor din spate.
 
@@ -255,7 +255,7 @@ Atinse ușor umflătura de lângă șold și se înfioră. Creștea parcă mereu
 
 Așa îl găsi doctorul Bertrand.
 
-— Ei bine, ne pregătești surprize? Ce s’a întâmplat? Am auzit la telefon lucruri îngrozitoare… spuse doctorul intrând.
+― Ei bine, ne pregătești surprize? Ce s’a întâmplat? Am auzit la telefon lucruri îngrozitoare… spuse doctorul intrând.
 
 Vorbea cu bonomia serioasă a tuturor medicilor de familie ce au trecut de anumită vârstă și care capătă cu toții un ton al vocii uniform, ca o însușire biologică generală în desvoltarea lor profesională. Era înalt și spătos, cu părul tăiat scurt, ridicat aspru ca o perie.
 
@@ -263,7 +263,7 @@ Examină abcesul cu o față impasibilă, pe suprafața căreia Emanuel nu desco
 
 Cineva bătu la ușă. Era ajutorul doctorului intrând încărcat cu pachete de instrumente și diferite cutii nichelate.
 
-— Într’adevăr… e ceea ce mi s’a telefonat. Abcesul trebuește puncționat îndată, spuse calm doctorul. Să începem!
+― Într’adevăr… e ceea ce mi s’a telefonat. Abcesul trebuește puncționat îndată, spuse calm doctorul. Să începem!
 
 Își desbrăcă haina și își suflecă mânecile cămășii. Apoi ceru apă să se spele.
 
@@ -281,13 +281,13 @@ Doctorul se întoarse către pat cu un tampon de vată îmbibat de iod. Purta m�
 
 Unse umflătura și jumătate din pielea burții care deveni deodată galbenă. În odaie se răspândi un miros antiseptic de iodoform și de farmacie. Asta dădea încăperii o realitate nouă, medicală și foarte severă. Se petrecea în ea ceva grav și inevitabil. Emanuel se zăpăci cu totul. În jurul lui zărea dulapul, cărțile și masa, vechile lucruri familiare, bine cunoscute, dar acum ele se desprindeau nesigure în luciditatea lor turbure, ca vorbele haotice țipate de o voce necunoscută într’o hărmălaie de mulți oameni adunați într’o sală.
 
-— Anestezic! spuse doctorul scurt.
+― Anestezic! spuse doctorul scurt.
 
 Tot ce mai văzu Emanuel fu pe asistent care se apropie de pat cu un tub mare de sticlă. Doctorul îi acoperi fața cu cămașa și spuse portăresei să-i ție mâinile. Eprubeta țiui brusc și Emanuel simți într’un loc precis pe piele deasupra umflăturii, țâșnitura lichidului care producea o răceală de ghiață și strângea carnea în jur.
 
 O cutie metalică se deschise și se închise.
 
-— Ac, spuse doctorul în timp ce asistentul se apropia din nou.
+― Ac, spuse doctorul în timp ce asistentul se apropia din nou.
 
 „Acul… acum va împunge cu acul…” gândi Emanuel. Clipele îi zvâcneau în tâmple teribil.
 
@@ -305,11 +305,11 @@ Portăreasa îi ridică de pe ochi cămașa.
 
 Doctorul ștergea acum cu eter un punct ce sângera ușor. Sticla de pe masă era plină cu un lichid compact gălbui.
 
-— Ce-i asta? întrebă Emanuel sfârșit de încordare și emoție.
+― Ce-i asta? întrebă Emanuel sfârșit de încordare și emoție.
 
-— Puroi, amice! Puroi! răspunse doctorul cu aceeași voce bonomă. Trebue să pleci la Berck și să stai liniștit acolo până te vindeci. E o chestie de timp îndelungat și de răbdare. Ai avut abces plin-plinuț. Cred că nu se va forma din nou atât de iute… Să stai liniștit. Auzi? Să stai cuminte întins pe spate… Când pleci?
+― Puroi, amice! Puroi! răspunse doctorul cu aceeași voce bonomă. Trebue să pleci la Berck și să stai liniștit acolo până te vindeci. E o chestie de timp îndelungat și de răbdare. Ai avut abces plin-plinuț. Cred că nu se va forma din nou atât de iute… Să stai liniștit. Auzi? Să stai cuminte întins pe spate… Când pleci?
 
-— Peste câteva zile, spuse epuizat Emanuel. Am telegrafiat tatălui meu și îl aștept la sfârșitul săptămânii. Va veni de sigur cu primul tren.
+― Peste câteva zile, spuse epuizat Emanuel. Am telegrafiat tatălui meu și îl aștept la sfârșitul săptămânii. Va veni de sigur cu primul tren.
 
 Mai vru să întrebe multe dar se lovi de fața impasibilă a doctorului și se irită la gândul că în această indiferență zăcea cunoașterea exactă a infirmității lui. Apoi doctorul îi strânse cu putere mâna și îl părăsi.
 
@@ -329,7 +329,7 @@ Zilele treceau aride și incolore, îngrozitor de lungi și de triste. În orele
 
 Rămânea nemișcat ore întregi, cu capul ridicat puțin în perne.
 
-— Îmi fac ucenicia de bolnav, spunea el Colettei.
+― Îmi fac ucenicia de bolnav, spunea el Colettei.
 
 În fiecare zi pe la ora patru țintea cu atenție pașii portăresei distribuind poșta. Dar urma aceeași obișnută desiluzie. — Nici o telegramă, nici o scrisoare? Nimic. Ziua recădea în monotonie.
 
@@ -339,13 +339,13 @@ Emanuel fu emoționat; tatăl lui intrând în odae își ascunse mai bine turbu
 
 În câteva clipe atmosfera din odae se schimbă. Tatăl lui îi luă în mână boala ca pe-o afacere comercială încurcată ce trebue rezolvată fără nici o pierdere. Se decise să plece mai întâi el singur la Berck pentru o zi, să vorbească cu doctorii de acolo și să caute un sanatoriu convenabil. Plecă chiar a doua zi și se întoarse târziu noaptea. Era entuziasmat de Berck.
 
-— Acolo-i vindecarea ta. Bolnavii duc o viață normală în sanatorii organizate ca niște simple hoteluri; nici nu simți că ești bolnav. Vei vedea… vei vedea…
+― Acolo-i vindecarea ta. Bolnavii duc o viață normală în sanatorii organizate ca niște simple hoteluri; nici nu simți că ești bolnav. Vei vedea… vei vedea…
 
 Împachetară lucrurile a doua zi și la amiază fură gata de plecare.
 
 În ultimul moment portăreasa aduse un pachet și îl strecură discret lui Emanuel.
 
-— E dela domnișoara Colette… șopti ea.
+― E dela domnișoara Colette… șopti ea.
 
 Mai mult de curiozitate, Emanuel il deschise imediat. Conținea o cutie de ceai și câteva comprimate cubice cu extras de carne, pentru gătit supă.
 
@@ -353,7 +353,7 @@ Ceaiul era de sigur o aluzie la iubirea lor.
 
 Cât despre comprimate, Colette își bătuse capul toată dimineața ca să găsească un cadou ieftin și util și isprăvise prin a-și aduce aminte că în timpul războiului mama ei îi trimetea tatălui pe front extras de carne ca să-și facă singur supă în tranșee.
 
-— Și acolo unde pleacă Emanuel, trebue să fie mai rău ca în tranșee… cugetă ea simplu. O farfurie caldă de supă o să-i facă bine…
+― Și acolo unde pleacă Emanuel, trebue să fie mai rău ca în tranșee… cugetă ea simplu. O farfurie caldă de supă o să-i facă bine…
 
 Și gândind astfel, îi veneau lacrimile în ochi.
 
@@ -375,51 +375,51 @@ Chiar în față, pe banchetă doi părinți tineri își duceau copilul la un s
 
 Emanuel fu deodată interpelat de vecina lui, o bătrânică în haine de doliu.
 
-— Pleci la Berck? întrebă ea. Ești bolnav? Țipa foarte tare ca să domine sgomotul dublu al trenului și al conversației generale.
+― Pleci la Berck? întrebă ea. Ești bolnav? Țipa foarte tare ca să domine sgomotul dublu al trenului și al conversației generale.
 
-— Unde suferi? Aici?… Aici?…
+― Unde suferi? Aici?… Aici?…
 
 Arătă șoldul, apoi spatele.
 
-— Da aici, la spate, răspunse Emanuel.
+― Da aici, la spate, răspunse Emanuel.
 
 Bătrânica își strânse gura pungă și clătină din cap a compasiune.
 
-— Și ai abces? continuă dânsa.
+― Și ai abces? continuă dânsa.
 
 Emanuel nu se înșelase, auzise bine, era vorba de un abces. De unde știa însă femeia asta ce e aia un abces? Avu o mină atât de uimită încât bătrânica se grăbi să-l liniștească.
 
-— Iată vezi, cunosc și eu puțină medicină… De când tot vin la Berck e timp ca să fi învățat toate astea… Am și eu acolo un băiat bolnav.
+― Iată vezi, cunosc și eu puțină medicină… De când tot vin la Berck e timp ca să fi învățat toate astea… Am și eu acolo un băiat bolnav.
 
 Emanuel nu răspunse dar se trezi tras de mânecă.
 
-— Te-am întrebat ceva, reluă bătrânica supărată. Ai sau n’ai abces?
+― Te-am întrebat ceva, reluă bătrânica supărată. Ai sau n’ai abces?
 
-— Ei da, am, răspuns Emanuel cu oarecare bruscheță. Și ce-i cu asta?
+― Ei da, am, răspuns Emanuel cu oarecare bruscheță. Și ce-i cu asta?
 
 De data asta bătrânica tăcu. În caligrafia sbârciturilor de pe fața ei apăru semnul clar al unei mari întristări. Cu jumătate de voce mai îndrăzni să întrebe dacă abcesul e fistulizat.
 
-— Ce-i asta „fistulizat"? făcu Emanuel nedumerit.
+― Ce-i asta „fistulizat"? făcu Emanuel nedumerit.
 
-— Adică dacă a spart… dacă are găurică pe unde curge incontinuu…
+― Adică dacă a spart… dacă are găurică pe unde curge incontinuu…
 
-— Asta nu, răspunse Emanuel. Până acum doctorul a scos din el puroi cu acul și văd că umflătura a dat înapoi.
+― Asta nu, răspunse Emanuel. Până acum doctorul a scos din el puroi cu acul și văd că umflătura a dat înapoi.
 
 Trenul își scutura mereu fierăria veche și sgomotul lui se depunea scăzut în convorbire ca fondul unui murmur coral într’o operă, în timp ce artiștii cântă. Acum treceau prin dunele din împrejurimile orașului. Mai erau câteva minute până la Berck. Tot traiectul dura mai puțin de un sfert de oră.
 
-— E bine că abcesul nu-i fistulizat, murmură bătrânica.
+― E bine că abcesul nu-i fistulizat, murmură bătrânica.
 
-— Și dacă ar fi? spuse distrat Emanuel.
+― Și dacă ar fi? spuse distrat Emanuel.
 
-— Eh, atunci se schimbă chestia…
+― Eh, atunci se schimbă chestia…
 
 Și aplecându-se la urechea lui îi șopti pe nerăsuflate:
 
-— Se spune la Berck că un abces deschis e o poartă deschisă morții…
+― Se spune la Berck că un abces deschis e o poartă deschisă morții…
 
-— Ce ți-a spus? îl întrebă tatăl lui.
+― Ce ți-a spus? îl întrebă tatăl lui.
 
-— Crezi că am înțeles? Vorbește prea repede…
+― Crezi că am înțeles? Vorbește prea repede…
 
 Trenișorul începu a scârțâi obosit strângând frânele. Ajunseseră. Gara semăna cu orice altă stație de provincie. Un domn înalt cu cârje aștepta pe doamna în „tailleur” gris. Încolo nu mai era nimeni pe peron. Uimirea cea mare îl aștepta însă pe Emanuel abia la ieșire.
 
@@ -427,7 +427,7 @@ Trenișorul începu a scârțâi obosit strângând frânele. Ajunseseră. Gara 
 
 Ce să fi fost oare asta? Un sicriu ambulant ori o targă? Un om stătea întins pe un pat îngust de lemn, un fel de cadru cu saltea, așezat pe o montură cu patru roți mari cauciucate. Era însă îmbrăcat normal din cap până în picioare. Purta cravată, beretă pe cap și haină și totuși nu se mișca, nu se ridica să umble ca toată lumea. Așa culcat cum stătea cumpără dela un vânzător un ziar, plăti și îl deschise să-l cetească cu capul sprijinit de perne, în timp ce un om în dosul lui începu a împinge căruțul pe străzile orașului.
 
-— Vezi, îi spuse tatăl lui… aici toți bolnavii duc o viață normală… Sunt complet îmbrăcați, se plimbă pe stradă… numai că stau întinși… atâta tot… Ai să vezi și pe alții tot întinși, conducând singuri trăsura…
+― Vezi, îi spuse tatăl lui… aici toți bolnavii duc o viață normală… Sunt complet îmbrăcați, se plimbă pe stradă… numai că stau întinși… atâta tot… Ai să vezi și pe alții tot întinși, conducând singuri trăsura…
 
 Emanuel era prea uluit pentru a se putea gândi la ceva precis. În mașină tot timpul se uită pe geam să zărească vreun bolnav în trăsură, dar nu văzu pe niciunul. La o cotitură, între două șiruri de case înalte apăru o clipă, în fund, linia azurie și strălucitoare a oceanului culcată pe nisip ca o spadă arzătoare.
 
@@ -435,7 +435,7 @@ Emanuel era prea uluit pentru a se putea gândi la ceva precis. În mașină tot
 
 Tăcerea sanatoriului era impresionantă, dar coridoarele semănau cu orice coridoare de hotel: uși albe la rând cu numere pe ele. Emanuel avea odaia la etajul al treilea. Urcară lent cu un ascensor ce nu făcea decât un sgomot mărunt și înnăbușit. În fundul unui coridor întunecos, directorul deschise o ușă. Se vedea bine că era o cameră ieftină. Tot mobilierul se compunea dintr’un dulap, o masă și un pat de fier. Într’un colț stătea toaleta cu o cană enormă albastră de tablă smălțuită.
 
-— Îți place? întrebă tatăl lui când directorul fu plecat.
+― Îți place? întrebă tatăl lui când directorul fu plecat.
 
 Ce avea să-i placă? Se întinse ostenit pe pat și închise ochii. Îi zumzăia încă în cap mersul trenului și frânturi din convorbirea cu bătrânica in doliu. Zilele petrecute în pat il slăbiseră îngrozitor. Tatăl lui aprinse lumina. În odaie se stabili atmosfera neplăcută și ciudată a unei camere de hotel mizerabile unde trebue să dormi o noapte în trecere.
 
@@ -443,21 +443,21 @@ Ce avea să-i placă? Se întinse ostenit pe pat și închise ochii. Îi zumzăi
 
 Se informă pe scurt de boala lui Emanuel.
 
-— Aici o să vă faceți bine, murmură ea cu ton plictisit, profesional.
+― Aici o să vă faceți bine, murmură ea cu ton plictisit, profesional.
 
-— Mai sunt mulți bolnavi ca mine? întrebă el. Au toți câte o vertebră atacată?
+― Mai sunt mulți bolnavi ca mine? întrebă el. Au toți câte o vertebră atacată?
 
 Eva ridică mâinile în sus ca o supliantă antică.
 
-— O vertebră? O singură vertebră? Eh! Eh! sunt unii care au zece vertebre atacate la rând… alții genunchiul… coapsa… degetele dela mâini… glezna… Credeai că ești singurul? Ha! Ha!…
+― O vertebră? O singură vertebră? Eh! Eh! sunt unii care au zece vertebre atacate la rând… alții genunchiul… coapsa… degetele dela mâini… glezna… Credeai că ești singurul? Ha! Ha!…
 
 Râse scurt și uscat.
 
 Emanuel fu obsedat mai ales de coloana aceea cu zece vertebre atacate la rând și în minte îi veni imaginea unei țigări care, uitată în scrumieră, se preface lent în cenușă în tot lungul ei. „Ce amarnică putreziciune…", gândi el.
 
-— Și doctorul Cériez? întrebă tatăl lui Emanuel. Când vine la clinică? Am vorbit cu el atunci când am fost aici și…
+― Și doctorul Cériez? întrebă tatăl lui Emanuel. Când vine la clinică? Am vorbit cu el atunci când am fost aici și…
 
-— Oh, foarte bine! Foarte bine! întrerupse Eva. Doctorul Cériez este din întâmplare acum în sanatoriu. A venit să vadă un operat… Mă duc să-l chem.
+― Oh, foarte bine! Foarte bine! întrerupse Eva. Doctorul Cériez este din întâmplare acum în sanatoriu. A venit să vadă un operat… Mă duc să-l chem.
 
 Emanuel rămase liniștit și epuizat, întins pe pat. În jurul lui tatăl său se agita, ușa se deschidea și se închidea, se petreceau o mulțime de lucruri la care el nu lua parte. S’ar fi zis că lumea devenise deodată mai densă și mai indistinctă… Tot ce persista clar într’însul era o imensă osteneală. Într’o odaie undeva în depărtare un acordeon se lamenta astmatic și trist.
 
@@ -467,27 +467,27 @@ Era un bărbat destul de tânăr încă, foarte înalt și spătos dar cu părul
 
 Îl examină pe Emanuel cu atenție, se uită și la radiografii, pipăi abcesul și diagnostică aceeași tuberculoză la o vertebră.
 
-— Aici la Berck aerul e tare și vivifiant. Să cauți să ieși cât mai des cu trăsura la plimbare și mai ales să stai liniștit…
+― Aici la Berck aerul e tare și vivifiant. Să cauți să ieși cât mai des cu trăsura la plimbare și mai ales să stai liniștit…
 
 Și apoi adresându-se către infirmieră: – Deocamdată să-l lăsăm așa… în pat… mâine îi veți aduce o gutieră… și apoi, peste câteva zile, când se va fi obișnuit cu poziția culcată îi vom face un ghips…
 
-— Un ghips, murmură Emanuel speriat.
+― Un ghips, murmură Emanuel speriat.
 
 Doctorul se întoarse spre el.
 
-— Un ghips nu-i nimic grav… Absolut nimic grav! Vei sta în corset tot atât de comod ca într’un fotoliu… Asta pot să ți-o garantez.
+― Un ghips nu-i nimic grav… Absolut nimic grav! Vei sta în corset tot atât de comod ca într’un fotoliu… Asta pot să ți-o garantez.
 
 Îi strânse mâna și își luă pălăria să plece. Se mai opri o clipă.
 
-— Cunoști pe cineva în sanatoriu? Ţi-ai făcut până acum vreun prieten?
+― Cunoști pe cineva în sanatoriu? Ţi-ai făcut până acum vreun prieten?
 
 Și cum Emanuel dădea negativ in cap, doctorul adăugă:
 
-— Ţi-l voiu trimite pe Ernest. E un băiat bun cu care o să te înțelegi de minune…
+― Ţi-l voiu trimite pe Ernest. E un băiat bun cu care o să te înțelegi de minune…
 
 Ieși grăbit. În urma lui, tatăl lui Emanuel închise încet și cu deferență ușa ca și cum doctorul prin simpla atingere a mânerului ar fi lăsat-o îmbibată cu ceva din fluidul eminentei sale personalități.
 
-— Ai văzut? spuse el jovial, frecându-și mâinile.
+― Ai văzut? spuse el jovial, frecându-și mâinile.
 
 Toată chestia bolii devenise acum pentru dânsul o afacere aranjată.
 
@@ -501,21 +501,21 @@ Toată dimineața Emanuel rămase în pat. Tatăl lui își trase scaunul lâng�
 
 Într’un sfârșit veni un brancardier să-l îmb’race. De acum înainte acesta urma să-l ajute în fiecare zi. Omul de serviciu avea o mare îndemânare; îi trase încet pantalonii, așa cum stătea întins; apoi îi trecu cămașa și haina, încet, fără grabă și fără ca Emanuel să facă altă mișcare decât să se încline puțin pe o parte și pe alta pentru a-și trece mânecile.
 
-— Mă îmbracă exact ca pe un cadavru, se gândi el și vru s’o spue tatălui său, dar se reținu.
+― Mă îmbracă exact ca pe un cadavru, se gândi el și vru s’o spue tatălui său, dar se reținu.
 
 Brancardierul deschise ușa și împinse în odaie un căruț. Era pătucul pe care de acum încolo trebuia să stea întins tot timpul. Avea o saltea nouă, acoperită cu mușama neagră și două perne tari la cap.
 
-— Poftim! îl invită brancardierul, și îl ajută să alunece de pe pat pe gutieră.
+― Poftim! îl invită brancardierul, și îl ajută să alunece de pe pat pe gutieră.
 
-— De acum, spuse el, va trebui să dormiți aici, ca toți bolnavii… dar vă putem lăsa patul de fier în odaie dacă vreți. E comod de pus pe el cărți, lucruri…
+― De acum, spuse el, va trebui să dormiți aici, ca toți bolnavii… dar vă putem lăsa patul de fier în odaie dacă vreți. E comod de pus pe el cărți, lucruri…
 
 Un gong sună tocmai atunci ora mesei.
 
-— Coborîți în sala de mâncare ori rămâneți în odaie? întrebă omul de serviciu.
+― Coborîți în sala de mâncare ori rămâneți în odaie? întrebă omul de serviciu.
 
 Emanuel, la rândul lui, îl interogă pe tatăl său din ochi.
 
-— Să scoborîm! Sigur… e mai bine, răspunse el.
+― Să scoborîm! Sigur… e mai bine, răspunse el.
 
 Brancardierul împinse încet căruțul pe coridor, apoi îl introduse în ascensor.
 
@@ -539,17 +539,17 @@ Emanuel fu așezat la o masă, lângă o bolnavă cu rochia albastră. În scene
 
 Vecina lui de masă, îi zâmbi prin oglindă, Stătea și ea întinsă pe un căruț tot îmbrăcată, tot aparent normală, dar nu ținea capul pe perne. Îl avea complet culcat și nu-l mișca nici în dreapta, nici în stânga. Pentru a vedea ce se petrece în jur avea un suport metalic cu o oglindă, drept deasupra ei. Putea s’o încline în orice direcție și să observe astfel totul în sală. În luciul cristalului, unde plutea obrazul ei detașat (ca într’una din acele ieftine iluzii optice de bâlciu care prezintă un cap tăiat) acolo Emanuel descoperi zâmbetul ce i se adresa.
 
-— Sunteți bolnav de mult? întrebă fata fără altă introducere.
+― Sunteți bolnav de mult? întrebă fata fără altă introducere.
 
-— Sufăr de mulți ani răspunse Emanuel, dar nu mi s’a descoperit boala decât acum de curând…
+― Sufăr de mulți ani răspunse Emanuel, dar nu mi s’a descoperit boala decât acum de curând…
 
-— Așa a fost cu noi toți, spuse bolnava cu un ușor suspin.
+― Așa a fost cu noi toți, spuse bolnava cu un ușor suspin.
 
 În dreapta lui, Emanuel descoperi un tânăr cu capul înfundat într’o carte. În sală privi rând pe rând bolnavii, unii complet culcați, alții cu perne la cap, în fine unii care stăteau pe căruț în capul oaselor ca pe un scaun: aveau doar picioarele întinse. Toți îmbrăcați corect, femeile în rochii cu oarecare cochetărie, bărbații în haine obișnuite, cu guler și cravată. Se părea o adunare normală, de oameni care la comandă s’ar fi alungit cu toții pe cărucioare.
 
 Îndrăzni să întrebe pe vecina lui pentru ce unii bolnavi stăteau complet întinși și alții numai înclinați pe jumătate.
 
-— Pentrucă nu toți au aceeași boală, îi răspunse tânăra fată. Unii au atacate vertebrele gâtului, ca mine, alții numai genunchiul ori coapsa.
+― Pentrucă nu toți au aceeași boală, îi răspunse tânăra fată. Unii au atacate vertebrele gâtului, ca mine, alții numai genunchiul ori coapsa.
 
 Bolnava îi vorbea cu multă spontaneitate zâmbind-i mereu în oglindă. Emanuel încercă și el să răspundă cu un surâs, dar buzele i se încrustară într’o grimasă penibilă.
 
@@ -559,37 +559,37 @@ O însoțea un tânăr negricios la față, înalt, umblând în cârje.
 
 Căruțul fu așezat în rândul din față, iar tânărul se așeză și el la aceeași masă.
 
-— Cine e doamna asta? întrebă Emanuel.
+― Cine e doamna asta? întrebă Emanuel.
 
 Bolnava întoarse oglinda spre locul arătat.
 
-— Ah! da… e doamna Wandeska, o poloneză care stă la sanatoriu de aproape un an. E vindecată acum, a început să umble… A avut atacat genunchiul rău de tot. Trebuia de mult să plece acasă, dar amână mereu…
+― Ah! da… e doamna Wandeska, o poloneză care stă la sanatoriu de aproape un an. E vindecată acum, a început să umble… A avut atacat genunchiul rău de tot. Trebuia de mult să plece acasă, dar amână mereu…
 
-— De ce? întrebă curios tatăl lui Emanuel.
+― De ce? întrebă curios tatăl lui Emanuel.
 
-— Hm! Asta e cam greu de explicat unui om sănătos. Genunchiul ei s’a vindecat dar s’a anchilozat și a rămas țeapăn. Când umblă, șchiopătează. Ea ar prefera acum să rămâie aici printre bolnavi unde toți au câte ceva, decât să fie un obiect de curiozitate printre oamenii sănătoși. Dar nu se poate… va trebui totuși să se întoarcă la familia ei. Vindecarea e tot atât de neîndurătoare ca și boala…
+― Hm! Asta e cam greu de explicat unui om sănătos. Genunchiul ei s’a vindecat dar s’a anchilozat și a rămas țeapăn. Când umblă, șchiopătează. Ea ar prefera acum să rămâie aici printre bolnavi unde toți au câte ceva, decât să fie un obiect de curiozitate printre oamenii sănătoși. Dar nu se poate… va trebui totuși să se întoarcă la familia ei. Vindecarea e tot atât de neîndurătoare ca și boala…
 
 Începuse să se servească. Bolnavii luau cu mișcări precaute farfuria cu supă pe pieptul lor. Și Emanuel trebui să mănânce astfel. Tatăl lui, care se așezase lângă dânsul, îi ținu câtva timp farfuria cu mâna. Apoi, când văzu că se obișnuise puțin, îl lăsă să mănânce singur. Cu fiecare înghițitură farfuria își pierdea parcă echilibrul și părea gata să se răstoarne. Era un veritabil număr de acrobație de executat, dar bolnavii vechi se serveau cu atâta dexteritate, încât nici nu se mai uitau în fața lor și continuau nepăsători șirul conversației.
 
 În față, doamna Wandeska râdea foarte amuzată de cele ce-i spunea tânărul de lângă ea.
 
-— E soțul doamnei? întrebă Emanuel arătându-l prin oglindă.
+― E soțul doamnei? întrebă Emanuel arătându-l prin oglindă.
 
-— Tonio? Ah, nu! E un prieten al ei… un argentinian… Și el vindecat de mult, dar preferând aerul de sanatoriu celui din biroul lui de avocatură…
+― Tonio? Ah, nu! E un prieten al ei… un argentinian… Și el vindecat de mult, dar preferând aerul de sanatoriu celui din biroul lui de avocatură…
 
 În acel moment, în fundul săli un bolnav scăpă pe jos tacâmul care căzu cu un clinchet foarte sonor. Căruțul lui era destul de scoborît și dacă ar fi întins puțin brațul ar fi putut de sigur ridica obiectul. Emanuel observă însă cum bolnavul îl privește fără a face niciun efort. Vecina lui, urmărise și ea scena. O fată de serviciu veni în grabă și aduse altul.
 
-— Pentru ce nu și l-a luat singur de jos? Era foarte simplu… spuse Emanuel.
+― Pentru ce nu și l-a luat singur de jos? Era foarte simplu… spuse Emanuel.
 
-— Crezi că era simplu? S’ar fi răsturnat cu siguranță; poartă pe el un ghips de zeci de kilograme.
+― Crezi că era simplu? S’ar fi răsturnat cu siguranță; poartă pe el un ghips de zeci de kilograme.
 
 Emanuel rămase stupefiat. Vedea bine că bolnavul stătea rigid pe căruț, însă nimic nu făcea să se bănuiască sub haine corsetul.
 
-— Așa-i că le face bine doctorul Cériez? adăugă fata. Imposibil de ghicit forma ghipsului sub haine… le croiește pe măsură.
+― Așa-i că le face bine doctorul Cériez? adăugă fata. Imposibil de ghicit forma ghipsului sub haine… le croiește pe măsură.
 
 Și cu degetele bătu în rochia ei care sună dur și uscat lovind un corp tare dedesubt. Purta și ea un corset, și totuși era și ea îmbrăcată din cap până în picioare, fără nicio aparență exterioară a infirmității de care suferea.
 
-— Și mie mi se va face un ghips, spuse Emanuel cu o mare descurajare în voce.
+― Și mie mi se va face un ghips, spuse Emanuel cu o mare descurajare în voce.
 
 Acum privind șirul de bolnavi alungiți, chestia bolii nu se mai rezuma pentru el la o simplă afirmație abstractă, „a fi bolnav", în contrast cu „a fi sănătos”. Se simțea intrat în rang, ca într’o aliniere militară. Solidar cu dânșii în boală, solidar în ghips… Corpul însuși luase pe căruț o atitudine corectă și nemișcată de infirm…
 
@@ -603,21 +603,21 @@ Bolnavul se sprijinea în două bastoane și la fiecare pas arunca violent câte
 
 Ernest în acest timp părea să caute pe cineva în sală; puțin îi păsa de masă; când îl zări pe Emanuel veni repede la dânsul.
 
-— Ești noul bolnav despre care mi-a vorbit doctorul Cériez? întrebă el și se recomandă.
+― Ești noul bolnav despre care mi-a vorbit doctorul Cériez? întrebă el și se recomandă.
 
 Avea mișcări iuți și aproape sălbatice. În priviri îi ardea o devorantă curiozitate.
 
-— Cunoști pe vecinii de masă? întrebă el din nou.
+― Cunoști pe vecinii de masă? întrebă el din nou.
 
 Bolnavul din dreapta scoase o clipă capul din carte, îmbufnat că fusese întrerupt.
 
-— Îți prezint pe domnul Roger Torn… un bun prieten al domnișoarei Cora.
+― Îți prezint pe domnul Roger Torn… un bun prieten al domnișoarei Cora.
 
 Și arătă pe bolnava în rochie albastră cu care Emanuel vorbise până atunci. Atât Roger Torn cât și Cora se înroșiră până la urechi.
 
-— Ce nesuferit ești! îi adresă un reproș tânăra fată.
+― Ce nesuferit ești! îi adresă un reproș tânăra fată.
 
-— Într’adevăr așa se pare… răspunse Ernest. Dar cred că o să-ți schimbi în curând părerea… Știu eu să aranjez lucrurile… adaugă el clipind șiret din ochi.
+― Într’adevăr așa se pare… răspunse Ernest. Dar cred că o să-ți schimbi în curând părerea… Știu eu să aranjez lucrurile… adaugă el clipind șiret din ochi.
 
 Ernest plecă să mănânce. Un vânzător de ziare intră în sală și începu să distribue pe la mese jurnale și reviste. Bolnavii deschiseră foile să cetească. Masa se sfârșise și brancardierii veneau acum să ia pe rând cărucioarele în grădină. Emanuel, de când văzuse pe bolnavul care umbla aruncând din picioare era cuprins de o cumplită tristețe. Privea cu o mare strângere de inimă cum oamenii de serviciu împingeau cărucioarele. Contrastul acesta între a duce o viață aproape normală (a ceti ziarul, a lua masa într’un restaurant împreună cu alții, a fi îmbrăcat) contrastul acesta între a fi un om ca toți oamenii și totuși a zăcea împrizonierat în ghips cu oasele cariate de tuberculoză, iată ce era dureros și trist în acastă boală. Paradoxul consta în a exista și totuși în a nu fi „cu desăvârșire viu…”.
 
@@ -625,45 +625,45 @@ Ieși buimăcit din sală. În urma lui conversațiile și sgomotul continuau pl
 
 Ernest veni să-i propue o plimbare cu trăsura chiar în după amiaza aceea.
 
-— Zilele frumoase de toamnă sunt numărate la Berck, spuse el. În curând ploile o să ne închidă pentru mult timp în casă.
+― Zilele frumoase de toamnă sunt numărate la Berck, spuse el. În curând ploile o să ne închidă pentru mult timp în casă.
 
 Emanuel acceptă cu bucurie.
 
 <hr>
 
-— În fond, pentru mine personal, boala nu mi se pare chiar atât de îngrozitoare… spuse Emanuel lui Ernest, în timp ce așteptau în odaie să li se anunțe venirea trăsurii.
+― În fond, pentru mine personal, boala nu mi se pare chiar atât de îngrozitoare… spuse Emanuel lui Ernest, în timp ce așteptau în odaie să li se anunțe venirea trăsurii.
 
-— Am avut întotdeauna în mine un fond de lene care se găsește acum pe deplin satisfăcut, continuă el. Îmi întind oasele pe căruț, mă odihnesc admirabil, mă simt foarte bine… și n’am nicio dorință să umblu… Cred că dacă m’aș ridica durerile s’ar înfige din nou în spate necruțătoare. Un singur lucru mă chinue…
+― Am avut întotdeauna în mine un fond de lene care se găsește acum pe deplin satisfăcut, continuă el. Îmi întind oasele pe căruț, mă odihnesc admirabil, mă simt foarte bine… și n’am nicio dorință să umblu… Cred că dacă m’aș ridica durerile s’ar înfige din nou în spate necruțătoare. Un singur lucru mă chinue…
 
 Tatăl lui care stătea pe pat și cetea în aparență ziarul ridică brusc capul.
 
-— Mă chinue gândul că încet, încet va trebui să devin un adevărat bolnav… Că tot ce iau acum drept lenevie și odihnă va deveni în curând un prizonierat teribil…. Mi-e frică de scoborîș… mi-e frică să nu ajung a umbla cu două bastoane, sărind ca o broască…
+― Mă chinue gândul că încet, încet va trebui să devin un adevărat bolnav… Că tot ce iau acum drept lenevie și odihnă va deveni în curând un prizonierat teribil…. Mi-e frică de scoborîș… mi-e frică să nu ajung a umbla cu două bastoane, sărind ca o broască…
 
-— Vezi doar bine că eu m’am vindecat, îl încurajă Ernest și bătu cu pumnul în piept.
+― Vezi doar bine că eu m’am vindecat, îl încurajă Ernest și bătu cu pumnul în piept.
 
-— Porți și d-ta un corset? întrebă Emanuel.
+― Porți și d-ta un corset? întrebă Emanuel.
 
 Pieptul sunase dur.
 
-— Da… dar un corset simplu, nu de ghips, răspunse cu jumătate de gură Ernest.
+― Da… dar un corset simplu, nu de ghips, răspunse cu jumătate de gură Ernest.
 
-— Pot să-l văd ?
+― Pot să-l văd ?
 
 Ernest își scoase haina și cămașa. Semăna acum cu un luptător antic cuirasat în scutul lui, ori cu un bust mecanic, plin de șuruburi și curele expus într’o vitrină ortopedică. Corsetul îi ținea trupul rigid dela șolduri până la umeri. Era confecționat dintr’un celuloid roz perforat cu mii de găurele și legat cu șireturi la spate. În jurul gâtului, în jurul șoldurilor și pe laturi era înșurubat și strâns cu o montură de nichel, foarte complicată.
 
-— Și cât timp mai trebue să-l porți? întrebă Emanuel.
+― Și cât timp mai trebue să-l porți? întrebă Emanuel.
 
-— Ăsta nu-l mai părăsesc niciodată, răspunse Ernest. Doar noaptea la culcare îl scot… Trebue să-l îmbrac mereu… toată viața poate…
+― Ăsta nu-l mai părăsesc niciodată, răspunse Ernest. Doar noaptea la culcare îl scot… Trebue să-l îmbrac mereu… toată viața poate…
 
 Emanuel rămase tăcut și gânditor.
 
-— Ei bine, decât să reintru în viață închis ermetic în asemenea aparat, prefer să…
+― Ei bine, decât să reintru în viață închis ermetic în asemenea aparat, prefer să…
 
 Tăcu și lăsă fraza neisprăvită. Se făcu în odaie o mică tăcere. Tatăl lui se înfundă din nou în lectură în timp ce Ernest se îmbrăca la loc.
 
 După câteva minute tatăl lui lăsă ziarul și începu să-și facă valiza. Pleca chiar în după amiaza aceea. În jena și tăcerea celor din odaie, se vedea bine că mai persista încă efectul frazei lui Emanuel.
 
-— Să nu faci prostii, îi spuse tatăl lui, împachetând lucrurile și ferindu-se de o întâlnire a privirilor. Îți voi trimite bani ca să te îngrijești… ca să te vindeci… voi munci pentru tine… numai pentru tine… să nu uiți niciodată asta.
+― Să nu faci prostii, îi spuse tatăl lui, împachetând lucrurile și ferindu-se de o întâlnire a privirilor. Îți voi trimite bani ca să te îngrijești… ca să te vindeci… voi munci pentru tine… numai pentru tine… să nu uiți niciodată asta.
 
 Emanuel avea sentimentalități facile și trecătoare. Ascultându-l pe tatăl său vorbind cu atâta emoție, îi veniră pe moment lacrimile în ochi , dar peste o secundă uită totul și sună nerăbdător să întrebe de trăsură.
 
@@ -683,7 +683,7 @@ Oceanul sticlea numai cristale și azur. Emanuel respiră plenitudinea aceea ine
 
 Tatăl lui și Ernest se duseră puțin la plimbare. Mai era aproape un ceas până la plecarea trenului. Emanuel fu mulțumit să rămâie șingur. Își umflă pieptul în respirație adâncă, urmărind alunecarea înceată a corăbiilor nege. Avu o clipă sentimentul unui imens abandon. În curând însă cei doi se întoarseră și ușorul lui extaz dispăru.
 
-— Încă o jumătate de ceas mai suntem împreună, spuse tatăl lui foarte emoționat.
+― Încă o jumătate de ceas mai suntem împreună, spuse tatăl lui foarte emoționat.
 
 Emanuel mâna acum trăsura spre gară pe o stradă largă, cu vitrine imense, animată vag de câțiva rari trecători. O vedea pentru întâia oară și parcă totuși ar mai fi cunoscut-o cândva. Simțea că aparține acum străzii acesteia, oceanului din care respirase lumină, toamnei acesteia străine, mai mult decât tatălui său. Se răsturnase o înțelegere a lucrurilor într’însul și un anumit sentiment al intimității trecuse de pe un platou al balanței pe celălalt. Strada conținea o veche nostalgie de amintiri. O văzuse poate cândva în vis…
 
@@ -695,53 +695,55 @@ Tatăl lui îl îmbrățișă pe fugă și dispăru cu pași împleticiți. Purt
 
 Emanuel, rămas singur, avu o scurtă ezitare. Se găsea acum în fața unei vieți necunoscute și teribile. Ce trebuia să facă? Ce i se va întâmpla? Există momente simple în realitate, clipe banale de singurătate, oriunde, pe stradă, când deodată aerul lumii se schimbă și capătă brusc o nouă semnificație, mai grea și mai obositoare.
 
-— Ești trist mi se pare, spuse Ernest când se întoarse de pe peron. Pentru ce n’a mai rămas tatăl tău încă o zi, două?
+― Ești trist mi se pare, spuse Ernest când se întoarse de pe peron. Pentru ce n’a mai rămas tatăl tău încă o zi, două?
 
 Emanuel cu gândurile răvășite nu știu ce să răspundă. Ernest apucă bățurile și îl conduse pe străzi necunoscute. Îi defilau în privire case, acoperișe… ferestre… multe ferestre… grădinițe intime și desuete de provincie, cu buchete arzătoare de mușcate roșii…
 
 Ernest îl scoase din toropeală:
 
-— Ai observat de sigur că Roger Torn e supărat pe d-ta?
+― Ai observat de sigur că Roger Torn e supărat pe d-ta?
 
-— Cine-i Roger Torn?
+― Cine-i Roger Torn?
 
-— Vecinul d-tale din dreapta… știi… în sala de mâncare bolnavul acela roșcovan care stătea cu capul în carte.
+― Vecinul d-tale din dreapta… știi… în sala de mâncare bolnavul acela roșcovan care stătea cu capul în carte.
 
-— Aha! Da! Știu care… Și spui că e supărat pe mine? Dar ce i-am făcut? întrebă uimit Emanuel. — Adică la drept vorbind d-ta nu i-ai făcut nimic… nu ești vinovat de loc… Dar așa s’au întâmplat lucrurile. Înainte de ai venit, aici, Roger Torn și domnișoara Cora stăteau la aceeași masă… e o veche simpatie între ei. Directorul sanatoriului care nu scapă o ocazie să facă șicane, când ai venit d-ta, te-a plasat între ei, să-i desparți.
+― Aha! Da! Știu care… Și spui că e supărat pe mine? Dar ce i-am făcut? întrebă uimit Emanuel. — Adică la drept vorbind d-ta nu i-ai făcut nimic… nu ești vinovat de loc… Dar așa s’au întâmplat lucrurile. Înainte de ai venit, aici, Roger Torn și domnișoara Cora stăteau la aceeași masă… e o veche simpatie între ei. Directorul sanatoriului care nu scapă o ocazie să facă șicane, când ai venit d-ta, te-a plasat între ei, să-i desparți.
 
-— Și ce-i de făcut acum? întrebă Emanuel. Poate aș cere alt loc în sală…
+― Și ce-i de făcut acum? întrebă Emanuel. Poate aș cere alt loc în sală…
 
 Ernest se gândi o clipă.
 
-— Da, ăsta e cel mai bun lucru. Spune directorului că vrei să stai lângă mine… În aceeași după masă, la întoarcere, Emanuel ceru să fie condus în cabinetul directorial, o odăiță sumbră, cu un birou neted, fără nicio hârtie pe el. Unicul obiect de pe masă era aparatul de telefon.
+― Da, ăsta e cel mai bun lucru. Spune directorului că vrei să stai lângă mine… În aceeași după masă, la întoarcere, Emanuel ceru să fie condus în cabinetul directorial, o odăiță sumbră, cu un birou neted, fără nicio hârtie pe el. Unicul obiect de pe masă era aparatul de telefon.
 
 Directorul stătea în fața lui, cu capul rezemat în mână, ca un câine sătul în fața unui os mâncat.
 
 Ascultă cererea lui Emanuel cu o bună voință acră și profesională.
 
-— Da, se poate… voi da dispoziții pentru schimbare, spuse el încercând un zâmbet care se transformă în grimasa pe care o face cineva când a înghițit prea mult deodată.
+― Da, se poate… voi da dispoziții pentru schimbare, spuse el încercând un zâmbet care se transformă în grimasa pe care o face cineva când a înghițit prea mult deodată.
 
 Seara la masă, Roger Torn și Cora erau din nou împreună; Cora îi făcu lui Emanuel un mic gest cu mâna în semn de mulțumire.
 
-— Ei vezi că nu sunt chiar atât de nesuferit? îi spuse Ernest în trecere.
+― Ei vezi că nu sunt chiar atât de nesuferit? îi spuse Ernest în trecere.
 
 Și venind la masa lui Emanuel:
 
-— În onoarea reîmpăcării, mâine seară la ora 9 serată mondenă și… dansantă, în odaia mea…
+― În onoarea reîmpăcării, mâine seară la ora 9 serată mondenă și… dansantă, în odaia mea…
 
 <hr>
 
 Emanuel obosit, se culcase de mult când cineva bătu în ușă. Toată ziua stătuse închis într’un salon, împreună cu alți bolnavi. Plouase tot timpul, o ploaie rece și mohorîtă cu rafale aspre de vânt ce arunca apa în ferești. În tot sanatoriul domnea o tăcere îngrozitoare de loc pustiu.
 
-— Cine e acolo? — Te-ai culcat? Putem intra? Venim să te luăm…
+― Cine e acolo? 
+
+― Te-ai culcat? Putem intra? Venim să te luăm…
 
 Era Ernest, însoțit de Tonio, argentinianul înalt, prietenul doamnei Wandeska.
 
 Emanuel uitase de serată; e drept că luase totul drept o glumă a lui Ernest.
 
-— Vedeți doar că sunt în pijama, le spuse el. Îmi pare rău că trebue să refuz…
+― Vedeți doar că sunt în pijama, le spuse el. Îmi pare rău că trebue să refuz…
 
-— Ei hai, nu umbla cu fleacuri… parcă ești singurul în pijama… spuse Tonio.
+― Ei hai, nu umbla cu fleacuri… parcă ești singurul în pijama… spuse Tonio.
 
 Ernest era și el desbrăcat, cu o simplă cămașă pe dânsul și o pereche de pantaloni. Corsetul strălucea straniu la gât, în lumina slabă ce venea din spre coridor. Tonio purta un halat de casă, foarte exotic și înflorat. Umbla în seara aceea numai cu un baston.
 
@@ -751,13 +753,13 @@ Emanuel n’avu încotro. Ernest și Tonio îi scoaseră căruțul afară. Odaia
 
 Putea fi ora zece. Toată lumea dormea acum în sanatoriu. Umblau pe coridor în tăcere. Un singur bec ilumina anemic tot etajul.
 
-— Încet, bagă de seamă… ne ciocnim de toate ușile, șopti enervat Ernest. Direcția s’ar fi putut obosi să pue încă un bec pe culoar…
+― Încet, bagă de seamă… ne ciocnim de toate ușile, șopti enervat Ernest. Direcția s’ar fi putut obosi să pue încă un bec pe culoar…
 
-— Un bec?… De ce numai un bec?… Ar fi trebuit să ilumineze à giorno… murmură Tonio ironic. Sgomotul mărunt de voci ce se auzea estompat venea din odaia lui Ernest.
+― Un bec?… De ce numai un bec?… Ar fi trebuit să ilumineze à giorno… murmură Tonio ironic. Sgomotul mărunt de voci ce se auzea estompat venea din odaia lui Ernest.
 
 Intrarea lui Emanuel fu salutată cu aplauze.
 
-— Este noul nostru amic și ultima achiziție a direcțiunii! anunță Ernest.
+― Este noul nostru amic și ultima achiziție a direcțiunii! anunță Ernest.
 
 În odaie domnea un talmeș-balmeș și o desordine de neînchipuit. Câteva gutiere cu bolnavi erau împinse spre geam, alți invitați stăteau în picioare. Emanuel recunoscu pe Roger Torn și pe Cora, cu cărucioarele lipite unul de altul. În colțul ferestrei stătea un bolnav gras, negricios, cu nas de uliu, fumând calm dintr’o pipă. Emanuel bănui că e Zed. Îi povestise Ernest multe despre dânsul cu o zi înainte. Era un fost conducător de automobile de curse. Toată lumea îi spunea Zed pentrucă purta inițiala aceasta, odinioară pe tricou. Câștigase formidabil de multe trofee până ce într’o zi, într’un accident de automobil, își rupse labele picioarelor dela glesnă. Stătea acum întins pe gutieră cu o cuvertură ce acoperea la picioare ceva înalt. Ernest îi explicase că Zed ținea labele picioarelor într’un bloc de ghips și că bucăți de degete și piele erau prinse între ele cu agrafe de argint. O veritabilă tocătură de carne! conchise Ernest.
 
@@ -765,7 +767,7 @@ Mai erau în odaie, un domn care discuta cu Zed și două tinere fete. Apoi lân
 
 Ernest făcu prezentările. Una din fete era Katty, o irlandeză.
 
-— Katty scurt! spuse Ernest. Cu identitatea incomplect stabilită… 21 ani… venită la Berck să studieze bolnavii, așa cum alte fete de vârsta ei pleacă în Italia să studieze opere de artă…
+― Katty scurt! spuse Ernest. Cu identitatea incomplect stabilită… 21 ani… venită la Berck să studieze bolnavii, așa cum alte fete de vârsta ei pleacă în Italia să studieze opere de artă…
 
 Katty râse sgomotos. Se vedea bine că era puțin amețită. Părul ei roșcovan se sburlise cu totul și cu fața ei rumenă și pistruiată semăna cu o păpușă de salon, violent fardată.
 
@@ -777,39 +779,39 @@ Emanuel rămase cu privirile pironite uitându-se îndelung la ea cum curăță 
 
 Ernest nu i-o recomandase dar o privea cu atâta insistență încât fata observă, se înroși ușor și murmură oarecum confuză:
 
-— Mă chiamă Solange…
+― Mă chiamă Solange…
 
 Și se șterse de un prosop ca să-i întindă mâna.
 
 Când băutura fu gata, Katty vru s’o toarne în pahare.
 
-— Un moment! spuse Ernest.
+― Un moment! spuse Ernest.
 
 Mai era un rest de rom într’o sticlă și îl turnă și pe acela în castron.
 
 Băutura era foarte tare. Cu toții aveau pahare de vin; numai Tonio și Zed cerură pahare mari. Alcoolul băut și fumul gros care plutea în odaie îl zăpăciră puțin pe Emanuel. Vedea toată adunarea acum printr’un văl cețos de amețeală. Și numele mlădios și argintiu de Solange persista în el ca o ușoară beție în plus.
 
-— Asta-i o băutură răcoritoare pentru femei leșinate. Ei, Ernest… n’ai altceva?
+― Asta-i o băutură răcoritoare pentru femei leșinate. Ei, Ernest… n’ai altceva?
 
-— Coniac, dacă vrei. Dar coniac pur, nu jucărie. Ceva care turnat pe gât seamănă a lavă fierbinte…
+― Coniac, dacă vrei. Dar coniac pur, nu jucărie. Ceva care turnat pe gât seamănă a lavă fierbinte…
 
-— Să vedem! spuse Tonio.
+― Să vedem! spuse Tonio.
 
 Ernest aduse două sticle și prinse a destupa una.
 
-— Ce spui Zed? țipă Tonio dela celălalt capăt al odăii, facem un concurs de viteză pe traiectul unei sticle de coniac. Ei repede, un răspuns…
+― Ce spui Zed? țipă Tonio dela celălalt capăt al odăii, facem un concurs de viteză pe traiectul unei sticle de coniac. Ei repede, un răspuns…
 
-— Contra cronometru sau cu plecarea în același timp?
+― Contra cronometru sau cu plecarea în același timp?
 
 Zed lua lucrurile ca un adevărat profesionist.
 
-— Cu plecarea în același timp!
+― Cu plecarea în același timp!
 
 Ernest destupă și a doua sticlă și servi pe cei doi.
 
 Toată lumea avea acum atenția fixată asupra lor.
 
-— Una!… două!… trei!… comandă Ernest,
+― Una!… două!… trei!… comandă Ernest,
 
 Zed duse sticla la gură în aceeași secundă cu Tonio. Se auziră câteva gâlgâituri sonore apoi Tonio aruncă sticla goală pe pat. O băuse din trei înghițituri de parcă ar fi fost mort de sete.
 
@@ -817,91 +819,92 @@ Se cunoaște că ești amorezat… spuse cineva.
 
 Cine vorbise? Tonio rămase cu privirile fixe, în timp ce lua un pahar de vin de pe masă cu gesturi nesigure și îl duse și pe acesta la gură. Se făcu o clipă tăcere. Valentin, bolnavul de lângă dânsul avea însă chef de vorbă. Tăcuse până atunci și acum deschisese deodată gura ca să spună prostii.
 
-— Ei parcă nu știm cu toții că ești în dragoste cu d-na Wandeska? vorbi el cu animație, insistent și stupid.
+― Ei parcă nu știm cu toții că ești în dragoste cu d-na Wandeska? vorbi el cu animație, insistent și stupid.
 
 Tonio rămase de astădată uluit.
 
 Câteva secunde se uită în jurul lui, la fiecare persoană în parte ca și cum ar fi implorat ajutor:
 
-— Ia uitați-vă la mucosul ăsta care își bate joc de mine!…
+― Ia uitați-vă la mucosul ăsta care își bate joc de mine!…
 
 Deodată ridică paharul și spuse cu o voce solemnă și aproape țipând:
 
-— Onorată asistență… toți… toți… care sunteți aici, vă declar în astă seară… pe conștiință și pe onoare că între mine și doamna Wandeska nu există niciun fel de… relații. Suntem prieteni… atâta tot… ați auzit?
+― Onorată asistență… toți… toți… care sunteți aici, vă declar în astă seară… pe conștiință și pe onoare că între mine și doamna Wandeska nu există niciun fel de… relații. Suntem prieteni… atâta tot… ați auzit?
 
 Își pierduse cu totul capul. Valentin era de sigur și el beat pentrucă nu vroia să tacă.
 
-— Ehe! Ehe! râse el subțire. Parcă nu știm că te duci la ea în fiecare seară.
+― Ehe! Ehe! râse el subțire. Parcă nu știm că te duci la ea în fiecare seară.
 
-— Stăm de vorbă, animalule! Stăm de vorbă! țipă Tonio. Tu nu știi că doamna Wandeska are un ghips… până la coapsă… care îi ține tot piciorul? Ce amor se poate face în asemenea caz?
+― Stăm de vorbă, animalule! Stăm de vorbă! țipă Tonio. Tu nu știi că doamna Wandeska are un ghips… până la coapsă… care îi ține tot piciorul? Ce amor se poate face în asemenea caz?
 
 Spuse asta cu o mare ezitare în voce; se vedea bine că îl frământa mustrarea de a trebui să facă asemenea declarații, dar nu putea rezista amețelii.
 
-— Și ce-i dacă are ghipsul? continuă Valentin. Parcă nu se poate face dragoste și așa ?… O mângâi… o săruți… în diferite locuri…
+― Și ce-i dacă are ghipsul? continuă Valentin. Parcă nu se poate face dragoste și așa ?… O mângâi… o săruți… în diferite locuri…
 
 Tonio scrâșnind din dinți se apropie de el. Îl privi în ochi o secundă apoi brusc îi goli conținutul paharului ce-l ținea în mână, drept în față.
 
 Valentin zăpăcit și cu obrazul ud leoarcă începu a se șterge cu mâinile. Apoi, când își reveni puțin, apucă cu violență o cană de pe măsuța de toaletă și vru s’o arunce în cap lui Tonio.
 
-— Ei, ei, fără crime dacă se poate! strigă Ernest și se puse între dânșii ca să-i despartă.
+― Ei, ei, fără crime dacă se poate! strigă Ernest și se puse între dânșii ca să-i despartă.
 
-— Tu Tonio culcă-te aici… comandă el și îl trânti pe pat. Stai cuminte și meditează-ți în liniște coniacul.
+― Tu Tonio culcă-te aici… comandă el și îl trânti pe pat. Stai cuminte și meditează-ți în liniște coniacul.
 
 Îl luă în același timp pe Valentin cu căruțul în mijlocul odăii, departe de argentinian.
 
-– Ce animal! Ce animal! bolborosi Tonio întinzându-se pe așternut… Dacă nu intervenea Ernest îi dădeam patru palme și-l lăsam mort pe loc!
+― Ce animal! Ce animal! bolborosi Tonio întinzându-se pe așternut… Dacă nu intervenea Ernest îi dădeam patru palme și-l lăsam mort pe loc!
 
-— Dela patru palme nu moare nimeni! proclamă calm Zed din colțul lui, ca un arbitru imparțial de match.
+― Dela patru palme nu moare nimeni! proclamă calm Zed din colțul lui, ca un arbitru imparțial de match.
 
 Pentru a crea o diversiune, Ernest începu să fredoneze încet o melodie.
 
 Cu toții o reluară în cor:
 
-   „Votre mari… bididi… bididi…     Îl est dans la soupente…”.
+„Votre mari… bididi… bididi…<br>
+Îl est dans la soupente…”.
 
-   — Mai încet! mai încet! comandă Ernest.
+― Mai încet! mai încet! comandă Ernest.
 
-   „En train de baiser bididi… bididi…”.
+„En train de baiser bididi… bididi…”.
 
-   Ernest scoase un oftat comic și toată lumea începu a râde.
+Ernest scoase un oftat comic și toată lumea începu a râde.
 
-   — „En train de baiser la servante…”.
+— „En train de baiser la servante…”.
 
-   Era o melodie monotonă și tristă cu cuvinte pline de obscenități de om beat…
+Era o melodie monotonă și tristă cu cuvinte pline de obscenități de om beat…
 
-   Cântecul însă în loc să-i anime și să-i trezească îi înfundă mai rău în toropeală. Ploaia afară răpăia în geamuri, vântul șuiera cu lamentări intense și prelungite.
+Cântecul însă în loc să-i anime și să-i trezească îi înfundă mai rău în toropeală. Ploaia afară răpăia în geamuri, vântul șuiera cu lamentări intense și prelungite.
 
 Toată lumea rămase închisă în amețeală ca într’o adâncă preocupare interioară pe care o rumega în tăcere. Katty se trântise lângă Tonio pe pat și își băgase o mână în părul lui, alintându-l încet.
 
-— Ei lasă că o să-ți treacă… Tonio… Tononio… Tonononio…
+― Ei lasă că o să-ți treacă… Tonio… Tononio… Tonononio…
 
-— Ce-i asta? întrebă turbure Tonio.
+― Ce-i asta? întrebă turbure Tonio.
 
-— Așa vorbeam noi chinezește la școală, spuse Katty copilărește.
+― Așa vorbeam noi chinezește la școală, spuse Katty copilărește.
 
 Valentin prinse a declama versuri, când fu deodată întrerupt de o controversă ce izbucnise între Zed și domnul de lângă dânsul. Domnul acesta era un inginer din Paris care venea din când în când la Berck în concediu să se odihnească și să vâneze rațe sălbatice în golful Authie, renumit pentru aceasta.
 
-— Și eu îți spun că dintr’o lovitură îl nimeresc insista inginerul.
+― Și eu îți spun că dintr’o lovitură îl nimeresc insista inginerul.
 
 Cu degetul arăta ceva pe fereastră. .
 
-— Ia stingeți lumina! comandă Zed. În întuneric o să ne dăm seama mai bine…
+― Ia stingeți lumina! comandă Zed. În întuneric o să ne dăm seama mai bine…
 
 Acum, în odaia obscură, veneau din spre fereastră reflexele clătinate ale becului din stradă, agitat de vânt.
 
-— Îl iau dintr’o ochitură…
+― Îl iau dintr’o ochitură…
 
-— Să vedem… să vedem, spuse calm Zed.
+― Să vedem… să vedem, spuse calm Zed.
 
 Puseseră un pariu între dânșii dacă inginerul va nimeri cu pușca becul din stradă.
 
-— Mi se pare că ați înnebunit de-a-binelea, spuse Solange înspăimântată.
+― Mi se pare că ați înnebunit de-a-binelea, spuse Solange înspăimântată.
 
 Inginerul plecă însă în odaia lui și se întoarse peste câteva minute cu ceva greu în mână. Ernest în întuneric dormita și nu prea își dădea seama de ce se petrece, până ce inginerul deschizând fereastra, o rafală rece de vânt și de ploaie pătrunse în odaie, răvășind totul.
 
 Ernest de data asta se trezise de-a-binelea și merse împleticit spre geam.
 
-— Într’adevăr vreți să faceți asta? Ați înnebunit cu toții în astă seară?
+― Într’adevăr vreți să faceți asta? Ați înnebunit cu toții în astă seară?
 
 Ajunse însă prea târziu. Inginerul pusese pușca la ochi, viză și trase.
 
@@ -913,7 +916,7 @@ Ce va urma acum? Palpitau de îngrijorare și de emoție. Tonio, buimăcit, se t
 
 Era absolut hotărît să tragă și el și nimic nu putea să-l împiedece dela asta.
 
-— Dacă nu dai drumul la pușcă să știi că trag în tavan! Am degetul pe trăgaciu, spuse Zed foarte violent.
+― Dacă nu dai drumul la pușcă să știi că trag în tavan! Am degetul pe trăgaciu, spuse Zed foarte violent.
 
 De altfel se și ridicase pe căruț, cu pieptul în aer, țintind becul de afară.
 
@@ -931,73 +934,73 @@ Emanuel asistase la toată scena cu impresia vie că nimic nu se petrece în rea
 
 Zed mormăia într’una:
 
-— Vedeți că am nimerit? Bolnav, dar încă om… hă… hă… iată așa crăpat cum sunt și am dat gata un vânător… hă… hă…
+― Vedeți că am nimerit? Bolnav, dar încă om… hă… hă… iată așa crăpat cum sunt și am dat gata un vânător… hă… hă…
 
 Ceru să mai bea. Amețeala se transformase la el în seriozitatea aceea tristă cu care bețivii se obstinează să comită lucruri absurde.
 
 Ernest umbla de colo, colo prin odaie și nu-și mai găsea locul:
 
-— Ce o să fie acum? Ce o să fie? Să știți că mâine dimineață directorul ne dă pe toți afară… Ce nebunie!
+― Ce o să fie acum? Ce o să fie? Să știți că mâine dimineață directorul ne dă pe toți afară… Ce nebunie!
 
 De când se trăsese cu pușca în sanatoriu se deschideau și se închideau uși, se auzeau șoapte, umblete pe coridor. Ernest se duse la ușă și ținti cu urechea.
 
 În fundul unui coridor, undeva, o ușă fusese trântită cu sgomot.
 
-— Ăsta-i directorul! Vine în anchetă! Ce să-i spun acum?
+― Ăsta-i directorul! Vine în anchetă! Ce să-i spun acum?
 
 Cu toții aveau respirația tăiată de intensitatea așteptării.
 
-— Vă rog liniște acum!… cea mai desăvârșită liniște…
+― Vă rog liniște acum!… cea mai desăvârșită liniște…
 
 Se auziră niște pași târșâiți venind spre odaie.
 
 Ernest întoarse încetișor cheia în broască.
 
-— Tăcere! șopti el. Credeam că-i directorul dar…
+― Tăcere! șopti el. Credeam că-i directorul dar…
 
 Cineva bătu în ușă.
 
 În odaie domnea cea mai deplină liniște.
 
-— Ei deschide! Deschide domnule Ernest! Ce-i asta? Ce v’ați apucat să faceți?
+― Ei deschide! Deschide domnule Ernest! Ce-i asta? Ce v’ați apucat să faceți?
 
 Era o voce pițigăiată de femeie bătrână. Începu să sgâlțâie ușa țipând ca o pasăre.
 
-— Deschide! Deschide ușa…
+― Deschide! Deschide ușa…
 
-— Ce este? Cine-i acolo? întrebă Ernest din odaie.
+― Ce este? Cine-i acolo? întrebă Ernest din odaie.
 
-— Deschide domnule Ernest că chem brancardierii să spargă ușa… Sunt eu, supraveghetoarea de noapte… hai, deschide!
+― Deschide domnule Ernest că chem brancardierii să spargă ușa… Sunt eu, supraveghetoarea de noapte… hai, deschide!
 
-— Și ce anume vrei dela mine? întrebă Ernest cu mult calm.
+― Și ce anume vrei dela mine? întrebă Ernest cu mult calm.
 
-— Mai întrebi ce vreau? Vă puneți pe băutură, vă îmbătați, trageți cu pușca… Ce-i aici sanatoriu ori cârciumă?
+― Mai întrebi ce vreau? Vă puneți pe băutură, vă îmbătați, trageți cu pușca… Ce-i aici sanatoriu ori cârciumă?
 
-— Bordel, exclamă imperturbabil Ernest.
+― Bordel, exclamă imperturbabil Ernest.
 
 Și începu la rândul lui să strige.
 
-— Ce vrei? Cine te-a trimis? Cine a tras cu pușca? Ai înnebunit? Vezi doar că și eu m’am trezit din somn și eu am auzit împușcăturile… a tras cineva în stradă… Da ce’s pus eu, să fac poliție? Du-te și vezi cine a tras… și lasă-mă în pace…
+― Ce vrei? Cine te-a trimis? Cine a tras cu pușca? Ai înnebunit? Vezi doar că și eu m’am trezit din somn și eu am auzit împușcăturile… a tras cineva în stradă… Da ce’s pus eu, să fac poliție? Du-te și vezi cine a tras… și lasă-mă în pace…
 
 Cineva de alături bătu în perete să înceteze scandalul.
 
-— Împușcăturile s’au tras de aici, spuse din nou îndârjită vocea pițigăiată de afară. Mă duc să chem directorul…
+― Împușcăturile s’au tras de aici, spuse din nou îndârjită vocea pițigăiată de afară. Mă duc să chem directorul…
 
 Ernest descuiă și cu o mișcare bruscă deschise larg ușa.
 
 Acum era față în față cu supraveghetoarea, el înalt, spătos, ea o bătrânică firavă în balat alb de serviciu, apariție scheletică în lumina palidă a coridorului, o fantomă slăbănoagă în toiul nopții.
 
-— Ascultă! Ce vrei? Spune-mi clar ce vrei?… De ce ai venit direct la mine? Întotdeauna eu sunt țapul ispășitor în sanatoriul ăsta… Când se toarnă vin în pianul din salon, se vine la Ernest. Ernest a turnat… Când se aude gălăgie undeva, iute la Ernest… Când cineva împușcă, Ernest… veșnicul Ernest. Te rog să spui directorului că mâine plec de aici. M’am săturat… Auzi?
+― Ascultă! Ce vrei? Spune-mi clar ce vrei?… De ce ai venit direct la mine? Întotdeauna eu sunt țapul ispășitor în sanatoriul ăsta… Când se toarnă vin în pianul din salon, se vine la Ernest. Ernest a turnat… Când se aude gălăgie undeva, iute la Ernest… Când cineva împușcă, Ernest… veșnicul Ernest. Te rog să spui directorului că mâine plec de aici. M’am săturat… Auzi?
 
 Supraveghetoarea rămase pironită și mută de stupefacție sub avalanșa aceasta rapidă de argumente. Ernest protesta cu atâta vehemență și sinceritate, încât mai că te apuca mila pentru băiatul ăsta atât de persecutat.
 
 Acum supraveghetoarea se găsea în încurcătură și nu mai știa cum să plece.
 
-— Ei bine… Ei bine… mă duc să vorbesc cu sergentul în stradă, murmură dânsa confuză și se îndepărtă pe coridor în clinchetul legăturii de chei, ce acompaniase pașii ei târșâiți.
+― Ei bine… Ei bine… mă duc să vorbesc cu sergentul în stradă, murmură dânsa confuză și se îndepărtă pe coridor în clinchetul legăturii de chei, ce acompaniase pașii ei târșâiți.
 
 Ernest se întoarse superb în odaie.
 
-— Ați văzut? Dacă vrei s’o sperii pe bătrânica asta, spune-i că părăsești sanatoriul. E de patruzeci de ani în serviciu aici și a prins rutină… cum prind zidurile mucegai…
+― Ați văzut? Dacă vrei s’o sperii pe bătrânica asta, spune-i că părăsești sanatoriul. E de patruzeci de ani în serviciu aici și a prins rutină… cum prind zidurile mucegai…
 
 Acum mai greu era de condus pe fiecare bolnav la camera lui, dar Ernest se simțea prea epuizat, îl durea și spatele, iar de Tonio nici nu putea fi vorba ca să-l ajute. Adormise din nou în grămada acră și împuțită a resturilor de mâncare. Deocamdată se hotărîră să rămâe cu toții în odaie dormitând, iar în zori vor da câțiva franci unui brancardier ca să se ocupe de ei, fără să prindă de veste nimeni.
 
@@ -1007,13 +1010,13 @@ Emanuel nu-i vedea pe Roger și pe Cora, dar bănuia unde sunt cu gutierele ală
 
 În lumina unui chibrit pe care Ernest îl aprinse ca să caute cana cu apă, Roger și Cora apărură o clipă întorși pe o coastă, îmbrățișați.
 
-— Își freacă ghipsurile unul de altul, mai mult nu pot face, șopti Ernest la urechea lui Emanuel.
+― Își freacă ghipsurile unul de altul, mai mult nu pot face, șopti Ernest la urechea lui Emanuel.
 
 Și Solange? Unde era Solange?
 
 Emanuel o descoperi lângă fereastră, privind în noapte. Afară obscuritatea se făcea mai găunoaosă și mai destrămată iar pe fondul ei Emanuel se căsnea să limiteze silueta exactă a Solangei. În odaie se făcuse liniște deplină.
 
-— Dă-te mai încolo brută! împinse Ernest pe Tonio și se culcă și el lângă Katty.
+― Dă-te mai încolo brută! împinse Ernest pe Tonio și se culcă și el lângă Katty.
 
 Valentin dormea dus, respirând sgomotos și subțire pe nas. Sforăitul lui acoperea tăcerea din odaie ca o rețea de sunete ce se împletea dela sine, peste trupurile culcate… Emanuel nici nu știu când adormi, privind fix la fereastră, pata aceea incertă care era Solange.
 
@@ -1025,21 +1028,21 @@ Solange plecase de mult. Și Katty și Tonio Ernest cu un brancardier se căsnea
 
 Îndată ce ea fu plecată, Roger Torn desfăcu pătura ce-l acoperea și privi atent pe saltea.
 
-— Ei mizerie! exclamă el foarte necăjit. Toată salteaua s’a udat și pijamaua și tot…
+― Ei mizerie! exclamă el foarte necăjit. Toată salteaua s’a udat și pijamaua și tot…
 
 Avea fistule deschise și probabil că i se făcuse un pansament prost.
 
-— Ce-i? Ce este? întrebă Valentin mahmur. A străbătut?
+― Ce-i? Ce este? întrebă Valentin mahmur. A străbătut?
 
-— Da… și încă mult… ce porcărie! Până la opt când se deschide clinica trebue să stau în sosul ăsta…
+― Da… și încă mult… ce porcărie! Până la opt când se deschide clinica trebue să stau în sosul ăsta…
 
 Emanuel dela locul lui putu să vadă cearceaful umplut de lichide verzui, purulente.
 
 Ernest și brancardierul se întoarseră și contemplară și ei dezastrul.
 
-— Dacă te-ai sbenguit toată noaptea! spuse Ernest. Așa-ți trebue!
+― Dacă te-ai sbenguit toată noaptea! spuse Ernest. Așa-ți trebue!
 
-— Ei, lasă acum te rog lecțiile de morală la ora cinci dimineața, răspunse amar Roger Torn.
+― Ei, lasă acum te rog lecțiile de morală la ora cinci dimineața, răspunse amar Roger Torn.
 
 Era rândul lui Emanuel să plece; le făcu semn cu mâna celorlalți salutându-i.
 
@@ -1055,29 +1058,29 @@ Deschise ochii mari când văzu intrând pe doctorul Cériez, însoțit de două
 
 „Vine să mă certe de sigur pentru cheful de astă noapte”, gândi el. Îi era rușine de o lecție de morală în poziția asta culcată, în timp ce doctorul l-ar fi privit de sus, fără a-și putea ascunde privirile, ori fără a putea să scape de atitudinea lui umilă, întins pe căruț ca un animal gata de disecție.
 
-— Mai dormi la ora asta? întrebă doctorul cu vocea lui groasă, jovială.
+― Mai dormi la ora asta? întrebă doctorul cu vocea lui groasă, jovială.
 
 Tonul acesta prietenesc îl ustură cumplit pe Emanuel. Simți că i se face cald sub cuverturi.
 
-— Ești dispus pe un timp atât de mohorît să-ți comunic o veste neplăcută? continuă doctorul cu aceeași bonomie. „Vrea să-mi anunțe probabil că sunt dat afară din clinică” își închipui Emanuel și ridică iute capul, zâmbind nepăsător și încercând să-și ia un aer de canalie.
+― Ești dispus pe un timp atât de mohorît să-ți comunic o veste neplăcută? continuă doctorul cu aceeași bonomie. „Vrea să-mi anunțe probabil că sunt dat afară din clinică” își închipui Emanuel și ridică iute capul, zâmbind nepăsător și încercând să-și ia un aer de canalie.
 
-— Ei iată, să-ți spun pentru ce am venit. Aș vrea să te întreb dacă ai vrea să-ți fac azi ghipsul. Odată și odată tot ești nevoit să-l porți… Trebue fixate vertebrele dacă vrei să se vindece locul atacat. Ei ce spui? Îl facem azi sau mai amânăm o zi?
+― Ei iată, să-ți spun pentru ce am venit. Aș vrea să te întreb dacă ai vrea să-ți fac azi ghipsul. Odată și odată tot ești nevoit să-l porți… Trebue fixate vertebrele dacă vrei să se vindece locul atacat. Ei ce spui? Îl facem azi sau mai amânăm o zi?
 
 Emanuel răsuflă ușurat; foarte mulțumit că nu era vorba despre chef, nu se mai gândi de loc la ghips și admise imediat cu efuziune:
 
-— Bine înțeles, chiar azi!… Sigur!… Să-l faceți! Cred că m’am obișnuit cu poziția culcată și o să-l suport cu ușurință…
+― Bine înțeles, chiar azi!… Sigur!… Să-l faceți! Cred că m’am obișnuit cu poziția culcată și o să-l suport cu ușurință…
 
-— Ești întâiul bolnav care te bucuri de ghips, zâmbi doctorul. De obiceiu ceilalți când le anunț asta, fac o mutră de leșinați.
+― Ești întâiul bolnav care te bucuri de ghips, zâmbi doctorul. De obiceiu ceilalți când le anunț asta, fac o mutră de leșinați.
 
 Un brancardier îl conduse la clinică.
 
 Emanuel, în odaia albă și antiseptică, în mijlocul aparatelor ortopedice, avu brusc o scurtă strângere de inimă și într’un cont rapid al sincerității, regretă entuziasmul lui de odinioară.
 
-— Oricum, mai bine un ghips decât o lecție de morală, se încurajă el cețos. Gândurile i se încurcau puțin și din tot ce se găsea în jurul lui, clar și inteligibil era numai mirosul puternic de acid fenic.
+― Oricum, mai bine un ghips decât o lecție de morală, se încurajă el cețos. Gândurile i se încurcau puțin și din tot ce se găsea în jurul lui, clar și inteligibil era numai mirosul puternic de acid fenic.
 
 Eva, infirmiera, îl desbrăcă de pijama.
 
-— A fost chef, nu șagă, murmură ea destul de încet ca să nu audă doctorul.
+― A fost chef, nu șagă, murmură ea destul de încet ca să nu audă doctorul.
 
 Îi plăcea să intre în intimitățile bolnavilor și să se creadă prietena lor. Dar pe de altă parte îi bârfea pe toți față de doctor. Ernest o descoperise de mai multe ori făcând naveta cu știri false.
 
@@ -1091,7 +1094,7 @@ Doctorul de altfel era gata și vroia să înceapă.
 
 Îl îmbrăcă cu o flanea subțirică, albă, ca un tricou de sport. Emanuel, privindu-se în reflexul convex al unei cutii nichelate, găsi că îi stătea bine.
 
-— De acum încolo cu flaneaua asta rămâi pe d-ta, până ce îți vom scoate ghipsul, spuse doctorul.
+― De acum încolo cu flaneaua asta rămâi pe d-ta, până ce îți vom scoate ghipsul, spuse doctorul.
 
 Asta risipi farmecul.
 
@@ -1105,9 +1108,9 @@ Operația nu era de loc complicată: doctorul lua câte o fășie, o tăvălea �
 
 Acum dosul era gata. Ghipsul mai trebuia îngroșat în față, pe piept. Începuse de altfel să se întărească.
 
-— Ia să te văd, poți să te întorci singur cu fața în sus? întrebă doctorul, apropiind mesele.
+― Ia să te văd, poți să te întorci singur cu fața în sus? întrebă doctorul, apropiind mesele.
 
-— Da… imediat… răspunse pripit Emanuel și sprijinindu-se de un colț al mesei încearcă să se răsucească.
+― Da… imediat… răspunse pripit Emanuel și sprijinindu-se de un colț al mesei încearcă să se răsucească.
 
 Ce fuse asta?
 
@@ -1115,7 +1118,7 @@ Rămase stupefiat. Câte mii de kilograme cântărea acum? Imposibil de făcut o
 
 Carapacea îl ținea închis ermetic, imobil, copleșit de ea sdrobit pe loc ca de un bolovan. „Adio Emanuel! își spuse el. Ai devenit un om mort”. Și un nod dureros i se urcă în gât.
 
-— Ce-i de făcut acum? întrebă dânsul.
+― Ce-i de făcut acum? întrebă dânsul.
 
 Infirmiera și doctorul îl întoarseră cu fața în sus. Îl manevrau ca pe un manechin fără viață. Îl ridicau, îl suceau, îl depuneau încetișor pe masă ca să nu-l lovească… Emanuel, deposedat de toate mișcările lui normale, avu o sensație teribilă de abolire pe care n’o mai simțise decât în vis.
 
@@ -1127,55 +1130,55 @@ Cu foarfeca mai rotunji corsetul pe la pubis și pe la șolduri. Când Emanuel r
 
 Ernest veni să-l vadă îndată după prânz.
 
-— Ţi-au îmbrăcat uniforma! ai intrat în rang!… exclamă el. Și te-au nimerit tocmai după chef. Cred că te-ai desmeticit.
+― Ţi-au îmbrăcat uniforma! ai intrat în rang!… exclamă el. Și te-au nimerit tocmai după chef. Cred că te-ai desmeticit.
 
 Se întinse pe patul din odaie, lângă căruț și aprinse o țigară.
 
-— Ce nebuni Zed și inginerul lui! Putea să iasă un scandal mare de tot din afacerea asta…
+― Ce nebuni Zed și inginerul lui! Putea să iasă un scandal mare de tot din afacerea asta…
 
 Emanuel își aduse aminte de noaptea petrecută la Ernest, dar acum, în lumina după amiezei ploioase, în tăcerea fluierată mărunt de țiuitul caloriferului, toate detaliile precise de aseară se pierdeau într’o calmă disperare. Așa ca și cum nimic n’ar fi avut loc și n’ar fi existat niciodată altceva decât învelișul umed și rece al corsetului.
 
 Ernest urmărea pe fereastră curgerea sinuoasă a șuvițelor de apă. Era și el copleșit de această zi de toamnă.
 
-— Îmi pare bine când plouă… spuse el într’un sfârșit. Asta e vremea ce ne corespunde nouă bolnavilor. Ploaie, cer acoperit, frig… atunci știi că toată lumea e redusă la aceeași odaie cu patru pereți… la aceeași tristețe.
+― Îmi pare bine când plouă… spuse el într’un sfârșit. Asta e vremea ce ne corespunde nouă bolnavilor. Ploaie, cer acoperit, frig… atunci știi că toată lumea e redusă la aceeași odaie cu patru pereți… la aceeași tristețe.
 
 Emanuel îl înțelegea din tot sufletul.
 
-— Când e frumos afară, când e cald și soare, continuă Ernest, atunci lucrurile îmi apar grozav de inutile, și de neînțelese. Ce poate face un om în mijlocul limpeziciunii decorului? Și chiar de ar face ceva… e prea clar… prea vizibil și prea ininteligibil. Misterul cel mai turburător e poate cel care ne apare în cea mai simplă evidență. Îmi plac mai bine zilele astea mohorîte și ploioase, când stai închircit în casă și ai o înțelegere de câine bătut…
+― Când e frumos afară, când e cald și soare, continuă Ernest, atunci lucrurile îmi apar grozav de inutile, și de neînțelese. Ce poate face un om în mijlocul limpeziciunii decorului? Și chiar de ar face ceva… e prea clar… prea vizibil și prea ininteligibil. Misterul cel mai turburător e poate cel care ne apare în cea mai simplă evidență. Îmi plac mai bine zilele astea mohorîte și ploioase, când stai închircit în casă și ai o înțelegere de câine bătut…
 
 Tăcură câtva timp amândoi ascultând ploaia. Emanuel închise ochii.
 
-— Vrei să te las să dormi?
+― Vrei să te las să dormi?
 
-— Imposibil… Stau într’o băltoacă îngrozitoare. Parcă îmi intră umezeala sub piele… până la oase… până la inimă… Parcă se urcă încet în cap…
+― Imposibil… Stau într’o băltoacă îngrozitoare. Parcă îmi intră umezeala sub piele… până la oase… până la inimă… Parcă se urcă încet în cap…
 
-— Într’adevăr e foarte neplăcut, aprobă Ernest. Cunosc asta, știu ce înseamnă… O să mai dureze încă două trei zile până se usucă.., apoi, nici nu-l mai simți.
+― Într’adevăr e foarte neplăcut, aprobă Ernest. Cunosc asta, știu ce înseamnă… O să mai dureze încă două trei zile până se usucă…, apoi, nici nu-l mai simți.
 
 Emanuel se gândi cu groază la cele „două trei zile”.
 
-— Crezi că mă voi obișnui vreodată cu asta? spuse el și bătu furios în carapace. De câte ori o să fac o mișcare, ghipsul o să mă ție pe loc și o să-mi readucă aminte că sunt închis ermetic într’însul.
+― Crezi că mă voi obișnui vreodată cu asta? spuse el și bătu furios în carapace. De câte ori o să fac o mișcare, ghipsul o să mă ție pe loc și o să-mi readucă aminte că sunt închis ermetic într’însul.
 
-— Te vei obișnui… te vei obișnui; o să faci câte mișcări poftești… ai să vezi o să te miști cu ghips cu tot, ca și cum ar fi o simplă cămașă…
+― Te vei obișnui… te vei obișnui; o să faci câte mișcări poftești… ai să vezi o să te miști cu ghips cu tot, ca și cum ar fi o simplă cămașă…
 
 Ernest se ridică să plece.
 
-— Vreau să te întreb ceva, spuse Emanuel. Cine-i fata aceea înaltă, blondă, care a fost aseară la tine? O chiamă Solange.
+― Vreau să te întreb ceva, spuse Emanuel. Cine-i fata aceea înaltă, blondă, care a fost aseară la tine? O chiamă Solange.
 
-— Ah, Solange! E și dânsa o fostă bolnavă. A stat și ea pe gutieră ca tine. Vezi bine s’a vindecat admirabil. Însă nu e domnișoară… e doamnă… a fost măritată și când a căzut bolnavă bărbatul ei a părăsit-o. Era destul de amabil și elegant din partea lui, nu-i așa?
+― Ah, Solange! E și dânsa o fostă bolnavă. A stat și ea pe gutieră ca tine. Vezi bine s’a vindecat admirabil. Însă nu e domnișoară… e doamnă… a fost măritată și când a căzut bolnavă bărbatul ei a părăsit-o. Era destul de amabil și elegant din partea lui, nu-i așa?
 
-— Și atunci dânsa, ce caută acum la Berck?
+― Și atunci dânsa, ce caută acum la Berck?
 
-— Uite asta e ceva foarte curios… Berck e altceva decât un oraș de bolnavi. E o otravă foarte subtilă. Intră de-a-dreptul în sânge. Cine a trăit aici nu-și găsește locul nicăieri în lume. Ai să simți și tu asta într’o zi. Toți negustorii, toți doctorii de aici, farmaciștii, chiar și brancardierii… toți sunt foști bolnavi, care n’au putut trăi în alte părți.
+― Uite asta e ceva foarte curios… Berck e altceva decât un oraș de bolnavi. E o otravă foarte subtilă. Intră de-a-dreptul în sânge. Cine a trăit aici nu-și găsește locul nicăieri în lume. Ai să simți și tu asta într’o zi. Toți negustorii, toți doctorii de aici, farmaciștii, chiar și brancardierii… toți sunt foști bolnavi, care n’au putut trăi în alte părți.
 
-— Și Solange? întrebă din nou Emanuel pentru a reveni la un subiect care îl ardea.
+― Și Solange? întrebă din nou Emanuel pentru a reveni la un subiect care îl ardea.
 
-— Trăiește singură aici. Își câștigă singură existența. E dactilografă într’un birou de avocatură.
+― Trăiește singură aici. Își câștigă singură existența. E dactilografă într’un birou de avocatură.
 
 Ernest deschise ușa. Emanuel îl reținu.
 
-— Aș putea vorbi cu dânsa? aș putea s’o văd?
+― Aș putea vorbi cu dânsa? aș putea s’o văd?
 
-— Aha! Va să zică e vorba de ceva serios! Te-ai îndrăgostit de ea? Cunosc și chestia asta… e ceva în genul ghipsului dar tocmai pe dos: tortură uscată și fierbinte. Cred că mâine o să-i vorbesc și o s’o chem aici. Poate că o să vie, la revedere!
+― Aha! Va să zică e vorba de ceva serios! Te-ai îndrăgostit de ea? Cunosc și chestia asta… e ceva în genul ghipsului dar tocmai pe dos: tortură uscată și fierbinte. Cred că mâine o să-i vorbesc și o s’o chem aici. Poate că o să vie, la revedere!
 
 Și îl lăsă pe Emanuel în umezeală, în singurătate și în plină nerăbdare.
 
@@ -1203,21 +1206,21 @@ Putea vedea pe „marchiză”, o fostă profesoară totdeauna în rochie de cat
 
 Conversața era generală. Emanuel căzu în mijlocul ei ca o nouă pradă, ușoară de înhățat. Cu toții începură a se interesa de ghipsul lui. Emanuel răspundea cu binevoitoare plictiseală. Îl frământa o așteptare secretă. Ernest plecase jos la telefon să întrebe pe Solange dacă poate veni la sanatoriu.
 
-— În tot cazul, acum dimineață are serviciu, poate după masă… spuse Ernest. Și ce să-i spun? Ce motiv să-i dau?
+― În tot cazul, acum dimineață are serviciu, poate după masă… spuse Ernest. Și ce să-i spun? Ce motiv să-i dau?
 
 Emanuel se gândi o secundă.
 
-— Spune-i pur și simplu că vreau s’o văd…
+― Spune-i pur și simplu că vreau s’o văd…
 
 Ernest nu mai revenea. Emanuel de nerăbdare începu să răspundă încurcat la întrebările celor din jurul lui.
 
-— Te doare capul? întrebă „marchiza”.
+― Te doare capul? întrebă „marchiza”.
 
-— Da, îngrozitor… capul și gâtul… și șoldul stâng… răspunse cu infinită seriozitate Emanuel și fu lăsat în pace.
+― Da, îngrozitor… capul și gâtul… și șoldul stâng… răspunse cu infinită seriozitate Emanuel și fu lăsat în pace.
 
 Într’un sfârșit se auziră pașii lui Ernest.
 
-— Vine! făcu el un semn discret, clipind șiret din ochi chiar din prag.
+― Vine! făcu el un semn discret, clipind șiret din ochi chiar din prag.
 
 Emanuel simți brusc o mare greutate evaporându-se din ghips.
 
@@ -1227,7 +1230,7 @@ Emanuel ar fi vrut să rămâe măcar o clipă singur cu Solange. Ernest înțel
 
 Se interesă în de aproape de ghips.
 
-— E foarte neplăcut… nu-i așa ? Și eu am stat în ghips opt luni și acum am uitat totul…
+― E foarte neplăcut… nu-i așa ? Și eu am stat în ghips opt luni și acum am uitat totul…
 
 În odaie nu era niciun scaun. Solange se așeză pe pat, lângă Emanuel. Era atât de aproape de dânsul încât el îi simțea parfumul ei, un amestec indiscernabil de mandarină și de lavandă, un parfum proaspăt care adera perfect de tricoul simplu pe care îl purta, o flanea albastră cu un guleraș alb răsfrânt de școlăriță. Toată grația acestei femei tinere venea dela o anumită asprime în îmbrăcăminte, în gesturi, în parfum…
 
@@ -1235,73 +1238,73 @@ Vorbiră despre lucruri neînsemnate în timp ce Emanuel se căsnea să descoper
 
 Începu brusc să geamă, mai întâi foarte discret, apoi intensificând gemătul până la limita precisă unde ceilalți puteau să-l audă și totuși să creadă că ar vrea să-l înnăbușe.
 
-— Ce ai? îl întrebă Solange.
+― Ce ai? îl întrebă Solange.
 
 Emanuel încetă și încruntă sprâncenele. Trebuia bine jucat, destul de clar pentru ca să se vadă că suferă în secret și că totuși, stoic, preferă să tacă.
 
-— Eh… nimic, absolut nimic, spuse Emanuel cu o constrângere de care ceilalți se speriară.
+― Eh… nimic, absolut nimic, spuse Emanuel cu o constrângere de care ceilalți se speriară.
 
-— Ba văd că te doare ceva, trebue să ne spui… Să știi că nu plec până nu știu ce te doare, spuse Solange cu subită compasiune.
+― Ba văd că te doare ceva, trebue să ne spui… Să știi că nu plec până nu știu ce te doare, spuse Solange cu subită compasiune.
 
 Emanuel exulta, dar protestă din nou cu același ton melancolic:
 
-— Vă asigur… că nu-i nimic… o să-mi treacă…
+― Vă asigur… că nu-i nimic… o să-mi treacă…
 
 Solange părea sincer mâhnită.
 
-— Ei hai, spune ce ai…
+― Ei hai, spune ce ai…
 
-— Ficatul, murmură Emanuel, (nu suferise de ficat niciodată în viața lui).
+― Ficatul, murmură Emanuel, (nu suferise de ficat niciodată în viața lui).
 
-— Unde te doare?… arată-mi mie… spuse Ernest.
+― Unde te doare?… arată-mi mie… spuse Ernest.
 
 Emanuel nici nu prea știa unde se ivesc durerile într’o criză de ficat. Arată cu palma deschisă tot pieptul și jumătate de burtă. Era suficient după părerea lui.
 
-— Uhuu! se miră Ernest. Astea sunt dureri iradiate în centură…
+― Uhuu! se miră Ernest. Astea sunt dureri iradiate în centură…
 
-— Și te-a lovit criza tocmai acum când ai și ghipsul…
+― Și te-a lovit criza tocmai acum când ai și ghipsul…
 
-— E îngrozitor, șopti Emanuel și se înduioșă atât de sincer de sine însuși, încât aproape îi veneau lacrimile în ochi.
+― E îngrozitor, șopti Emanuel și se înduioșă atât de sincer de sine însuși, încât aproape îi veneau lacrimile în ochi.
 
-— Ce-i de făcut? întrebă Solange.
+― Ce-i de făcut? întrebă Solange.
 
 În acel moment i se aduse tava cu mâncare. Emanuel era leșinat de foame.
 
-— Cred că ai face mai bine să nu mănânci nimic, îl sfătui Ernest.
+― Cred că ai face mai bine să nu mănânci nimic, îl sfătui Ernest.
 
-— Da… da, aprobă Solange. Un ceai, un simplu ceai, cu pesmeți.
+― Da… da, aprobă Solange. Un ceai, un simplu ceai, cu pesmeți.
 
 Și fata de serviciu plecă cu tava încărcată, lă sând după ea trena plăcută a unui miros de supă caldă. Emanuel devenise acum cu adevărat trist, dar trebuia să joace comedia până la sfârșit.
 
-— Îmi este mai bine, murmură el.
+― Îmi este mai bine, murmură el.
 
-— Să stai liniștit, auzi? și o să-ți treacă. Îmi pare grozav de rău că nu mai pot rămâne, spuse ea uitându-se la ceas. Îmi pare rău de asemeni că suferi atât…
+― Să stai liniștit, auzi? și o să-ți treacă. Îmi pare grozav de rău că nu mai pot rămâne, spuse ea uitându-se la ceas. Îmi pare rău de asemeni că suferi atât…
 
 Un scurt acces la ficat crispă din nou fața lui Emanuel, dar fu suportat admirabil.
 
-— Și nu e numai asta… murmură el. Toate durerile toate ghipsurile nu sunt nimic pe lângă îngrozitorul, înspăimântătorul chin de a sta singur într’o odaie… în fiecare zi… în fiecare zi…
+― Și nu e numai asta… murmură el. Toate durerile toate ghipsurile nu sunt nimic pe lângă îngrozitorul, înspăimântătorul chin de a sta singur într’o odaie… în fiecare zi… în fiecare zi…
 
 Ernest înțelese acum totul și tuși aprobător.
 
-— Pentru ce nu vii să-l vezi mai des? întrebă Solange pe Ernest, dar acesta tăcu în timp ce Emanuel continuă să geamă.
+― Pentru ce nu vii să-l vezi mai des? întrebă Solange pe Ernest, dar acesta tăcu în timp ce Emanuel continuă să geamă.
 
-— Ei bine, voi veni eu să te văd, spune Solange cu eroism. Când? Stătu să se gândească. Duminică, de exemplu. Duminică sunt liberă toată ziua…
+― Ei bine, voi veni eu să te văd, spune Solange cu eroism. Când? Stătu să se gândească. Duminică, de exemplu. Duminică sunt liberă toată ziua…
 
-— Vă mulțumesc… Vă mulțumesc mult de tot, gemu Emanuel într’un ultim efort de umilință și clovnerie.
+― Vă mulțumesc… Vă mulțumesc mult de tot, gemu Emanuel într’un ultim efort de umilință și clovnerie.
 
-— Te rog însă să nu uiți, spuse Ernest.
+― Te rog însă să nu uiți, spuse Ernest.
 
 Plecară amândoi. Rămas singur, Emanuel avu o scurtă destindere. I se aducea tocmai ceaiul.
 
-— Și restul… comandă el. Trebue adusă toată tava… cu mâncare, totul… mi-e foame… mi-a trecut criza…
+― Și restul… comandă el. Trebue adusă toată tava… cu mâncare, totul… mi-e foame… mi-a trecut criza…
 
 Și trimise înapoi băutura anemică și siropoasă spre deplina uluire a fetei de serviciu.
 
-<hr>
+<p></p>
 
 Emanuel după masă nu se putea plânge că fusese abandonat. Veniră mulți bolnavi să-l vadă și mai întâi Tonio. Era amărît: sosise de câteva zile o rudă a doamnei Wandeska din Polonia, un așa zis văr, care trebuia s’o ia acasă.
 
-— Ce o să mă fac singur? se frământa el.
+― Ce o să mă fac singur? se frământa el.
 
 Îl chinuia mai ales enigma acestui văr tânăr și destul de plăcut la vedere care putea fi, eventual, un amant…
 
@@ -1311,33 +1314,35 @@ Acesta rămase un timp mai îndelungat.
 
 Era destul de tânăr, dar cu tâmplele încărunțite. Părea că nu se gândește niciodată la infirmitatea lui. De altfel o și mărturisea:
 
-— Înțelegi? Eu sunt bolnav din copilărie. Cunosc toți doctorii, toate infirmierele, toate sanatoriile din Europa. Există excroci internaționali care au cutreierat tot globul și știu în mod exact în ce oraș, la ce firmă se poate da o lovitură sigură… Eu știu pe de rost geografia clinicilor de boli osoase. Îți pot spune în ce sanatoriu din Elveția infirmierele sunt amabile, și unde se face în Germania cel mai bun ghips… Sunt specializat… În meseria mea de bolnav am depășit diletantismul. Am devenit cu adevărat un „profesionist”.
+― Înțelegi? Eu sunt bolnav din copilărie. Cunosc toți doctorii, toate infirmierele, toate sanatoriile din Europa. Există excroci internaționali care au cutreierat tot globul și știu în mod exact în ce oraș, la ce firmă se poate da o lovitură sigură… Eu știu pe de rost geografia clinicilor de boli osoase. Îți pot spune în ce sanatoriu din Elveția infirmierele sunt amabile, și unde se face în Germania cel mai bun ghips… Sunt specializat… În meseria mea de bolnav am depășit diletantismul. Am devenit cu adevărat un „profesionist”.
 
 Quitonce era fiul unui renumit inginer din Paris. Emanuel văzuse odată în ziare fotografia inginerului Quitonce la inaugurarea unor lucrări tehnice de seamă.
 
-— Ești un erou al bolii, nu un profesionist… îi spuse Emanuel.
+― Ești un erou al bolii, nu un profesionist… îi spuse Emanuel.
 
-— Ce e aceea a fi un erou? sări Quitonce. Dacă a cuceri în lume ceva înseamnă a fi un erou, atunci eu n’am cucerit nimic și nu sunt un erou. Iată, să-ți spun eu ce este cu eroismul bolnavilor…
+― Ce e aceea a fi un erou? sări Quitonce. Dacă a cuceri în lume ceva înseamnă a fi un erou, atunci eu n’am cucerit nimic și nu sunt un erou. Iată, să-ți spun eu ce este cu eroismul bolnavilor…
 
 Se opri o clipă să respire, era puțin astmatic și asta dădea conversației lui un mare calm, și un mare farmec. Vorbirea lui liniștită, pe ton uniform se menținea însă numai atât timp cât stătea pe un scaun. De îndată ce se ridica, se punea în funcție mecanismul sgâlțăitor al picioarelor și tot restul corpului se sguduia și el, ca o uzină ce vibrează toată când lucrează în ea un motor puternic.
 
-— Pentru a fi un erou, pentru a ajunge la un tel, continuă Quitonce cu o ușoară oboseală în voce, trebue o anumită energie și o anumită voință pentru înfrângerea unui mare număr de dificultăți. Ei bine, orice bolnav dispune de aceasta. În timp de un an de zile un bolnav desfășoară exact atâta energie și voință câtă trebue pentru a cuceri un imperiu… Atât doar că le consumă în pură pierdere. Iată de ce bolnavii pot fi numiți cel mult niște eroi negativi. Fiecare din noi este un „cel ce n’a fost Cezar" deși a îndeplinit toate condițiunile pentru a fi. Înțelegi? A conține toate elementele componente ale unui Cezar și a fi… un bolnav. E forma suprem ironică a eroismului.
+― Pentru a fi un erou, pentru a ajunge la un tel, continuă Quitonce cu o ușoară oboseală în voce, trebue o anumită energie și o anumită voință pentru înfrângerea unui mare număr de dificultăți. Ei bine, orice bolnav dispune de aceasta. În timp de un an de zile un bolnav desfășoară exact atâta energie și voință câtă trebue pentru a cuceri un imperiu… Atât doar că le consumă în pură pierdere. Iată de ce bolnavii pot fi numiți cel mult niște eroi negativi. Fiecare din noi este un „cel ce n’a fost Cezar" deși a îndeplinit toate condițiunile pentru a fi. Înțelegi? A conține toate elementele componente ale unui Cezar și a fi… un bolnav. E forma suprem ironică a eroismului.
 
 Își trecea mâna pe față ca pe o mască. Părea oarecum preocupat de altceva decât de ceea ce vorbește.
 
-— Peste două săptămâni sau o lună, nu știu exact când, va trebui să fiu din nou operat. Va fi a douăsprezecea operație în viața mea… Mi s’au tăiat degete putrede, bucăți de craniu. Uite cicatricele aici… și dincolo… și aici. Ei bine, dacă mi-ar mai trebui pe lângă toate și eroism ca să suport această nouă probă, m’aș sinucide… n’aș rezista…
+― Peste două săptămâni sau o lună, nu știu exact când, va trebui să fiu din nou operat. Va fi a douăsprezecea operație în viața mea… Mi s’au tăiat degete putrede, bucăți de craniu. Uite cicatricele aici… și dincolo… și aici. Ei bine, dacă mi-ar mai trebui pe lângă toate și eroism ca să suport această nouă probă, m’aș sinucide… n’aș rezista…
 
-— Și totuși o vei suporta, spuse Emanuel. — De sigur… de sigur… însă „dincolo” de eroism… nici cu curaj… nici cu speranță… cu nimic.
+― Și totuși o vei suporta, spuse Emanuel. 
+
+― De sigur… de sigur… însă „dincolo” de eroism… nici cu curaj… nici cu speranță… cu nimic.
 
 Păstrez pentru operație sentimentul absolut neutru pe care îl am când beau un pahar de apă… nici curaj nici lașitate… beau un pahar de apă, atâta tot.
 
 Își trecu din nou mâna pe obraz și rămase tăcut cu fața în palmă. În odaie se întunecase dar Emanuel nu vroia să aprindă lumina pentru a nu întrerupe incantația acestui început de prietenie.
 
-— Am făcut totul în viață, spuse din nou Quilonce, am încercat toată gama, dela dureri până la… eram să spun voluptăți… până la prostii… Aprinde puțin!
+― Am făcut totul în viață, spuse din nou Quilonce, am încercat toată gama, dela dureri până la… eram să spun voluptăți… până la prostii… Aprinde puțin!
 
 Scoase din buzunar un portmoneu voluminos și scotoci prin el.
 
-— Uite-te și dumneata la ele…
+― Uite-te și dumneata la ele…
 
 Dete lui Emanuel un pachet de fotografii.
 
@@ -1345,11 +1350,11 @@ Erau toate fotografii pornografice, destul de bine prinse. În toate revenea ace
 
 Emanuel privind mai cu atenție, descoperi că bărbatul hipersexual era chiar Quitonce.
 
-— Îmi regăseam întotdeauna forțele între două operații, explică el. Ce zici? Excitante, nu?
+― Îmi regăseam întotdeauna forțele între două operații, explică el. Ce zici? Excitante, nu?
 
 Emanuel era torturat de o întrebare pe care însă n’o puse. „Oare în timpul actului sexual Quitonce, arunca din picioare ca și atunci când umbla?”. Viziunea unei paiațe deslănțuite frenetic, asvârlind și tremurând din tot corpul în dragoste, era penibilă. Înapoiă fotografiile cu mulțumiri.
 
-— Excitante, hm? mai făcu odată Quitonce, plescăind din limbă.
+― Excitante, hm? mai făcu odată Quitonce, plescăind din limbă.
 
 În noaptea aceea Emanuel fu măcinat de cumplite pofte. Era o suferință unică și teribil de limitată. Sexul se prefăcuse într’o durere vie, într’o aspră tortură interioară a pielei însăși, ce smulgea din pubis, odată cu epuizanta lui virilitate tot restul de calm necesar somnului. Era o supremă trezie adânc înfiptă în carne, un suprem efort prizonier…
 
@@ -1387,15 +1392,15 @@ Emanuel umilit măcina acum o stăpânită dar destul de violentă pornire împo
 
 Ţinea bilețelul desfăcut în mână. Era îmbrăcată cu un pardesiu simplu de voiaj.
 
-— Ești supărat că nu ți-am răspuns imediat? întrebă ea văzându-l îmbufnat.
+― Ești supărat că nu ți-am răspuns imediat? întrebă ea văzându-l îmbufnat.
 
 Emanuel nu răspunse.
 
-— Vin de-a-dreptul dela gară. Am stat la pensiune doar o clipă cât am cetit biletul. Ei iată, chiar în ziua aceea când am plecat de aici, patronul meu a avut chestiuni importante de aranjat la Paris și m’a luat cu dânsul… De cinci zile înnebunesc bătând la mașină contracte și aranjamente… O fabrică de aici din împrejurimi fuzionează cu altele. Imposibil să-ți închipui câte cifre și paragrafe pot conține burțile unor fabricanți…
+― Vin de-a-dreptul dela gară. Am stat la pensiune doar o clipă cât am cetit biletul. Ei iată, chiar în ziua aceea când am plecat de aici, patronul meu a avut chestiuni importante de aranjat la Paris și m’a luat cu dânsul… De cinci zile înnebunesc bătând la mașină contracte și aranjamente… O fabrică de aici din împrejurimi fuzionează cu altele. Imposibil să-ți închipui câte cifre și paragrafe pot conține burțile unor fabricanți…
 
 Vorbea repede ca să-l liniștească pe Emanuel urmărind pe fața lui semnele de înseninare.
 
-— Duminică mi s’au dat două ceasuri libere. Atâta tot. Mi-am cumpărat un sandwich și am intrat într’un cinematograf ca să mă pot distra, odihni și potoli foamea în același scurt interval de timp.
+― Duminică mi s’au dat două ceasuri libere. Atâta tot. Mi-am cumpărat un sandwich și am intrat într’un cinematograf ca să mă pot distra, odihni și potoli foamea în același scurt interval de timp.
 
 Emanuel își simți brusc evaporată toată indiferența aspră ce și-o pregătise pentru dânsa în ultimele zile ca o încărcătură de explozibil. Ar fi vrut să-i apuce mâinile imediat și să i le sărute; să-i spue că o iubește pentru ca momentul acesta anost al oricărui început de dragoste să fie trecut mai repede.
 
@@ -1411,7 +1416,7 @@ Se așeză tot pe pat, lângă dânsul, așa ca înainte cu câteva zile. Vertig
 
 O privi într’o lucidă reverie cum mânca portocala. Cu fiecare gest se desăvârșea plenitudinea simplă a regăsirii. Împărțise fructul în patru și mușca de-a-dreptul din carnea roșie zemoasă, atât de adânc, încât îi rămâneau firișoare albe de coajă printre dinți.
 
-— Iartă-mă că devorez portocala ca o sălbatică, se scuză ea.
+― Iartă-mă că devorez portocala ca o sălbatică, se scuză ea.
 
 Emanuel de câteva minute se simțea copleșit de povara ghipsului. Exact din momentul când îi trecuse prin minte că Solange ar putea fi amanta lui.
 
@@ -1433,7 +1438,7 @@ Apoi, brusc, toate gândurile ancorau stupide în imposibilitatea de a-i apuca m
 
 Solange îl privea nedumerită. Dar când Emanuel o trase spre el înțelese, și se lăsă în voie pe gura lui, fără zbateri și fără nici o protestare. Buzele îi vibrau ușor. Parfumul părului îl ardea pe Emanuel ca și surpriza fascinantă a sărutului, ca și căldura limpede a brațului ei descoperit.
 
-— Știu bine ce fac, murmură ea. Pentru asta am venit.
+― Știu bine ce fac, murmură ea. Pentru asta am venit.
 
 Îl înconjură cu brațele și își lipi obrazul fierbinte de al lui.
 
@@ -1459,7 +1464,7 @@ Aprinse lumina în silă. O disperare amară și istovitoare zumzăia prin cap c
 
 Solange îl mângâiă pe frunte, apoi simțindu-i toată tristețea, își alipi din nou obrazul de al lui.
 
-— Te rog să nu fii trist… Mai mult decât a sta în pat lângă tine, aș vrea să fiu câinele tău și să dorm în pragul ușii. Este tot devotamentul de care mă simt capabilă…
+― Te rog să nu fii trist… Mai mult decât a sta în pat lângă tine, aș vrea să fiu câinele tău și să dorm în pragul ușii. Este tot devotamentul de care mă simt capabilă…
 
 Emanuel simți că o parte din viața lui, liberă și esențială dispăruse dintr’însul, poate pentru totdeauna. În locul ei își făcu loc o amărăciune calmă și dureroasă, ca o nouă lumină interioară plină de tristeți.
 
@@ -1469,7 +1474,7 @@ Emanuel simți că o parte din viața lui, liberă și esențială dispăruse di
 
 Tonio de câteva zile nu-și mai găsea locul în sanatoriu. Umbla zăpăcit prin coridoare cu cămașa desfăcută, trăgând cravata după dânsul ca lațul unui câine. Se apropia ziua plecării d-nei Wandeska.
 
-— Ah! cel puțin dacă aș știe că slăbănogul acela blond care o însoțește pretutindeni nu e amantul ei, spuse el într’o seară lui Ernest.
+― Ah! cel puțin dacă aș știe că slăbănogul acela blond care o însoțește pretutindeni nu e amantul ei, spuse el într’o seară lui Ernest.
 
 Își păstra totuși vechea lui atitudine demnă și indiferentă în sala de mâncare. Venea sprijinindu-se de un singur baston și ridica puțin capul, cu privirile vag distrate când saluta pe d-na Wandeska. Ţinea să-și suporte disperarea cu o mândrie rece și bărbătească. În ochi îi plutea însă toată melancolia nopților nedormite.
 
@@ -1479,7 +1484,7 @@ Tonio de câteva zile nu-și mai găsea locul în sanatoriu. Umbla zăpăcit pri
 
 Emanuel ieșind cu trăsura îl găsea veșnic la o masă în fața unui bar de mâna treia, pe esplanadă, cu ochii rătăciți, în fața unui pahar cu lichid galben pe care îl sorbea cu paiul. S’ar fi părut că e oranjadă, dar era cu totul altceva:
 
-— E o invenție a patronului de aici, bolborosi Tonio, ceva foarte bun… rachiu amestecat cu rom și câteva gălbenușe de ou. Foarte bun și întăritor…
+― E o invenție a patronului de aici, bolborosi Tonio, ceva foarte bun… rachiu amestecat cu rom și câteva gălbenușe de ou. Foarte bun și întăritor…
 
 Era atât de întăritor, încât când se ridica dela masă, abia de se ținea pe picioare.
 
@@ -1487,19 +1492,19 @@ Era atât de întăritor, încât când se ridica dela masă, abia de se ținea 
 
 Într’o după amiază, mai beat ca de obicei, nu se mai putu stăpâni de neliniște. Alergă la Ernest. Îi trecuse prin cap o idee:
 
-— Odaia lui Emanuel nu-i așa? este lipită de odaia d-nei Wandeska?
+― Odaia lui Emanuel nu-i așa? este lipită de odaia d-nei Wandeska?
 
-— Exact, răspunse Ernest.
+― Exact, răspunse Ernest.
 
-— Am văzut în odaia lui Emanuel un dulap, care de sigur ascunde după el o ușă. Ce-ar fi ca diseară?… Înțelegi?
+― Am văzut în odaia lui Emanuel un dulap, care de sigur ascunde după el o ușă. Ce-ar fi ca diseară?… Înțelegi?
 
 Ernest se prefăcu că nu pricepe nimic.
 
-– Ei asta… nu înțelegi? Să merg diseară când vine vărul la dânsa, să dau la o parte dulapul, să ascult la ușă și atunci o să știu cu siguranță dacă…
+― Ei asta… nu înțelegi? Să merg diseară când vine vărul la dânsa, să dau la o parte dulapul, să ascult la ușă și atunci o să știu cu siguranță dacă…
 
 Îi venea greu să-și exprime grozava supoziție eu glas tare, s’o audă spusă de el însuși.
 
-— Ar trebui să-l întrebăm și pe Emanuel, spuse Ernest. Ce crezi?
+― Ar trebui să-l întrebăm și pe Emanuel, spuse Ernest. Ce crezi?
 
 Se duseră în odaia lui dar nu-l găsiră. Era plecat cu trăsura pe plajă.
 
@@ -1519,9 +1524,9 @@ Se întoarse la sanatoriu și se trânti într’un fotoliu din hall.
 
 Trimise un băiat să-i cumpere țigări.
 
-— Ce fel de țigări? întrebă acesta.
+― Ce fel de țigări? întrebă acesta.
 
-— Ia din cele mai proaste, răspunse Tonio.
+― Ia din cele mai proaste, răspunse Tonio.
 
 Era pentru el un gen nou de mortificare.
 
@@ -1541,11 +1546,11 @@ Trebuia deci să mai aștepte câteva minute până ce ea plecă. Intrară în s
 
 Tonio privi lung în urma ei. Vărul o însoțea, lângă căruț, cetind un ziar.
 
-— Ah! salopa! scrâșni el din dinți.
+― Ah! salopa! scrâșni el din dinți.
 
 Avu imediat un regret:
 
-— Te rog să consideri că n’ai auzit ceea ce am spus…
+― Te rog să consideri că n’ai auzit ceea ce am spus…
 
 Și își mușcă ușor buzele, pentru a repune sângele în circulație.
 
@@ -1553,17 +1558,17 @@ Avu imediat un regret:
 
 Seara, îndată după masă, veni la Emanuel în odaie. Se ostenise grozav toată ziua și trebuia acum să umble cu cârjele. Dădu încet la o parte dulapul, dar când isprăvi treaba asta apăru decepționat:
 
-— Să ascult pe la uși… Ah! nu! Asta niciodată!…
+― Să ascult pe la uși… Ah! nu! Asta niciodată!…
 
 Plecă fără să spună „bună seara” dar nu făcu decât câțiva pași pe coridor și se întoarse în odae. Se stabili o tăcere penibilă. Emanuel luă o carte, o deschise vag și se înfundă întrânsa. Ascensorul funcționa urcând bolnavii. Se auzea mârâitul lui înfundat, apoi pauzele la etaje când se oprea.
 
 Acum ascensorul se opri din nou la al treilea. Era de astădată d-na Wandeska. Căruțul ei avea un ușor scârțâit pe care Emanuel îl recunoscu imediat. Identificase în sanatoriu toate sgomotele. Cunoștea perfect pasul de santinelă al brancardierilor și cel secret, în vârful tălpilor, al infirmierelor… Cunoștea roțile neunse ale fiecărui căruț. Alături se auzea acum fiecare mișcare…
 
-— E singură deocamdată, spuse Tonio. Încercă să ridice capul să-l privească pe Emanuel în ochi dar scoborî repede privirea… Emanuel stinse lumina.
+― E singură deocamdată, spuse Tonio. Încercă să ridice capul să-l privească pe Emanuel în ochi dar scoborî repede privirea… Emanuel stinse lumina.
 
-— Da, mai bine, șopti Tonio. Ce mârșăvie să stai și să asculți pe la uși…
+― Da, mai bine, șopti Tonio. Ce mârșăvie să stai și să asculți pe la uși…
 
-— Sst…. taci!… îl întrerupse Emanuel.
+― Sst…. taci!… îl întrerupse Emanuel.
 
 Intrase femeia de serviciu. Se auzea cum o desbracă încet pe d-na Wandeska vorbindu-i în șoaptă. În întuneric fiecare sgomot se detașa bine conturat: cădea acum rochia pe un scaun, era foșnetul cămășii de noapte, o carte luată de pe masă și pusă mai aproape… Apoi fata ieși și se făcu din nou liniște. Emanuel și Tonio rămaseră tăcuți în obscuritate. Cât timp stătură astfel? Trecură câteva minute sau poate mai mult, o jumătate de ceas.
 
@@ -1571,11 +1576,11 @@ Cineva veni alături până la ușă.
 
 Atenția celor doi crescu imensă. Emanuel simțea cum i se sbate pulsul în palmele închise.
 
-— E dânsul, murmură Tonio.
+― E dânsul, murmură Tonio.
 
 Câteva lovituri discrete în ușă, apoi cineva intră. Se auziră câteva șoapte nedeslușite.
 
-— Da, închide… spuse tare d-na Wandeska și cheia se întoarse alături în broască.
+― Da, închide… spuse tare d-na Wandeska și cheia se întoarse alături în broască.
 
 Acum se stabili o nouă tăcere.
 
@@ -1593,15 +1598,15 @@ Emanuel simți în întuneric mâna fierbinte pusă brusc, greu, pe a sa.
 
 Câteva noi foșnete veniră de alături, câteva mișcări sacadate și apoi tăcere… trupuri care înlănțuite se strâng… se sbat, gemete, poate… Era oare adevărat? Un sgomot mai puternic îi trezi… Pași, apoi o cană cu apă vărsată brusc într’un lighian. Un sgomot real ca o izbucnire a încordării lor.
 
-— Mă duc la ei, spuse Tonio aiurit și se ridică. Emanuel nu-și putea închipui că într’adevăr va îndrăzni, dar îl auzi pe argentinian luându-și cârjele.
+― Mă duc la ei, spuse Tonio aiurit și se ridică. Emanuel nu-și putea închipui că într’adevăr va îndrăzni, dar îl auzi pe argentinian luându-și cârjele.
 
 Dibuind cu mâna întinsă Emanuel izbuti să apuce o cârpă, Tonio încercă să i-o smulgă.
 
-— Tonio, liniștește-te, așteaptă, murmură Emanuel și nu știa ce să-i spue pentru a-l calma.
+― Tonio, liniștește-te, așteaptă, murmură Emanuel și nu știa ce să-i spue pentru a-l calma.
 
 Totul se auzise de alături atât de clar…
 
-— Mă duc la dânșii, șopti Tonio halucinat. Să-i văd cum arată goi.
+― Mă duc la dânșii, șopti Tonio halucinat. Să-i văd cum arată goi.
 
 Apucă puternic cârja și i-o trase din mână. Apoi ieși, lăsând ușa deschisă.
 
@@ -1613,25 +1618,25 @@ Apoi bătu violent în ușă.
 
 În tăcere, loviturile izbucniră teribile.
 
-— Cine-i? întrebă speriată vocea d-nei Wandeska.
+― Cine-i? întrebă speriată vocea d-nei Wandeska.
 
 Emanuel aștepta înfrigurat răspunsul lui Tonio, dar acesta parcă se înnecase cu vorbele în gât; nu izbutea să le articuleze. Bătu din nou.
 
-— Cine-i? Cine-i? Ce este…
+― Cine-i? Cine-i? Ce este…
 
-— Eu, Tonio… am venit să vă spun „bună seara…”.
+― Eu, Tonio… am venit să vă spun „bună seara…”.
 
-— Ah! m’ai speriat îngrozitor, se auzi din nou vocea d-nei Wandeska. Pentru ce atâta sgomot? Ce s’a întâmplat?
+― Ah! m’ai speriat îngrozitor, se auzi din nou vocea d-nei Wandeska. Pentru ce atâta sgomot? Ce s’a întâmplat?
 
-— Deschideți, urlă aproape Tonio.
+― Deschideți, urlă aproape Tonio.
 
-— Îndată… o minută… așteaptă.
+― Îndată… o minută… așteaptă.
 
 În odaie, alături, se aranjau repede lucruri răvășite și apoi deodată se auzi cum cheia se învârte în broască și cum ușa se deschide.
 
 Urmară câteva momente de stupefacție și de vibrantă nerăbdare pentru Emanuel.
 
-— Bună seara… am venit să vă spun bună seara, se auzea acum vorbind Tonio în odaia vecină, dar cu o voce atât de schimbată și de confuză de parcă ar fi primit o lovitură teribilă în creștet. D-na Wandeska îi spunea ceva…
+― Bună seara… am venit să vă spun bună seara, se auzea acum vorbind Tonio în odaia vecină, dar cu o voce atât de schimbată și de confuză de parcă ar fi primit o lovitură teribilă în creștet. D-na Wandeska îi spunea ceva…
 
 În locul scandalului la care se aștepta, Emanuel nu asculta decât o conversație în șoaptă, foarte calmă.
 
@@ -1639,17 +1644,17 @@ De altfel Tonio părăsi îndată odaia și se întoarse. Emanuel aprinse lumina
 
 Îl privi pe Emanuel ca trezit atunci din somn.
 
-— Ce a fost?
+― Ce a fost?
 
 Dar Tonio nu mai putea vorbi.
 
 Într’un sfârșit mormăi ceva neinteligibil:
 
-— Era acolo infirmiera… îi face toaleta săptămânală… ca la toți bolnavii… asta erau sgomotele ce le auzeam… apa turnată… Tot ce am luat noi drept… nu era decât asta… toaleta… clipoceala apei cu care o spală… infirmiera…
+― Era acolo infirmiera… îi face toaleta săptămânală… ca la toți bolnavii… asta erau sgomotele ce le auzeam… apa turnată… Tot ce am luat noi drept… nu era decât asta… toaleta… clipoceala apei cu care o spală… infirmiera…
 
 Rămase cu privirile în gol, zăpăcit și cumplit de rușinat. Apoi, brusc, cu o violență ce nimic n’o făcea de presimțit în trupul lui flasc și ostenit începu să-și bată cu o cârjă în cap, din ce în ce mai tare:
 
-— Sunt un mârșav! murmură el. Sunt un mârșav!…
+― Sunt un mârșav! murmură el. Sunt un mârșav!…
 
 <hr>
 
@@ -1661,7 +1666,7 @@ De multe ori se opreau la hanuri de țară cu crâșmărițe rumene îmbrăcate 
 
 Într’un rând cerură la o cârciumă pierdută în tufișuri și mărăcini, cafea cu lapte și li se aduse lichidul fierbinte, aburind, în două farfurii mari de supă, pe o tavă, cu două linguri alături. Emanuel se miră oarecum de această prezentare,
 
-— Așa mâncăm noi cafeaua pe aici, spuse proprietarul, un țăran tot atât de rud și de sălbăticit ca și locul pustiu unde își ținea hanul. Punem înăuntru și bucăți de pâine…
+― Așa mâncăm noi cafeaua pe aici, spuse proprietarul, un țăran tot atât de rud și de sălbăticit ca și locul pustiu unde își ținea hanul. Punem înăuntru și bucăți de pâine…
 
 Aduse două felii de pâine sgrunțuroasă pe care Emanuel și Solange le rupseră în bucăți și le muiară în farfuriile cu cafea.
 
@@ -1673,15 +1678,15 @@ Solange le apuca atunci și le ducea sub flaneaua ei, sub cămașă, lipite de c
 
 Căldura se insinua în șuvițe fine ca o revărsare apoasă prin degete în tot trupul. Comunicau astfel prin sânge și fierbințeală cu dânsa, până în străfunduri organice întunecoase. Contactul acesta le unifica circulația și Emanuel regăsea pulsul lui în bătăile inimei ei. O atrăgea spre dânsul și o săruta pe păr. Își rezema capul de ea și îi aspira parfumul cald, femenin, de lavandă. Era un animal tot atât de splendid ca și calul lui, la care ținea mai mult decât la orice și i-o spunea:
 
-— Ești tot atât de frumoasă ca și Blanchette…
+― Ești tot atât de frumoasă ca și Blanchette…
 
 Iapa auzindu-și numele întorcea capul. Era un animal de rasă normandă cu părul aspru în smocuri la copite, cu o coamă scurtă și dură ca o perie. Emanuel nu-i vedea, dela locul lui, decât сruра puternică, dar o striga pe nume și atunci răsucea capul privindu-l cu ochi mari melancolici de om plictisit care cere o țigară (și era regretabil că nu fumează, ar fi fost atât de natural pentru un cal să ție o pipă între dinți). Emanuel îi trimitea prin Solange bucăți de zahăr și Blanchette le apuca cu buzele ei lătărețe și negre, adulmecând palma întinsă.
 
-— Ești tot atât de frumoasă ca și dânsa… ai o crupă tot atât de lată și de admirabilă, spunea el Solangei. Apoi îi aluneca mâna sub rochie și îi mângâia coapsele, pulpele fierbinți și spatele plin, scobitura lombară și, mai jos, plenitudinea crupei ei de cal tânăr.
+― Ești tot atât de frumoasă ca și dânsa… ai o crupă tot atât de lată și de admirabilă, spunea el Solangei. Apoi îi aluneca mâna sub rochie și îi mângâia coapsele, pulpele fierbinți și spatele plin, scobitura lombară și, mai jos, plenitudinea crupei ei de cal tânăr.
 
-— Și pe cine iubești mai mult? întrebă Solange.
+― Și pe cine iubești mai mult? întrebă Solange.
 
-— Vă iubesc pe amândouă la fel… — Și noi tot așa, răspunse Solange accentuând pe acest „noi” care o solidariza animalicește cu Blanchette.
+― Vă iubesc pe amândouă la fel… — Și noi tot așa, răspunse Solange accentuând pe acest „noi” care o solidariza animalicește cu Blanchette.
 
 Emanuel o culca lângă dânsul pe gutieră, o ținea lipită de el, apoi se răsucea, sdrobind-o sub apăsarea trupului și a ghipsului. Acum se obișnuise cu corsetul, făcea multe mișcări pe care nu le-ar fi bănuit posibile. Solange gemea încetișor de plăcere și de apăsarea greoaie ce suporta. În unele locuri, ghipsul îi intra în coapse și ea simțea durerea amestecată cu extasul iubirii, ca o amară realitate a amorului lor aspru săvârșit în aerul imens din dune, înconjurați de sălbăticiunea imensă a locurilor.
 
@@ -1705,27 +1710,27 @@ Emanuel și Solange părăseau locul cu sufletul ostenit de frumusețe.
 
 Îl găsi pe Quitonce în pat, puțin palid, înfășurat până la gât în tifon alb.
 
-— M’au spălat, m’au ras peste tot, m’au uns cu iod și m’au înfășurat în bandelete ca pe o mumie, spuse Quitonce. Iată-mă sunt pregătit pentru eventualul rol de cadavru…
+― M’au spălat, m’au ras peste tot, m’au uns cu iod și m’au înfășurat în bandelete ca pe o mumie, spuse Quitonce. Iată-mă sunt pregătit pentru eventualul rol de cadavru…
 
-— Taci, nu mai vorbi astfel, îl mustră Eva.
+― Taci, nu mai vorbi astfel, îl mustră Eva.
 
 Se învârtea prin odaie căutându-și de lucru, aliniind cărțile pe etajeră, scuturând de pe ele un praf imaginar, ca și cum odaia ar fi trebuit pregătită pentru o operație ce ar fi avut ea însăși de suportat.
 
 Înainte de a părăsi încăperea, se mai apropie odată de patul lui Quitonce:
 
-— Te simți bine? Ți-e foame? Sete?
+― Te simți bine? Ți-e foame? Sete?
 
-— Cred că mi-e mai mult foame… răspunse Quitonce care postea în ziua aceea. Ce mai întrebi? se răsti el. Îl oboseau grozav toate precauțiunile din preajma operației, toate analizele ce trebuiau făcute, dar mai ales aerul funebru și preocupat pe care îl luau în fața lui infirmierele și doctorul. Îndată ce Eva părăsi odaia, respiră ușurat. Se ridică în perne sprijinindu-se pe coate.
+― Cred că mi-e mai mult foame… răspunse Quitonce care postea în ziua aceea. Ce mai întrebi? se răsti el. Îl oboseau grozav toate precauțiunile din preajma operației, toate analizele ce trebuiau făcute, dar mai ales aerul funebru și preocupat pe care îl luau în fața lui infirmierele și doctorul. Îndată ce Eva părăsi odaia, respiră ușurat. Se ridică în perne sprijinindu-se pe coate.
 
-— Toată dragostea asta fierbinte ce mi-o arată își are rostul ei… Eva ar vrea să-i las moștenire gramofonul, a pus ochii pe el… Ţi-o spun eu, puțin îi pasă dacă îmi este sete ori foame, ori dacă mă doare capul. Vrea gramofonul și se epuizează în devotamente inutile. E un joc cunoscut…
+― Toată dragostea asta fierbinte ce mi-o arată își are rostul ei… Eva ar vrea să-i las moștenire gramofonul, a pus ochii pe el… Ţi-o spun eu, puțin îi pasă dacă îmi este sete ori foame, ori dacă mă doare capul. Vrea gramofonul și se epuizează în devotamente inutile. E un joc cunoscut…
 
 Quitonce își stăpânea o calmă nervositate interioară. Toată iritația i se scurgea ca un curent electric prin vârful degetelor ce tremurau ușor.
 
-— E imposibil să tratezi în mod sigur cu fatalitatea, spuse el schimbând tonul și subiectul conversației. De aseară mă căznesc să aflu care sunt posibilitățile mele de scăpare, mâine.
+― E imposibil să tratezi în mod sigur cu fatalitatea, spuse el schimbând tonul și subiectul conversației. De aseară mă căznesc să aflu care sunt posibilitățile mele de scăpare, mâine.
 
 Apucă de pe măsuță un dicționar și îl deschise la întâmplare. 1257, ceti el în capul paginei. Și începu să adune cifrele. Unu și cu doi fac trei… și cu cinci fac opt… și cu șapte, cincisprezece… adică cinci, indecis. Aș vrea să-mi iasă în șir de trei ori mai mult de cinci, ori mai puțin… dar să știu ce-i cu mine, crăp sau scap. De aseară îmi ies tot rezultate de astea… șase… patru… apoi, iar cinci… E grozav lucru când fatalitatea oscilează într’un interval atât de scurt… S’ar zice că tremură…
 
-— În fond, reluă Quitonce, e teoretic imposibil să pot căpăta vreun pronostic sigur… Chiar dacă asemenea previziuni ar putea fi exacte, gândește-te câți Quitonce ca mine așteaptă poate în seara asta operația de a doua zi? Câți bolnavi ca mine n’or fi prin lume, încercând și ei să afle cu o clipă mai de vreme verdictul? Și atunci, împărțită la atâtea persoane, orice profeție devine imprecisă… O previziune prea mult diluată se face apoasă…
+― În fond, reluă Quitonce, e teoretic imposibil să pot căpăta vreun pronostic sigur… Chiar dacă asemenea previziuni ar putea fi exacte, gândește-te câți Quitonce ca mine așteaptă poate în seara asta operația de a doua zi? Câți bolnavi ca mine n’or fi prin lume, încercând și ei să afle cu o clipă mai de vreme verdictul? Și atunci, împărțită la atâtea persoane, orice profeție devine imprecisă… O previziune prea mult diluată se face apoasă…
 
 În odae era liniște și puțin frig.
 
@@ -1733,15 +1738,15 @@ Ușa din spre terasă rămăsese deschisă și venea de afară răcoarea nopții
 
 Emanuel nu înțelese ce se petrece. Quitonce râdea mereu și cetea lucruri absurde. După câteva minute, se uită din nou afară și închise dicționarul satisfăcut:
 
-— Așa, bun! Acum a plecat! Credeai oare am înnebunit? Vezi acolo în întuneric o pată rectangulară de lumină?
+― Așa, bun! Acum a plecat! Credeai oare am înnebunit? Vezi acolo în întuneric o pată rectangulară de lumină?
 
 Îi arătă în obscuritate punctul exact.
 
-— E reflexul ușii noastre deschise în geamurile terasei, continuă el. Am observat deodată o umbră alunecând. Cineva venea pe afară să audă ce vorbim…
+― E reflexul ușii noastre deschise în geamurile terasei, continuă el. Am observat deodată o umbră alunecând. Cineva venea pe afară să audă ce vorbim…
 
 Și grozav de amuzat de descoperire:
 
-— Era Eva infirmiera… veșnic Eva… care voia să tragă cu urechea dacă nu cumva te-am chemat ca să-ți vând gramofonul. Atunci am început a ceti din dicționar ca s’o satur de spionaj… Eu cred că nu doarme noaptea de grija gramofonului.
+― Era Eva infirmiera… veșnic Eva… care voia să tragă cu urechea dacă nu cumva te-am chemat ca să-ți vând gramofonul. Atunci am început a ceti din dicționar ca s’o satur de spionaj… Eu cred că nu doarme noaptea de grija gramofonului.
 
 Îi explică apoi în detaliu operația de a doua zi: era vorba de extras o tumoare care se formase într’o vertebră și care apăsând pe măduva spinării provoca toate desordinele din picioare, când umbla. Operație extrem de delicată… trebuia intervenit cu infinite precauțiuni pentru a nu leza măduva spinării și a nu produce în organism turburări mai grave poate.
 
@@ -1749,13 +1754,13 @@ Emanuel găsi că o vizită prea lungă ar putea să-l obosească pe Quitonce. �
 
 Chiar atunci însă intră în odaie un domn în vârstă, mărunt, cu un barbișon alb și ochelari cu ramă fină de aur.
 
-— Am uitat să-ți spun că părinții mei sunt aici în vederea operației. Mai stai câteva minute, spuse Quitonce.
+― Am uitat să-ți spun că părinții mei sunt aici în vederea operației. Mai stai câteva minute, spuse Quitonce.
 
 Veni și mama lui, o bătrână demnă cu părul complet alb, coafat înalt ca o perucă. Inginerul se interesă de boala lui Emanuel.
 
 Îl încurajă cu vorbe blânde, înțelegătoare, apoi vorbi de băiatul lui:
 
-— Și ăsta o să se vindece, spuse el arătându-l pe fiul său în pat. Da… da… sunt sigur… Totul în viața mea mi-a reușit… tot ce-am întreprins… Am făcut lucruri îndrăznețe în care nu credea nimeni. Am executat poduri pe care când trec elevii mei își scot pălăria. Da… își scot pălăria… Vezi, numai când a fost vorba de vertebrele băiatului meu, s’au impotinolit lucrurile… Dar o să scape! Vă dau intâlnire la amândoi de azi într’un an la Paris, în cel mai elegant restaurant. Facem atunci un chef zdravăn. Tata Quitonce plătește…
+― Și ăsta o să se vindece, spuse el arătându-l pe fiul său în pat. Da… da… sunt sigur… Totul în viața mea mi-a reușit… tot ce-am întreprins… Am făcut lucruri îndrăznețe în care nu credea nimeni. Am executat poduri pe care când trec elevii mei își scot pălăria. Da… își scot pălăria… Vezi, numai când a fost vorba de vertebrele băiatului meu, s’au impotinolit lucrurile… Dar o să scape! Vă dau intâlnire la amândoi de azi într’un an la Paris, în cel mai elegant restaurant. Facem atunci un chef zdravăn. Tata Quitonce plătește…
 
 Optimismul bătrânului se pierdea in liniștea odăii ca un mecanism ce funcționa în vid.
 
@@ -1769,11 +1774,11 @@ Mama lui Quitonce se plimba prin odaie preocupată și gravă, ascultând conver
 
 Câțiva marinari veniră din spre oraș și începură îndată lucrul. Marea urca în flux și ei se apucară să-și împingă corăbiile în apă, pentru a porni în larg la pescuit.
 
-— Heer! Uuup! strigau ei ritmic și prelungit, trăgând de frânghiile legate de enormele bărci cu pânze. Era o muncă îngrozitor de grea. Corăbiile alunecau cu dificultate pe nisip; mușchii oamenilor se încordau gata să plesnească. — Heer! Uuup! strigau ei și în urmă carenele lăsau în nisip șanțuri adânci ca tăiate cu plugul.
+― Heer! Uuup! strigau ei ritmic și prelungit, trăgând de frânghiile legate de enormele bărci cu pânze. Era o muncă îngrozitor de grea. Corăbiile alunecau cu dificultate pe nisip; mușchii oamenilor se încordau gata să plesnească. — Heer! Uuup! strigau ei și în urmă carenele lăsau în nisip șanțuri adânci ca tăiate cu plugul.
 
 Emanuel se plimbă cu trăsura singur de-alungul plajei.
 
-— Ce face oare el în minutul acesta precis? Era ora când Quitonce de sigur se găsea în sala de operație. În momentul acesta când eu, liber, stau si privesc marea… Ce bisturiu i-a intrat oare acum adânc în carne?
+― Ce face oare el în minutul acesta precis? Era ora când Quitonce de sigur se găsea în sala de operație. În momentul acesta când eu, liber, stau si privesc marea… Ce bisturiu i-a intrat oare acum adânc în carne?
 
 Simți brusc perfecta inutilitate a acestei zile splendide.
 
@@ -1785,13 +1790,13 @@ Se terminase oare operația atât de repede?
 
 Emanuel le făcu semn cu mâna și schiță un surâs. Oricum, dar era mai ușor de suportat gândul că totul se terminase decât acea chinuitoare și interminabilă așteptare. Zâmbetul lui nu întâlni însă decât tristețea de pe fața bătrânilor.
 
-— S’a terminat? întrebă Emanuel. Ce spun doctorii? Și cum se simte el?
+― S’a terminat? întrebă Emanuel. Ce spun doctorii? Și cum se simte el?
 
-— Îl operează chiar acum, răspunse inginerul privindu-și ca hipnotizat vârful degetelor.
+― Îl operează chiar acum, răspunse inginerul privindu-și ca hipnotizat vârful degetelor.
 
 Emanuel rămase stupefiat.
 
-— Credeam că… în fine… nu știam, murmură el confuz.
+― Credeam că… în fine… nu știam, murmură el confuz.
 
 În acest timp bătrânica apucă din nou mâna soțului ei ca să-și continue plimbarea. — Hai, Quitonce… îi spuse ea. Era un obiceiu franțuzesc pe care îl observase adesea Emanuel, destul de impresionant, deferența aproape umilă cu care femeile mai în vârstă se adresau bărbaților lor pe numele de familie, ca unor străini, Hai Quitonce…
 
@@ -1799,7 +1804,7 @@ Emanuel rămase stupefiat.
 
 În zadar, întors la clinică, Emanuel încercă să afle ceva dela infirmiere și brancardieri. Aveau toți același răspuns stereotip.
 
-— E bine… e foarte bine, ca o parolă de abrutizare a bolnavilor și o formulă comodă și mediocră pentru a le ascunde știrile neplăcute.
+― E bine… e foarte bine, ca o parolă de abrutizare a bolnavilor și o formulă comodă și mediocră pentru a le ascunde știrile neplăcute.
 
 Câteva zile trecură astfel fără vești precise și sigure. Emanuel, dimineața, când era condus la masă trecea cu căruțul prin fața odăii lui Quitonce unde un covor gros fusese întins pe jos pentru a amortiza zgomotele de pe coridor. În odaie domnea perfectă tăcere și nu răzbătea afară nicio mișcare.
 
@@ -1809,11 +1814,11 @@ Câteva zile trecură astfel fără vești precise și sigure. Emanuel, diminea�
 
 Era singur în odaie, așteptând vizita.
 
-— Ce mai faci?… murmură el slab, apăsând pe fiecare cuvânt.
+― Ce mai faci?… murmură el slab, apăsând pe fiecare cuvânt.
 
 Emanuel nu avu curajul să răspundă „bine" și nici să-l întrebe la rândul lui cum se simte, tăcu.
 
-— Cât mă privește pe mine, urmă penibil de greu Quitonce, cred că eu mă duc… aș scăpa poate, dacă… mi-ar face… mai multe… mai multe injecții pe zi… ulei camforat, asta îmi trebue, dar nu vor… sunt toți… toți… toți… niște porci, da… porci… porci…
+― Cât mă privește pe mine, urmă penibil de greu Quitonce, cred că eu mă duc… aș scăpa poate, dacă… mi-ar face… mai multe… mai multe injecții pe zi… ulei camforat, asta îmi trebue, dar nu vor… sunt toți… toți… toți… niște porci, da… porci… porci…
 
 Îl înneca astma mai tare ca de obiceiu și tușea din când în când sec cu un sgomot scurt și uscat venind din piept ca zangătul unui obiect spart. Se agăța de câte un cuvânt și îl repeta, obsedat și distrat de el, până ce își reamintea brusc de restul frazei ce avea de spus.
 
@@ -1821,7 +1826,7 @@ Emanuel nu avu curajul să răspundă „bine" și nici să-l întrebe la rându
 
 Și nimic nu l-ar fi putut convinge de contrariul.
 
-— Totul durează o minută… stai…
+― Totul durează o minută… stai…
 
 Pentru a vedea mai bine, infirmiera luă jos vălul de pe lampă. Se făcu în odaie deodată lumină și apărură în plină evidență toată desordinea și murdăria dintr’însa. Zăceau pe jos bucăți de vată și hârtii mototolite, iar pe masă sticlele de medicamente se amestecau cu diferite cutii și prafuri.
 
@@ -1835,27 +1840,27 @@ Cu stupoare privea sexul acela umil și sgribulit, masculinitatea aceea închirc
 
 Infirmiera înfipse acul în pulpă și pielea se umflă palidă și moale, fără sânge într’insa. Când termină, examină pansamentul și puse într’un loc o compresă de tifon ca să-l acopere mai bine.
 
-— Crezi că era nevoie de tifonul ăsta? spuse Quitonce îndată ce Eva fu plecată. Așa vine ea să controleze lucruri imaginare… numai să-mi arate că mi-e devotată… ah, gramofonul!…
+― Crezi că era nevoie de tifonul ăsta? spuse Quitonce îndată ce Eva fu plecată. Așa vine ea să controleze lucruri imaginare… numai să-mi arate că mi-e devotată… ah, gramofonul!…
 
 Emanuel vru să plece, dar Quitonce ridică capul din perne ca și cum ar fi avut să-i spue ceva important.
 
-— Aș vrea să-i dau ceva ca amintire dela mine… ca să păstrezi un semn… dela Quitonce…
+― Aș vrea să-i dau ceva ca amintire dela mine… ca să păstrezi un semn… dela Quitonce…
 
 Cu mâna lui slabă controbăi în saltar și scoase un pachețel învelit în hârtie.
 
-— M’am gândit mai întâi la niște fotografii, știi care… dar mi-am zis apoi că e prea dureros să te uiți la un om care face porcării… pe fotografie… în timp ce știi că zace în mormânt…
+― M’am gândit mai întâi la niște fotografii, știi care… dar mi-am zis apoi că e prea dureros să te uiți la un om care face porcării… pe fotografie… în timp ce știi că zace în mormânt…
 
 Îl înneca mai tare tusea, poate de oboseală, poate de emoție. Întinse hârtia lui Emanuel și acesta o desfăcu.
 
 Ce putea fi bucățica aceasta dinăuntru? Era oare o așchie de lemn, ori o pietricică ?
 
-— Este o bucățică de os din vertebra mea… îl lămuri Quitonce. Am rugat pe subchirurg să mi-o pue deoparte… poți s’o iei în mână… nu-ți fie frică… e desinfectată… e spălată și răspălată cu alcool… Să te gândești la mine când o să te uiți la ea…
+― Este o bucățică de os din vertebra mea… îl lămuri Quitonce. Am rugat pe subchirurg să mi-o pue deoparte… poți s’o iei în mână… nu-ți fie frică… e desinfectată… e spălată și răspălată cu alcool… Să te gândești la mine când o să te uiți la ea…
 
 Emanuel era prea emoționat pentru a răspunde ceva: îi svâcneau tâmplele cu putere și dacă n’ar fi venit în acel moment brancardierul să-l ia, poate ar fi leșinat acolo, în odaia îmbâcsită cu miros de valeriană.
 
 Câteva zile după această întâmplare, îl întâlni pe tatăl lui Quitonce în grădină. Veni el singur să-i dea vești noi.
 
-— E mai bine, spuse el… mult mai bine… Azi dimineață s’a ras… semn bun a spus doctorul. Poate că peste o săptămână o să vină din nou în sala de mâncare, adaugă bătrânelul, cu un accent de vădită bucurie în glas.
+― E mai bine, spuse el… mult mai bine… Azi dimineață s’a ras… semn bun a spus doctorul. Poate că peste o săptămână o să vină din nou în sala de mâncare, adaugă bătrânelul, cu un accent de vădită bucurie în glas.
 
 <hr>
 
@@ -1863,7 +1868,7 @@ Quitonce muri cu două zile înainte de Crăciun, în hohote de râs. Boala îș
 
 Emanuel vorbi cu doctorul în această privință a doua zi:
 
-— Câteodată durerea se înșeală, îi explică doctorul Cériez. În loc să aprindă un țipăt, aprinde un acces de ilaritate pe același traiect nervos… S’ar zice o mână invizibilă care se înșeală de comutator… Este același curent ce se scurge, dar care ajungând la capăt se transformă într’un hohot de râs în loc să se transforme într’o grimasă de durere…
+― Câteodată durerea se înșeală, îi explică doctorul Cériez. În loc să aprindă un țipăt, aprinde un acces de ilaritate pe același traiect nervos… S’ar zice o mână invizibilă care se înșeală de comutator… Este același curent ce se scurge, dar care ajungând la capăt se transformă într’un hohot de râs în loc să se transforme într’o grimasă de durere…
 
 Înmormântarea se făcu cu discreția ce se obișnuia în sanatoriu întotdeauna în asemenea cazuri. În zorii zilei un camion porni cu cadavrul spre cimitirul orașului. Îl îngropară la Berck, așa cum lăsase dorința în scris.
 
@@ -1877,15 +1882,15 @@ Emanuel lângă fereastră privea în grădină. Se vedea perfect dela geamul lu
 
 Ernest veni pe la ora patru să-i facă o vizită. Avea cearcăne de nesomn la ochi și părea foarte obosit. Veghiase două nopți la rând pe Quitonce și însoțise în zori sicriul la cimitir. Se uită pe fereastră și o zări pe Eva furioasă ținând în mână cu desgust o saltea:
 
-— E supărată rău de tot, murmură el. Quitonce i-a făcut-o! A lăsat în scris ca gramofonul să fie dat copiilor, în dormitorul lor pentru ca să aibă și ei o distracție…
+― E supărată rău de tot, murmură el. Quitonce i-a făcut-o! A lăsat în scris ca gramofonul să fie dat copiilor, în dormitorul lor pentru ca să aibă și ei o distracție…
 
 Chiar în acel moment izbucni de pe terasa copiilor sgomotul formidabil al unui marș militar cântat de gramofon. Infirmiera aruncă o privire teribilă în direcția aceea și svârli jos salteaua care o ținea în mână. Poate că și în jurase.
 
-— E galbenă de ciudă, remarcă Emanuel.
+― E galbenă de ciudă, remarcă Emanuel.
 
 Ernest îi povesti apoi câteva detalii dela înmormântare. Plouase incontinuu și groapa era pe jumătate plină de apă. Sicriul fusese descoperit și fu băgat înăuntru, cadavrul intră în morcilă aproape în întregime, cufudându-se în noroiu. În zadar Quitonce avusese în viață precauțiunea de a-și păstra în dulap un frumos costum de haine negre, anume pentru această ultimă întrebuințare Apa făcuse leoarcă hainele și le umpluse cu tină.
 
-— Apoi, nu știu cine, mi se pare tatăl lui, a aruncat în groapă un buchet de flori, adăugă Ernest. Și buchetul începu să plutească deasupra băltoacei.
+― Apoi, nu știu cine, mi se pare tatăl lui, a aruncat în groapă un buchet de flori, adăugă Ernest. Și buchetul începu să plutească deasupra băltoacei.
 
 Emanuel își acoperi ochii cu mâna și se înfundă în perne. Îi mai persista în minte imaginea ultimă a lui Quitonce ca o realitate foarte sigură, dar acum foarte îndepărtată și dureros de insesizabilă.
 
@@ -1899,9 +1904,9 @@ Câteodată cerul se făcea negru, de cărbune, apoi se lichefia în mase de nor
 
 Ernest veni să ciocnească un pahar de vin cu Emanuel și Solange…
 
-— E al șaselea Crăciun pe care îl petrec în sanatoriu, spuse el.
+― E al șaselea Crăciun pe care îl petrec în sanatoriu, spuse el.
 
-— Și la mine abia întâiul, răspunse Emanuel trist.
+― Și la mine abia întâiul, răspunse Emanuel trist.
 
 În aceeași seară bolnavii fură conduși la biserică, la liturghia dela miezul nopții. Solange ținea să împingă chiar ea căruțul lui Emanuel. Plimbarea nocturnă pe ploaie îi făcu bine. De mult nu mai văzuse străzile unui oraș noaptea în ploaie. Asfaltul strălucea ca o piele întinsă; felinarele scurgeau în el șuvițe tremurătoare de palidă electricitate…
 
@@ -1915,25 +1920,25 @@ Emanuel, la întoarcere, invită în odaia lui pe Ernest și Solange. Destupară
 
 Ernest ridică paharul.
 
-— În sănătatea oamenilor sănătoși! spuse el vesel.
+― În sănătatea oamenilor sănătoși! spuse el vesel.
 
-— Și bolnavii? întrebă Solange.
+― Și bolnavii? întrebă Solange.
 
-— Bolnavii n’au nevoie de sănătate, continuă Ernest pe același ton. Ei se simt foarte bine pe gutiere, așa cum stau întinși, conduși în toate părțile, ieșind la plimbare cu trăsura… fericiți într’adevăr, deplin fericiți…
+― Bolnavii n’au nevoie de sănătate, continuă Ernest pe același ton. Ei se simt foarte bine pe gutiere, așa cum stau întinși, conduși în toate părțile, ieșind la plimbare cu trăsura… fericiți într’adevăr, deplin fericiți…
 
-— Crezi? întrebă sceptic Emanuel.
+― Crezi? întrebă sceptic Emanuel.
 
-— De sigur, răspunse Ernest. Mai tragică este situația mea care-s vindecat și voi trebui în curând să reintru în viața de toate zilele. Voi avea în continuu nevoie de a fi sănătoși, în timp ce pe gutieră îmi puteam permite să am într’o seară febră și altădată vărsături…
+― De sigur, răspunse Ernest. Mai tragică este situația mea care-s vindecat și voi trebui în curând să reintru în viața de toate zilele. Voi avea în continuu nevoie de a fi sănătoși, în timp ce pe gutieră îmi puteam permite să am într’o seară febră și altădată vărsături…
 
 Bău aproape tot paharul de vin și deveni vorbăreț.
 
-— Ce pot face în viața cotidiană? Ce lucru
+― Ce pot face în viața cotidiană? Ce lucru
 
 uimitor, extraordinar, poate ea conține pentru mine? În fiecare zi mă voi spăla pe dinți, voi mânca la prânz și voi lua cafeaua cu lapte seara, indiferent dacă undeva se va fi întâmplat în timpul zilei o catastrofă de cale ferată, ori cineva în familie va fi murit. Tot mă voi spăla pe dinți, tot voi sta la masă… tot eu voi fi. Înțelegi? Înțelegi ce animal îngrozitor de monoton voi deveni?
 
 Tăcu o clipă, apoi reluă:
 
-— Când cineva a fost scos odată din viață și a avut timpul și calmul necesar ca să-și pue o singură întrebare esențială cu privire la dânsa — una singură, rămâne otrăvit pentru totdeauna… Desigur, lumea continuă să existe, dar cineva a șters cu un burete de pe lucruri importanța lor…
+― Când cineva a fost scos odată din viață și a avut timpul și calmul necesar ca să-și pue o singură întrebare esențială cu privire la dânsa — una singură, rămâne otrăvit pentru totdeauna… Desigur, lumea continuă să existe, dar cineva a șters cu un burete de pe lucruri importanța lor…
 
 Emanuel nu mai asculta cu toată atenția. De câteva minute era preocupat de un mic accident ce i se întâmplase. Când dusese paharul la gură, într’o clipă de neatenție vărsase o parte din conținut, care se scurse îndată pe gât și umeri direct in ghips. Tot spatele se udase și Emanuel încercă, răsucind mâna, s’o introducă sub ghips pentru a despărți flaneaua de piele. Dar când o scoase, constată un lucru extrem de neplăcut: mâna mirosea a mucegai. Emanuel descoperi astfel deodată toată murdăria și jegul în care zăcea cu trupul nespălat de atâtea luni. Era întâia oară când explora corsetul pe dedesubt. Îi fu deodată o imensă scârbă de sine însuși și căznindu-se să-și ascundă cât mai bine turburarea, tristețea i se accentuă vădit pe obraz.
 
@@ -1945,7 +1950,7 @@ Ernest crezând că Emanuel se întristase de vorbele sale, avu un zâmbet de mu
 
 Domnea în jurul ei un aer de mister și excentricitate. În grădină vorbise cineva despre dânsa, și povestise cum într’un rând plecase cu avionul în Belgia așa bolnavă cum era, întinsă pe gutieră. Emanuel întâlnise de asemenea într’o zi pe Cora, foarte gătită și emoționată:
 
-— Mă duc în vizită la Isa, spuse ea. E azi acolo zi de recepție…
+― Mă duc în vizită la Isa, spuse ea. E azi acolo zi de recepție…
 
 Isa, era bolnava venită acum la sanatoriu.
 
@@ -1955,7 +1960,7 @@ Emanuel nu se înșelă asupra ei când o văzu întâia oară în sala de mânc
 
 Ernest intrând în sală se duse drept la dânsa.
 
-– Îți pot recomanda un prieten? o întrebă el după ce schimbară câteva vorbe.
+― Îți pot recomanda un prieten? o întrebă el după ce schimbară câteva vorbe.
 
 Îl arăta pe Emanuel la o masă mai încolo.
 
@@ -1981,45 +1986,45 @@ Toată noaptea ceti această carte uluitoare. Zorile îl surprinseră răsfoind-
 
 Primi răspunsul că poate veni chiar în după amiaza aceea. Îngrijitoarea îl așteptă pe culoar la ora fixată. Emanuel fu izbit chiar dela intrare de un miros cald și plăcut de ceai și de pesmeți prăjiți. Odaia nu semăna de loc cu cele din sanatoriu. Era și ea vopsită în alb, dar pereții fuseseră acoperiți cu o stofă de coloare roșie foarte întunecată. Asta îi dădea o atmosferă puțin copleșitoare, aproape funerară.
 
-— Detest albul sanitar de clinică… În odăile lăptoase de sanatoriu parcă nu poți face nimic mai limpede și mai potrivit decât să înnebunești, explică Isa lui Emanuel îndată ce-și dădură bună ziua.
+― Detest albul sanitar de clinică… În odăile lăptoase de sanatoriu parcă nu poți face nimic mai limpede și mai potrivit decât să înnebunești, explică Isa lui Emanuel îndată ce-și dădură bună ziua.
 
 În toată odaia nu exista niciun ornament. Un singur vas enorm de cristal conținea conuri uscate de brad, pe un dulăpior.
 
 Emanuel mulțumind pentru carte fu mirat că nu vede nicăieri vreo bibliotecă sau măcar vreun volum.
 
-— Ah, nu-mi plac cărțile!… O carte nu e nimic, nu este un obiect, spuse Isa. E ceva mort… care conține lucruri vii… ceva ca un cadavru intrat în putrefacție în care foșnesc mii și mii de gândaci. Toate cărțile le țin în odaia de alături a îngrijitoarei mele, într’o ladă sub pat.
+― Ah, nu-mi plac cărțile!… O carte nu e nimic, nu este un obiect, spuse Isa. E ceva mort… care conține lucruri vii… ceva ca un cadavru intrat în putrefacție în care foșnesc mii și mii de gândaci. Toate cărțile le țin în odaia de alături a îngrijitoarei mele, într’o ladă sub pat.
 
 Și adaugă pe șoptite ca o mărturisire:
 
-— Mie-e rușine de faptul că a trebuit să cunosc viața numai din cărți…
+― Mie-e rușine de faptul că a trebuit să cunosc viața numai din cărți…
 
 Chemă pe îngrijitoare să i-o recomande. Era o bătrânică îngheboșată, cu un obraz incolor de pâine uscată.
 
-— Îți recomand pe Celina, spuse ea. Ia te uită la dânsa și spune-mi dacă nu seamănă cu un cărăbuș. Atât doar că nu zbârnâie…
+― Îți recomand pe Celina, spuse ea. Ia te uită la dânsa și spune-mi dacă nu seamănă cu un cărăbuș. Atât doar că nu zbârnâie…
 
 Îngrijitoarea purta într’adevăr o mică pelerină cafenie lustruită ca elitrele unei insecte. Ținea mâinile pe burtă și le mișca tot mereu spălându-le una pe alta ca o muscă. Râse încetișor de cuvintele Isei cu sacade mărunte și prudente, ca și cum ar fi măsurat în interior cantitatea de veselie pe care o poate exulta decent o bătrânică de felul ei.
 
-— Vezi ce sgribulită e? spuse Isa când Celina fu plecată să aducă ceaiul. E reflexul moral al modestiei… Celina este cea mai redusă ființă în ce privește nevoile ei proprii și cea mai devotată când e vorba de capriciile altcuiva…
+― Vezi ce sgribulită e? spuse Isa când Celina fu plecată să aducă ceaiul. E reflexul moral al modestiei… Celina este cea mai redusă ființă în ce privește nevoile ei proprii și cea mai devotată când e vorba de capriciile altcuiva…
 
 Ceaiul fu servit aburind, pe o măsuță între Isa și Emanuel.
 
-— De mult n’am mai avut sentimentul acesta de intimitate, spuse el. Odaia asta conține un calm și o liniște pe care le-am uitat aproape. Parcă îmi dau seama acum ce viață de singurătate și de înstrăinare am dus până azi în camera mea de sanatoriu…
+― De mult n’am mai avut sentimentul acesta de intimitate, spuse el. Odaia asta conține un calm și o liniște pe care le-am uitat aproape. Parcă îmi dau seama acum ce viață de singurătate și de înstrăinare am dus până azi în camera mea de sanatoriu…
 
-— Eu duc de ani de zile existența asta de străină, prin odăi ce nu-mi aparțin și prin locuri străine, unde n’am copilărit, spuse puțin tristă Isa. M’am obișnuit însă, așa cum m’am obișnuit cu boala, cu ghipsul… cu pansamentele… cu tot…
+― Eu duc de ani de zile existența asta de străină, prin odăi ce nu-mi aparțin și prin locuri străine, unde n’am copilărit, spuse puțin tristă Isa. M’am obișnuit însă, așa cum m’am obișnuit cu boala, cu ghipsul… cu pansamentele… cu tot…
 
 Isa nu putea să ridice capul și sorbea ceaiul într’o căniță cu cioc lung ca un mic ceainic.
 
 Se stabili între dânșii repede o prietenească intimitate.
 
-— Admir mult pe cei cărora boala le este oarecum indiferentă spuse Emanuel. Dar m’aș simți infinit mai nenorocit dacă aș ajunge într’o zi la această perfectă resemnare. Mă trezesc câteodată noaptea din somn și îmi pipăi ghipsul ca un nebun… Este adevărat? E oare adevărat? Și scrâșnesc din dinți când degetele îmi alunecă pe duritatea lui, neputincioase…
+― Admir mult pe cei cărora boala le este oarecum indiferentă spuse Emanuel. Dar m’aș simți infinit mai nenorocit dacă aș ajunge într’o zi la această perfectă resemnare. Mă trezesc câteodată noaptea din somn și îmi pipăi ghipsul ca un nebun… Este adevărat? E oare adevărat? Și scrâșnesc din dinți când degetele îmi alunecă pe duritatea lui, neputincioase…
 
 Isa rămase o clipă gânditoare:
 
-— Crezi oare că n’am fost și eu la fel în primele timpuri? spuse ea. Cu toții am fost agitați… toți ne-am sculat în puterea nopții și ne-am pipăit disperați ghipsul. Toți… toți… dar apoi, când loviturile s’au întețit n’am mai simțit nimic… Știi ce se numește în medicină „țesut cicatrizat?” Este pielea aceea vânătă și zbârcită, care se formează pe o rană vindecată. E o piele aproape normală atât doar că e insensibilă la frig, la cald, ori la atingeri…
+― Crezi oare că n’am fost și eu la fel în primele timpuri? spuse ea. Cu toții am fost agitați… toți ne-am sculat în puterea nopții și ne-am pipăit disperați ghipsul. Toți… toți… dar apoi, când loviturile s’au întețit n’am mai simțit nimic… Știi ce se numește în medicină „țesut cicatrizat?” Este pielea aceea vânătă și zbârcită, care se formează pe o rană vindecată. E o piele aproape normală atât doar că e insensibilă la frig, la cald, ori la atingeri…
 
 Tăcu câteva secunde și nu se mai auzi decât țiuitul ceainicului prin ușa deschisă, alături în odaia guvernantei. Apoi reluă în șoaptă:
 
-— Vezi, inimile bolnavilor au primit în viață atâtea lovituri de cuțit încât s’au transformat în țesut cicatrizat… Insensibile la frig… la cald… și la durere… Insensibile și învinețite de duritate…
+― Vezi, inimile bolnavilor au primit în viață atâtea lovituri de cuțit încât s’au transformat în țesut cicatrizat… Insensibile la frig… la cald… și la durere… Insensibile și învinețite de duritate…
 
 Toate acestea fură spuse, cu zâmbetul celei mai desăvârșite liniști interioare.
 
@@ -2027,7 +2032,7 @@ Celina scoase de undeva de sub dulap un patefon și puse o placă pe care o ales
 
 Bucata nu fu terminată când cineva bătu în ușă. Era o femeie grasă în rochie verde de catifea, cu ochelari fini, prinși fragili de vârful nasului, vibrând încetișor la fiecare pas ca un aparat de înregistrare a sensibilității interioare, amortizată la suprafață de massele de carne și de grăsime.
 
-— Ei, ce mai faci?… Și cum te simți? gâfâi ea cu respirări scurte.
+― Ei, ce mai faci?… Și cum te simți? gâfâi ea cu respirări scurte.
 
 Se interesă de Emanuel, cine e, de unde vine, ce boală are, ce doctor îl îngrijește. Era o revărsare de întrebări ca o răbufnire îndelung stăpânită până atunci.
 
@@ -2035,17 +2040,17 @@ Isa îi dădea toate lămuririle cu vădită plictiseală. Femeia bău o ceașc�
 
 Emanuel regretă că vizita lui fusese întreruptă în chip atât de neplăcut. Isa făcu și ea câteva semne disperate. Era aproape de ora mesei. Într’un sfârșit femeia plecă, nu însă fără a răspândi un val de sfaturi bune și de încurajări.
 
-— Asta face parte din echipa de consolatori profesioniști din Berck, spuse Isa îndată ce ușa fu închisă. E o specie extrem de abjectă de persoane care n’au absolut nimic de făcut toată ziua și vin ca să dăruiască bolnavilor o cantitate ieftină de caritate… Aici beau un ceai, acolo iau un sandwich și pleacă acasă sătule, cu stomacul plin și cu conștiința satisfăcută că au făcut o faptă bună…
+― Asta face parte din echipa de consolatori profesioniști din Berck, spuse Isa îndată ce ușa fu închisă. E o specie extrem de abjectă de persoane care n’au absolut nimic de făcut toată ziua și vin ca să dăruiască bolnavilor o cantitate ieftină de caritate… Aici beau un ceai, acolo iau un sandwich și pleacă acasă sătule, cu stomacul plin și cu conștiința satisfăcută că au făcut o faptă bună…
 
 În acel moment veni brancardierul pentru a-i lua la masă.
 
-— Îmi pare rău că ai stat atât de puțin spuse ea. Dar o să mai vii, nu-i așa?
+― Îmi pare rău că ai stat atât de puțin spuse ea. Dar o să mai vii, nu-i așa?
 
 Și în momentul când brancardierul apucă gutiera.
 
-— Ai vrea să fim prieteni?… Îți place aici la mine?…
+― Ai vrea să fim prieteni?… Îți place aici la mine?…
 
-— Îmi plac odăile străine care îmi devin atât de repede familiare, răspunse Emanuel, și simți urcându-i-se o ușoară roșeață în obraz.
+― Îmi plac odăile străine care îmi devin atât de repede familiare, răspunse Emanuel, și simți urcându-i-se o ușoară roșeață în obraz.
 
 <hr>
 
@@ -2055,7 +2060,7 @@ Emanuel ieșea regulat cu trăsura, însoțit de Solange. Toată iarna cultivase
 
 Îl jena din ce în ce mai mult ghipsul și parcă și Solange. Emanuel îi desvelea trupul ridicând toată rochia și o săruta amețit de albeața pielei.
 
-— E baia mea de curățenie pe corpul tău, spunea el simțind tot jegul și mucegaiul în care zăcea sub ghips.
+― E baia mea de curățenie pe corpul tău, spunea el simțind tot jegul și mucegaiul în care zăcea sub ghips.
 
 Erau regiuni răcoroase și parfumate pe trupul ei în jurul șoldului, ca adierea subită a unui miros nou în aer liber, venit de nu se știe unde. Erau apoi perne de odihnă, pe care se putea rezema capul. Tandrețea blondă și caldă a pântecului rotund… cupa mică, umbrită, a ombilicului, unde Emanuel turna puțină apă limpede și burta devenea un peisaj, cu ciutura unei fântâni la mijloc.
 
@@ -2081,11 +2086,11 @@ Tot ce săvârșea era totuși meticulos de exact ca în prima lor zi de dragost
 
 Când poposi la han, era ud de ploaie, tremura de frig și mâinile îi erau înghețate.
 
-— Unde vă este logodnica? întrebă cârciumarul.
+― Unde vă este logodnica? întrebă cârciumarul.
 
-— E plecată, sunt singur, după cum vezi, spuse Emanuel cu vădită tristeță.
+― E plecată, sunt singur, după cum vezi, spuse Emanuel cu vădită tristeță.
 
-Se gândea că prima oară când va veni din nou pe acolo cu Solange să-l ia pe hangiu drept martor: — Ei, spune, nu-i așa că am fost foarte trist în ziua aceea când am venit aici fără logodnica mea?
+Se gândea că prima oară când va veni din nou pe acolo cu Solange să-l ia pe hangiu drept martor: ― Ei, spune, nu-i așa că am fost foarte trist în ziua aceea când am venit aici fără logodnica mea?
 
 Și Solange va fi de sigur măgulită.
 
@@ -2095,37 +2100,37 @@ Ceru o farfurie cu cafea și o sorbi pe îndelete. Era singur, nimic nu-l grăbe
 
 Coborî în birou înainte cu un ceas de ora hotărîtă, fumă o țigară de foi pe care directorul i-o oferi din politeță și pe care el o acceptă din impertinență, ceti ziarele și fu satisfăcut de calmul cu care aștepta.
 
-În clipa însă când telefonul sună, cu câteva minute de întârziere. Emanuel se simți brusc invadat de o cumplită agitație. — Mai repede! Mai repede! îndemnă el pe brancardierul ce-i aranja căruțul lângă telefon.
+În clipa însă când telefonul sună, cu câteva minute de întârziere. Emanuel se simți brusc invadat de o cumplită agitație. ― Mai repede! Mai repede! îndemnă el pe brancardierul ce-i aranja căruțul lângă telefon.
 
 Tot calmul de adineaori, la țârâitul soneriei, se prefăcu într’o imensă nerăbdare așa cum o soluție suprasaturată cristalizează brusc, când se introduce în ea un fragment de substanță chimică…
 
 Puse receptorul la ureche și constată că-i tremură mâna, pâlnia vibra și ea plină de o măruntă neliniște. Vocea Solangei izbucni deodată, foarte estompată și metalică. Dar ce anume conținea miraculos pentru ca să se umple deodată toată cabina cu prezența ei? Era o adevărată invazie de imagini, filtrate adânc în carne prin simplul zumzet al glasului îndepărtat și cunoscut…
 
-— Mai am de stat o săptămână, bunicul a murit, va fi mâine înmormântarea… Sunt zăpăcită de condoleanțe, de oameni, de chestiuni de succesiune cu notarul… am alergat la telefon ca o nebună…
+― Mai am de stat o săptămână, bunicul a murit, va fi mâine înmormântarea… Sunt zăpăcită de condoleanțe, de oameni, de chestiuni de succesiune cu notarul… am alergat la telefon ca o nebună…
 
 Tăcu și Emanuel auzi respirația ei precipitată în pâlnie. Aceeași respirație din spasme dar fără corpul ei. Esența plăcerii ce o avea când o zdrobea sub ghips, dar aici, pură, fără obligația trupului, fără osteneli…
 
-— Pentru ce taci? întrebă dânsa căutând să-și liniștească tremurul vocii.
+― Pentru ce taci? întrebă dânsa căutând să-și liniștească tremurul vocii.
 
 Emanuel închise ochii și se lăsă îmbătat de cuvinte.
 
-— Vorbește tu… spune-mi tu ce vrei…
+― Vorbește tu… spune-mi tu ce vrei…
 
 Solange începu a-i povesti o lungă desbatere pe care o avusese cu notarul… Emanuel se trezi recăzut în vechile dorinți ca și cum în afară de vocea aceea se transmitea prin fir și căldura pielii ei, revărsându-i-se direct în sânge…
 
 Își dădea bine seama de ce face și alunecând o mână sub cuverturi, în timp ce Solange continua să vorbească, își frământă teribila lui excitație…
 
-— Mai spune-mi ceva, te implor, insistă el puțin zăpăcit, chinuindu-și carnea într’o satisfacție comodă și imediată.
+― Mai spune-mi ceva, te implor, insistă el puțin zăpăcit, chinuindu-și carnea într’o satisfacție comodă și imediată.
 
 Ea vorbea mai departe, fără a bănui nimic.
 
 Apoi, o clipă, vocea ei deveni extatică și Emanuel se răspândi într’o epuizare scurtă și copleșitoare, ca un leșin.
 
-— Îți mulțumesc… îți mulțumesc… murmură el în aparat.
+― Îți mulțumesc… îți mulțumesc… murmură el în aparat.
 
-— Pentru ce? întrebă dânsa surprinsă.
+― Pentru ce? întrebă dânsa surprinsă.
 
-— Pentru tot ce-mi spui… pentru tot… pentru tot…
+― Pentru tot ce-mi spui… pentru tot… pentru tot…
 
 Întors în odaie, scrâșni de ciudă că fusese atât de indulgent cu sine însuși.
 
@@ -2133,13 +2138,13 @@ Apoi, o clipă, vocea ei deveni extatică și Emanuel se răspândi într’o ep
 
 Se duse totuși s’o aștepte la gară, săvârșind astfel până la capăt aparențele de dragoste perfectă. În momentul când ea se urcă în trăsură simți parcă într’o parte a ghipsului o împunsătură… Solange se instală lângă el pe scăunaș și Emanuel îi zâmbi. Într’o stradă pustie și dosnică ea se aplecă peste gura lui și-l sărută.
 
-— Toate zilele astea fără tine nu le-am trăit de loc, murmură ea uitându-se în ochii lui cu o privire placidă de animal devotat.
+― Toate zilele astea fără tine nu le-am trăit de loc, murmură ea uitându-se în ochii lui cu o privire placidă de animal devotat.
 
 Emanuel tremura sub ghips, de enervare, de desgust și mai ales împotriva indulgenții cu care accepta totul.
 
 În aceeași săptămână pe plajă, avu loc un accident care îi mări iritația împotriva ei. Există astfel de întâmplări care se agravează dela sine prin incidente zilnice ce se depun în jurul lor, așa cum în apele calcaroase obiectele de piatră se încrustează prin simpla lor staționare în cursul lor. În ziua aceea Emanuel gonise calul ca de obicei până departe pe plajă, prin locuri neumblate. Marea urcase în flux și inundase în bună parte întinderea nisipului. Solange îl sfătui să se întoarcă, dar el se îndârji să gonească mai departe, crezând că va găsi undeva o pantă pentru a se urca pe faleză.
 
-— Te asigur că nu-i pe aici niciun urcuș. Cunosc locurile îl imploră Solange. În curând nu ne vom mai putea întoarce. Toată plaja va fi inundată… Hai, Emanuel, ascultă-mă…
+― Te asigur că nu-i pe aici niciun urcuș. Cunosc locurile îl imploră Solange. În curând nu ne vom mai putea întoarce. Toată plaja va fi inundată… Hai, Emanuel, ascultă-mă…
 
 Îl enerva faptul că ea avea dreptate și că nu se vedea nicăieri vreo pantă spre faleză. Ce cruntă și sublimă satisfacție ar fi avut ca să apară deodată urcușul și într’o minută să fi sus pe țărm.
 
@@ -2147,7 +2152,7 @@ Emanuel tremura sub ghips, de enervare, de desgust și mai ales împotriva indul
 
 Pentru a scurta drumul trecea cu trăsura de-adreptul în mijlocul șuvoaielor. Solange îl privea îngrozită. Deodată ajunseră în fața unui canal mai larg unde calul se opri brusc, și nu vru să înainteze.
 
-— E imposibil să treci pe aici, îi spuse Solange. Vezi doar bine ce adânc e… Ocolește!… Dă-mi mie hățurile! Emanuel în culmea furiei dete un biciu calului și trăsura intră în apă.
+― E imposibil să treci pe aici, îi spuse Solange. Vezi doar bine ce adânc e… Ocolește!… Dă-mi mie hățurile! Emanuel în culmea furiei dete un biciu calului și trăsura intră în apă.
 
 Câteva secunde calul trase din toate forțele dar în mijlocul canalului roțile trăsuri intrară până la jumătate în nisipul umed și se împotmoliră.
 
@@ -2163,7 +2168,7 @@ Porniră cu toții spre Esplanadă.
 
 Era un cortegiu care îl ulcera pe Emanuel până în fundul sufletului. Așa întins cum stătea pe cadru, dus pe umeri de câțiva marinari vânjoși, abia scăpat dintr’un teribil accident, își reluase firul logic al iritației:
 
-— Încă asta mai trebuia… să-i datorez recunoștință! gândi el cu amărăciune.
+― Încă asta mai trebuia… să-i datorez recunoștință! gândi el cu amărăciune.
 
 În fruntea convoiului mergea Solange în picioarele goale, cu ciorapii și pantofii în mână. Apoi venea trăsura goală împinsă încet de doi marinari cu pantalonii suflecați până peste genunchi, Emanuel dus pe cadru, ca un mort ilustru pe un scut și, în sfârșit, calul după ei, ținut de hățuri de un băiețaș.
 
@@ -2175,7 +2180,7 @@ Solange întorcea din când în când capul, zâmbindu-i cu o inocență care î
 
 Și pentru a-și acorda suprema pedeapsă pentru slăbiciunea ce-o avusese la telefon, scoase din buzunar bricheta secretă care trebuia ferită de privirile ei:
 
-— Îți place? întrebă el. Ţi-o dau…
+― Îți place? întrebă el. Ţi-o dau…
 
 „E ultimul lucru pe care i-l dăruesc, gândi el. Obiectul care va pune sfârșit idilei noastre. Poate că dacă nu l-ar accepta totul ar continua, dar de vreme ce l-a luat înseamnă că iubirea noastră trebuia să sfârșească aici…”.
 
@@ -2205,59 +2210,59 @@ Emanuel își căuta ascunzișuri prin dune, departe de șoselele pline de autom
 
 Emanuel se împrietenise cu cârciumarul. Stătea ore întregi în fața verandei, pe o ridicătură de nisip de unde vedea până departe oceanul și domina oarecum locurile, vilele încremenite în nisip, gara dărăpânată, și întinderea ondulată a dunelor.
 
-— Ce păcat că nu s’a făcut aici stațiunea proiectată. Îmi ridicam un hotel de toată frumusețea! spunea cârciumarul, un om înalt, puțin adus de spate, cu pomeții obrajilor vineți, cu părul alb veșnic răvășit de vânt. Purta în ochi melancolia calmă a însăși locurilor acelea abandonate…
+― Ce păcat că nu s’a făcut aici stațiunea proiectată. Îmi ridicam un hotel de toată frumusețea! spunea cârciumarul, un om înalt, puțin adus de spate, cu pomeții obrajilor vineți, cu părul alb veșnic răvășit de vânt. Purta în ochi melancolia calmă a însăși locurilor acelea abandonate…
 
-— Ehé! Știi d-ta ce șantier a fost cândva pe aici! Ce lucru! Ce hărmălaie! Ce forfoteală! Ajunseseră terenurile de vânzare până la o jumătate de milion…
+― Ehé! Știi d-ta ce șantier a fost cândva pe aici! Ce lucru! Ce hărmălaie! Ce forfoteală! Ajunseseră terenurile de vânzare până la o jumătate de milion…
 
 Și adăugă-cu tristețe:
 
-— În timp ce azi nu se dă pe ele nicio mie de franci…
+― În timp ce azi nu se dă pe ele nicio mie de franci…
 
 Veneau marinarii cu saci plini de sardele proaspete. Cârciumăreasa, o femeie mică rotundă ca o bilă de cărnuri și grăsime, cu o perucă galbenă decolorată, pe cap, se tocmea cu ei crâncen, din sgârcenie și ca să-i mai treacă timpul. Îl servea pe Emanuel cu pește proaspăt prăjit pe cărbuni.
 
 Într’un rând lui Emanuel îi trecu ceva prin minte. Ce bine ar fi fost să locuiască acolo la cârciumă. În orice odăiță, oricât de mică, oricât de incomodă, dar izolat de restul lumii. Era câteva zile după întâmplarea cu Solange pe plajă. Cu siguranță că acolo, în dune, ea nu va da de el. Va dispărea brusc din sanatoriu și nimeni nu va știe unde a plecat. Îl întrebă pe cârciumar. Omul o chemă pe nevastă-sa ca să se consulte:
 
-— Imposibil, răspunse ea. Aici noi trăim în singurătate tocmai pentru ca să nu avem bătaie de cap. Ducem o viață liniștită și n’avem nevoie, vezi bine, nici de clienți, nici de pensionari.
+― Imposibil, răspunse ea. Aici noi trăim în singurătate tocmai pentru ca să nu avem bătaie de cap. Ducem o viață liniștită și n’avem nevoie, vezi bine, nici de clienți, nici de pensionari.
 
 Emanuel fu contrariat.
 
-— Și prin vilele astea nu locuește nimeni, absolut nimeni?
+― Și prin vilele astea nu locuește nimeni, absolut nimeni?
 
-— Ba da, răspunse cârciumarul. Într’una singură, în cea de colo…
+― Ba da, răspunse cârciumarul. Într’una singură, în cea de colo…
 
 Și arătă acoperișul unei vile de piatră pe o ieșitură a falezei, ascunsă de câteva dune foarte mari.
 
-— Dar nu-i locuită tot anul, adăugă el. Vine numai vara o americană cu băiatul ei. Stă câteva luni și pleacă… Acum e aici de vreo săptămână…
+― Dar nu-i locuită tot anul, adăugă el. Vine numai vara o americană cu băiatul ei. Stă câteva luni și pleacă… Acum e aici de vreo săptămână…
 
 Emanuel rămase puțin pe gânduri.
 
-— Și doamna asta americană… oare nu m’ar primi ca să stau la ea? întrebă dânsul. Cu plată, bine înțeles, cu plată…
+― Și doamna asta americană… oare nu m’ar primi ca să stau la ea? întrebă dânsul. Cu plată, bine înțeles, cu plată…
 
 Cârciumarul și nevasta lui zâmbiră cu o indulgentă ironie.
 
-— E o femeie bogată domnule! Ce are ea nevoie de pensionari bolnavi? Și la urma urmei de ce ții d-ta să locuești pe aici în pustietatea asta? întrebă curios cârciumarul.
+― E o femeie bogată domnule! Ce are ea nevoie de pensionari bolnavi? Și la urma urmei de ce ții d-ta să locuești pe aici în pustietatea asta? întrebă curios cârciumarul.
 
-— Eh, asta-i altă chestie! răspunse Emanuel.
+― Eh, asta-i altă chestie! răspunse Emanuel.
 
 Dar cum aș putea să vorbesc cu dânsa? Să mă duc acolo cu trăsura?…
 
 Cârciumarul rămase uluit:
 
-— Cu trăsura zici? Dar d-ta nu vezi că sunt până acolo dune înalte cât casa? Poți să te cațeri pe dune? Ai un cal acrobat?
+― Cu trăsura zici? Dar d-ta nu vezi că sunt până acolo dune înalte cât casa? Poți să te cațeri pe dune? Ai un cal acrobat?
 
-— Spui că a venit de o săptămână? întrebă Emanuel preocupat. Crezi că e acasă acum?
+― Spui că a venit de o săptămână? întrebă Emanuel preocupat. Crezi că e acasă acum?
 
-— Poate, nu știu, răspunse cârciumarul.
+― Poate, nu știu, răspunse cârciumarul.
 
-— Ei bine mă duc să văd și să-i vorbesc, spuse calm Emanuel, punând mâna pe hățuri.
+― Ei bine mă duc să văd și să-i vorbesc, spuse calm Emanuel, punând mâna pe hățuri.
 
-— Ce? făcu lung cârciumarul. Cu trăsura? și se uită la el uluit.
+― Ce? făcu lung cârciumarul. Cu trăsura? și se uită la el uluit.
 
-— Cu trăsura, sigur… Doar n’o să merg pe jos!
+― Cu trăsura, sigur… Doar n’o să merg pe jos!
 
-— Să vedem dacă poți… îl sfidă cârciumarul începând a râde.
+― Să vedem dacă poți… îl sfidă cârciumarul începând a râde.
 
-— Ei bine, să vedem! răspunse Emanuel acceptând provocarea.
+― Ei bine, să vedem! răspunse Emanuel acceptând provocarea.
 
 Apucă hățurile strâns în mână și porni spre prima dună de escaladat. Erau abia câteva zile de când i se întâmplase accidentul de pe plajă, dar prea puțin îl impresiona acum această amintire.
 
@@ -2265,7 +2270,7 @@ Apucă hățurile strâns în mână și porni spre prima dună de escaladat. Er
 
 Când fu pe culme, Emanuel întoarse capul spre cârciumar și îi făcu semn cu mâna:
 
-— Adio! Adio! Plec în munți mai departe!…
+― Adio! Adio! Plec în munți mai departe!…
 
 Cârciumarul, cu soția lui și vreo doi marinari care ieșiseră din cârciumă, stăteau toți pe veranda și priveau cu gurile căscate năstrușnica trăsură care se cățăra pe dune.
 
@@ -2281,53 +2286,53 @@ Se trezi în fața clădirii; obloanele erau închise, poarta încuiată. Îl p�
 
 În cadrul ferestrei apăru o femeie roșcată, într’un halat violet:
 
-— Ce este? Cine-i acolo? țipă ea căutând cu privirea cine bate.
+― Ce este? Cine-i acolo? țipă ea căutând cu privirea cine bate.
 
 Deodată îl descoperi pe Emanuel cu trăsura în fața porții și rămase stupefiată.
 
-— Ce este? întrebă ea uimită. Ce doriți? Și cum ați venit până aici cu trăsura ?…
+― Ce este? întrebă ea uimită. Ce doriți? Și cum ați venit până aici cu trăsura ?…
 
 Emanuel vru să țipe, dar lătratul câinelui îi acoperea vocea; făcu semn cu mâna femeii să scoboare.
 
 Un băiat de vreo cincisprezece ani, înalt, voinic, cu aceeași nuanță roșcată a feței descuiă poarta. Emanuel intră cu trăsura în curtea mică, cimentată. Câinele sărea în jurul trăsurii, lătrând asurzitor.
 
-— Taci… taci… îl domolea băiatul apucându-l de grumaz și luptându-se cu el. Era un câine negru enorm, aproape tot atât de înalt cât și stăpânul său când se ridica în două picioare și se sprijinea cu labele dinainte pe umerii lui.
+― Taci… taci… îl domolea băiatul apucându-l de grumaz și luptându-se cu el. Era un câine negru enorm, aproape tot atât de înalt cât și stăpânul său când se ridica în două picioare și se sprijinea cu labele dinainte pe umerii lui.
 
 Emanuel privea vila. Construcția părea mai mult neglijată decât veche. În vârf, sub coama acoperișului stătea înfiptă o tăbliță ruginită, invadată de iederă. „Vila Elseneur” descifră el.
 
 Într’un sfârșit apăru și doamna dela fereastră. Își aranjase puțin părul și probabil că se pudrase. Adierea vântului aduce până la Emanuel un vag parfum de toaletă femenină, dulceag și plăcut.
 
-— Ce doriți? întrebă ea.
+― Ce doriți? întrebă ea.
 
 Emanuel se recomandă. Ea îi întinse mâna, își spuse numele d-na Tils, și brusc cu un ton foarte familiar:
 
-— Ce mai faci?
+― Ce mai faci?
 
 Era obiceiul englezesc de a aborda cu această formulă chiar cunoștințele de o clipă.
 
-— Iertați-mă că vă deranjez atât de dimineață, spuse Emanuel. Am trecut pe aici cu trăsura…
+― Iertați-mă că vă deranjez atât de dimineață, spuse Emanuel. Am trecut pe aici cu trăsura…
 
-— Cu trăsura?… repetă ea uimită.
+― Cu trăsura?… repetă ea uimită.
 
-— Și mi-au plăcut nespus de mult locurile acestea. Mi s’a spus că e singura vilă locuită și… aș vrea să vă întreb ceva…
+― Și mi-au plăcut nespus de mult locurile acestea. Mi s’a spus că e singura vilă locuită și… aș vrea să vă întreb ceva…
 
 Emanuel ezită, apoi spuse repede fraza pentru a scăpa de obligația de a o pronunța, așa cum se bea pe nerăsuflate o doctorie amară.
 
-— Iată… dacă s’ar putea… aș vrea să stau pe aici… îmi place solitudinea asta… D-v. n’ați accepta ca să locuesc în vila d-v… n’ați primi un pensionar?
+― Iată… dacă s’ar putea… aș vrea să stau pe aici… îmi place solitudinea asta… D-v. n’ați accepta ca să locuesc în vila d-v… n’ați primi un pensionar?
 
-— Pentru asta m’ați chemat? spuse femeia izbucnind într’un râs ușor.
+― Pentru asta m’ați chemat? spuse femeia izbucnind într’un râs ușor.
 
 Emanuel avea o figură atât de zăpăcită încât nu putea decât stârni râsul. Observă că în timp ce râdea pe obrazul ei apăreau cute adânci. Era de sigur o femeie mai în vârstă, dar poseda o desinvoltură admirabilă în gesturi și o îngrijită aparență de tinerețe.
 
-— Îmi pare foarte rău, spuse dânsa, dar nu pot primi pensionari, n’am primit niciodată și nici nu m’aș pricepe în asemenea cazuri.
+― Îmi pare foarte rău, spuse dânsa, dar nu pot primi pensionari, n’am primit niciodată și nici nu m’aș pricepe în asemenea cazuri.
 
 În timp ce vorbea izbucni deodată în odaie dela etaj, a cărei fereastră rămăsese deschisă o formidabilă ruculadă de țipete, ca imprecațiunile unei bătrâne arțăgoase care se ceartă pe ton ascutit cu cineva.
 
 Emanuel se uită nedumerit la fereastră, fără a întreba însă nimic. Ea îi observă mirarea:
 
-— Știi… nu stau singură în vilă. În afară de Irving băiatul meu și de bucătăreasă, am și un invitat… E o persoană extrem de nervoasă, după cum vezi, care țipă și înjură teribil…
+― Știi… nu stau singură în vilă. În afară de Irving băiatul meu și de bucătăreasă, am și un invitat… E o persoană extrem de nervoasă, după cum vezi, care țipă și înjură teribil…
 
-— Te rog, Irving, du-te și adu-l aici! spuse ea.
+― Te rog, Irving, du-te și adu-l aici! spuse ea.
 
 Băiatul se urcă în casă. Țipetele încetară și după câteva secunde Irving scoborî în mână cu un papagal.
 
@@ -2335,27 +2340,27 @@ Spune bună ziua! îl îndemnă d-na Tils.
 
 Papagalul lansă o formidabilă înjurătură. Începură cu toții a râde. Papagalul ciuguli d-nei Tils părul, trăgând de el cu putere. Un câine, un papagal… Emanuel era consternat că nu putea locui acolo. Se hotărî să plece.
 
-— Și pe unde o să te întorci?
+― Și pe unde o să te întorci?
 
-— Tot peste dune, așa cum am venit.
+― Tot peste dune, așa cum am venit.
 
 Irving vru să asiste și el la urcarea dunelor.
 
-— Bravo! Bravo! țipă el bătând din palme, când Emanuel fu în vârf.
+― Bravo! Bravo! țipă el bătând din palme, când Emanuel fu în vârf.
 
 <hr>
 
 În aceeași după masă, în timp ce colinda trist străzile și se oprise cu trăsura la o vitrină, cineva se apropie de el să-i vorbească. Era d-na Tils, dar în toaleta de stradă aproape că n’o recunoștea.
 
-— Aș vrea să-ți spun ceva.. Știi, m’am răsgândit și aș fi dispusă să te primesc la mine… dacă în schimb ai putea să dai lecții de matematică fiului meu… Am o odaie mare, un salon, cu vederea la mare. Dar te pricepi la matematici?
+― Aș vrea să-ți spun ceva… Știi, m’am răsgândit și aș fi dispusă să te primesc la mine… dacă în schimb ai putea să dai lecții de matematică fiului meu… Am o odaie mare, un salon, cu vederea la mare. Dar te pricepi la matematici?
 
 Emanuel o asigură că mai dăduse asemenea lecții și acceptă cu bucurie. Simțea el bine că de dimineață lucrurile se petreceau în ziua aceea cu o agreabilă fragilitate plină de surprize. Se lăsă dus de întâmplare cu sentimentul unei delicate voluptăți interioare:
 
-— Și când pot veni, doamnă, cu valizele mele?
+― Și când pot veni, doamnă, cu valizele mele?
 
-— Când vrei, răspunse dânsa. Chiar mâine…
+― Când vrei, răspunse dânsa. Chiar mâine…
 
-— Atunci vă rog să mă așteptați la zece dimineața…
+― Atunci vă rog să mă așteptați la zece dimineața…
 
 <hr>
 
@@ -2373,9 +2378,9 @@ Zăcea într’un colț al salonului puțin zăpăcit, ca o vietate aruncată de
 
 Își reamintea ca de niște fapte vechi, petrecute de demult tot ce se întâmplase în aceste două zile: cum îl anunțase de plecare pe director chiar în momentul când se întoarse din oraș, după convorbirea cu d-na Tils; cum își făcuse valizele în grabă.
 
-— Și care este noua d-v. adresă? întrebase directorul.
+― Și care este noua d-v. adresă? întrebase directorul.
 
-— Inutil să v’o dau, răspunse Emanuel. Voi veni eu însumi din când în când să-mi ridic corespondența.
+― Inutil să v’o dau, răspunse Emanuel. Voi veni eu însumi din când în când să-mi ridic corespondența.
 
 Apoi, cum ajunse la vila „Elseneur" exact la zece dimineața așa cum anunțase.
 
@@ -2383,9 +2388,9 @@ Apoi, cum ajunse la vila „Elseneur" exact la zece dimineața așa cum anunțas
 
 Cârciumarul mai ales era extraordinar de uimit că d-na Tils îl acceptase în pensiune.
 
-— E adevărat că n’o cunoști dinainte? căuta el să descoase pe Emanuel pe șoptite.
+― E adevărat că n’o cunoști dinainte? căuta el să descoase pe Emanuel pe șoptite.
 
-— E adevărat! E adevărat! răspunse iritat Emanuel. Știu eu ce-i adevărat și ce nu în toată chestia asta?
+― E adevărat! E adevărat! răspunse iritat Emanuel. Știu eu ce-i adevărat și ce nu în toată chestia asta?
 
 <hr>
 
@@ -2399,7 +2404,7 @@ Bucătăreasa aduse o lampă aprinsă și o puse pe masă. În jurul abatjurului
 
 Stătea adesea de vorbă cu d-na Tils. Ea îi povestea despre bărbatul ei cu care venise la Berck, bolnav și el de morbul lui Pott și care murise acum opt ani, chiar acolo în vila „Elseneur”. Și lui îi plăcea solitudinea dunelor, și el trecuse într’o zi cu trăsura pe acolo și se oprise fermecat în fața vilei, ne mai vrând să locuiască altundeva decât acolo. Cumpărase vila cu un preț de nimic dela municipalitate. Și el avusese odaia lui, în salonul din spre mare.
 
-— Iată de ce te-am primit la mine, spuse ea. Când te-am văzut atât de trist că nu poți sta pe aici, mi-am reamintit de melancolia bărbatului meu și de nespusa lui sete de singurătate. În amintirea lui te-am acceptat… În amintirea lui și pentru ca în vila asta în care el s’a pierdut… vreau ca un om tânăr să se vindece…
+― Iată de ce te-am primit la mine, spuse ea. Când te-am văzut atât de trist că nu poți sta pe aici, mi-am reamintit de melancolia bărbatului meu și de nespusa lui sete de singurătate. În amintirea lui te-am acceptat… În amintirea lui și pentru ca în vila asta în care el s’a pierdut… vreau ca un om tânăr să se vindece…
 
 Vorbea cu simplicitate și cu un accent de mare devoțiune. Era o prietenie spontană și naivă pentru Emanuel, asemănătoare dragostei ce o purta câinelui, fiului ei și papagalului, cu aceleași expresii și același ton în voce pentru toți.
 
@@ -2422,77 +2427,77 @@ Zăcea în soare, răspândit, iluminat și limpede, clar ca o apă prin care ni
 
 Emanuel rămase surprins. De unde cunoștea doctorul pe d-na Tils? O întrebă.
 
-— Era unul din cei mai buni prieteni ai soțului meu. Venea adesea pe la noi, răspunse dânsa. Cunoștea bine locurile astea și ar fi locuit de sigur pe aici dacă n’ar fi fost doctor. Suferă și el de incantația pustietății…
+― Era unul din cei mai buni prieteni ai soțului meu. Venea adesea pe la noi, răspunse dânsa. Cunoștea bine locurile astea și ar fi locuit de sigur pe aici dacă n’ar fi fost doctor. Suferă și el de incantația pustietății…
 
 Emanuel trimise a doua zi dimineața pe Irving în oraș să-i aducă o trăsură de bolnav. Se aduse trăsura în fața cârciumei. Până acolo Emanuel fu transportat peste dune, întins pe cadru. Clinica în dimineața aceea era pustie. Intră de-a-dreptul în sală, îndată ce sosi. Consultația nu dură decât câteva minute. Doctorul Cériez privi atent locul abcesului, introduse mâna sub ghips și pipăi vertebrele.
 
-— Cred că o să-ți scot corsetul, spuse el. Și peste o lună sau două vei putea începe, poate, a merge pe picioare.
+― Cred că o să-ți scot corsetul, spuse el. Și peste o lună sau două vei putea începe, poate, a merge pe picioare.
 
-— Îmi scoateți ghipsul? întrebă amețit de bucurie Emanuel. Adevărat?
+― Îmi scoateți ghipsul? întrebă amețit de bucurie Emanuel. Adevărat?
 
 De când îl avea pe corp se obișnuise într’atât cu dânsul, încât nici nu se mai gândea că ar putea fi scos cândva. Socotise mizeria asta ca o funcție organică în plus, insuportabilă, însă definitivă. A simți corpul din nou liber i se părea ceva neobișnuit, un eveniment de început de viață, o nouă apariție pe lume.
 
-— E adevărat, dar? murmură el zăpăcit.
+― E adevărat, dar? murmură el zăpăcit.
 
-— Da… Sâmbătă dimineață îl scoatem.
+― Da… Sâmbătă dimineață îl scoatem.
 
 Și doctorul îi strânse mâna, părăsind încăperea superb, înalt, magnific, cu coafura lui leonină, ca un uriaș binefăcător, ce răspândește în jurul lui miracole.
 
 Emanuel așteptă câteva minute pe coridor să vie brancardierul pentru a-l pune în trăsură.
 
-— Te-am prins! exclamă cineva venind pe la spate și acoperindu-i ochii cu mâinile.
+― Te-am prins! exclamă cineva venind pe la spate și acoperindu-i ochii cu mâinile.
 
 Emanuel avu o clipă de spaimă. Crezu că e Solange, dar mâinile miroseau puternic a tutun. Era Ernest.
 
-— Unde ai evadat? Când și cum ai plecat? Știi, dispariția ta a stârnit sensație în sanatoriu!
+― Unde ai evadat? Când și cum ai plecat? Știi, dispariția ta a stârnit sensație în sanatoriu!
 
 Ernest îl pipăia pe piept, pe mâini, ca și cum nu i-ar fi venit să creadă că îl regăsise.
 
-— Pot spune că te-am căutat în toate sanatoriile din oraș… am cercetat clinică cu clinică… pensiune cu pensiune… am fost și la poliție… Unde erai? Unde te-ai ascuns?
+― Pot spune că te-am căutat în toate sanatoriile din oraș… am cercetat clinică cu clinică… pensiune cu pensiune… am fost și la poliție… Unde erai? Unde te-ai ascuns?
 
 Emanuel păstra un mic aer enigmatic. Era o dimineață nespus de plăcută, doctorul îi anunțase scoaterea ghipsului, Ernest era intrigat de dispariția lui….
 
-— și știi cine m’a împins să fac toate cercetările astea ? continuă el. Știi cine a fost persoana cea mai intrigată din sanatoriu?
+― și știi cine m’a împins să fac toate cercetările astea ? continuă el. Știi cine a fost persoana cea mai intrigată din sanatoriu?
 
-— Cine?
+― Cine?
 
-— Ghicește!…
+― Ghicește!…
 
 Emanuel tăcu și se gândi.
 
-— Să-ți spun eu… Isa! exclamă Ernest… Fierbea de curiozitate!…
+― Să-ți spun eu… Isa! exclamă Ernest… Fierbea de curiozitate!…
 
 Emanuel constată într’adevăr că dimineața devenea tot mai agreabilă.
 
 Celina tocmai atunci trecu și ea pe coridor.
 
-— Ce văd, exclamă dânsa rămânând împietrită, cu mâinile pe piept, în poziția ei de cărăbuș cu elitrele strânse. Chiar d-l Emanuel? De unde ați răsărit? Mă duc repede ca să-i anunț domnișoarei Isa vestea! Dar o să-i spun așa… pe departe pentru ca să nu fie surprinsă deodată. De câtva timp e suferindă… are mereu febră…
+― Ce văd, exclamă dânsa rămânând împietrită, cu mâinile pe piept, în poziția ei de cărăbuș cu elitrele strânse. Chiar d-l Emanuel? De unde ați răsărit? Mă duc repede ca să-i anunț domnișoarei Isa vestea! Dar o să-i spun așa… pe departe pentru ca să nu fie surprinsă deodată. De câtva timp e suferindă… are mereu febră…
 
-— Aș putea s’o văd? întrebă Emanuel.
+― Aș putea s’o văd? întrebă Emanuel.
 
-— Iată, mă duc să întreb. Încă nu se trezise când am plecat în oraș…
+― Iată, mă duc să întreb. Încă nu se trezise când am plecat în oraș…
 
 Celina se întoarse peste câteva minute.
 
-— Vă așteaptă împreună cu domnul Ernest.
+― Vă așteaptă împreună cu domnul Ernest.
 
 Isa părea într’adevăr obosită, o ușoară somnolență îi acoperea ochii.
 
-— Unde te-ai ascuns? Unde ai fugit? întrebă ea pe Emanuel.
+― Unde te-ai ascuns? Unde ai fugit? întrebă ea pe Emanuel.
 
 În odaie plutea un miros vag de desinfectante și materii purulente. Era un miros iute de legume putrede, care izbea vara în odăile bolnavilor cu abcese; parfumul pe care îl pulverizase Celina cu câteva minute mai înainte nu reușea să-l acopere complet.
 
 Isa ținea în mână un album.
 
-— Mă uitam la niște fotografii vechi… Iată, aici sunt eu…
+― Mă uitam la niște fotografii vechi… Iată, aici sunt eu…
 
 Întinse albumul la pagina deschisă. O fotografie aproape complet ștearsă reprezenta o fetiță de vreo doi ani într’un parc cu statui și copaci ninși de zăpadă. Avea o față atât de mică și ochi atât de mirați încât părea o păpușă.
 
-— Mă întreb ce gândeam oare în momentul fotografiei, spuse Isa. Ce fel de uimire prezenta pentru mine lumea în acea clipă?…
+― Mă întreb ce gândeam oare în momentul fotografiei, spuse Isa. Ce fel de uimire prezenta pentru mine lumea în acea clipă?…
 
 Și cu un ton mai trist:
 
-— Ah! clipa acea pură și naivă fixată pe fotografie!… Ce groaznică înșelăciune!… Câtă amărăciune i-a urmat de atunci…
+― Ah! clipa acea pură și naivă fixată pe fotografie!… Ce groaznică înșelăciune!… Câtă amărăciune i-a urmat de atunci…
 
 Ernest privi și el îndelung fotografia.
 
@@ -2500,51 +2505,51 @@ Celina deschise fereastra; grădina era plină de bolnavi și de vilegiaturiști
 
 Cât de adăpostit de ele se simțea acum! Un gramofon începu să ronțăie metalic, partea lui de sgomot. Dar nu era numai atât… pe câteva mese se înșirau vreo zece gramofoane de voiaj. Câțiva tineri și fete schimbau acele și puneau plăci la fiecare; găsiseră ceva nou.
 
-— Au inventat de vreo două zile un joc stupid, spuse Isa. Pun gramofoanele la rând și le dau drumul la comandă în același timp… zece gramofoane… cu zece plăci diferite…
+― Au inventat de vreo două zile un joc stupid, spuse Isa. Pun gramofoanele la rând și le dau drumul la comandă în același timp… zece gramofoane… cu zece plăci diferite…
 
 Într’adevăr o formidabilă cacofonie de sunete și urlete izbucni deodată din acele zece aparate puse în funcțiune.
 
-— Și ce spune directorul? Bolnavii? țipă Emanuel ca să se facă auzit.
+― Și ce spune directorul? Bolnavii? țipă Emanuel ca să se facă auzit.
 
-— Bolnavii își pun vată în urechi, cât privește de director el nu spune nimic ca să nu-și piardă clienții.
+― Bolnavii își pun vată în urechi, cât privește de director el nu spune nimic ca să nu-și piardă clienții.
 
 Era o revărsare sălbatică de tonuri, o învălmășeală de muzici, ca izbucnirea unui cataclism aerian pe care întreaga atmosferă l-ar fi clocit timp îndelungat și acum l-ar fi expulzat dintr’odată cu urlete, țipete și pocnete asurzitoare.
 
-— Închide! Închide fereastra! țipă Isa îngrozită.
+― Închide! Închide fereastra! țipă Isa îngrozită.
 
-— Pentru ce nu pleci la alt sanatoriu? întrebă Emanuel.
+― Pentru ce nu pleci la alt sanatoriu? întrebă Emanuel.
 
-— În toate părțile e la fel, spuse Ernest. Se știe că vara orașul aparține celor vii…
+― În toate părțile e la fel, spuse Ernest. Se știe că vara orașul aparține celor vii…
 
 Celina aduse pentru toți trei cafeaua.
 
 Vorbiră despre bolnavii din sanatoriu.
 
-— Și Tonio? întrebă Emanuel care nu-l mai văzuse de mult.
+― Și Tonio? întrebă Emanuel care nu-l mai văzuse de mult.
 
 Ernest avea vești recente despre el.
 
-— Vă pot da ultimele știri… a fost pe aici un frate de al lui ca să ridice un geamantan cu niște cărți, pe care le lăsase la sanatoriu… Mi-a povestit lucruri sensaționale despre dânsul, absolut sensaționale…
+― Vă pot da ultimele știri… a fost pe aici un frate de al lui ca să ridice un geamantan cu niște cărți, pe care le lăsase la sanatoriu… Mi-a povestit lucruri sensaționale despre dânsul, absolut sensaționale…
 
-— Ce anume? Spune repede, insistă Isa nerăbdătoare.
+― Ce anume? Spune repede, insistă Isa nerăbdătoare.
 
-— Știți că îndată după plecarea d-nei Wandeska, a plecat și el la Paris la fratele lui… Încă dela Berck luase obiceiul băutului… la Paris însă se tăvălea din bar în bar. În zadar a încercat fratele lui să-l cumințească, în zadar au fost toate sfaturile, toate amenințările… Într’o seară i s’a întâmplat ceva extraordinar… Fratele lui mi-a povestit aventura râzând însă pe mine m’a înfiorat… Sărmanul Tonio!
+― Știți că îndată după plecarea d-nei Wandeska, a plecat și el la Paris la fratele lui… Încă dela Berck luase obiceiul băutului… la Paris însă se tăvălea din bar în bar. În zadar a încercat fratele lui să-l cumințească, în zadar au fost toate sfaturile, toate amenințările… Într’o seară i s’a întâmplat ceva extraordinar… Fratele lui mi-a povestit aventura râzând însă pe mine m’a înfiorat… Sărmanul Tonio!
 
 Câteva secunde rămase tăcut.
 
-— Așa dar într’o seară după ce a băut cât a încăput într’însul (și poate chiar mai mult) a umblat aiurit pe străzi câtva timp, apoi s’a culcat pe o bancă lângă o stație de metro. Deodată fu apucat de o criză de ficat, la alcoolici este lucru obișnuit, – și începu să urle de durere, horcăind și, beat cum era, tăvălindu-se pe jos. Era două noaptea. Un polițist care trecea pe acolo, văzând un om svârcolindu-se pe asfalt, încercă să-l interogheze dar nu fu chip să înțeleagă o vorbă din ce bolborosea el. Desigur, se vedea bine că omul se îmbătase, dar urletele de durere semănau mai de grabă cu ale unui rănit… Polițistul chemă în ajutor pe alți doi oameni și Tonio fu transportat la o clinică din apropiere.
+― Așa dar într’o seară după ce a băut cât a încăput într’însul (și poate chiar mai mult) a umblat aiurit pe străzi câtva timp, apoi s’a culcat pe o bancă lângă o stație de metro. Deodată fu apucat de o criză de ficat, la alcoolici este lucru obișnuit, – și începu să urle de durere, horcăind și, beat cum era, tăvălindu-se pe jos. Era două noaptea. Un polițist care trecea pe acolo, văzând un om svârcolindu-se pe asfalt, încercă să-l interogheze dar nu fu chip să înțeleagă o vorbă din ce bolborosea el. Desigur, se vedea bine că omul se îmbătase, dar urletele de durere semănau mai de grabă cu ale unui rănit… Polițistul chemă în ajutor pe alți doi oameni și Tonio fu transportat la o clinică din apropiere.
 
-Îl băgară repede într’o cameră liberă și portarul de noapte se duse să caute pe internul de serviciu. În acest timp criza se potoli puțin, durerile dispăruseră probabil, în fine nu se știe bine ce s’a petrecut, dar când Tonio deschise ochii și se trezi în încăperea aceea necunoscută, fu cuprins de o furie oarbă. Se ridică din pat, începu să arunce toate lucrurile din odaie, saltelele, pernele pe jos, izbi scaunele, apoi găsi în saltarul unei mese o foarfecă de pansamente, uitată cine știe cum acolo, o apucă și ieși cu ea amenințător pe coridor, gata s’o înfigă în primul om întâlnit. Spumega de furie; alcoolul fierbea într’însul rău de tot… găsi o ușă întredeschisă unde o geană slabă de lumină pătrundea pe coridor… Și atunci se întâmplă ceva neașteptat, terifiant și ridicul, dând aventurii cel mai grotesc sfârșit.. Tonio împinse ușa și se-găsi într’o odaie absolut goală. Zări pe perete o fotografie de femeie, o smulse și o tăiă în bucăți cu foarfeca. Odaia aparținea unei îngrijitoare, care avea în pază un bolnav foarte grav… Ușa de alături era deschisă și se auzeau horcăiturile muribundului. Îngrijitoarea plecase pentru câteva momente și trebuia să revină. Tonio cu foarfeca ridicată amenințător… teribil… intră în odaia muribundului și se găsi brusc față în față cu un bătrân slab, ridicat în perne, având o față hidoasă cu un ochiu scurs… Stătea în pat, în capul oaselor, înșirând mătănii și murmurând ļitanii cu o voce întreruptă de horcăituri… Ochiul cel buń își păstrase toată vigoarea și acuitatea lui. Era o privire globuloasă și rece, care îl țintui pe Tonio în prag.
+Îl băgară repede într’o cameră liberă și portarul de noapte se duse să caute pe internul de serviciu. În acest timp criza se potoli puțin, durerile dispăruseră probabil, în fine nu se știe bine ce s’a petrecut, dar când Tonio deschise ochii și se trezi în încăperea aceea necunoscută, fu cuprins de o furie oarbă. Se ridică din pat, începu să arunce toate lucrurile din odaie, saltelele, pernele pe jos, izbi scaunele, apoi găsi în saltarul unei mese o foarfecă de pansamente, uitată cine știe cum acolo, o apucă și ieși cu ea amenințător pe coridor, gata s’o înfigă în primul om întâlnit. Spumega de furie; alcoolul fierbea într’însul rău de tot… găsi o ușă întredeschisă unde o geană slabă de lumină pătrundea pe coridor… Și atunci se întâmplă ceva neașteptat, terifiant și ridicul, dând aventurii cel mai grotesc sfârșit… Tonio împinse ușa și se-găsi într’o odaie absolut goală. Zări pe perete o fotografie de femeie, o smulse și o tăiă în bucăți cu foarfeca. Odaia aparținea unei îngrijitoare, care avea în pază un bolnav foarte grav… Ușa de alături era deschisă și se auzeau horcăiturile muribundului. Îngrijitoarea plecase pentru câteva momente și trebuia să revină. Tonio cu foarfeca ridicată amenințător… teribil… intră în odaia muribundului și se găsi brusc față în față cu un bătrân slab, ridicat în perne, având o față hidoasă cu un ochiu scurs… Stătea în pat, în capul oaselor, înșirând mătănii și murmurând ļitanii cu o voce întreruptă de horcăituri… Ochiul cel buń își păstrase toată vigoarea și acuitatea lui. Era o privire globuloasă și rece, care îl țintui pe Tonio în prag.
 
-— Vreau să omor un om… bolborosi el vag și scăpă foarfeca din mână.
+― Vreau să omor un om… bolborosi el vag și scăpă foarfeca din mână.
 
 Bătrânelul rămase uimit, puse calm mătăniile deoparte și foarte liniștit făcu cu mâna:
 
-— Apropie-te tinere… foarte… amuzant… foarte amuzant…
+― Apropie-te tinere… foarte… amuzant… foarte amuzant…
 
 Sărmanul bolnav se plictisea îngrozitor în lungile lui nopți de insomnie și acum când, în fine, se petrecea ceva interesant în odaia lui, voia să vadă fenomenul mai de aproape.
 
-— Vino, tinere… nu-ți fie… frică…
+― Vino, tinere… nu-ți fie… frică…
 
 Tonio sdrobit de paroxismul crizei care acum trecuse, căzu obosit pe un scaun lângă pat. Îngrijitoarea bolnavului care în acel moment intrase după el în odaie și asistase de câteva secunde la toată întâmplarea, se duse să caute pe cineva în ajutor, ca să-l scoată pe Tonio de acolo.
 
@@ -2556,7 +2561,7 @@ Cu toții rămaseră liniștiți, impresionați de povestire.
 
 Emanuel se uită la ceas. Era timpul să plece.
 
-— Voi trece poate pe aici Sâmbătă, spuse el Isei. Vin la clinică să-mi „desbrac” ghipsul, adăugă el vesel.
+― Voi trece poate pe aici Sâmbătă, spuse el Isei. Vin la clinică să-mi „desbrac” ghipsul, adăugă el vesel.
 
 Era cu deosebire bine dispus. Brancardierul împinse căruțul… Emanuel se lasă dus complet satisfăcut de dimineața aceea, exaltat de gândul că în curând va fi eliberat de corset.
 
@@ -2568,13 +2573,13 @@ Se gândea la aceasta și la alte multe lucruri agreabile, când deodată, ajuns
 
 Emanuel încercă și el să fie calm.
 
-— Te-am văzut intrând în clinică, spuse dânsa. Iartă-mă că te-am așteptat până acum. Dacă te supăr plec…
+― Te-am văzut intrând în clinică, spuse dânsa. Iartă-mă că te-am așteptat până acum. Dacă te supăr plec…
 
 Într’adevăr o găsise pe scăunaș liniștită și absorbită de cetirea ziarului la venirea lui, dar tremurul vocei și respirația precipitată care se întețea sub bluză (aproape că se vedeau bătăile inimii), trădau toată emoția înnăbușită.
 
 Emanuel nu avea curajul impolitețelor, în plină zi, săvârșite cu ochii deschiși. În timp ce brancardierul îl încărca în trăsură, o rugă să vină cu dânsul:
 
-— Trebue să-ți vorbesc, să-ți explic, spuse el.
+― Trebue să-ți vorbesc, să-ți explic, spuse el.
 
 Îndată însă ce fură singuri, constată cu surprindere că nu avea nimic să-i spue. Ce anume să-i explice?
 
@@ -2584,9 +2589,9 @@ Exista undeva în dune o vilă „Elseneur”. Se simțea bine acolo. Era singur
 
 Încet, la pas, calul îi plimba pe străzile unui oraș amuțit și el. Copitele băteau tăcerea mărunțind-o clar și parcă exasperând-o. Toată imposibilitatea de a vorbi se ritma în loviturile acestea uniforme, pe caldarâm. Ce să-i spun? se neliniștea Emanuel și se simțea brusc solidar cu casele din jurul lui, cu obloanele lor trase, cu impasibilitatea copacilor și perfecta nedumerire a atâtor locuri care, ele n’aveau nevoie ca să dea nicio explicație, nimănui.
 
-— Va exista în fine un moment, mai târziu, când Solange nu va mai fi lângă mine. Voi întinde mâna de pildă, și scăunașul va fi gol, iar eu din nou singur… E vorba acum de a suporta o anumită tăcere, gândea Emanuel și tâmplele îi zvâcneau acumulând în puls toată enervarea și vibrația intensă a încleștării.
+― Va exista în fine un moment, mai târziu, când Solange nu va mai fi lângă mine. Voi întinde mâna de pildă, și scăunașul va fi gol, iar eu din nou singur… E vorba acum de a suporta o anumită tăcere, gândea Emanuel și tâmplele îi zvâcneau acumulând în puls toată enervarea și vibrația intensă a încleștării.
 
-– Și unde stai? întrebă în fine Solange.
+― Și unde stai? întrebă în fine Solange.
 
 Ah! vorbise cineva? Emanuel tresări. În trăsura aceea, în plimbarea pe străzi dosnice, în ritmul copitelor de asfalt, părea că disolvase pentru totdeauna posibilitatea de a pronunța un cuvânt.
 
@@ -2598,39 +2603,39 @@ Solange apucă hățurile pentru a opri calul. Se depărtaseră prea mult de ora
 
 Emanuel scoase și el portofelul. În momentul când îl deschise căzu din el o hârtie mică păturită cu îngrijire. Solange reveni din adânca ei destrămare și rămase cu privirile fixate pe bucățica de hârtie.
 
-— Un bilețel de dragoste? întrebă ea.
+― Un bilețel de dragoste? întrebă ea.
 
 În fine, Emanuel își dădu seama ce violente otrăvuri filtrase până atunci tăcerea ei. Solange oare pronunțase aceste cuvinte? Într’o clipă apăru semnul disperării interioare și pe obrazul palid, ca niște stigmate de durere se iviră două pete de violentă roșeață.
 
-— Ce ai Solange…
+― Ce ai Solange…
 
 Ea tăcu câteva secunde apoi, aspiră mult aer și vorbi încet, ca un îndepărtat ecou al unui tumult ascuns.
 
-— Mi-e sufletul înghețat Emanuel… a înghețat ceva în mine… mi-e rece… mi-e rece aici înăuntru. Și arătă cu mâna pieptul. Ce e cu biletul acela?
+― Mi-e sufletul înghețat Emanuel… a înghețat ceva în mine… mi-e rece… mi-e rece aici înăuntru. Și arătă cu mâna pieptul. Ce e cu biletul acela?
 
 Emanuel ezită.
 
-— Iartă-mă, dar nu pot să-ți spun. Apoi cu un gest rapid îl puse înapoi în portofel. Îi părea îngrozitor de rău că nu i-l putea arăta. Era bucățica de os dela Quitonce. De când îi dăduse infirmul pachețelul în ziua aceea după operație și până acum nu-l atinsese de loc; ar fi avut o groază imensă să-l deschidă.
+― Iartă-mă, dar nu pot să-ți spun. Apoi cu un gest rapid îl puse înapoi în portofel. Îi părea îngrozitor de rău că nu i-l putea arăta. Era bucățica de os dela Quitonce. De când îi dăduse infirmul pachețelul în ziua aceea după operație și până acum nu-l atinsese de loc; ar fi avut o groază imensă să-l deschidă.
 
-— Îmi este imposibil să ți-l arăt, dar îți pot spune ce conține…
+― Îmi este imposibil să ți-l arăt, dar îți pot spune ce conține…
 
 Solange scoborîse din trăsură:
 
-— Îți mulțumesc… nu mai am nevoie să știu…
+― Îți mulțumesc… nu mai am nevoie să știu…
 
 Întinse mâna, o mână moale și puțin umedă pe care Emanuel o ținu câteva secunde într’a lui ca pe un mic animal mort, cald încă.
 
-— Adio, Emanuel…
+― Adio, Emanuel…
 
-— Pentru ce adio? întrebă el surprins.
+― Pentru ce adio? întrebă el surprins.
 
 Și brusc neliniștit:
 
-— Aș vrea să ne mai vedem… să rămânem prieteni…
+― Aș vrea să ne mai vedem… să rămânem prieteni…
 
 Ea îl privi ca și cum n’ar fi înțeles că e acolo:
 
-— Adio, îți spun adio…
+― Adio, îți spun adio…
 
 Și plecă cu o întorsătură aspră, în momentul exact când lacrimile îi izbucniră în ochi.
 
@@ -2642,13 +2647,13 @@ Ziua următoare era aniversarea morții defunctului d-l Tils.
 
 Toată vila era împregnată de mirosul greu de crini și de narciși, aduși încă din ajun. Era o zi de rituri precise, în care nu se mânca decât frugal; d-na Tils zăcea eplorată pe pat, sus în odaia ei, udând batiste întregi de lacrimi; bucătăreasa se îmbrăca în negru cu o tocă pe cap și așa își făcea prin casă toată treaba, scuturând praful și servind ceaiul cu pălărioara ridiculă în vârful coafurei, iar Irving punea botniță câinelui ca să nu latre. Mirosea funebru și dulceag în aer dela mulțimea florilor strânse în buchete. Când veni ora zece, toată lumea se pregăti de plecare. Se ivi o dificultate: cimitirul era departe și ei nu se întorceau decât după-amiază târziu. Cu cine avea să rămâie Emanuel? Bucătăreasa, în ruptul capului n’ar fi renunțat la ceremonie. În zadar o rugă Emanuel să-și amâne pelerinajul pe a doua zi, pentrucă și atunci de sigur buchetul ei va fi tot atât de valabil pe mormânt.
 
-— Este azi aniversarea „domnului” și spuneți să mă duc acolo mâine? Ce rost are asta? Ce rost pot avea florile mele într’o zi oarecare a anului?
+― Este azi aniversarea „domnului” și spuneți să mă duc acolo mâine? Ce rost are asta? Ce rost pot avea florile mele într’o zi oarecare a anului?
 
 Era ca și cum spiritul invizibil al răposatului ar fi dat tuturor întâlnire pe mormântul lui în ziua precisă a aniversarului. În altă zi buchetele deveneau de prisos, pentrucă spiritul nu se afla acolo.
 
-— Ținea atât de mult la mine „domnul”, izbucni femeia în plâns.
+― Ținea atât de mult la mine „domnul”, izbucni femeia în plâns.
 
-— Ei bine, voi rămânea singur, spuse Emanuel. În definitiv n’am nevoie de nimic și cred că nu va lua foc casa tocmai azi…
+― Ei bine, voi rămânea singur, spuse Emanuel. În definitiv n’am nevoie de nimic și cred că nu va lua foc casa tocmai azi…
 
 Îi pregătiră un săculeț cu mâncare pentru dejun, lângă dânsul pe măsuță și îl așezară cu căruțul în fundul salonului ca să nu-l ardă soarele. Traseră perdelele și Emanuel rămase în odaia răcoroasă, în solitudinea desăvârșită a vilei.
 
@@ -2662,13 +2667,13 @@ Deodată pe una din dunele dinspre cârciumă apăru factorul postal. Ah! foarte
 
 De obiceiu factorul ocolea vila și dădea scrisorile la bucătărie pentru d-na Tils. Emanuel nu primea mai niciodată nimic. De data asta factorul se îndreptă direct spre terasă.
 
-— Vă aduc o scrisoare, spuse el, intrând roșu la față, leoarcă de sudoare.
+― Vă aduc o scrisoare, spuse el, intrând roșu la față, leoarcă de sudoare.
 
-— Pentru mine? întrebă surprins Emanuel.
+― Pentru mine? întrebă surprins Emanuel.
 
 Era un plic mare, cu chenar de doliu cu adresa scrisă la mașină. Factorul se grăbi să plece pentru a face mai repede un popas la cârciumă.
 
-— Închide te rog ușa, strigă Emanuel în urma lui.
+― Închide te rog ușa, strigă Emanuel în urma lui.
 
 Când se găsi în fine singur, rupse scrisoarea și rămase uluit de surpriză. Ar fi vrut acum să țipe și să cheme înapoi pe factor, dar era prea târziu. Dunele stăteau pustii în soare și oricât de puternic ar fi strigat tot nu l-ar fi auzit nimeni. Se închisese în mod stupid în salon ca într’o capcană. Ar fi trebuit să aibă prudența de a deschide plicul în prezența factorului… Acum, era prea târziu. Învârtea în mână hârtia cu conținutul amar și crispat, În marginea ei se înșirau câteva desene macabre, un craniu cu două oase, un schelet, și la mijloc doar un rând:
 
@@ -2694,7 +2699,7 @@ Poate că plânsul i-ar fi făcut bine, dar ar fi fost și el o acțiune prea ex
 
 Când, peste un ceas, se întoarseră în sfârșit cu toții dela cimitir, Emanuel nu mai avu decât slabe puteri, pentru a-l ruga pe Irving să alerge cu bicicleta în oraș:
 
-— În caz că odaia ei este închisă, să fie deschisă cu forța, spuse Emanuel cu glas moale. Să se caute… să se cerceteze pretutindeni, este vorba de ceva foarte grav… Și dacă o găsești pe doamna Solange, dă-i acest bilet…
+― În caz că odaia ei este închisă, să fie deschisă cu forța, spuse Emanuel cu glas moale. Să se caute… să se cerceteze pretutindeni, este vorba de ceva foarte grav… Și dacă o găsești pe doamna Solange, dă-i acest bilet…
 
 Așternu în grabă câteva rânduri pe care nici el nu le înțelegea prea bine…
 
@@ -2714,21 +2719,21 @@ Deodată auzi pași pe ciment, în curte. Irving închisese câinele ca să nu l
 
 În momentul când vru să cheme pe cineva, se auzi soneria dela intrare zbârnâind strident.
 
-— Cine e? țipă Emanuel.
+― Cine e? țipă Emanuel.
 
 De afară nu veni niciun răspuns. Soneria zbârnâi mai prelung, mai insistent. Acum bucătăreasa se trezise și venea în papuci cu pași târșăiți pe coridor.
 
-— Aici e vila „Elseneur”?, întrebă de afară o voce în care Emanuel nu descoperi niciun accent cunoscut.
+― Aici e vila „Elseneur”?, întrebă de afară o voce în care Emanuel nu descoperi niciun accent cunoscut.
 
 Bucătăreasa întredeschise ușa și schimbă câteva șoapte cu persoana care sunase, apoi veni la odaia lui Emanuel și bătu încetișor.
 
-— Ce este? întrebă el surprins.
+― Ce este? întrebă el surprins.
 
-— A venit cineva să vă vadă… Spune că trebue numaidecât să vă vorbească. Bucătăreasa intră în odaie. E o domnișoară… care… o fată… dar mi se pare că e cam așa… și făcu un gest arătând spre frunte… spune că ați chemat-o.
+― A venit cineva să vă vadă… Spune că trebue numaidecât să vă vorbească. Bucătăreasa intră în odaie. E o domnișoară… care… o fată… dar mi se pare că e cam așa… și făcu un gest arătând spre frunte… spune că ați chemat-o.
 
 Emanuel abea acum își aminti de Solange.
 
-— Bine, spune să intre…
+― Bine, spune să intre…
 
 Aduse lampa mai în spre mijlocul mesei și ridică flacăra; odaia se lumină brusc ca un om care ridică sprâncenile în așteptarea unei surprize.
 
@@ -2742,31 +2747,31 @@ Abea când intră în odaie, el zări în mâinile ei obiectele hidoase pe care 
 
 Emanuel rămase îngrozit. Solange cu gura întredeschisă (i se scurgea în colțul buzelor un fir de salivă) rămase și ea împietrită cu privirile moi, teribil de cetoase și de șterse. Ce este? Ce s’a întâmplat? Emanuel ar fi vrut să țipe destul de tare pentru ca s’o trezească, s’o apuce de mână și s’o zgâlțăie puternic ca s’o readucă în realitate.
 
-— Ți-am adus astea… spuse ea, și puse pe masă pasărea moartă și gheata.
+― Ți-am adus astea… spuse ea, și puse pe masă pasărea moartă și gheata.
 
 Colorile din obraz îi dispăruseră cu totul, avea o paloare cenușie și nedefinită ca a pietrelor, ca a nisipului…
 
-— Te rog stai jos, spuse Emanuel.
+― Te rog stai jos, spuse Emanuel.
 
 Solange căzu într’un fotoliu mușcându-și încet buzele și aspirând din când în când saliva de pe margine. Stătea în plină lumină, înlemnită, privind fix abatjourul lămpii, fără să clipească ori să fie jenată de flacără, ca și cum ochii ei ar fi căpătat indiferența întregului trup, devenind două simple bucăți de sticlă încrustate în obrazul de piatră.
 
-— M’ai chemat… am venit, spuse ea într’un sfârșit.
+― M’ai chemat… am venit, spuse ea într’un sfârșit.
 
 Emanuel își schiță un mic plan de atac plin de convingeri. „Va trebui să vorbesc cât mai rar și cât mai limpede ca să mă priceapă… E complet zăpăcită… amețită de disperare…”.
 
-— Te înțeleg foarte bine, spuse el tare cu un accent de vădită compasiune în voce. Te înțeleg și totuși lucrurile nu puteau fi altfel. Știu cât de dureroasă a fost despărțirea noastră…
+― Te înțeleg foarte bine, spuse el tare cu un accent de vădită compasiune în voce. Te înțeleg și totuși lucrurile nu puteau fi altfel. Știu cât de dureroasă a fost despărțirea noastră…
 
 Și minți calm:
 
-— De altfel pentru tine ca și pentru mine… și eu sufăr, adânc în carnea, în sângele meu… erai doar o parte din mine însumi.
+― De altfel pentru tine ca și pentru mine… și eu sufăr, adânc în carnea, în sângele meu… erai doar o parte din mine însumi.
 
 În odaie țâșni lumina unui fulger, norii se îndesau afară într’un cer negru de smoală, un tunet se rostologi ca o bruscă și imensă destindere a aerului înnăbușit. Căldura se făcu încă și mai grea; broboane mari de sudoare acopereau fruntea lui Emanuel; lumina circulară a abatjourului închidea odaia într’un spațiu ermetic și irespirabil ca într’un clopot de sticlă sub apă.
 
-— Pentru mine despărțirea a fost tot atât de grea… tot atât de insuportabilă, continuă el. Dar n’am vrut ca dragostea noastră să devie un obicei. Înțelegi? Am căutat s’o salvez dela un înnec sigur în banalitate. Să rămâie unic ceea ce a fost atât de pur și de extraordinar…
+― Pentru mine despărțirea a fost tot atât de grea… tot atât de insuportabilă, continuă el. Dar n’am vrut ca dragostea noastră să devie un obicei. Înțelegi? Am căutat s’o salvez dela un înnec sigur în banalitate. Să rămâie unic ceea ce a fost atât de pur și de extraordinar…
 
-— Atât de pur, și de extraordinar, repetă Solange cuvintele în neștire. Își trecu mâna peste ochi ca pentru a goni o imagine obsedantă, poate o amintire.
+― Atât de pur, și de extraordinar, repetă Solange cuvintele în neștire. Își trecu mâna peste ochi ca pentru a goni o imagine obsedantă, poate o amintire.
 
-— Și apoi, spuse Emanuel, n’am vrut decât să întrerup această iubire a noastră și nicidecum s’o sfârșesc… Să creez în ea o pauză… o tăcere… în care să se precizeze și să devie mai puternică…
+― Și apoi, spuse Emanuel, n’am vrut decât să întrerup această iubire a noastră și nicidecum s’o sfârșesc… Să creez în ea o pauză… o tăcere… în care să se precizeze și să devie mai puternică…
 
 Tot ce spunea îi suna în cap ca o reacție searbădă pronunțată de o gură străină. Se asculta vorbind, aproape cu complezență. Cuvintele păreau ele înșile atrofiate de căldură. Unde se petreceau toate acestea? Cu siguranță că noaptea căzuse cu tot conținutul ei hidos și sufocant în apa unei oglinzi deformante și se desfășura acum în aerul fragil și nesigur de dincolo de sticlă…
 
@@ -2774,45 +2779,45 @@ Solange își frământa mâinile, răsucindu-și degetele.
 
 Deodată recunoscu pe masă scrisoarea trimisă de dimineață. Emanuel îi urmări privirea, apoi apucă subit hârtia își cu un gest superb o desfăcu și o rupse în bucăți.
 
-— Ce înseamnă amenințările astea? spuse el cu o bruscă violență, aruncând bucățile în scrumieră, ca și cum i le-ar fi aruncat Solangei în față.
+― Ce înseamnă amenințările astea? spuse el cu o bruscă violență, aruncând bucățile în scrumieră, ca și cum i le-ar fi aruncat Solangei în față.
 
 Asta isprăvi s’o doboare. Era poate cea mai atroce și mai brutală dezamăgire din ziua aceea. Cu profundă umilință privi hârtiile din scrumieră și fața ei căpătă un aer încă mai supus și mai docil de animal bătut.
 
-— Îți repet că despărțirea noastră nu este decât provizorie, reluă Emanuel. Și chiar de ar fi definitivă… se răsgândi el. Oare n’am scos din dragostea noastră tot ce putea fi mai pasionant?… Tot ce a fost unic și inimitabil?…
+― Îți repet că despărțirea noastră nu este decât provizorie, reluă Emanuel. Și chiar de ar fi definitivă… se răsgândi el. Oare n’am scos din dragostea noastră tot ce putea fi mai pasionant?… Tot ce a fost unic și inimitabil?…
 
-— Da, tot… tot… repetă Solange și se vedea bine că nu știe ce spune. Apoi cu ochii aproape închiși:
+― Da, tot… tot… repetă Solange și se vedea bine că nu știe ce spune. Apoi cu ochii aproape închiși:
 
-— Auzi?… Marea… Marea… foșnește mereu…
+― Auzi?… Marea… Marea… foșnește mereu…
 
 Și duse moale mâna la frunte.
 
 În noapte, afară, fulgerele se întețeau și furtuna devenea tot mai apăsătoare ca o luptă grozavă între forțele norilor gata să plesnească și zăpușeala amorfă și anihilantă ce îi ținea în loc. Câteva picături grele răpăiră iute pe acoperiș, dar vântul izbucni mai vijelios și îndepărtă din nou ploaia. Era foarte târziu. Bucătăreasa asculta poate la ușă. Emanuel fu cuprins de nerăbdare.
 
-— Tot sbuciumul ăsta… Toată agitația asta, ai fi putut să mi le eviți, strigă el furios.
+― Tot sbuciumul ăsta… Toată agitația asta, ai fi putut să mi le eviți, strigă el furios.
 
 Tu nu-ti dai seama că sunt… un om bolnav?… Un infirm?
 
 Aceste cuvinte îl emoționară: osteneala, transpirația sub ghips, toată enervarea din seara aceea se destinseră subit. Izbucni în plâns. Da, Emanuel plângea cu lacrimi mari, sărate pe care le sorbea pe colțul buzelor… Își acoperi fața cu mâinile și se băgă sub plapomă. Era salvat: plângea, atâta tot, și nu mai vroia să știe de nimic din jurul lui. Solange putea să rămâie toată noaptea, ori să plece imediat. O auzi cum se ridică și vine spre gutiera lui. Apoi simți căderea unui corp greu peste dânsul, deasupra plapomei.
 
-— Iartă-mă… Emanuel… iartă-mă…
+― Iartă-mă… Emanuel… iartă-mă…
 
 Solange hohotea cu suspine disperate. Ah! nu! la atâta nu mai putea să reziste! El să plângă sub plapomă și ea deasupra, cu părul despletit, cu brațele desfăcute, într’o atitudine de pocăință, ca pe gravuri… ah!, nu! li venea acum sincer să râdă. Își șterse lacrimile și întrebă de sub cuverturi:
 
-— Când pleci? O să te apuce ploaia…
+― Când pleci? O să te apuce ploaia…
 
-— Chiar acum, răspunse Solange printre suspine.
+― Chiar acum, răspunse Solange printre suspine.
 
 Emanuel scoase capul afară.
 
 Solange, spălată de lacrimi, părea că își revine. Își aranjă puțin părul în fața oglinzii, apoi se îndreptă spre ușă.
 
-— Iartă-mă Emanuel… am uitat că ești un bolnav…
+― Iartă-mă Emanuel… am uitat că ești un bolnav…
 
-— Un infirm, completă Emanuel.
+― Un infirm, completă Emanuel.
 
 Zări obiectele de pe masă și vru ca să leia cu dânsa.
 
-— Te rog lasă-le aci! spuse Emanuel cu ferocitate.
+― Te rog lasă-le aci! spuse Emanuel cu ferocitate.
 
 „Este mai bine să știe că au rămas în urma ei semne vizibile de demență, gândi el; mâine în plină zi asta o s’o chinue puțin…”.
 
@@ -2840,7 +2845,7 @@ Intră de-a dreptul în curtea clinicii unde era așteptat. Îl descărcară rep
 
 Se aplecă cu atenție peste burta lui și pipăi locul abcesului.
 
-— Bine… e perfect, mormăi doctorul satisfăcut. Îți scoatem azi ghipsul și peste o lună-două poate începi să umbli…
+― Bine… e perfect, mormăi doctorul satisfăcut. Îți scoatem azi ghipsul și peste o lună-două poate începi să umbli…
 
 Apucă o foarfecă de pe masă, enormă ca o unealtă de grădinărie, cu vârfurile învelite în tifon pentru a nu-l înțepa, o introduse sub tunica albă și începu să taie din învelișul gros și dur.
 
@@ -2848,7 +2853,7 @@ Se înroși la față de intensitatea efortului. Infirmiera trăgea din răspute
 
 Dar nu mai era corpul lui de odinioară. O pătură îngrozitoare de jeg cenușiu și puturos îl acoperea peste tot cu un strat gros de scârboasă murdărie, care se lua de pe el în cruste mari și îl umplea de hidoșenie. Infirmiera aduse o sticlă cu benzină. Emanuel închise ochii:
 
-— Te rog să-mi dai înapoi corpul curat și intact așa cum ți l-am predat înainte de ghips, spuse el.
+― Te rog să-mi dai înapoi corpul curat și intact așa cum ți l-am predat înainte de ghips, spuse el.
 
 Eva se apucă de lucru, frecând cu tampoane ude.
 
@@ -2868,13 +2873,13 @@ Pentru bolnavi se rezervase o curte mică cimentată în fund lângă grajduri, 
 
 Tot pieptul era prins de un corset, care se prelungea cu o ieșitură rotundă până sub ceafă. În felul acesta capul rămânea rigid și nu se putea întoarce nici la dreapta nici la stânga. Bolnavul umbla cu privirile fixe înainte, tatonând solul ca un orb, ori ca o statue ambulantă în atitudine solemnă de iluminat.
 
-— Azi este a cincea zi de când m’am ridicat. explică băiețașul lui Emanuel, uitându-se la ceasul de mână, și mai am o minută….
+― Azi este a cincea zi de când m’am ridicat. explică băiețașul lui Emanuel, uitându-se la ceasul de mână, și mai am o minută….
 
 În fiecare zi bolnavii vindecați încercau să meargă cu o minută în plus decât în ziua precedentă. Când ajungeau să se ție pe picioare o jumătate de ceas, toți cei întinși îi invidiau grozav. Erau considerați drept cei mai zdraveni și mai alerți oameni din lume.
 
-— Și ce vrei să te faci, când o să fii mare? îl întrebă într’o doară Emanuel.
+― Și ce vrei să te faci, când o să fii mare? îl întrebă într’o doară Emanuel.
 
-— Aviator, răspunse mândru băiețașul.
+― Aviator, răspunse mândru băiețașul.
 
 Și corsetul până sub bărbie, privirile fixe înainte, îi dădeau puțin aerul de sburător; lipseau doar cascheta și ochelarii. Există astfel, în alura exterioară sau îmbrăcăminte, mici detalii care anticipează asupra gândului interior.
 
@@ -2888,27 +2893,27 @@ Era Katty, irlandeza roșcovană pe care n’o mai văzuse de mult. Purta o roch
 
 Toată pielea îi era friptă de soare. Avea plăgi proaspăt cicatrizate pe brațe și pe umeri; întregul trup nu mai era decât o bucată de carne jupuită.
 
-— Ești cu trăsura aici? Întrebă ea. Mă iei și pe mine la plimbare?
+― Ești cu trăsura aici? Întrebă ea. Mă iei și pe mine la plimbare?
 
 Apoi înconjurându-i gâtul cu brațele:
 
-— Ia vezi cum fierb… Toată ziua, stau în soare… sunt aprinsă pe dinăuntru ca o torță și când intru în mare apa țiuie în jurul meu, ca un cărbune roșu aruncat într’un pahar…
+― Ia vezi cum fierb… Toată ziua, stau în soare… sunt aprinsă pe dinăuntru ca o torță și când intru în mare apa țiuie în jurul meu, ca un cărbune roșu aruncat într’un pahar…
 
 Emanuel chemă un brancardier ca să-l încarce; Irving plecă în oraș și el rămase astfel singur cu Katty în trăsură, după plecarea omului de serviciu.
 
-— Ce bine e aici la tine… spuse fata întinzându-se în trăsură, la umbră, sub coviltir. E ca un mic alcov…
+― Ce bine e aici la tine… spuse fata întinzându-se în trăsură, la umbră, sub coviltir. E ca un mic alcov…
 
 Începu a râde sgomotos și sacadat,
 
-— Și unde ai de gând să mergi azi dimineață? întrebă ea.
+― Și unde ai de gând să mergi azi dimineață? întrebă ea.
 
 Emanuel se simțea ușor și liber.
 
-— Oriunde, răspunse el, oriunde… posed azi dimineață un trup perfect disponibil… l-am regăsit adineaorea și nu știu singur ce să fac cu el…
+― Oriunde, răspunse el, oriunde… posed azi dimineață un trup perfect disponibil… l-am regăsit adineaorea și nu știu singur ce să fac cu el…
 
 Katty râse din nou, amuzată.
 
-— Cunosc un loc foarte răcoros undeva, nu departe de Berck… Ce zici, vrei să facem o plimbare acolo? spuse ea.
+― Cunosc un loc foarte răcoros undeva, nu departe de Berck… Ce zici, vrei să facem o plimbare acolo? spuse ea.
 
 Ieșiră din oraș și câtva timp goniră pe un drum părăsit de tară, în plin soare, printre câmpuri pietroase și albe ca niște funduri uscate de mare. Katty conducea calul.
 
@@ -2920,19 +2925,19 @@ Emanuel respiră adânc ca și cum ar fi băut cu aviditate un pahar de apă foa
 
 Katty lega calul de un buștean.
 
-— Ce faci, ai înnebunit? spuse ea cu o schimonosire veselă a feței, văzându-l gol, și se trânti zburdalnică în iarbă întinzându-și membrele ca o pisică.
+― Ce faci, ai înnebunit? spuse ea cu o schimonosire veselă a feței, văzându-l gol, și se trânti zburdalnică în iarbă întinzându-și membrele ca o pisică.
 
 Acum mai mult ca oricând, poziția întinsă pe gutieră, departe de iarba proaspătă și rece, i se păru lui Emanuel insuportabilă; ar fi vrut și el să se tăvălească pe jos, să…
 
 Cu o mișcare bruscă se ridică pe coate și apucă strâns un arc al coviltirului. Apoi încet, cu mișcări precaute alunecă un picior și-l puse pe aripa trăsurii. Mai mult căzu decât scoborî în iarbă. Katty sări în picioare înspăimântată când îl văzu.
 
-— Ești nebun, într’adevăr nebun? bâigui ea în neștire, puțin palidă de surpriză. Poți răci îngrozitor, țipă ea și alergă la trăsură să-i aducă haina cu care să se învelească.
+― Ești nebun, într’adevăr nebun? bâigui ea în neștire, puțin palidă de surpriză. Poți răci îngrozitor, țipă ea și alergă la trăsură să-i aducă haina cu care să se învelească.
 
 În timp ce i-o aluneca pe sub spate, mâinile ei îi atinseră pieptul și îl înfiorară ca o scurgere de efluvii teribile în carne. De când oare nu mai simțise contactul unei mâini străine? Era ca și cum ea ar fi atins un nou Emanuel, neted și catifelat cu o nouă piele vibrantă și hipersensibilă. Emanuel se rostogoli în iarbă, îi apucă deodată picioarele goale și i le înconjură cu brațele, lipindu-și fruntea de ea și sărutându-i genunchii aspri, zgrunțuroși.
 
-— Ce faci? Ce faci? strigă Katty și căzu lângă dânsul într’o strânsoare teribilă.
+― Ce faci? Ce faci? strigă Katty și căzu lângă dânsul într’o strânsoare teribilă.
 
-— Ce faci? ’mai murmură ca și își răsturnă ca în somn, în timp ce el ridica în întregime rochia sub care, în zilele acelea de vară ea nu purta nici capul în iarbă, cu ochii închiși cu respirația grea măcar o cămașă.
+― Ce faci? ’mai murmură ca și își răsturnă ca în somn, în timp ce el ridica în întregime rochia sub care, în zilele acelea de vară ea nu purta nici capul în iarbă, cu ochii închiși cu respirația grea măcar o cămașă.
 
 Își lipi gura de pielea ei roșie, și arsă de soare, ea încercă încăodată să se sbată, dar rămase țintuită de încordarea lui. Apoi el își încolăci brațele și se răsturnă cu o mișcare bruscă peste dânsa, cu pieptul gol lipit de sânii ei fierbinți, într’o zbatere de mișcări desordonate și sălbatice, ca întro vâlvătaie de flacări vii, trupești.
 
@@ -2944,31 +2949,31 @@ Boala se agravase brusc în mod inexplicabil. Isa suferea de o afecțiune bizar�
 
 Veneau astfel la Berck mulți suferinzi care n’aveau nevoie în fond decât de a fi alungiți și de a se găsi într’un mediu de bolnavi pentru a suporta mai ușor îndelungul lor chin.
 
-— Poate că o să trebuiască să i se taie piciorul, spuse Celina, încercând să-și reție lacrimile.
+― Poate că o să trebuiască să i se taie piciorul, spuse Celina, încercând să-și reție lacrimile.
 
 Își tampona mereu ochii cu batista, dar fără să se poată opri. Purta de sigur de mult într’însa plânsul acesta amar și convulsionant și acum se ivise prilejul să-i dea drumul.
 
-— Isa știe? întrebă Emanuel.
+― Isa știe? întrebă Emanuel.
 
-— Ah, nu! Ea nu bănuiește nimic… Toți cei din jurul ei căutăm să-i ascundem cât mai bine adevărul… Doctorul i-a spus că poate va trebui s’o opereze, ca să-i curețe locul bolnav, pentru ca apoi să înceapă să umble… Și ea se bucură… se bucură atâta… crede că e aproape vindecată…
+― Ah, nu! Ea nu bănuiește nimic… Toți cei din jurul ei căutăm să-i ascundem cât mai bine adevărul… Doctorul i-a spus că poate va trebui s’o opereze, ca să-i curețe locul bolnav, pentru ca apoi să înceapă să umble… Și ea se bucură… se bucură atâta… crede că e aproape vindecată…
 
 Își șterse ochii, continuând să suspine cu sughițuri ce se ridicau din fundul pieptului.
 
-— Iertați-mă că vă ofer astfel de reprezentații…
+― Iertați-mă că vă ofer astfel de reprezentații…
 
 Tăcu, privind podeaua și clătinând încet capul ca pentru a sublinia un monolog interior.
 
 Și apoi, amintindu-și brusc de ceva.
 
-— Am venit să vă spun din partea ei că vrea să-i faceți o vizită… n’ați mai fost de mult…
+― Am venit să vă spun din partea ei că vrea să-i faceți o vizită… n’ați mai fost de mult…
 
 Emanuel promise să vie a doua zi.
 
-— Ah! foarte bine!… Până mâine o să aibă gata și rochia ei cea nouă, spuse Celina… Sărăcuța de ea… Crede într’adevăr că o să înceapă să umble și vrea o rochie nouă. „O rochie ușoară de vară, cu flori multe” mi-a spus… Bineînțeles că n’am vrut s’o contrariez, și i-am dat-o la făcut. E dintr’o muselină foarte frumoasă… O s’o vedeți. Vă rog să-i spuneți că-i stă bine…
+― Ah! foarte bine!… Până mâine o să aibă gata și rochia ei cea nouă, spuse Celina… Sărăcuța de ea… Crede într’adevăr că o să înceapă să umble și vrea o rochie nouă. „O rochie ușoară de vară, cu flori multe” mi-a spus… Bineînțeles că n’am vrut s’o contrariez, și i-am dat-o la făcut. E dintr’o muselină foarte frumoasă… O s’o vedeți. Vă rog să-i spuneți că-i stă bine…
 
-— Când să viu?
+― Când să viu?
 
-— Cred că e mai bine cât mai de vreme, înainte de patru… pentrucă apoi are febră și se agită…
+― Cred că e mai bine cât mai de vreme, înainte de patru… pentrucă apoi are febră și se agită…
 
 <p></p>
 
@@ -2986,21 +2991,21 @@ Plutea în încăpere același miros vag de purulență dar încă mai stătut, 
 
 În timp ce o sorbeau, un brancardier intră să anunțe că așteaptă cineva afară.
 
-— A venit iar, spuse Celina contrariată. Vă rog ca azi să nu-l primiți… Vă rog mult… spuse ea Isei.
+― A venit iar, spuse Celina contrariată. Vă rog ca azi să nu-l primiți… Vă rog mult… spuse ea Isei.
 
 Dar Isa nu vru să asculte.
 
-— Să intre… spune-i să intre… tocmai azi nu mi-e frică… pentrucă azi Emanuel e aici…
+― Să intre… spune-i să intre… tocmai azi nu mi-e frică… pentrucă azi Emanuel e aici…
 
 Și îndreptându-și privirile spre dânsul:
 
-— Ce recunoscătoare ți-aș fi dacă ai izbuti să mă scapi de obsesia asta! Dar e imposibil… El spune că poate să mă vindece prin corpuri astrale… Știi ce-i aia? Puteri misterioase… comunicații cu spiritele…
+― Ce recunoscătoare ți-aș fi dacă ai izbuti să mă scapi de obsesia asta! Dar e imposibil… El spune că poate să mă vindece prin corpuri astrale… Știi ce-i aia? Puteri misterioase… comunicații cu spiritele…
 
 Vorbea confuz și parcă puțin înfricoșată.
 
 Omulețul care intră umbla strâmb cu un umăr rotund și umflat adus înainte, și cu coșul pieptului ieșit mult în afară. Avea o față îngrozitoare, pe alocuri ciupită de vărsat și niște ochi globuloși, ieșiți cu totul din orbite. Purta un pardesiu vechiu, gros, cu guler de catifea și nu părea de loc incomodat de căldura zilei.
 
-— Îți aduc vești bune, spuse el Isei, ignorând în mod vădit prezența lui Emanuel, și pocnind ușor din degete. Aseară am intrat în comunicație cu un mare spirit care îți este favorabil.
+― Îți aduc vești bune, spuse el Isei, ignorând în mod vădit prezența lui Emanuel, și pocnind ușor din degete. Aseară am intrat în comunicație cu un mare spirit care îți este favorabil.
 
 Avea în voce accente răgușite ca niște slabe horcăituri.
 
@@ -3008,31 +3013,31 @@ Emanuel zări deodată pe gâtul omulețului ceva negru și privind mai atent de
 
 Isa însă, transfigurată, îl privea cu emoție și mâinile ei prinseră a tremura ușor. Era lesne de văzut că omulețul reușise să o domine și s’o terorizeze.
 
-— Îți aduc un semn din partea spiritului… continuă omulețul și scoase dintr’un buzunar al vestei un pachețel învelit într’o bucățică de ziar. E un fragment de piatră astrală. Te rog vezi să-l păstrezi bine…
+― Îți aduc un semn din partea spiritului… continuă omulețul și scoase dintr’un buzunar al vestei un pachețel învelit într’o bucățică de ziar. E un fragment de piatră astrală. Te rog vezi să-l păstrezi bine…
 
 Isa îl luă și îl ascunse adânc sub perne la cap. Începuse să clănțăne din dinți de spaimă.
 
-— Îmi pare rău că nu pot sta azi mai mult… adaugă omulețul. În astă seară la ora 9 și 25 de minute să te gândești intens la spirit… recomandă el Isei din prag.
+― Îmi pare rău că nu pot sta azi mai mult… adaugă omulețul. În astă seară la ora 9 și 25 de minute să te gândești intens la spirit… recomandă el Isei din prag.
 
 Într’un sfârșit plecă. Celina îl conduse și rămase câteva clipe de vorbă cu el pe coridor.
 
-— Ce impostor!… Ce mârșav impostor… isbucni Emanuel, când ușa fu închisă. Celina are dreptate: ar trebui să-l dai afară…
+― Ce impostor!… Ce mârșav impostor… isbucni Emanuel, când ușa fu închisă. Celina are dreptate: ar trebui să-l dai afară…
 
 Isa îl privi speriată.
 
-— Mi-e frică… Emanuel… s’ar putea răzbuna îngrozitor.
+― Mi-e frică… Emanuel… s’ar putea răzbuna îngrozitor.
 
 În acest moment reintră Celina, scotoci într’o poșetă și ieși imediat afară.
 
-— Pun rămășag că ți-a cerut bani, spuse Emanuel când ea reveni.
+― Pun rămășag că ți-a cerut bani, spuse Emanuel când ea reveni.
 
-— Exact, mi-a cerut să-i împrumut cinci franci.
+― Exact, mi-a cerut să-i împrumut cinci franci.
 
-— Îmi dai voie să văd și eu corpul astral din hârtioară? întrebă Emanuel.
+― Îmi dai voie să văd și eu corpul astral din hârtioară? întrebă Emanuel.
 
 Isa îl dete. El deschise pachețelul și examină cu atenție conținutul. Apoi îl duse la nas:
 
-— Este o simplă bucățică de brânză spuse el. la vezi și d-ta Celina,
+― Este o simplă bucățică de brânză spuse el. la vezi și d-ta Celina,
 
 Îngrijitoarea îl mirosi și ea și făcu o grimasă scârbită.
 
@@ -3040,69 +3045,69 @@ Isa îi smulse hârtia din mână și o ascunse sub cap.
 
 Emanuel era în culmea furiei.
 
-— Pentru ce vine să te vindece pe d-ta și nu se vindecă el mai întâi, dacă într’adevăr e în comunicație cu marile spirite? Pentru ce? pentru ce umblă strâmb?…
+― Pentru ce vine să te vindece pe d-ta și nu se vindecă el mai întâi, dacă într’adevăr e în comunicație cu marile spirite? Pentru ce? pentru ce umblă strâmb?…
 
 Își dădu însă seama că în felul acesta n’o va putea convinge.
 
 Era o singură cale de urmat: Emanuel deveni deodată calm și spuse Isei cu o voce rugătoare:
 
-— Poate… Știu eu?… Poate că într’adevăr corpul astral are însușiri magice… Aș vrea să-l încerc pe mine însumi… Te rog împrumută-mi-l pe câteva zile să-l țin la mine sub corp… În fond, nu se știe…
+― Poate… Știu eu?… Poate că într’adevăr corpul astral are însușiri magice… Aș vrea să-l încerc pe mine însumi… Te rog împrumută-mi-l pe câteva zile să-l țin la mine sub corp… În fond, nu se știe…
 
 Isa îi dete pachețelul cu mare încredere și se însufleți:
 
-— Așa-i că te îndoiești? Iată ce mă chinue și pe mine: acest „poate”… Poate că…
+― Așa-i că te îndoiești? Iată ce mă chinue și pe mine: acest „poate”… Poate că…
 
 În obraji petele ei roșii crescuseră și perle fine de sudoare îi acopereau tâmplele. Se vedea bine că era în plină febră.
 
 Și ca o mărturisire:
 
-— De altfel mă simt mult mai bine de câteva zile… Am febră… atâta tot… Dar ce înseamnă asta de vreme ce mă simt bine?…
+― De altfel mă simt mult mai bine de câteva zile… Am febră… atâta tot… Dar ce înseamnă asta de vreme ce mă simt bine?…
 
 Celina ieșise din odaie.
 
-— Să-ți spun un secret, Emanuel… cel mai mare secret al meu. Eri și azi am câștigat la cărți dela Celina un mare număr de zile… Am jucat cu ea azi dimineața…
+― Să-ți spun un secret, Emanuel… cel mai mare secret al meu. Eri și azi am câștigat la cărți dela Celina un mare număr de zile… Am jucat cu ea azi dimineața…
 
 Emanuel rămase nedumerit.
 
-— Să-ți explic, reluă Isa. Dar să nu spui, te rog, te implor, să nu spui la nimeni… În fiecare zi joc cărti cu Celina, noi spunem că nu jucăm pe nimic, dar eu joc în gândul meu pe zile… pe zile de viață… Câte puncte câștig dela dânsa, atâtea zile capătă viața mea în plus… scăzute dintr’ale ei. Înțelegi?
+― Să-ți explic, reluă Isa. Dar să nu spui, te rog, te implor, să nu spui la nimeni… În fiecare zi joc cărti cu Celina, noi spunem că nu jucăm pe nimic, dar eu joc în gândul meu pe zile… pe zile de viață… Câte puncte câștig dela dânsa, atâtea zile capătă viața mea în plus… scăzute dintr’ale ei. Înțelegi?
 
 Începu a râde înfrigurată cu tresăriri neliniștitoare, ca și cum nu și-ar mai fi stăpânit în întregime gesturile.
 
-— Chiar azi dimineața am mai câștigat dela ea încă 314 zile… Ce zici? Aproape un an… Ea bineînțeles că nu știe nimic… de aceea tot slăbește în timp ce eu arăt din ce în ce mai bine…
+― Chiar azi dimineața am mai câștigat dela ea încă 314 zile… Ce zici? Aproape un an… Ea bineînțeles că nu știe nimic… de aceea tot slăbește în timp ce eu arăt din ce în ce mai bine…
 
 Își pierduse cu totul controlul. Cu mâna rășchirată își zburlea părul și își trecea degetele peste frunte.
 
-— Mă aștept, ca într’o zi să-i câștig toate zilele vieții… și ea deodată stând lângă mine să se încline epuizată și să moară… Ca o păpușă din acelea pe care le umpli cu aer și se desumflă încetișor când deschizi supapa… Da… Da… voi câștiga.
+― Mă aștept, ca într’o zi să-i câștig toate zilele vieții… și ea deodată stând lângă mine să se încline epuizată și să moară… Ca o păpușă din acelea pe care le umpli cu aer și se desumflă încetișor când deschizi supapa… Da… Da… voi câștiga.
 
 Tăcu o clipă, apoi deodată foarte agitată:
 
-— Știi pentru ce o să câștig?… În fond ăsta e secretul… M’auzi?… Știi pentruce?…
+― Știi pentru ce o să câștig?… În fond ăsta e secretul… M’auzi?… Știi pentruce?…
 
 Se sufoca aproape de enervare.
 
-— Pentrucă… pentrucă trișez. izbucni ea.
+― Pentrucă… pentrucă trișez. izbucni ea.
 
 Era acum înflăcărată, cu obrajii arzători, cu mâinile neliniștite.
 
-— Când mă voi face bine… mă voi face dansatoare… Îți spun azi totul, Emanuel… voi dansa cu tine goală…
+― Când mă voi face bine… mă voi face dansatoare… Îți spun azi totul, Emanuel… voi dansa cu tine goală…
 
 Se înfioră deodată de ce spuse și își trase o palmă peste obraz.
 
-— Ce spun? Am înnebunit?
+― Ce spun? Am înnebunit?
 
 Emanuel ar fi vrut să părăsească în grabă încăperea, fiecare clipă devenea tot mai penibilă.
 
-— Tu mă înțelegi Emanuel… Vom fi cei mai mari dansatori din lume și vom dansa pe muzică de Bach… Pentru întâia oară vom dansa Bach… Înțelegi? Înțelegi? Vom răscoli pe spectatori până în fundul intestinelor… a intestinelor… lor pline cu că… Ce spun? Ce spun?
+― Tu mă înțelegi Emanuel… Vom fi cei mai mari dansatori din lume și vom dansa pe muzică de Bach… Pentru întâia oară vom dansa Bach… Înțelegi? Înțelegi? Vom răscoli pe spectatori până în fundul intestinelor… a intestinelor… lor pline cu că… Ce spun? Ce spun?
 
 Începu să țipe:
 
-— Ei, nu mie rușine! Afirm sus și tare că au în intestine că…! Că…!
+― Ei, nu mie rușine! Afirm sus și tare că au în intestine că…! Că…!
 
 Celina veni repede în odaie speriată.
 
-— Ah! Iată că iar i-a dat febră… Cu gesturi domoale se apropie de pătuc și încercă s’o liniștească frecându-i tâmplele.
+― Ah! Iată că iar i-a dat febră… Cu gesturi domoale se apropie de pătuc și încercă s’o liniștească frecându-i tâmplele.
 
-— Întotdeauna când vine omulețul ăsta este același lucru… Începe să se agite și să delireze.
+― Întotdeauna când vine omulețul ăsta este același lucru… Începe să se agite și să delireze.
 
 Isa recăzuse obosită în perne și buzele ei continuau să bolborosească ceva neinteligibil.
 
@@ -3110,7 +3115,7 @@ Un brancardier fu sunat și-l scoase pe Emanuel din odaie.
 
 În coridor Celina veni după el în grabă:
 
-— Ma trimis… să vă spun… s’o iertați… a insistat s’o iertați — Pentru ce? Ce-a făcut? spuse Emanuel cu sufletul trist… Ea trebuia să mă ierte pe mine. Și pe noi toți… ea trebue să ne ierte…
+― Ma trimis… să vă spun… s’o iertați… a insistat s’o iertați — Pentru ce? Ce-a făcut? spuse Emanuel cu sufletul trist… Ea trebuia să mă ierte pe mine. Și pe noi toți… ea trebue să ne ierte…
 
 Îl apăsa greu o tristețe aridă, ca un plâns uscat în fundul pieptului, ca o grozavă melancolie a după-amiezii.
 
@@ -3158,17 +3163,17 @@ Paris, 7 Sept. 19…
 >
 > Îl urmai acolo. 
 >
-> — Ai văzut? murmură el. 
+> ― Ai văzut? murmură el. 
 >
-> — Într’adevăr extraordinar… 
+> ― Într’adevăr extraordinar… 
 >
-> — Te rog să mă ierți… reluă dânsul. Am o mică chestie de pus la punct, care nu suferă amânare… și o voi rezolva chiar în prezența ta. Iartă-mă te rog și înțelege-mă… 
+> ― Te rog să mă ierți… reluă dânsul. Am o mică chestie de pus la punct, care nu suferă amânare… și o voi rezolva chiar în prezența ta. Iartă-mă te rog și înțelege-mă… 
 >
 > Se duse la un dulap, scoase din el o cutie mică cu capac metalic și o puse pe masă. Erau în ea diferite instrumente din care extrase o seringă. Își alese un ac pe care îl flambă cu un chibrit. Apoi, fără grabă, cu mișcări lente și sigure, ca un medic care știe ce face, umplu seringa cu conținutul unei fiole, își dezgoli brațul și înfipse adânc acul în piele… 
 >
-> — De mult îți faci injecțiile astea? întrebai eu înspăimântat. 
+> ― De mult îți faci injecțiile astea? întrebai eu înspăimântat. 
 >
-> — M’a învățat asta o infirmieră la clinica unde am fost pentru „odihnă”, spuse el. E mult mai bine și mai eficace decât de exemplu, a bea alcool… 
+> ― M’a învățat asta o infirmieră la clinica unde am fost pentru „odihnă”, spuse el. E mult mai bine și mai eficace decât de exemplu, a bea alcool… 
 >
 > Am tăcut înfiorat, fără curajul de a-i face morală. Îl înțeleg și îi dau dreptate. Cine știe? Poate că și eu într’o zi… Dar nu… hotărît nu… există lucruri mai sigure, mai definitive și mai rapide încă decât ăsta. 
 >
@@ -3188,7 +3193,7 @@ Emanuel trebui să se mute într’o zi înapoi la sanatoriu, d-na Tils părăse
 
 Întoarcerea fu searbădă și tristă. Emanuel revenea într’un sanatoriu pustiu și dezolant. Quitonce murise, Tonio, Ernest și Roger Torn plecaseră, iar Isa era acum operată. Toată ziua stătea în odaia lui, cu privirile pierdute pe geamurile umede și reci… Înțelegea acum mai bine și mai adânc ceea ce îi spusese Ernest într’o zi:
 
-— Există momente când ești „mai puțin decât tine însuți” și mai puțin decât orice. Mai puțin decât un obiect pe care îl privești, mai puțin decât un scaun, decât o masă și decât o bucată de lemn. Ești dedesubtul lucrurilor, în subsolul realității, sub viața ta proprie și sub ceea ce se întâmplă în jur… Ești o formă mai efemeră și mai destrămată decât a elementarei materii imobile. Ți-ar trebui atunci un efort imens ca să înțelegi inerția simplă a pietrelor și zaci abolit, redus la „mai puțin decât tine însuți” în imposibilitatea de face acel efort.
+― Există momente când ești „mai puțin decât tine însuți” și mai puțin decât orice. Mai puțin decât un obiect pe care îl privești, mai puțin decât un scaun, decât o masă și decât o bucată de lemn. Ești dedesubtul lucrurilor, în subsolul realității, sub viața ta proprie și sub ceea ce se întâmplă în jur… Ești o formă mai efemeră și mai destrămată decât a elementarei materii imobile. Ți-ar trebui atunci un efort imens ca să înțelegi inerția simplă a pietrelor și zaci abolit, redus la „mai puțin decât tine însuți” în imposibilitatea de face acel efort.
 
 Veni d-na Tils să-și ia rămas bun. Erau zile de despărțiri, de părăsiri și de regrete. Zed venea să-l vadă din când în când. Era o vizită liniștitoare. Toate agitațiile pentru el se rezolvau simplu în fumatul liniștit al pipei.
 
@@ -3198,29 +3203,29 @@ Celina umbla îngrijorată pe coridoare. Emanuel o întâlni de câteva ori, dar
 
 Într’o ’seară veni totuși în odaia lui. Emanuel stătea cu lumina stinsă, dormitând. Celina încercă să vorbească dar începu a plânge încetișor:
 
-— În fine un loc unde să pot plânge… spuse ea.
+― În fine un loc unde să pot plânge… spuse ea.
 
 Își răzimase capul de braț pe scaun și s’ar fi părut că ațipise dacă suspinele n’ar fi sguduit-o din când în când.
 
-— Și ce face Isa?… întrebă Emanuel.
+― Și ce face Isa?… întrebă Emanuel.
 
-— Isei îi este foarte rău… mult mai rău acum după operație, ca înainte… Curge dintr’însa ca dintr’o fântână… E îngrozitor mai ales la facerea pansamentului, dimineața. Țipa înainte dar acum nu poate nici să țipe… În locul unde a fost desprins piciorul de coapsă a rămas o rană cât ar încape un cap de copil… cărnuri beante și zdrențuite… Îngrozitor, îngrozitor…
+― Isei îi este foarte rău… mult mai rău acum după operație, ca înainte… Curge dintr’însa ca dintr’o fântână… E îngrozitor mai ales la facerea pansamentului, dimineața. Țipa înainte dar acum nu poate nici să țipe… În locul unde a fost desprins piciorul de coapsă a rămas o rană cât ar încape un cap de copil… cărnuri beante și zdrențuite… Îngrozitor, îngrozitor…
 
 Vorbea cu tremurături în voce și părea obsedată de viziuni atroce.
 
-— Am vrut să păstrez piciorul dar nu m’au lăsat. Tot timpul operației am stat la ușa clinicii și am pândit… Uite așa, vroiam să iau piciorul și să-l păstrez în alcool… Îmi intrase ideea asta în cap…
+― Am vrut să păstrez piciorul dar nu m’au lăsat. Tot timpul operației am stat la ușa clinicii și am pândit… Uite așa, vroiam să iau piciorul și să-l păstrez în alcool… Îmi intrase ideea asta în cap…
 
-— Și nu ți l-au dat? întrebă Emanuel.
+― Și nu ți l-au dat? întrebă Emanuel.
 
-— De sigur că nu… e de altfel mai bine așa… Când a ieșit Eva cu dânsul din sală îți spun drept, am crezut că ține în mâini un buchet de flori. Așa părea piciorul înfășurat în tifon și vată sângerândă… Ca un magnific buchet de trandafiri… ah! nebuna de mine!… Când mi-am dat seama că este piciorul Isei am alergat într’un suflet după Eva. Îl ducea la subsol, la calorifer ca să-l ardă. Ce spui de asta? Îl ard, îl aruncă în foc… Am simțit că îmi pierd mințile… Parcă îl văd și acum în flacări… asta nu-mi iese din cap… Îl văd cum se încinge și se consumă… și mai ales · lucrul acela atroce, când a ajuns flacăra la talpă, degetele s’au rășchirat brusc ca atunci când îi tăiam unghiile…
+― De sigur că nu… e de altfel mai bine așa… Când a ieșit Eva cu dânsul din sală îți spun drept, am crezut că ține în mâini un buchet de flori. Așa părea piciorul înfășurat în tifon și vată sângerândă… Ca un magnific buchet de trandafiri… ah! nebuna de mine!… Când mi-am dat seama că este piciorul Isei am alergat într’un suflet după Eva. Îl ducea la subsol, la calorifer ca să-l ardă. Ce spui de asta? Îl ard, îl aruncă în foc… Am simțit că îmi pierd mințile… Parcă îl văd și acum în flacări… asta nu-mi iese din cap… Îl văd cum se încinge și se consumă… și mai ales · lucrul acela atroce, când a ajuns flacăra la talpă, degetele s’au rășchirat brusc ca atunci când îi tăiam unghiile…
 
 Povestea acum încet, ca pentru a se elibera de o cumplită constrângere.
 
-— Delirează mereu… nu înțeleg întotdeauna ce spune… Insistă mereu să joc cu ea cărți…
+― Delirează mereu… nu înțeleg întotdeauna ce spune… Insistă mereu să joc cu ea cărți…
 
 Emanuel își aminti de ce-i spusese Isa într’o zi.
 
-— Te rog să joci cu ea, spuse el. Și s’o lași să câștige cât mai mult…
+― Te rog să joci cu ea, spuse el. Și s’o lași să câștige cât mai mult…
 
 Câteva zile trecură în acalmie. Isa dormita tot timpul. Era un somn binefăcător, afirma doctorul.
 
@@ -3228,7 +3233,7 @@ Emanuel ieși cu trăsura pe plajă. Se înnăbușea. în sanatoriu și prefera 
 
 Întâlniră într’o zi pe plajă câțiva copii care duceau în convoi gălăgios ceva ce găsiseră în nisip. Era o meduză moartă, o enormă bucată de carne gelatinoasă și transparentă cu miros acru de pește și iod. Solange tresări înfiorată. Emanuel luă animalul în mână și greutatea lui lipicioasă adera straniu de piele. Îl străbătu răceala moale și umedă până în creieri. Închise ochii, puțin înfrigurat.
 
-— Îmi simt sufletul ca bucata asta de viață inertă și desgustătoare, murmură el… Berck are apariții de acestea revelatoare… Ce miros de putreziciune exalează!…
+― Îmi simt sufletul ca bucata asta de viață inertă și desgustătoare, murmură el… Berck are apariții de acestea revelatoare… Ce miros de putreziciune exalează!…
 
 Și Emanuel își aminti de ultima lui vizită la Isa și de mirosul de purulențe care îmbâcsea atunci odaia. Înapoiă meduza și hotărî să se întoarcă la sanatoriu. Îl impresionase extrem de puternic cadavrul acela oceanic, ca un fel de presimțire reală, materializată într’o massă de carne umedă și rece.
 
@@ -3238,19 +3243,19 @@ Apoi, într’o seară, Isa muri.
 
 Celina veni repede în odaia lui Emanuel și aduse câteva lucruri de ale moartei pe care i le dete în păstrare.
 
-— M’a rugat să i le predau tatălui ei și mi-e teamă ca să le țin acolo… s’ar putea pierde acum în desorânduială…
+― M’a rugat să i le predau tatălui ei și mi-e teamă ca să le țin acolo… s’ar putea pierde acum în desorânduială…
 
 Era aproape calmă și nu mai plângea de loc.
 
-— So vezi cât e de albă, frumoasă și liniștită, în pătucul ei. Cred că în fine și-a găsit puțină liniște. S’ar zice că doarme într’o desăvârșită beatitudine…
+― So vezi cât e de albă, frumoasă și liniștită, în pătucul ei. Cred că în fine și-a găsit puțină liniște. S’ar zice că doarme într’o desăvârșită beatitudine…
 
 Emanuel se zvârcoli toată noaptea în vise amare și halucinante. Se răspândise parcă în odaie un aer moleșitor și putred ca gelatina meduzei…
 
 …Și totuși era soare afară; un soare extraordinar de alb și strălucitor într’un cer senin de vară. Emanuel se găsea în mijlocul unui stadion sportiv. Toate băncile erau însă goale. Era singur, cu desăvârșire singur pe pista asfaltată. În plin soare, Și deodată apăru, sărind Zed. Era îmbrăcat în costumul lui de curse cu o flanea roșie barată de o enormă inițială.
 
-— Vezi… m’am vindecat, am început să umblu, spuse el.
+― Vezi… m’am vindecat, am început să umblu, spuse el.
 
-Atunci Emanuel îl privi mai cu atenție și descoperi bizarele lui picioare. Când fuseseră tăiate? mai rămăseseră doar fluierile dela genunchi în jos; labele fuseseră suprimate și în locul lor pe secțiunea picioarelor erau aplicate bucăți rotunde de tinichea ca niște capace de cutii de conserve. De asta, când sărea pe asfalt, făcea un sgomot metalic nesuferit… Pac!… Pac!… Pac!..,
+Atunci Emanuel îl privi mai cu atenție și descoperi bizarele lui picioare. Când fuseseră tăiate? mai rămăseseră doar fluierile dela genunchi în jos; labele fuseseră suprimate și în locul lor pe secțiunea picioarelor erau aplicate bucăți rotunde de tinichea ca niște capace de cutii de conserve. De asta, când sărea pe asfalt, făcea un sgomot metalic nesuferit… Pac!… Pac!… Pac!…,
 
 Și Zed se îndepărtă ca pe catalige. Era atât de cald încât soarele topea asfaltul. Încet stadionul se prefăcu în smoală călduță și moale… Cu cât se îndepărta Zed cu atât se înfunda mai adânc în asfalt… Până la genunchi… până la coapse… până peste cap… În locul unde dispăru scufundat, se ivi pe trotoar o foiță subțire și transparentă de piele roză ca o bășică de apă pe un picior fript…
 
@@ -3258,19 +3263,19 @@ Atunci Emanuel îl privi mai cu atenție și descoperi bizarele lui picioare. C�
 
 În dimineața aceea Emanuel trebuia să fie dus la clinică pentru a fi examinat de doctorul Cériez. Acesta îl găsi foarte schimbat și palid,
 
-— Ce ai? întrebă doctorul. Te rog să-mi spui totul… mă importă sănătatea d-tale morală ca și aceea a vertebrelor…
+― Ce ai? întrebă doctorul. Te rog să-mi spui totul… mă importă sănătatea d-tale morală ca și aceea a vertebrelor…
 
 Emanuel avea lacrimile în ochi.
 
-— Îmi este imposibil să mai stau la Berck… sunt cu totul copleșit… distrus de tristețea orașului… s’a acumulat aici toată melancolia lumii…
+― Îmi este imposibil să mai stau la Berck… sunt cu totul copleșit… distrus de tristețea orașului… s’a acumulat aici toată melancolia lumii…
 
 Doctorul rămase tăcut, gândindu-se intens la ceva,
 
-— Ce-ar fi să-l părăsești? Să faci de exemplu o mică pauză, plecând în Elveția pentru câteva luni. Cred că o schimbare de climat ți-ar face bine…
+― Ce-ar fi să-l părăsești? Să faci de exemplu o mică pauză, plecând în Elveția pentru câteva luni. Cred că o schimbare de climat ți-ar face bine…
 
-— Și eu mă gândeam de mult la asta, spuse Emanuel. Dar cum pot pleca așa culcat pe gutieră ?
+― Și eu mă gândeam de mult la asta, spuse Emanuel. Dar cum pot pleca așa culcat pe gutieră ?
 
-— Asta-i ușor de tot, zâmbi doctorul. Există un expres de noapte direct dela Boulogne până la Geneva… iei trenișorul de Berck de seară până la stația de legătură, acolo ești îmbarcat într’un compartiment special în expres… și ești scoborît a doua zi la stația de destinație. Te poate însoți eventual o infirmieră… sunt infirmiere elvețiene la Paris care acompaniază pe bolnavi și fac mereu naveta între Paris și Geneva… Pot să mă interesez.
+― Asta-i ușor de tot, zâmbi doctorul. Există un expres de noapte direct dela Boulogne până la Geneva… iei trenișorul de Berck de seară până la stația de legătură, acolo ești îmbarcat într’un compartiment special în expres… și ești scoborît a doua zi la stația de destinație. Te poate însoți eventual o infirmieră… sunt infirmiere elvețiene la Paris care acompaniază pe bolnavi și fac mereu naveta între Paris și Geneva… Pot să mă interesez.
 
 Emanuel decise plecarea peste o săptămână.
 
@@ -3292,7 +3297,7 @@ Celina ieși îngheboșată din ușa scundă ca dintr’o vizuină. În câteva 
 
 Vorbiră despre Isa, cu aduceri aminte atât de calme și de pure încât melancolia lor părea ceva luminos, tainic și liniștit în tăcerea curată a după-amiezii; o însorire în plus, o iluminare gravă a inimilor.
 
-— Mi-a părut rău că au trebuit s’o înmormânteze fără picior… spuse ea. Era prea trist… prea dezolant. Totuși am încercat să ascund oroarea viziunii acelea și în locul piciorului tăiat am pus în sicriu o jerbă de flori… crini și tuberoze… florile ei preferate...
+― Mi-a părut rău că au trebuit s’o înmormânteze fără picior… spuse ea. Era prea trist… prea dezolant. Totuși am încercat să ascund oroarea viziunii acelea și în locul piciorului tăiat am pus în sicriu o jerbă de flori… crini și tuberoze… florile ei preferate…
 
 Emanuel se mai plimbă câtva timp pe străzile înguste și triste ale orașului. Apoi se întoarse la clinică pentru a face ultimele pregătiri de plecare. Îl însoțeau până la tren pentru a-l pune în compartiment doi brancardieri, iar infirmiera elvețiană și ea sosise din Paris ca să-l acompanieze mai departe.
 
@@ -3302,7 +3307,7 @@ Era instalat de câteva secunde în trenișorul de Berck când irupse în vagon 
 
 Veni lângă el gâfâind și cu voce scăzută abea de mai avu putere ca să murmure câteva vorbe.
 
-– Te rog să uiți, Emanuel, spuse ea. Să uiți totul… și mai ales noaptea aceea îngrozitoare… Uită orașul ăsta… uită durerile lui…
+― Te rog să uiți, Emanuel, spuse ea. Să uiți totul… și mai ales noaptea aceea îngrozitoare… Uită orașul ăsta… uită durerile lui…
 
 Se aplecă peste dânsul și il sărută pe frunte apoi părăsi iute compartimentul, pentru a nu izbucni în plâns.
 
