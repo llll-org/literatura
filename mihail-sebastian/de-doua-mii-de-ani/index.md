@@ -1,7 +1,5 @@
 # De două mii de ani
 
-Mihail Sebastian
-
 <figure>
 	<blockquote lang='fr'>
 		<p>
@@ -2162,7 +2160,7 @@ Abia seara ieșind dela birou, mi-am amintit că e 10 Decembrie. Eram cu Marin D
 
 „Ce-o mai fi și asta?” s’a mirat Dronțu. „Zece Decembrie” ne-am amintit amândoi deodată și am râs. Trebue să recunosc că toată manifestația avea un aer de petrecere, un aer de început de vacanță, fără gravitate, jumătate glumă, jumătate entuziasm. Ne-am oprit, ca toată lumea, la marginea trotuarului să primim defilarea. 
 
-„Jos ji-da-nii” Jos ji-da-nii”.
+„Jos ji-da-nii”. „Jos ji-da-nii”.
 
 Strigătul se transmitea dela coloană la coloană, silabă cu silabă, într’un fel de lungă nu și șerpuită scară sonoră. Era frumos: mă întreb dacă ridicol s’o spun, dar zău că era frumos. O mulțime de băieți tineri, — cei mai mulți din anul întâiu de sigur — o teribilă voe bună, o atmosferă de recreație într’o curte de liceu. Nimic grav.
 
@@ -2921,7 +2919,7 @@ Un singur om necunoscut doarme lângă mine și am senzația că e o întreagă 
 
 ⁂
 
-„Revoluție… Poate da. Într’o lună, în două, în trei —, spun băeții dela „Central”. Ștefan Pârlea precizează: „de Sfântul Gheorghe o să funcționeze spânzurătorile”. Se înșeală poate asupra datei și asupra instrumentelor. Nu se înșeală însă asupra atmosferei, care e sufocantă.
+„Revoluție… Poate da. Într’o lună, în două, în trei, — spun băeții dela „Central”. Ștefan Pârlea precizează: „de Sfântul Gheorghe o să funcționeze spânzurătorile”. Se înșeală poate asupra datei și asupra instrumentelor. Nu se înșeală însă asupra atmosferei, care e sufocantă.
 
 De unde vin băeții ăștia lunateci, fără casă, fără rost, cu capetele goale, cu mâinile goale, cu identitatea neprecisă, cu așteptările dibuitoare!
 
