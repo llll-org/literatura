@@ -3396,3 +3396,4 @@ Este o bucurie să clădești și este una mai mare să te desparți de ce ai cl
 Ne vom uita, alba mea vilă dela Snagov, tu pentru a-ți primi în fiecare zi soarele prin ferestrele tale largi, eu pentru a ridica alte ziduri, bune și ele de dat uitării.
 
 Iată aici ni se despart drumurile: ești ceeace mereu am visat să fiu — un lucru simplu, curat și calm, cu o inimă egală deschisă tuturor anotimpurilor.
+
