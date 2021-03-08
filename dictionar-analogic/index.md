@@ -10,112 +10,687 @@ La sfârșitul grupului fiecărui cuvânt central urmează, după litera __v.__,
 
 De pildă, cuvintele cu înțeles opus cuvântului central _abil_ sunt: _dobitoc_, _grosolan_, _slab_, _stângaciu_.
 
-### A
+- A
 
-#### abil
+ABIL
 
-agil, [artist](#artist), capabil, [competinte](#competinte), cunoscător, deprins, desmorțit, desghețat, destoinic, dibaciu, diplomat, exersat, expert, fin, forte, hotărît, îndemânatec, ingenios, insinuant, intrigant, inventiv, iscusit, isteț, [iute](#iute), lingușitor, mlădios, pehlivan, pișicher, politic, priceput, rafinat, șiret, șmecher, sprinten, [subtil](#subtil), [tare](#tare), viclean
+agil
+artist
+capabil
+competinte
+cunoscător
+deprins
+desmorţit
+desgheţat
+destoinic
+dibaciu
+diplomat
+exersat
+expert
+fin
+forte
+hotărît
+îndemânatec
+ingenios
+insinuant
+intrigant
+inventiv
+iscusit
+istet
+iute
+linguşitor
+mlădios
+pehlivan
+pişicher
+politic
+priceput
+rafinat
+şiret
+şmecher
+sprinten
+subtil
+tare
+viclean
 
-a se descurca, a insinua, a mașina, a manevra, a avea resurse, a trage sfori, a trage ițele
+a se descurca
+a insinua
+a maşina
+a manevra
+a avea resurse
+a trage sfori
+a trage ițele
 
-aptitudine, [artă](#artă), [artificiu](#artificiu), captațiune, [dar](#dar), dexteritate, expedient, finețe, [inteligență](#inteligență), [ipocrizie](#ipocrizie), iscusință, manej, manoperă, meșteșug, merit, metodă, [obișnuință](#obișnuință), practică, procedeu, rețetă, sfori, stratagemă, [știință](#știință), [talent](#talent), tertipuri, truc, viclenie, vicleșug, vulpoiu
+aptitudine
+artă
+artificiu
+captaţiune
+dar
+dexteritate
+expedient
+finete
+inteligenţă
+ipocrizie
+iscusinţă
+manej
+manoperă
+meşteşug
+merit
+metodă
+obişnuinţă
+practică
+procedeu
+rețetă
+sfori
+stratagemă
+ştiinţă
+talent
+tertipuri
+truc
+viclenie
+viclesug
+vulpoiu
 
-__v.__ [dobitoc](#dobitoc), [grosolan](#grosolan), [slab](#slab), [stângaciu](#stângaciu)
+V. dobitoc
+grosolan
+slab
+stângaciu
 
-#### absență
+ABSENŢĂ
 
-absent, anulat, în contumacie, desființat, disponibil, epuizat, evaporat, invizibil, interimar, de negăsit, secat, suprimat
+absent
+anulat
+în contumacie
+desfiinţat
+disponibil
+epuizat
+evaporat
+invizibil
+interimar
+de negăsit
+secat
+suprimat
 
-a ascunde, a escamota, a lipsi, a părăsi, a pieri, a scăpa, a scoate, a șterge-o
-
-absenteism, alibi, carență, concediu, defect, deficiență, deficit, dispersiune, distrugere, eclipsă, escapadă, fugă, greșală, interimat, lacună, lipsă, nimicire, omisiune, suprimare, uitare
-
-__v.__ [a fi](#a-fi), [prezență](#prezență)
-
-#### absurditate
-
-absurd, ageamiu, buimac, caraghios, ciudat, distrat, dobitoc, extravagant, ilogic, incoerent, inconsecvent, irațional, naiv, nătâng, năuc, nebun, nechibzuit, neghiob, nelogic, nerațional, nerod, nesăbuit, nesocotit, nul, stupid, tâmpit, uimitor
-
-a bate câmpii, a divaga, a rătăci, a ului
-
-aberație, aiureală, antilogie, antinomie, cretin, enormitate, insanitate, inepție, logomahie, nechibzuință, non-sens, prostie, ușurință, zăpăceală
-
-__v.__ [adevăr](#adevăr), [just](#just), [înțelepciune](#înțelepciune), [a raționa](#a-raționa)
-
-#### acțiune
-
-activ, ager, agil, desghețat, desmorțit, energic, furios, grăbit, harnic, hotărît, întreprinzător, iscusit, mlădios, muncitor, neastâmpărat, neobosit, ocupat, pornit, puternic, sârguitor, sburdalnic, sglobiu, sprinten, suplu, svelt, tare, vioiu, zelos
-
-a accelera, a acționa, a brusca, a colabora, a combate, a conduce, a conclucra, a coopera, a entuziasma, a executa, a exploata, a grăbi, a împlini, a îndatora, a se îndeletnici, a îndeplini, a îndruma, a înfăptui, a înflăcăra, a însoți, a însufleți, a interveni, a întreprinde, a intriga, a lucra, a manevra, a mașina, a se ocupa, a opera, a participa, a practica, a precipita, a realiza, a săvârși, a stărui, à unelti, a urzi
-
-
-act, activitate, actor, afacere, agent, amestec, animatie, ardoare, autor, complice, conflict, datorie, demers, diligente, exercițiu, factotum, faptă, funcțiune, gest, inițiativă, ispravă, luptă, manoperă, mers, mișcare, obligațiune, operă, operator, părtaș, promotor, sarcină, slujbă, treabă, viață, zel
-
-__v.__ [ezitare](#ezitare), [imobil](#imobil), [inacțiune](#inacțiune), [liniște](#liniște), [mort](#mort), [pasiune](#pasiune), [slab](#slab), [steril](#steril)
-
-#### a acuza
-
-a admonesta, a ataca, a atribui, a bârfi, a calomnia, a cleveti, a deferi, a defăima, a denunta, a detracta, a dezaproba, a dojeni, a imputa, a încrimina, a inculpa, a insinua, a învinovăți, a învinui, a judeca, a ocărî, a pârî, a ponegri, a reproșa, a taxa de, a terfeli
-
-acuzație, afurisanie, anatemă, blestem, delator, difamator, diatribă, intimat, ocară, mustrare, pâră, prevenit, rechizitoriu, reclamație
-
-__v.__ [nevinovat](#nevinovat), [a ierta](#a-ierta)
-
-#### adevăr
-
-adevărat, autentic, cert, curat, exact, drept, franc, hotărît, încredintat, incontestabil, just, matematic, necontestat, netăgăduit, pozitiv, precis, punctual, rațional, real, sigur, sincer, veridic, veritabil, verosimil
-
-a adeveri, a atesta, a cenzura, a cerceta, a certifica, a contesta, a controla, a critica, a desluși, a dezamăgi, a deziluziona, a dovedi, a examina, a garanta, a limpezi, a lămuri, a lumina, a proba, a supraveghea, a tăgădui, a verifica
-
-axiomă, bun simț, principiu, proverb, știință, veracitate, vidi
-
-__v.__ [absurd](#absurd), [artificial](#artificial), [fabulă](#fabulă), [fals](#fals), [fantomă](#fantomă), [a înșela](#a-înșela), [invențiune](#invențiune), [a minți](#a-minți), [a apărea](#a-apărea)
-
-#### admirație
+a ascunde
+a escamota
+a lipsi
+a părăsi
+a pieri
+a scăpa
+a scoate
+a şterge-o
 
 
-admirabil, considerabil, excelent, extraordinar, frumos, interesant, minunat, neobișnuit, răpitor, remarcabil, superior, surprinzător, transportat, uimitor
+absenteism
+alibi
+carenţă
+concediu
+defect
+deficienţă
+deficit
+dispersiune
+distrugere
+eclipsă
+escapadă
+fugă
+greşală
+interimat
+lacună
+lipsă
+nimicire
+omisiune
+suprimare
+uitare
 
-a admira, a ameți, a aprecia, a contempla, a entuziasma, a se extazia, a fascina, a fermeca, a idolatriza, a în mărmuri, a încânta, a înfiora, a înflăcăra, a prețui, a stima, a zgudui
+V. a fi
+prezenţă
 
-diletant, emoție, fanatic, fiori, laudă, mirare, stimă, vază, zel
+ABSURDITATE
 
-__v.__ [dispreț](#dispreț), [dezaprobare](#dezaprobare), [inferior](#inferior), [mustrare](#mustrare), [plictiseală](#plictiseală), [a râde](#a-râde), [ură](#ură), [urât](#urât)
+absurd
+ageamiu
+buimac
+caraghios
+ciudat
+distrat
+dobitoc
+extravagant
+ilogic
+incoerent
+inconsecvent
+iraţional
+naiv
+nătâng
+năuc
+nebun
+nechibzuit
+neghiob
+nelogic
+nerațional
+nerod
+nesăbuit
+nesocotit
+nul
+stupid
+tâmpit
+uimitor
 
-#### adunare
+a bate câmpii
+a divaga
+a rătăci
+a ului
 
-federativ, parlamentar, sindical, sinodal, solidar
+aberaţie
+aiureală
+antilogie
+antinomie
+cretin
+enormitate
+insanitate
+ineptie
+logomahie
+nechibzuinţă
+non-sens
+prostie
+uşurinţă
+zăpăceală
 
-a aduna, a convoca, a deschide, a dizolva, a grămădi, a împreuna, a închide, a întruni, a participa, a proroga, a ridica ședința, a strânge, a subscrie
+V. adevăr
+just
+înțelepciune
+a raţiona
 
-acord, adunătură, alianță, anturaj, areopag, armată, armie, asistent, asociație, atelier, bandă, breaslă, cabală, capelă, cârd, ceată, cenaclu, centru, cerc, club, comitet, companie, complot, comunitate, conciliu, conclav, confederație, conferință, congregație, congres, consistoriu, conspirație, convențiune, corp, corporație, coterie, cruciadă, cunoștință, curte, deliberare, dietă, droaie, federalism, federație, francmasonerie, gașcă, gloată, grup, haită, harem, hordă, institut, înțelegere, învoială, juntă, legătură, ligă, lume, membru, meserie, meeting, morman
-ordie, oaste, obștie, odaie, ogradă, petrecere, profesiune, recepțiune, salon, sanhedrin, școală, ședință, seminție, seraiu, serată, sesiune, sfat, sindicat, sinod, sobor, societar, societate, stol, tagmă, tovărășie, trib, trupă, uniune, uneltire
+ADEVAR
 
-__v.__ a desface, a divide, a fugi, a înlătura
+linişte
+mort
+pasiune
+slab
+steril
 
-#### afabil 
+A ACUZA
 
-abordabil, accesibil, agreabil, afectuos, amabil, amical, binevoitor, blajin, blând, bun, curtenitor, drăgălaș, drăgăstos, familiar, frățesc, gingaș, îndatoritor, intim, iubitor, părintesc, plăcut, politicos, prietenesc, primitor, simplu, sociabil
 
-__v.__ dispreț, grosolan, mânie, neplăcut, posac, rău, ură
+a maşina
+a se ocupa
+a opera
+a participa
+a practica
+a precipita
+a realiza
+a săvârşi
+a stărui
+a unelti
+a urzi
 
-#### a afirma
+desmorţit
+energic
+furios
+grăbit
+harnic
+hotărît
+întreprinzător
+iscusit
+mlădios
+muncitor
+neastâmpărat
+neobosit
+ocupat
+pornit
+puternic
+sârguitor
+sburdalnic
+sglobiu
+sprinten
+suplu.
+svelt
+tare
+vioiu
+zelos
 
-afirmativ, asigurător, cert, dogmatic, ex catedra, categoric, morțiș, ex profeso, pozitiv, sigur, tăios
+adevărat
+autentic
+cert
+curat
+exact
+drept
+franc
+hotărît
+încredintat
+incontestabil
+just
+matematic
+necontestat
+netăgăduit
+pozitiv
+precis
+punctual
+rational
+real
+sigur
+sincer
+veridic
+veritabil
+verosimil
 
-a adeveri, a anunța, a arăta, a articula, a asigura, a atesta, a avansa, a blestema, a cânta, a certifica, a confirma, a declara, a dovedi, a face cunoscut, a garanta, a jura, a încredința, a insista, a întări, a se manifesta, a menține, a se opune, a povesti, a pretinde, a proclama, a se pronunța, a protesta, a publica, a recita, a se rosti, a sprijini, a spune, a stărui, a susține, a trâmbița, a zice
+a admonesta
+a ataca
+a atribui
+a bârfi
+a calomnia
+a cleveti
+a deferi
+a defăima
+a denunta
+a detracta
+a dezaproba
+a dojeni
+a imputa
+a încrimina
+a inculpa
+a insinua
+a învinovăţi
+a învinui
+a judeca
+a ocărî
+a pârî
+a ponegri
+a reproşa
+a taxa de
+a terfeli
 
-alegațiune, aserțiune, teză, versiune
+act
+activitate
+actor
+afacere
+agent
+amestec
+animaţie
+ardoare
+autor
+complice
+conflict
+datorie
+demers
+diligente
+exercițiu
+factotum
+faptă
+funcţiune
+gest
+inițiativă
+ispravă
+luptă
+manoperă
+mers
+mişcare
+obligaţiune
+operă
+operator
+părtaş
+promotor
+sarcină
+slujbă
+treabă
+viaţă
+zel
 
-__v.__ a contrazice, a dezaproba, a desface, nu
+a accelera
+a acţiona
+a brusca
+a colabora
+a combate
+a conduce
+a conclucra
+a coopera
+a entuziasma
+a executa
+a exploata
+a grăbi
+a împlini
+a îndatora
+a se îndeletnici
+a indeplini
+a îndruma
+a înfăptui
+a înflăcăra
+a însoti
+a însufleti
+a interveni
+a întreprinde
+a intriga
+a lucra
+a manevra
 
-#### a ajuta
+a adeveri
+a atesta
+a cenzura
+a cerceta
+a certifica
+a contesta
+a controla
+a critica
+a desluşi
+a dezamăgi
+a deziluziona
+a dovedi
+a examina
+a garanta
+a limpezi
+a lămuri
+a lumina
+a proba
+a supraveghea
+a tăgădui
+a verifica
 
-ajutător, auxiliar, bun, caritabil, propice, săritor, serviabil, util
+acuzaţie
+afurisanie
+anatemă
+blestem
+delator
+difamator
+diatribă
+intimat
+scară
+mustrare
+påră
+prevenit
+rechizitoriu
+reclamatie
 
-a da, a alina, a asista, a colabora, a concura, a conlucra, a contribui, a coopera, a facilita
+ACTIUNE
 
-18
+activ
+ager
+agil
+desgheţat
+
+V. ezitare
+
+imobil
+inactiune
+
+V. nevinovat
+
+a ierta
+
+axiomă
+bun simt
+
+§§----------------------------------------------------------------------
+
+17
+
+tanaile
+
+breasla
+sabala
+onpela
+card
+
+mirare
+
+V. abeurd
+
+cenaclu
+centru
+
+yaza
+
+frätesc
+kingas
+indatoritor
+intim
+iubitor
+pärintesc
+plăcut
+politicos
+prietenesc
+primitor
+simplu
+sociabil
+
+V. dispret
+
+dezaprobare
+interior
+mustrare
+plictiseala
+A râde
+
+# Ingela
+Inventione
+
+comitet
+companie
+complot
+comunitate
+conciliu
+conclav
+confederatie
+conferinta
+congregatie
+congres
+consistoriu
+tonspiratie
+conventiune
+
+ordle
+Daste
+obstle
+odale
+ograda
+Jetrecere
+profesiune
+receptiune
+salon
+sanhedrin
+ecoală
+şedinţă
+seminţie
+ceraiu
+serată
+Sesiune
+sfat
+sindicat
+sinod
+sobor
+societar
+societate
+stol
+tagma
+tovărăşie
+trib
+thupa
+uniune
+uneltire
+
+a încredinţa
+a insista
+a intări
+a se manifesta
+a menţine
+a se opune
+a povesti
+a pretinde
+a proclama
+a se pronunţa
+a protesta
+a publica
+a recita
+a se rosti
+a sprijini
+a spune
+a stărui
+a susține
+a trâmbiţa
+
+ADMIRATIS
+
+urát
+
+V. dispret
+
+grosolan
+mânie
+neplăcut
+posac
+rău
+ura
+
+ADUNARU
+
+ponsiderabil
+
+a zice
+
+extraordinar
+
+A
+
+AFIRMA
+
+federativ
+parlamentar
+
+indical
+Ninodal
+
+alegaţiune
+aserţiune
+teză
+versiune
+
+omarcabil
+superior
+Uprinaator
+
+corporatle
+coterie
+eruetada
+cunostintä
+curte
+deliberare
+dieta
+droale
+federalism
+federatie
+franemasonerie
+
+afirmativ
+asigurător
+cert
+dogmatic
+ex catedra
+categorie
+mortis
+ex profeso
+pozitiv
+sigur
+tăios
+
+V. a contrazice
+
+a dezaproba
+a desface
+nu
+
+a disolva
+
+А
+
+AJUTA
+
+V. a desface
+
+a divide
+a fugi
+a înlătura
+
+a mehide
+
+છે Ameu
+
+AFABIL
+
+gloata
+
+a proroga
+
+ajutător
+auxiliar
+bun
+caritabil
+propice
+såritor
+serviabil
+util
+
+a nuntempla
+
+strange
+
+biserte
+
+haita
+harem
+
+abordabil
+accesibil
+agreabil
+afectuos
+amabil
+linevoitor
+amical
+blajin
+hland
+
+a adeveri
+a anunta
+a arăta
+a articula
+a asigura
+n atesta
+a avansa
+a blestena
+a canta
+Si certifica
+a confirma
+
+declara
+a dovedi
+
+face cunoscut
+Karanta
+
+invatala
+
+å inmaimut
+
+a alina
+a asista
+a colabora
+3 concura
+a conlucra
+a contribut
+a coopera
+
+清热等全
+
+curtenitor
+dragstas
+dragastos
+
+Aሆን ዊያ ኣብ ከኣ አር
+
+§§----------------------------------------------------------------------
+
+- 18 -
+
+- 19
+
+1
+
 a folosi
 a înlesni
 a întări
@@ -125,57 +700,147 @@ a proteja
 a seconda
 a sprijni
 a susține
-a ușura
+a uşura
+
 cremă
 concurs
 discernământ
 elită
-elecțiune
+elecţiune
 favoare
 floare
 judecată
 predilecție
-preferință
+preferinţă
 scrutin
 sufragii
 triaj
+
 diviziune
 felurime
 împotrivire
 nepotrivire
-nuanță
-opoziție
+nuanţă
+opoziţie
 piedică
 soiu
 specie
 varietate
+
+a idolatriza
+a îmbăta
+a iubi
+a linguşi
+a mângâia
+
+a încuviinta
+a învoi
+a se învoi
+a permite
+a primi
+a ratifica
+a sancţiona
+a trece
+
 ajutor
 dar
 donație
-__v.__ asemănător
+
+aventurier
+cabală
+candidat
+dor
+dorinţă
+demers
+ideal
+încercare
+lăcomie
+manevră
+manoperă
+nădejde
+năzuinţă
+nesaţiu
+pasiune
+plan
+poftă
+pornire
+scop
+sete
+şiretlic
+succes
+voinţă
+
+V. asemănător
+
 armonie
 dezordine
 durată
 imobil
-inacțiune
+inacţiune
 statornic
-__v.__ asemănător
+
+aclamaţiune
+acord
+adeziune
+asentiment
+partizan
+sufragiu
+uniune
+vot
+
+V. asemănător
+
 dezordine
 a ezita
 frică
 obscuritate
-__v.__ contrariu
+
+V. contrariu
+
 cruzime
-dispreț
+dispreţ
 a părăsi
 periculos
 a vătăma
 
-#### ambiție
+Adonis
+amant
+amoraş
+ardoare
+curte
+Don Juan
+dragoste
+favoare
+fidelitate
+flacără
+flirt
+foc
+idol
+înclinare
+infidelitate
+obiect
+pasiune
+patimă
+pizmă
+pornire
+răceală
+sentiment
+toană
+văpaie
 
-#### altul
+AMBITIE
 
-#### a alege
+V, contrariu
+
+a contrazice
+dezaprobare
+dispreţ
+
+ALTUL
+
+A ALEGE
+
+A ARĂTA
 
 ales
 distinct
@@ -184,16 +849,31 @@ diferit
 electiv
 eligibil
 select
+
 arivist
 gelos
-înfocat
+infocat
 intrigant
 invidios
 nesăturat
-pătimaș
+pătimaş
 pretendent
 zelos
-!
+
+V. dispreț
+
+desperare
+inacţiune
+insensibil
+plin
+prudenţă
+
+arătător
+curios
+interesant
+învederat
+revelator
+
 contrar
 deosebit
 diferit
@@ -214,20 +894,33 @@ opus
 potrivnic
 schimbător
 variabil
+
+AMOR
+
+V. dispreț
+
+mânie
+plictiseală
+a râde
+ură
+
+APROBARE
+
 a adopta
 a admite
-a cerne
+а cerne
 a coopta
 a se decide
 a deosebi
-a diferenția
+a diferenţia
 a distinge
-a îmbrățișa
+a îmbrăţişa
 a invidia
 a lua
 a opta
 a plăcea
 a vota
+
 a ajunge
 a aspira
 a cere
@@ -246,328 +939,100 @@ a umbla
 a ura
 a urzi
 a vrea
-i
+
+amorezat
+capricios
+duios
+galant
+gelos
+gingas
+indiferent
+platonic
+rece
+seducător
+sentimental
+tandru
+transportat
+
+admisibil
+nimerit
+probant
+
+a acuza
+a anunţa
+a comunica
+a desfăşura
+a destăinui
+a denunta
+a expune
+a indica
+a prezenta
+a produce
+a propune
+a oferi
+a semnala
+a stigmatiza
+a trăda
+à vedea
+a viza
+
 antologie
 caimac
 calitate
 candidat
+
 abatere
 alter-ego
 contrast
 dezacord
-diferență
-diferențiere
+diferentă
+diferenţiere
 disparitate
 diversitate
-ardoare
 
-19
-a idolatriza
-a îmbăta
-a iubi
-a linguși
-a mângâia
-a încuviința
-a învoi
-a se învoi
-a permite
-a primi
-a ratifica
-a sancționa
-a trece
-aventurier
-cabală
-candidat
-dor
-dorință
-demers
-ideal
-încercare
-lăcomie
-manevră
-manoperă
-nădejde
-năzuință
-nesațiu
-pasiune
-plan
-poftă
-pornire
-scop
-sete
-șiretlic
-succes
-voință
-aclamațiune
-acord
-adeziune
-asentiment
-partizan
-sufragiu
-uniune
-vot
-Adonis
-amant
-amoraș
-ardoare
-curte
-Don Juan
-dragoste
-favoare
-fidelitate
-flacără
-flirt
-foc
-idol
-înclinare
-infidelitate
-obiect
-pasiune
-patimă
-pizmă
-pornire
-răceală
-sentiment
-toană
-văpaie
-__v.__ contrariu
-a contrazice
-dezaprobare
-dispreț
+a accepta
+a adera
+a agrea
+a aplauda
+a confirina
+a consimţi
+a împărtăși
+a împuternici
 
-#### a arăta
-
-__v.__ dispreț
-desperare
-inacțiune
-insensibil
-plin
-prudență
-arătător
-curios
-interesant
-învederat
-revelator
-
-#### amor
-
-__v.__ dispreț
-mânie
-plictiseală
-a râde
-ură
-
-#### aprobare
-
-amorezat
-capricios
-duios
-galant
-gelos
-gingaș
-indiferent
-platonic
-rece
-seducător
-sentimental
-tandru
-transportat
-admisibil
-nimerit
-probant
-a acuza
-a anunta
-a comunica
-a desfășura
-a destăinui
-a denunta
-a expune
-a indica
-a prezenta
-a produce
-a propune
-a oferi
-a semnala
-a stigmatiza
-a trăda
-a vedea
-a viza
 a ameti
 a consola
 a cuceri
 a desmierda
-a accepta
-a adera
-a agrea
-a aplauda
-a confirma
-a consimți
-a împărtăși
-a împuternici
-afirmare
-alegațiune itu
 
-19
-a idolatriza
-a îmbăta
-a iubi
-a linguși
-a mângâia
-a încuviința
-a învoi
-a se învoi
-a permite
-a primi
-a ratifica
-a sancționa
-a trece
-aventurier
-cabală
-candidat
-dor
-dorință
-demers
-ideal
-încercare
-lăcomie
-manevră
-manoperă
-nădejde
-năzuință
-nesațiu
-pasiune
-plan
-poftă
-pornire
-scop
-sete
-șiretlic
-succes
-voință
-aclamațiune
-acord
-adeziune
-asentiment
-partizan
-sufragiu
-uniune
-Vot
-Adonis
-amant
-amoras
 ardoare
-curte
-Don Juan
-dragoste
-favoare
-fidelitate
-flacără
-flirt
-foc
-idol
-înclinare
-infidelitate
-obiect
-pasiune
-patimă
-pizmă
-pornire
-răceală
-sentiment
-toană
-văpaie
-__v.__ contrariu
-a contrazice
-dezaprobare
-dispreț
 
-#### a arăta
+afirmare
+alegaţiune
 
-__v.__ dispreț
-desperare
-inacțiune
-insensibil
-plin
-prudență
-arătător
-curios
-interesant
-învederat
-revelator
+§§----------------------------------------------------------------------
 
-#### amor
-
-__v.__ dispreț.
-mânie
-plictiseală
-a râde
-ură
-
-#### aprobare
-
-amorezat
-capricios
-duios
-galant
-gelos
-gingaș
-indiferent
-platonic
-rece
-seducător
-sentimental
-tandru
-transportat
-admisibil
-nimerit
-probant
-a acuza
-a anunța
-a comunica
-a desfășura
-a destăinui
-a denunta
-a expune
-a indica
-a prezenta
-a produce
-a propune
-a oferi
-a semnala
-a stigmatiza
-a trăda
-a vedea
-a viza
-a ameți
-a consola
-a cuceri
-a desmierda
-a accepta
-a adera
-a agrea
-a aplauda
-a confirma
-a consimți
-a împărtăși
-a împuternici
-afirmare il
-alegațiune inie
+-
 
 20
-1
-vocațiune
+
+-
+
 a uni
-__v.__ banal
-dificultate
-grosolan
-stângaciu
-urit
+
+vocaţiune
+
+- 21
+
+ARTIST
+
+umil
+
 arătare
-demonstrație
-desfășurare
+demonstratie
+desfăşurare
 etalaj
-exhibiție
-expoziție
+exhibiţie
+expoziţie
 expunere
 indicator
 martor
@@ -577,16 +1042,24 @@ spectacol
 tablou
 vedere
 vitrină
-#### artificial
+
+V. banal
+
+dificultate
+grosolan
+stângaciu
+urit
+
+ARTIFICIAL
 
 afinitate
 ansamblu
 asemănare
-cadență
+cadenţă
 comunitate
 concert
 conformism
-consonanță
+consonantă
 euritmie
 împerechere
 măsură
@@ -594,127 +1067,43 @@ orânduială
 ordine
 ritm
 similitudine
-V
-__v.__ ascuns
+
+a asculta
+a ceda
+a se conforma
+a disciplina
+a dresa
+a se inclina
+a se încovoia
+a se infeuda
+a observa
+a subjuga
+a subordona
+a se supune
+a urma
+
+V. ascuns
+
 invizibil
 mister
 necunoscut
 obscur
 secret
-dezordine
-desgust
-a divide
-opunere
-sgomot
-convențional
-dres
-factice
-fals
-fanfaron
-himeric
-iluzoriu
-înșelător
-ipocrit
-meșteșugit
-mincinos
-nefiresc
-postiș
-prefăcut
-specios
-subtil
-zadarnic
-#### armonie
-#### artă
-acceptabil
-armonios
-compatibil
-de conivență
-împreună
-simetric
-simpatic
-a acomoda
-a acorda
-a se acorda
-a adapta
-a aranja
-a asocia
-à asorta
-a coordona
-a se concerta
-a concilia
-a concorda
-a dispune
-a fraterniza
-a se împăca
-a se învoi
-a pactiza
-a se potrivi
-a rândui
-abilitate
-artist
-chemare
-dar
-dispoziție
-entuziasm
-estetică
-focul sacru
-frumos
-geniu
-gust
-ideal
-imaginație
-înclinare
-inspirație
-măestrie
-manieră
-meșteșug
-mod
-practică
-pricepere
-profesiune
-știință
-stil
-technică
-a contraface
-a deghiza
-a disimula
-a fabrica
-a falsifica
-a farda
-a imita
-a împodobi
-a înfrumuseța
-a parodia
-a plagia
-a plăzmui
-a poci
-a simula
-a sofistica
-a sulemeni
-a travesti
-a truca
-__v.__ adevăr
-just
-lesne
-sincer
 
-21
-#### artist
-umil
 duh
 efect
-eleganță
+eleganţă
 entuziasm
 executant
 expresie
-forță
+forţă
 geniu
 gust
 ideal
 iluziune
 impresie
 imaginație
-invențiune
+invenţiune
 maestru
 manieră
 meserie
@@ -722,18 +1111,44 @@ platitudine
 practică
 practician
 profesiune
-sic
+şic
 spirit
 talent
 technică
 vervă
 virtuos
-vocațiune
+vocaţiune
+
+convenţional
+dres
+factice
+fals
+fanfaron
+himeric
+iluzoriu
+înşelător
+ipocrit
+meşteşugit
+mincinos
+nefiresc
+postiş
+prefăcut
+specios
+subtil
+zadarnic
+
+V. dezordine
+
+desgust
+a divide
+opunere
+sgomot
+
 abil
 artistic
 bogat
 consumat
-desăvârșit
+desăvârşit
 destoinic
 dibaciu
 exact
@@ -742,7 +1157,7 @@ fals
 fecund
 firesc
 frumos
-grațios
+grafios
 îndemânatec
 josnic
 lesne
@@ -757,50 +1172,121 @@ puternic
 sărac
 sincer
 spiritual
-ușor
-a asculta
-a ceda
-a se conforma
-a disciplina
-a dresa
-a se înclina
-a se încovoia
-a se înfeuda
-a observa
-a subjuga
-a subordona
-a se supune
-a urma
+uşor
+
+ARMONIE
+
 biciu
-dependență
+dependentă
 jug
 nuia
-obediență
+obedientă
 respect
 servitute
 supunere
 vargă
-__v.__ neascultare
+
+ARTA
+
+acceptabil
+armonios
+compatibil
+de conivență
+împreună
+simetric
+simpatic
+
+V. neascultare
+
 orgoliu
 poruncă
-revoluție
-voință
-__v.__ banal
+revoluţie
+voinţă
+
+ASCUNS
+
+V. banal
+
 dobitoc
 defect
 grosolan
 slab
-sters
+şters
 stângaciu
+
+abilitate
+artist
+chemare
+dar
+dispoziţie
+entuziasm
+estetică
+focul sacru
+frumos
+geniu
+gust
+ideal
+imaginație
+inclinare
+inspiratie
+măestrie
+manieră
+meşteşug
+mod
+practică
+pricepere
+profesiune
+ştiinţă
+stil
+technică
+
+a contraface
+a deghiza
+a disimula
+a fabrica
+a falsifica
+a farda
+a imita
+a împodobi
+a înfrumuseta
+a parodia
+a plagia
+a plăzmui
+a poci
+a simula
+a sofistica
+a sulemeni
+a travesti
+3 truca
+
 a concepe
 a inspira
 a insufla
 a înzestra
-a trișa
+a trişa
 a truca
 a zămisli
-#### ascuns
-#### ascultare
+
+a acomoda
+a acorda
+a se acorda
+a adapta
+a aranja
+a asocia
+a asorta
+a coordona
+a se concerta
+a concilia
+a concorda
+a dispune
+a fraterniza
+a se împăca
+a se invoi
+a pactiza
+a se potrivi
+a rândui
+
+ASCULTARE
 
 actor
 adevăr
@@ -809,33 +1295,36 @@ aptitudine
 căldură
 chemare
 comediant
-compoziție
+compoziţie
 dar
-dispozitie
-distincțiune
+dispoziţie
+distincţiune
+
 disciplinat
 docil
 iobag
 orb
 pasiv
 rob
-sclav
-șerb
+sclay
+şerb
 servil
 subordonat
 supus
 timid
+
 anonim
 clandestin
-confidential
+
+fidential
 confuz
 deghizat
 echivoc
-pe furiș
+pe furiş
 incognito
 indescifrabil
 insondabil
-întunecos
+intunecos
 invizibil
 latent
 necunoscut
@@ -843,49 +1332,121 @@ neobservat
 obscur
 ocult
 
+V. adevăr
+
+just
+lesne
+sincer
+
+§§----------------------------------------------------------------------
+
+-
+
+22
+
 23
-#### a atrage
+
+|
+
+voal
+
+prefăcut
+retras
+şiret
+tainic
+viclean
+
+V. clar
+
+renume
+reputaţie
+sigur
+simplu
+a ved
+
+a prăda
+a reaminti
+a reasorta
+a recunoaşte
+a reproduce
+a restitui
+
 cumătru
 partener
 societate
-tovarăș
+tovarăş
 unealtă
 uniune
-atrăgător
-plăcut
-răpitor
 
-__v.__ a desface
+ASEMANATOR
+
+V. a desface
+
 a divide
 contrariu
 
-#### atitudine
+ATITUDINE
 
-a mima
-a păstra atitudine
-a se pleca
-a se pitula
-a se înăbuși
-a se propti
-a se prosterna
-a se răsturna
-a se rezima
-a se ridica
-a se ruga
-a se sgribuli
-a se sprijini
-a sta
-a stărui
-a se suci
-a suplica
-a se svârcoli
-a se târî
-a se tine
-a se trânti
-a trona
-a se umfla
-a se umili
-a zăcea
+a acoperi
+a disimula
+a dispare
+a se eclipsa
+a se furişa
+a îngropa
+a înăbuşi
+a învălui
+a înveli
+a izola
+a masca
+a pieri
+a piti
+a scăpa
+a şterpeli
+a sustrage
+a tăinui
+
+afinitate
+corelaţiune
+duplicat
+imagine
+legătură
+maimuță
+paritate
+pastiş
+portret
+proporţie
+raport
+relaţie
+similitudine
+simulacru
+un
+
+acelaş
+adecuat
+analog
+asemenea
+comparabil
+conform
+deopotrivă
+dublu
+echivalent
+egal
+ejusdem farinac
+fals
+identic
+imitativ
+literal
+monoton
+omogen
+omolog
+omonim
+plagiat
+similar
+sinonim
+textual
+uniform
+unitar
+
 apleca:
 cumpătat
 demn
@@ -904,70 +1465,222 @@ trist
 umil
 visător
 vrednic
-a absorbi
+
+V. altul
+
+opunere
+
+a mima
+
+A ATRAGE
+a păstra atitudine
+a se pleca
+
+atrăgător
+a se pitula
+
+plăcut
+a se înăbuşi
+
+răpitor
+a se propti
+a se prosterna a absorbi
+a se răsturna
+
 a ademeni
+a se rezima
+
 a angaja
+se ridica
+
 a capta
+a se ruga
+
 a captiva
+a se sgribuli
+
 a cuceri
+a se sprijini
+
 a fascina
+a sta
+
 a fermeca
+a stărui
+
 a încânta
+a se suci
+
 a ispiti
+a suplica
+
 a momi
+a se svârcoli
+
 a orbi
+a se târi
+
 a place
-à robi
+a se tine
+
+a robi
+a se trânti
+
 a seduce
+a trona
+
 a transporta
+a se umfla
+
 a vrăji
+a se umili
+a zăcea
+
 afinitate
+
 agrement
-atracție
-avansuri
-grație
-magie
-rnagnet
-mreje
-plăcere
-tentație
 aer
+
+atracţie
 alură
-aparență
+
+avansuri
+aparenţă
+
+grație
 aspect
-dispoziție
+
+magie
+dispoziţie
+
+magnet
 fason
+
+mreje
 figură
+
+plăcere
 gen
-înfățișare
+
+tentaţie
+înfăţişare
 intenție
+
+V. desgust
 maniere
-niers
+
+plictiseală
+mers
+
+ură
 mină
+
+urit
 port
 postură
+
+AUSTER
 poză
-poziție
+poziţie
+
+aspru
 prestanță
+
+cumpătat
 stângăcie
-tinută
+
+dezinteresat
+ţinută
+
+grav
 turnură
-__v.__ desgust
-plictiseală
-ură
-urit
+
+impozant
+
+indiferent
+V. a ezita
+
+înțelept
+a fugi
+
+măsurat
+ipocrizie
+
+neîngăduitor
+
+ASOCIATE
+
+adâncătură
+ascunziş
+carceră
+colţişor
+criptă
+criptografie
+desiş
+discreţie
+eclipsă
+intuneric
+ipocrizie
+mister
+negură
+noapte
+nour
+paravan
+penumbră
+perdea
+pivniţă
+plic
+răscolt
+secret
+stor
+tainiță
+temniţă
+umbră
+väl
+
+aliat
+impreună
+solidar
+
+a adera
+a se alia
+a asista
+a se asocia
+a colabora
+a se coaliza
+a se infeuda
+a se însoți
+a se întovărăşi
+a se lega
+a se solidariza
+
+a se asemăna
+a asimila
+a asorta
+a calchia
+a se conforma
+a contraface
+a copia
+a corespunde
+a decalca
+a imita
+a maimuţări
+a pastişa.
+a plagia
+a se potrivi
+
 a se apleca
-a se așeza
+a se aşeza
 a avea atitudine
-a se cățăra
+a se căţăra
 a se ciuciuli
 a se culca
 a se curba
 a se expune
-a se fâțâi
+a se fâtâi
 a se frământa
 a gesticula
-a se ghemui
+à se ghemui
 a se gudura
 a se înclina
 a se încovoia
@@ -976,30 +1689,46 @@ a se întinde
 a lua atitudine
 a se lungi
 
-#### auster
+adunare
+alianţă
+armonie
+cartel
+colaborare
+complice
+consortiu
 
-aspru
-cumpătat
-dezinteresat
-grav
-impozant
-indiferent
-înțelept
-măsurat
-neîngăduitor
-__v.__ a ezita
-a fugi
-ipocrizie
+§§----------------------------------------------------------------------
 
-24
+- 24
+
+- 25
+
 interes
+
 a întreprinde
 a risca
-__v.__ a da
+
+a uri
+
+şagă
+vanitate
+vid
+vorbe goale
+
+V. a da
+
 dar
 curaj
 fecund
+
+ardoare
+aviditate
+dorinţă
+nesațiu
+poftă
+
 a uza
+
 nepăsător
 patriarhal
 răslet
@@ -1010,17 +1739,47 @@ riguros
 serios
 sever
 sobru
-strașnic
+straşnic
 strict
-țeapăn
+teapăn
 venerabil
 
-#### a avea
+V. important
+
+mare
+plin
+serios
+
+A AVEA
+
+V. desgust
+
+dispret
+insensibil
+moderat
+
+aparenţă
+aprehensiune
+conjectură
+inchiziţie
+îndoială
+îngrijorare
+ipoteză
+neîncredere
+prejudecată
+presentiment
+prevedere
+prevenţiune
+prezumţie
+probabilitate
+supoziție
+suspiciune
+teamă
 
 accident
 aventurier
 caz
-circumstanță
+circumstanţă
 conjunctură
 eveniment
 epizod
@@ -1033,23 +1792,32 @@ pericol
 pirat
 primejdie
 vântură-țară
+
+BANAL
+
+B
+
+BAGATELA
+
 a ajunge la
-a-și apropia
+a-şi apropia
 a căpăta
-a câștiga
+a câştiga
 a căpăta
-a deține
+a deţine
 a dobândi
-a obține
+a obţine
 a ocupa
 a păstra
 a poseda
-a-și procura
+a-şi procura
 a relua
 a stăpâni
-a ține
+a ţine
 a uza
-__v.__ afabil
+
+V. afabil
+
 agreabil
 bunătate
 desfrâu
@@ -1057,127 +1825,20 @@ desfrâu
 licență
 plăcut
 vesel
-__v.__ înțelepciune
-liniște
-măsură
-ordine
-prudență
-obiceiu
-#### avar
-#### avid
-avere
-beneficiu
-bun
-bogăție
-patrimoniu
-proprietate
-#### uz
-apucător
-avid
-calic
-cârpănos
-econom
-egoist
-hrăpăreț
-hrăpitor
-harpagon
-lacom
-meschin
-mercantil
-nesățios
-rapace
-sgârcit
-sgârie-brânză
-__v.__ lipsă
-nimic
-a pierde
-ruină
-sărac
-ahtiat
-avar
-cupid
-devorat de dorință
-dornic
-înfometat
-hămesit
-hrăpăreț
-lacom
-nesăturat
-pasionat
-poftitor
-rapace
-#### aventură
-a acapara
-a aduna
-a tezauriza
-a se tocmi
-aventuros
-hazardat
-îndrăzneț
-întreprinzător
-nesocotit
-a ambiționa
-a aspira
-a devora
-a dori
-a jindui
-a invidia
-a pizmui
-a râvni la
-avariție
-comoară
-cupiditate
-a se aventura
-a se expune
 
-25
-1
-a urî
-șagă
-vanitate
-vid
-vorbe goale
-ardoare
-aviditate
-dorință
-nesațiu
-poftă
-__v.__ important
-mare
-plin
-serios
-__v.__ desgust
-dispreț
-insensibil
-moderat
-aparentă
-aprehensiune
-conjectură
-inchiziție
-îndoială
-îngrijorare
-ipoteză
-neîncredere
-prejudecată
-presentiment
-prevedere
-prevențiune
-prezumție
-probabilitate
-supoziție
-suspiciune
-teamă
+V. certitudine
 
-### B
-
-#### banal
-
-#### bagatelă
-
-__v.__ certitudine
 a vedea
 
-#### beneficiu
+BENEFICIU
+
+V. înțelepciune
+
+linişte
+măsură
+ordine
+prudenţă
+obiceiu
 
 anost
 frivol
@@ -1190,6 +1851,7 @@ searbăd
 superficial
 van
 în vânt
+
 bătătorit
 comun
 copiat
@@ -1199,72 +1861,153 @@ demodat
 josnic
 mediocru
 neînsemnat
-obișnuit
+obişnuit
 ordinar
 de rând
 răsuflat
 rococo
 searbăd
 simplu
-știut
+ştiut
 trivial
 uzat
 uzual
 vulgar
-bănos
+
+AVAR
+
+bănoS
 lucrativ
 productiv
 profitabil
 rentabil
+
+AVID
+
+avere
+beneficiu
+bun
+bogăție
+patrimoniu
+proprietate
+UZ
+
 a flecări
 a fleoncăi
+
+apucător
+avid
+calic
+cârpănos
+econom
+egoist
+hrăpåret
+hrăpitor
+harpagon
+lacom
+meschin
+mercantil
+nesățios
+Tapace
+sgârcit
+sgârie-brânză
+
 a agonisi
 a beneficia
 a fructifica
 a se îmbuiba
 a produce
 a raporta
+
+ahtiat
+avar
+cupid
+devorat de dorinţă
+dornic
+înfometat
+håmesit
+hrăpăreţ
+lacom
+nesăturat
+pasionat
+poftitor
+rapace
+
 platitudine
 prostime
-__v.__
-altul
+
+V. lipsă
+
+nimic
+a pierde
+ruină
+sărac
+
+V. altul
+
 important
 necunoscut
 nou
+
+AVENTURA
+
 baliverne
-brașoave
+braşoave
 cai verzi
 ciurucuri
-fleacuri
+fleacurl
 glumă
 jucărie
-minutie
+minuție
 moft
 minciuni
 naivitate
 neconsecvență
 nerozie
 nimicuri
-moși pe groși
+moşi pe groşi
 palavre
 poliloghie
 prostii
-#### bănuială
+
+BANUIALA
+
+a acapara
+a aduna
+a tezauriza
+a se tocmi
+
+aventuros
+hazardat
+îndrăzneţ
+întreprinzător
+nesocotit
+
+a ambiționa
+a aspira
+a devora
+a dori
+a jindui
+a invidia
+a pizmui
+a râvni la
+
 avantaj
 beneficiar
 bonificație
-câștig
+câştig
 chilipir
 comision
 dividend
 folos
-plească
+pleaşcă
 produs
 profit
 randament
 rentă
 rezultat
 roade
+
 bănuitor
 discreditat
 incredul
@@ -1273,11 +2016,26 @@ suspect
 timid
 veros
 
-26
+avaritie
+comoară
+cupiditate
+
+a se aventura
+a se expune
+
+§§----------------------------------------------------------------------
+
+- 26 -
+
+- 27
+
 venit
-__v.__ nimic
+
+V. nimic
+
 a pierde
 ruină
+
 luxos
 magnific
 milionar
@@ -1285,7 +2043,9 @@ opulent
 pecuniar
 pompos
 somptuos
-#### bine-bun
+
+BINE-BUN
+
 miraculos
 mulțumitor
 nimerit
@@ -1301,15 +2061,16 @@ rațional
 recomandabil
 reglementar
 în regulă
-reușit
+reuşit
 satisfăcător
 suficient
 superior
 uimitor
+
 a acumula
 a capitaliza
-a câștiga
-a cruța
+a câştiga
+a cruţa
 a economisi
 a se îmbogăți
 a îndestula
@@ -1317,6 +2078,186 @@ a îngrămădi
 a străluci
 a strânge
 a tezauriza
+
+a se înrăi
+a întoarce
+a intoxica
+a invada
+a jena
+a lovi
+a mâhni
+a mina
+a mistui
+a molipsi
+a năpădi
+a năvăli
+a orbi
+a osândi
+a paraliza
+a potoli
+a predispune
+a propaga
+a pustii
+a recădea
+a se răspândi
+a scrânti
+a stingheri
+a strica
+a suferi
+a tămădui
+a turba
+a vărsa
+
+a aproba
+a corija
+a îndrepta
+a întări
+
+BOLNAV nevralgic
+
+nevropat
+abătut
+
+palid
+afectat de
+
+pământiu
+aftos
+
+patologic
+alienat
+
+pernicios
+anemic
+
+pestiferat
+apoplectic
+
+pestilent
+ataxic
+
+pestilenţial
+becisnic
+
+plumburiu
+beteag
+
+primejdios
+bilios
+
+pustulos
+bolnăvicios
+
+rahitic
+cronic
+
+slab
+congenital
+
+sporadic
+contagios
+
+sincopal
+convalescent
+
+şubred
+diabetic
+
+teafăr
+diareic
+
+tetanic
+dement
+
+tonic
+endemic
+
+ulceros
+epidemic
+
+vânăt
+epileptic
+
+variolic
+eruptiv
+
+veninos
+febril
+
+vătămător
+fen. concomitent
+fen. consecutiv a acelera
+fen. premonitoriu a afecta
+idiot
+
+a amorti
+imbecil
+
+a ankiloza
+impotent
+
+a atinge
+inciumat
+
+a atrofia
+indemn
+
+a asfixia
+indispus
+
+a cloci
+in extremis
+
+a condamna
+intermitent
+
+a congestiona
+isteric
+
+a constipa
+jigărit
+
+a consuma
+letargic
+
+a contamina
+livid
+
+a delira
+mânios
+
+a despera
+mefitic
+
+a dezamorţi
+morbid
+
+domni
+mortal
+
+a înciuma
+muribund
+
+a incomoda
+neatins
+
+a incuba
+nebun
+
+a infecta
+nefritic
+
+a infesta
+neputincios
+
+a infiltra
+nesănătos
+
+a înfrânge
+nevătămat
+
+a inocula
+
 acceptabil
 adecuat
 admirabil
@@ -1344,60 +2285,44 @@ excelent
 exemplar
 fericit
 fin
-a aproba
-a corija
-a îndrepta
-a întări
-mirare
-succes
-abudență
-argint
-aur
-avuție
-bånet
-bani
-belșug
-bogătaș
-bunuri
-comoară
-Cresus
-niagnificență
-mijloc
-monedă
-nabab
-Pactol
 frumos
 îmbucurător
 impecabil
-încântător
+incântător
 îndestulător
 interesant
 integru
-ireprosabil
+ireproşabil
 just
 lăudabil
 legitim
 magnific
-măreț
+măreţ
 meritoriu
 măsurat
 minunat
-__v.__ defect
-dezaprobare
-dezordine
-diform
-fals
-greșală
-grosolan
-nedrept
-nelegiuit
-plictiseală
-a rătăci
-rău
-urît
-a vătăma
+
+mirare
+succes
+
+abudenţă
+argint
+aur
+avuție
+bằnet
+bani
+belşug
+bogătaş
+bunuri
+comoară
+Cresus
+niagnificenţă
+mijloc
+monedă
+nabab
+Pactol
 parvenit
-Plutus
+Phutus
 prosperitate
 rentier
 resurse
@@ -1406,152 +2331,26 @@ splendoare
 stare
 tezaur
 
-#### bogăție
+V. defect
 
-avut
-bogat
-capitalist
-fastuos
-îmbelșugat
-__v.__ lipsă
-moderat
-puțin
-ruină
-sărac
+dezaprobare
+dezordine
+diform
+fals
+greşală
+grosolan
+nedrept
+nelegiuit
+plictiseală
+a rătăci
+rău
+urit
+a vătăma
 
-27
-#### bolnav
-nevralgic
-nevropat
-palid
-pământiu
-patologic
-pernicios
-pestiferat
-pestilent
-pestilențial
-plumburiu
-primejdios
-pustulos
-rahitic
-slab
-sporadic
-sincopal
-șubred
-teafăr
-tetanic
-tonic
-ulceros
-vânăt
-variolic
-veninos
-vătămător
-abătut
-afectat de
-aftos
-alienat
-anemic
-apoplectic
-ataxic
-becisnic
-beteag
-bilios
-bolnăvicios
-cronic
-congenital
-contagios
-convalescent
-diabetic
-diareic
-dement
-endemic
-epidemic
-epileptic
-eruptiv
-febril
-fen. concomitent
-fen. consecutiv
-fen. premonitoriu
-idiot
-imbecil
-impotent
-inciumat
-indemn
-indispus
-in extremis
-intermitent
-isteric
-jigărit
-letargic
-livid
-mânios
-mefitic
-morbid
-mortal
-muribund
-neatins
-nebun
-nefritic
-neputincios
-nesănătos
-nevătămat
-à se înrăi
-a intoarce
-a intoxica
-a invada
-a jena
-a lovi
-a mâhni
-a mina
-a mistui
-a molipsi
-a năpădi
-a năvăli
-a orbi
-a osândi
-a paraliza
-a potoli
-a predispune
-a propaga
-a pustii
-a recădea
-a se răspândi
-a scrânti
-a stingheri
-a strica
-a suferi
-a tămădui
-a turba
-a vărsa
-a acelera
-a afecta
-a amorti
-a ankiloza
-a atinge
-a atrofia
-a asfixia
-a cloci
-a condamna
-a congestiona
-a constipa
-a consuma
-a contamina
-a delira
-a despera
-a dezamorți
-a domni
-a înciuma
-a incomoda
-a incuba
-a infecta
-a infesta
-a infiltra
-a înfrânge
-a inocula
 acalmie
 acces
 accident
-afecțiune
+afecţiune
 aigie
 ankiloză
 anestezie
@@ -1562,16 +2361,38 @@ atac
 ataxie
 atonie
 atrofie
-boleșniță
+boleşniță
 bulimie
 catalepsie
 cecitate
 ciumă
-complicație
-coșmar
+complicaţie
+coşmar
 criză
 
+BOGATIE
+
+avut
+bogat
+capitalist
+fastuos
+îmbelşugat
+
+V. lipsă
+
+moderat
+puţin
+ruină
+sărac
+
+-S/e Like
+
+§§----------------------------------------------------------------------
+
 28
+
+29
+
 neplăcut
 periculos
 rău
@@ -1579,9 +2400,9 @@ răutate
 ură
 a vătăma
 
-### C
+- C-
 
-#### Calitate
+CALITATE
 
 dambla
 delir
@@ -1590,30 +2411,31 @@ eczemă
 epidemie
 epizotie
 ergotism
-ferbințeală
+ferbinţeală
 flagel
 friguri
 idiopatie
 idiosincrazie
-incontinență
-indispoziție
-insolație
+incontinenţă
+indispoziţie
+insolaţie
 insomnie
 metastază
 molimă
 mortalitate
-neliniște
+nelinişte
 nevralgie
 otrăvire
 pagubă
 paroxism
-predispoziție
+predispoziţie
 prodrom
 progres
 ravagii
 simptome
 spasm
 turbare
+
 conciliant
 condescendent
 cordial
@@ -1624,7 +2446,7 @@ devotat
 drăgăstos
 excelent
 filantrop
-frățesc
+trătesc
 generos
 gingas
 împăciuitor
@@ -1647,6 +2469,7 @@ tolerant
 slab
 uman
 umanitar
+
 abil
 activ
 adevărat
@@ -1658,7 +2481,7 @@ amabil
 aprig
 apt
 ascultător
-așezat
+aşezat
 auster
 bine
 bine crescut
@@ -1666,7 +2489,7 @@ binefăcător
 binevoitor
 blajin
 blând
-bray
+brav
 bun
 călduros
 calificativ
@@ -1686,42 +2509,8 @@ constant
 convenabil
 cordial
 credincios
-__v.__ forță
-sănătate
-### bunătate
 
-a se acomoda
-a atrage
-a concilia
-a desmierda
-a împăciui
-a îndura
-a îngădui
-a tolera
-acomodant
-afabil
-agreabil
-amabil
-altruist
-benevol
-binefăcător
-binevoitor
-blajin
-blând
-candid
-caritabil
-clement
--complezant
-atenție
-îndurare
-milă
-mizericordie
-pronie
-providență
-__v.__ contrariu
-
-– 29
-cu bun simt
+cu bun simţ
 cu judecată
 cuminte
 cumpătat
@@ -1735,7 +2524,7 @@ deferent
 delicat
 delicios
 deschis
-deștept
+deştept
 destoinic
 de treabă
 devotat
@@ -1744,7 +2533,7 @@ dibaciu
 dispus
 docil
 dotat
-drăgălaș
+drăgălaş
 drăguț
 drept
 dulce
@@ -1764,17 +2553,18 @@ gentil
 gingas
 harnic
 hotărît
-îndatoritor
-indemânatec
+indatoritor
+îndemânatec
 îndrăznet
 îndurător
-infocat
+înfocat
 îngăduitor
 ingenios
-în stare
+in stare
+
 integru
-înțelept
-intreg
+înţelept
+întreg
 intrigant
 inventiv
 iscusit
@@ -1794,15 +2584,15 @@ modest
 muncitor
 naiv
 neclintit
-nepretențios
+nepretenţios
 neprihănit
 norocos
-postim
-r.evinovat
-cmenos
+nostim
+revinovat
+omenos
 onest
 pasionat
-r:atriot
+patriot
 personal
 perspicace
 plăcut
@@ -1823,10 +2613,11 @@ puternic
 răbdător
 recunoscător
 resemnat
+
 respectuos
 rezolut
 riguros
-rușinos
+ruşinos
 sârguitor
 sensibil
 semet
@@ -1838,12 +2629,12 @@ simpatic
 simplu
 simțitor
 sincer
-șiret
+şiret
 smerit
 sobru
 statornic
-strașnic
-subțire
+straşnic
+subţire
 supus
 susceptibil
 temperat
@@ -1858,92 +2649,167 @@ viteaz
 vivace
 voios
 vrednic
+
+V. forţă
+
+sănătate
+
+BUNATATE
+
+a se acomoda
+a atrage
+a concilia
+a desmierda
+a împăciui
+a îndura
+a îngădui
+a tolera
+
 a califica
 a se comporta
 a fi
+
+acomodant
+afabil
+agreabil
+amabil
+altruist
+benevol
+binefăcător
+binevoitor
+blajin
+blând
+candid
+caritabil
+clement
+complezant
+
+atenție
+îndurare
+mila
+mizericordie
+pronie
+providentă
+
 abnegațiune
 ambiție
 ardoare
-aspirație
-bărbăție
-bună credință
-bună creștere
-bunacuviință
+aspiratie
+bărbăţie
+bună credinţă
+bună creştere
+bunacuviinţă
 caracter
 chemare
 civism
 
+V. contrariu
+
+§§----------------------------------------------------------------------
+
 - 30
 
-#### cantitate
+- 31
+
+CANTITATE
+
+condițiune
+constituție
+conținut
+convenienţă
 
 cantitativ
 mult
 mai mult
 numeros
-mai puțin
+mai puţin
 puțin
+plin
+
 căpetenie
-cârmuire
+carmuire
 conducere
-cespot
+Cespot
 despotism
 egemonie
 feodalitate
-fruntaș
+fruntaş
 întâietate
 leader
-plin
+ordine
+paşă
+precădere
+robie
+satrap
+sclavie
+şef
+staroste
+suprematie
+suzeranitate
+vătaf
+
+imaginație
+inchipuire
+marotă
+mendre
+năsbåtie
+năzdrăvănie
+nebunie
+pasiune
+pofte
+poznă
+strengărie
+toană
+
 a aprecia
 a contingenta
 a doza
 a evalua
 a măsura
-«condițiune
-constituție
-conținut
-conveniență
-dar
-dărnicie
-dexteritate
-discernământ
-fel
-fire
-focul sacru
-forță
-geniu
-gratitudine
-gust
-imaginație
-îndemânare
-inteligență
-liberalitate
-luciditate
-măsură
-memorie
-minte
-munificență
-natură
-pantă
-pătrundere
-promptitudine
-pudoare
-râvnă
-recunoștință
-rușine
-sagacitate
-sentiment
-ordine
-pașă
-precădere
-robie
-satrap
-sclavie
-șef
-staroste
-supremație
-suzeranitate
-vătaf
+
+y. certitudine
+
+devotament
+durată
+imobil
+înţelepciune
+legătură
+liniştit
+serupul
+serios
+statornic
+
+deschis
+desgustător
+despotic
+detestabil
+dificil
+dulce
+egoist
+energic
+fals
+fantast
+făţarnic
+fericit
+firesc
+franc
+fudul
+furios
+gâlcevitor
+gingas
+geu
+grobian
+inžcrit
+închipuit
+îndatoritor
+ingăduitor
+ingrat
+invidios
+ipocrit
+irascibil
+iritabil
+fute
+
 adunare
 cât
 câtime
@@ -1953,28 +2819,41 @@ efectiv
 lungime
 număr
 quantum
-suprafață
+suprafaţă
 volum
-__v.__ dezordine
-libertate
-inferior
 
-#### capriciu
-
-__v.__ nimic
-vid
-
-#### cap
-
-autocratic
-cezarian
-despotic
-dictatorial
-împărătesc
-samavolnic
-tiran
-simțământ
-simțire
+dar
+dărnicie
+dexteritate
+discernământ
+fel
+fire
+focul sacru
+forţă
+geniu
+gratitudine
+gust
+imaginație
+îndemânare
+inteligenţă
+liberalitate
+luciditate
+măsură
+memorie
+minte
+munificenţă
+natură
+pantă
+pătrundere
+promptitudine
+pudoare
+râvnă
+recunoştinţă
+ruşine
+sagacitate
+sentiment
+simţământ
+simtire
 soiu
 spirit
 stare
@@ -1985,128 +2864,22 @@ urbanitate
 veracitate
 pasiune
 virtute
-vocațiune
-voință
+Vocaţiune
+voinţă
 zel
-bizar
-capricios
-ciudat
-descreerat
-extravagant
-flușturatic
-inegal
-lunatic
-mobil
-nebun
-nechibzuit
-nesăbuit
-nesocotit
-nestatornic
-schimbător
-singular
-smintit
-sucit
-zănatic
-a asupri
-a comanda
-a domina
-a împila
-a predomina
-a stăpâni
-absolutism
-arbitrar
-autocrat
-acces
-dezordine
-fantezie
-"V, defect
 
-31
-imaginație
-închipuire
-marotă
-mendre
-năsbâtie
-năzdrăvănie
-nebunie
-pasiune
-pofte
-pozna
-strengărie
-toană
-__v.__ certitudine
-devotament
-durată
-imobil
-înțelepciune
-legătură
-liniștit
-scrupul
-serios
-statornic
-deschis
-desgustător
-despotic
-detestabil
-dificil
-dulce
-egoist
-energic
-falș
-fantast
-fățarnic
-fericit
-firesc
-franc
-fudul
-furios
-gâlcevitor
-- gingas
-greu
-grobian
-înăcrit
-închipuit
-îndatoritor
-îr.găduitor
-ingrat
-invidios
-ipocrit
-irascibil
-iritabil
-iute
-laș
-lunatic
-mâhnit
-mândru
-maniac
-mânios
-migălos
-mizantrop
-mlădios
-mohorât
-mojic
-morocănos
-natural
-nebun
-necăjit
-nehotărît
-neîmblânzit
-neplăcut
-resărat
-nesociabil
-norocos
-obraznic
+Coraznic
 orgolios
-pătimaș
-plăcut
+pătimas
+plácat
 posac
-posomorât
+posomnorât
 prefăcut
 prevenitor
 prietenos
 puternic
 rău
-sâcâitor
+sâeâitor
 sanchiu
 scortos
 sec
@@ -2121,64 +2894,157 @@ sociabil
 sperios
 suveran
 taciturn
-țâfnos
+tâfnos
 tăios
 tipicar
 tiran
-trufaș
+trufaş
 urâcios
 urât
-ursuz
+LISZ
 uscat
-uscățiv
-viguros
-violent
-vitios
-zănatic
+
+V dezordine
+
+libertate
+inferior
+
 CARACTER
+
+CAPRICIU
+
+V. nimic
+
+vid
+
+САР
+
+autocratic
+cezarian
+despotic
+dictatorial
+impărătesc
+samavolnic
+tiran
+
+bizar
+capricios
+ciudat
+descreerat
+extravagant
+fluşturatic
+inegal
+lunatic
+mobil
+nebun
+nechibzuit
+nesábuit
+nesocotit
+restatornic
+schimbător
+singular
+
 absolut
 acru
 afabil
 agreabil
 amabil
-ambițios
-amorf
+ambitios
+amort
 anevoios
 aprins
 arogant
-arțăgos
+artăgos
 avar
 bădăran
 bănuitor
-bătos
+bätos
 bizar
 blajin
 blând
 brusc
 capricios
-certăreț
-cicălitor
+certăret
+cicälitor
 ciudat
 curat
-diezagreabil
-a îmblânzi
-a șovăi
+cezagreabil
+
+lunatic
+mahnit
+mnändru
+maniae
+mānios
+migalos
+mizantrop
+mlādlos
+mohorât
+mojic
+morocēnos
+natural
+
+viguros
+violent
+vifios
+zănatic
+
+a imblani
+a powăi
 a supune
-aparență
-calitate
+
+a asupri
+a comanda
+a domina
+a impila
+a predomina
+a stăpâni
+
+aparenta
+
+sucit
+
+nehotarit
+neimblânzit
+neplăcut
+resărat
+nesociabi
+norocos
+
+absolutism
+arbitrar
+autocrat
+
 complexiune
-configurație
-constituție
+configuratie
+constituţie
 esență
 
-32
+V. defect
+
+dezordine
+fantezie
+
+§§----------------------------------------------------------------------
+
+- 32
+
+- 33
+
 a suscita
+
+A CHELTUI
+
+CERTITUDINE
+
+CHIRURGIE
+
 a revendica
 a ruga
 a solicita
 a soma
 a stărui
 a urmări
+
 expresie
 fel
 fire
@@ -2187,13 +3053,33 @@ gen
 însușire
 obiceiu
 natură
-permanență
+permanenţă
 simbol
 soiu
 stare
-substanță
+substanţă
 temperament
 tip
+
+cheltuitor
+darnic
+fastuos
+generos
+larg
+mână spartă
+risipitor
+somptuar
+stricat
+
+a amputa
+a arde
+a cauteriza
+a diseca
+a exciza
+a extirpa
+a pansa
+a trepana
+
 afacere
 agent
 autor
@@ -2217,51 +3103,105 @@ rațiune
 sorginte
 sursă
 temeiu
-cerință
+
+cerinţă
 chetă
 deziderat
-dorință
-exigență
+dorinţă
+exigenţă
 jalbă
 intervenție
 postulant
 pretendent
 suplică
 ultimatum
-Vi absurd
+
+autentic
+clar
+convins
+dogmatic
+evident
+fatal
+ferm
+indiscutabil
+incontestabil
+inevitabil
+infailibil
+manifest
+matematic
+neclintit
+nestrămutat
+notoriu
+palpabil
+peremptoriu
+sigur
+tangibil
+vizibil
+
+chirurg
+forceps
+incizie
+transfuziune
+vivisecţiune
+
+CLAR
+
+V. absurd
+
 dezordine
 diform
 a ezita
 obscuritate
 spălăcit
-__v.__ a da
+
+a devora
+a distribui
+a delapida
+a epuiza
+a îmbuiba
+a împrăştia
+a irosi
+a mânca
+a prăpădi
+a remunera
+a risipi
+a se ruina
+a sfeterisi
+a asvârli
+
+V. a da
+
 dar
 nu
 opunere
+
 CAUZĂ
+
 CEREMONIAL
-__v.__ a desface
+
+V, a desface
+
 remediu
 rezultat
-A CERE
+
 afectat
 ceremonios
 curtenitor
 exagerat
-icrarhic
-înțepat
+ierarhic
+întepat
 manierat
 nefiresc
 politicos
 protocolar
 scrobit
-exigent
-exigibil
-importun
+
+A CERE
+
 a aprinde
-a ațâța
+a atâta
 a călăuzi
-a cășuna
+a căşuna
 a concura
 a conduce
 a contribui
@@ -2284,137 +3224,16 @@ a produce
 a proveni
 a provoca
 a scormoni
-a adresa
-a asedia
-a candida
-a cerși
-a conjura
-a exprima
-a formula
-a hărțui
-a implora
-a insista
-a petiționa
-a pofti
-a postula
-a pretinde
-a reclama
-aristocrație
-ceremonie
-conveniență
-etichetă
-formă
-onoare
-recepție
-rit
-uzaj
-__v.__ grosolan
-obiceiu
-simplu
 
-33
-CERTITUDINE
-A CHELTUI
-CHIRURGIE
-cheltuitor
-darnic
-fastuos
-generos
-larg
-mână spartă
-risipitor
-somptuar
-stricat
-a amputa
-a arde
-a cauteriza
-a diseca
-a exciza
-a extirpa
-a pansa
-a trepana
-autentic
-clar
-convins
-dogmatic
-evident
-fatal
-ferm
-indiscutabil
-incontestabil
-inevitabil
-infailibil
-manifest
-matematic
-neclintit
-nestrămutat
-notoriu
-palpabil
-peremptoriu
-sigur
-tangibil
-vizibil
-chirurg
-forceps
-incizie
-transfuziune
-vivisecțiune
-CLAR
-a devora
-a distribui
-a delapida
-a epuiza
-a îmbuiba
-a împrăștia
-a irosi
-a mânca
-a prăpădi
-a remunera
-a risipi
-a se ruina
-a sfeterisi
-a asvârli
-a adeveri
-a. afirma
-a aproba
-a atesta
-a certifica
-a confirma
-a crede
-a dovedi
-a fortifica
-a încredința
-a întări
-a învedera
-a proba
-a ratifica
-a recunoaște
-a sprijini
-alocațiune
-belșug
-cheltuială
-cost
-cotizație
-dar
-desfrâu
-liberalitate
-munificență
-obol
-pagubă
-preț
-profuziune
-fiul rătăcit
-rentier
-resurse
-socoteală
-stare
-tezaur
-transfer
+exigent
+exigibil
+importun
+
 abordabil
 accesibil
 comprehensibil
 comun
-deslușit
+desluşit
 elementar
 evident
 explicit
@@ -2433,31 +3252,114 @@ sensibil
 simplu
 univoc
 vizibil
-S
+
+a adeveri
+a afirma
+a aproba
+a atesta
+a certifica
+a confirma
+a crede
+a dovedi
+a fortifica
+a încredinta
+a întări
+a învedera
+a proba
+a ratifica
+a recunoaște
+a sprijini
+
+alocaţiune
+belşug
+cheltuială
+cost
+cotizaţie
+dar
+desfrâu
+liberalitate
+munificenţă
+obol
+pagubă
+pret
+profuziune
+fiul rătăcit
+rentier
+resurse
+socoteală
+stare
+tezaur
+transfer
+
+a adresa
+a asedia
+a candida
+a cerși
+a conjura
+a exprima
+a formula
+a hărtui
+a implora
+a insista
+a petiţiona
+a pofti
+a postula
+a pretinde
+a reclama
+
+aristocrație
+ceremonie
+convenienţă
+etichetă
+forma
+onoare
+Teceptie
+rit
+uzaj
+
 adevăr
 asigurare
 axiomă
 convingere
 crez
-__v.__ discuție
-ezitare
-ipoteza
-obscuritate
+
 a descâlci
 a descifra
 a descurca
-a desluși
+a desluşi
 a discerne
 a edifica
 a elucida
 a explica
-__v.__ auster
+
+V. grosolan
+
+obiceiu
+simplu
+
+V. discuție
+
+ezitare
+ipoteză
+obscuritate
+
+V. auster
+
 avar
 sărac
+
 3
 
+§§----------------------------------------------------------------------
+
 34
+
+35
+
 COMPLOT
+
+CONSTIINTA
+
 a informa
 a lămuri
 a pătrunde
@@ -2465,34 +3367,81 @@ a percepe
 a prinde
 a simplifica
 a tălmăci
+
+competiţie
+concurent
+conflict
+emul
+emulaţiune
+examen
+pizmă
+pretendent
+
+a desmăța
+a pierde
+a pieri
+a se purta
+a strica
+a turbura
+
 a se afilia
 a complota
 a făuri
 a jura
-a mașina
+a maşina
 a plănui
 a se răsvrăti
 a se sfătui
 a urzi
-competitie
-concurent
-conflict
-emul
-emulațiune
-examen
-pizmă
-pretendent
-__v.__ ascuns
+
+a închina
+a-şi închina
+a întări
+a patrona
+a sancţiona
+a sfinţi
+a sorti
+a târnosi
+a ursi
+
+a se căi
+a capitula
+a examina
+a expia
+a îmboldi
+a insufla
+a ispăși
+a mortifica
+a mustra
+a se pocăi
+
+V. ascuns
+
 dificultate
 obscur
 secret
-șters
-__v.__ asemnător
+sters
+
+V. asemnător
+
 asociat
-inacțiune
-liniștit
+inacţiune
+liniştit
+
+hram
+invocaţiune
+menire
+ocrotire
+ofrandă
+prinos
+protecţie
+
 A COLABORA
+
 CONDUITA
+
+CONSOLARE
+
 a ajuta
 a concura
 a contribui
@@ -2500,24 +3449,71 @@ a coopera
 a lucra
 a lua parte
 a participa
+
 agitator
 cabală
 Carbonari
 conciliabul
-coniventă
-conjurație
-conspirație
+conivență
+conjuraţie
+conspiratie
 instigator
-intriga
+intrigă
 lovitură
 pronunciamento
 răscoală
-revoluție
+revoluţie
 uneltire
-__v.__ a desface
+
+act
+acţiune
+activitate
+bacanale
+boroboaţă
+desfrâu
+escapadă
+exces
+faptă
+festă
+ispravă
+licenţă
+manieră
+moravuri
+năsbâtie
+necurățenie
+neînfrânare
+neorânduială
+neregulă
+obiceiuri
+orgie
+procedeu
+purtare
+saturnale
+ținută
+
+consideraţiune
+cuget
+delicateță
+examen
+mulţumire
+obidă
+penitenţă
+pocăinţă
+remuşcare
+scrupul
+satisfacţie
+sentiment
+simțământ
+simțire
+turburare
+
+V. a desface
+
 dezordine
 opunere
+
 CONCURS
+
 auster
 aventuros
 cinic
@@ -2527,7 +3523,7 @@ gălăgios
 imoral
 moral
 nebun
-nerușinat
+neruşinat
 nesăbuit
 nesocotit
 onest
@@ -2542,116 +3538,8 @@ strengar
 de treabă
 vioiu
 viteaz
-COMPETENTA
-antagonist
-gelos
-potrivnic
-capabil
-competent
-destoinic
-priceput
-a autoriza
-a declina
-a împuternici
-a se ciocni
-a concura
-a colabora
-a conlucra
-a disputa
-a se împotrivi
-a înfrunta
-a se întrece
-a se lupta
-a se măsura
-a ridica mănușa
-a rivaliza
-a fine piept
-atribuție
-capacitate
-domeniu
-jurisdicțiune
-putință
-resort
-știință
-vitios
-a abuza
-a se agita
-a se călăuzi
-a se cârmui
-a chefui
-a se comporta
-a se conduce
-a se deda
-a deprava
-V dificultate
-dobitoc
-frică
-ignoranță
-adversar
-ardoare
-alenă
-campion
+vițios
 
-35
-CONSTIINTA
-a desmata
-a pierde
-a pieri
-a se purta
-a strica
-a turbura
-a închina
-a-și închina
-a întări
-a patrona
-a sancționa
-a sfinți
-a sorti
-a târnosi
-a ursi
-a se căi
-a capitula
-a examina
-a expia
-a îmboldi
-a insufla
-a ispăși
-a mortifica
-mustra
-a se pocăi
-hram
-invocațiune
-menire
-ocrotire
-ofrandă
-prinos
-protecție
-CONSOLARE
-act
-acțiune
-activitate
-bacanale
-boroboată
-desfrâu
-escapadă
-exces
-faptă
-festă
-ispravă
-licență
-manieră
-moravuri
-năsbâtie
-necurățenie
-neînfrânare
-neorânduială
-neregulă
-obiceiuri
-orgie
-procedeu
-purtare
-saturnale
-ținută
 a accepta
 a alina
 a atenua
@@ -2662,57 +3550,76 @@ a îmbărbăta
 a încuraja
 a îndulci
 a întări
-a liniști
+a linişti
 a mângâia
 a potoli
 a reconforta
-a ușura
-considerațiune
-cuget
-delicateță
-examen
-in the
-mulțumire
-obidă
-penitență
-pocăință
-remușcare
-scrupul
-satisfacție
-sentiment
-simțământ
-simțire
-turburare
-__v.__ ignoranță
+a uşura
+
+COMPETENTA
+
+capabil
+competent
+destoinic
+priceput
+
+antagonist
+gelos
+potrivnic
+
+V. ignoranta
+
 insensibil
 licență
 a rătăci
-__v.__ desfrâu
+
+CONTRARIU
+
+a autoriza
+a declina
+a împuternici
+
+V. desfrâu
+
 dezordine
 licență
 a rătăci
-CONTRARIU
+
 A
+
 CONSACRA
+
+atribuţie
+capacitate
+domeniu
+jurisdicţiune
+putinţă
+resort
+ştiinţă
+
+a se ciocni
+a concura
+a colabora
+a conlucra
+a disputa
+a se împotrivi
+a înfrunta
+a se intrece
+a se lupta
+a se măsura
+a ridica mănuşa
+a rivaliza
+a tine piept
+
 balsam
-condoleanțe
+condoleante
 leac
 nădejde
 refugiu
 remediu
 resemnare
-speranță
-a afecta la
-a atribui
-a binecuvânta
-a se consacra
-a consfinți
-a se deda
-a dedica
-a destina
-a făgădui
-a hărăzi
-a hirotonisi
+speranţă
+
 advers
 antipod
 invers
@@ -2726,67 +3633,152 @@ retroactiv
 retrograd
 retrospectiv
 reversibil
-__v.__ cruzime
-dispreț
+
+a afecta la
+a atribui
+a binecuvânta
+a se consacra
+a consfinti
+a se deda
+a dedica
+a destina
+a făgădui
+a hårăzi
+a hirotonisi
+
+a abuza
+a se agita
+a se călăuzi
+a se cârmui
+a chefui
+a se comporta
+a se conduce
+a se deda
+a deprava
+
+V. dificultate
+
+dobitoc
+frică
+ignoranță
+
+adversar
+ardoare
+aienă
+campion
+
+V, cruzime
+
+dispret
 insensibil
 mizantropie
 mustrare
 a pedepsi
+
 a alunga
 
+§§----------------------------------------------------------------------
+
 36
-1
+
+- 37
+
 a tachina
 a tăgădui
-contradicțiune
+
+contradicţiune
 dezacord
 jalbă
-neînțelegere
+neînţelegere
 nepotrivire
 rezerve
+
 a anula
 a combate
 a contramanda
 a contrazice
-a desființa
+a desfiinţa
 a destitui
 a goni
-a împinge
+a impinge
 a se împotrivi
 a înlătura
 a isgoni
 a răspunde
-a reacționa
+a reacţiona
 a replica
 a respinge
 a retrimite
 a retroceda
 a revoca
+
 V aprobare
+
 ascultare
 a colabora
+
+cronologic
+jubiliar
+nou
+perioadă caldeeană
+perioadă dionisiană
+perioadă victoriană
+periodic
+preistoric
+prezent
+primitiv
+proaspăt
+recent
+secular
+simultan
+străvechiu
+timpuri biblice
+timpuri mitologice
+timpuri omerice
+
+a călca
+a capta
+a contraveni
+a denatura
+a destrăbăla
+a executa
+a doborî
+a falşifica
+a greşi
+a măslui
+a omorî
+a otrăvi
+a perverti
+a precugeta
+a premedita
+a pungăși
+a sechestra
+a silui
+a sparge
+a stoarce
+a strica
+a tăinui
+a trişa
+a ucide
+a viola
+
 CONVERSIUNE
+
 concurent
 conflict
-reacțiune
+reacţiune
 reflux
 repercusiune
 repulsiune
 reversiune
 reviriment
-a abjura
-a converti
-a se lepăda
-a părăsi
-a preschimba
-a renega
-a tăgădui
+
 derbedeu
 desfrânat
 destrăbălat
 dezordonat
 execrabil
-falș
+falş
 fioros
 grav
 groaznic
@@ -2796,14 +3788,14 @@ incorect
 infam
 infamant
 iremisibil
-mârșav
+mârşav
 monstruos
 nebun
 necinstit
 neglijent
 de neiertat
 nemernic
-nerușinat
+neruşinat
 nesocotit
 nevrednic
 odios
@@ -2829,88 +3821,23 @@ ucigător
 vagabond
 vinovat
 zăpăcit
-apostat
-apostazie
-neofit
-prozelit
-renunțare
-retractare
-__v.__ favoare
-îndatoritor
-A CONTRAZICE
-__v.__ statornic
-CRIMA
-a combate
-a contesta
-a exclude
-a se împotrivi
-a necăji
-a nega
-a obiecta
-a observa
-a opina
-a opune
-a pârî
-a preîntâmpina
-a prigoni
-a protesta
-a reclama
-a nu recunoaște
-a reproșa
-a șicana
-abominabil
-bandit
-blamabil
-blestemat
-brigand
-canalie
-capital
-certat cu justiția
-complice
-criminal
-crud
-crunt
-culpabil
-cumplit
-delictuos
-delicvent
-a asasina
-a atenta
 
-37
-a călca
-a capta
-a contraveni
-a denatura
-a destrăbăla
-a executa
-a doborî
-a falsifica
-a greși
-a măslui
-a omorî
-a otrăvi
-a perverti
-a precugeta
-a premedita
-a pungăși
-a sechestra
-a silui
-a sparge
-a stoarce
-a strica
-a tăinui
-a trișa
-a ucide
-a viola
+a abjura
+a converti
+a se lepăda
+a părăsi
+a preschimba
+a renega
+a tăgădui
+
 exces
 excroc
 fără de lege
 flagrant-delict
 fratricid
 furt
-furtișag
-gașcă
+furtişag
+gaşcă
 hot
 impostor
 înaltă trădare
@@ -2930,37 +3857,34 @@ potlogar
 prevaricator
 pruncucidere
 rătăcire
-- rău făcător
+rău făcător
 recidivist
 sacrilegiu
-șantajist
-șarlatan
+şantajist
+"şarlatan
 sfeterisire
 simonie
-șnapan
+snapan
 tâlhar
-ucigaș
-cronologic
-jubiliar
-nou
-perioadă caldeeană
-perioadă dionisiană
-perioadă victoriană
-periodic
-preistoric
-prezent
-primitiv
-proaspăt
-recent
-secular
-simultan
-străvechiu
-timpuri biblice
-timpuri mitologice
-timpuri omerice
+ucigaş
+
 a antidata
 a data
 a postdata
+
+apostat
+apostazie
+neofit
+prozelit
+renunţare
+retractare
+
+V. favoare
+
+îndatoritor
+
+A CONTRAZICE
+
 anale
 anacronism
 aniversare
@@ -2971,18 +3895,61 @@ epocă
 interregn
 jubileu
 milezim
-scadență
+scadenţă
 termen
+
+V. statornic
+
+CRIMA
+
 CRUZIME
+
+a combate
+a contesta
+a exclude
+a se împotrivi
+a necăji
+a nega
+a obiecta
+a observa
+a opina
+a opune
+a pârî
+a preîntâmpina
+a prigoni
+a protesta
+a reclama
+a nu recunoaşte
+a reproşa
+a şicana
+
+abominabil
+bandit
+blamabil
+blestemat
+brigand
+canalie
+capital
+certat cu justiția
+complice
+criminal
+crud
+crunt
+culpabil
+cumplit
+delictuos
+delicvent
+
 abuz de încredere
 adulter
 atentator
 bandit
 brigand
-boroboață
+boroboaţă
 canalie
 cazier judiciar
-circumstanțe ate-
+circumstanţe ate-
+
 nuante
 clică
 complice
@@ -2991,20 +3958,23 @@ conivență
 contrabandă
 contrabandist
 contravenient
-contravenție
+contravenţie
 corp delict
 delicvent
 desfrâu
 dol
 efracție
 escapadă
-exacțiune
-__v.__ milă
+exacţiune
+
+V. milă
+
 nevinovat
 onest
 permis
 a proteja
 slab
+
 absolut
 acerb
 aspru
@@ -3018,34 +3988,71 @@ cumplit
 denaturat
 despot
 fanatic
+
 CRONOLOGIE
+
+a asasina
+a atenta
+
 actual
 antic
 antidiluvian
 contemporan
 
-- 38
+§§----------------------------------------------------------------------
+
+- 38 -
+
+39
+
 tigru
+
 don Quijote
-bărbăție
-forță
+bărbăţie
+forţă
 inimă
 sânge rece
-__v.__ afabil
+
+DAR
+
+V. afabil
+
 bunătate
 a ierta
 a iubi
 milă
 remușcare
+
+neologic
+oral
+ortografic
+pejorativ
+technic
+univoc
+verbal
+
+sinonimie
+solecisme
+sufix
+termen
+terminologie
+vocabular
+
 CURAJ
-__v.__ disperare
+
+V. disperare
+
 a ezita
 frică
 slab
-prudență
+prudenţă
 timid
 tremurătură
-CURIOS
+
+D
+
+A DA
+
 feroce
 furios
 grozav
@@ -3060,7 +4067,7 @@ neîmpăcat
 neîndurat
 nemilos
 neomenos
-nesimțitor
+nesimţitor
 neuman
 odios
 rigid
@@ -3068,21 +4075,35 @@ riguros
 sălbatec
 sângeros
 sec
-sevei
-strașnic
+seves
+straşnic
 surd
 tăios
-țeapăn
+teapin
 tiran
 turbat
 ulsuz
 uscat
 violent
+
+a altera
+a articula
+a corupe
+i denumi
+a numi
+a porecli
+a se uzita
+a vorbi
+a zice
+
+CURIOS
+
 anormal
 ciudat
 indiscret
 insolit
 rar
+
 arzător
 aventuros
 bătăios
@@ -3101,16 +4122,17 @@ inimos
 marțial
 nechibzuit
 neîmblânzit
-prezumțios
+prezumţios
 puternic
 războinic
 semet
 svăpăiat
-tarc
+taro
 temerar
 valoros
 viteaz
 voinic
+
 a ancheta
 a căuta
 a cerceta
@@ -3124,73 +4146,67 @@ a pândi
 a scormoni
 a scotoci
 a scruta
-a bruftului
-a brutaliza
-a căzni
-a chinui
-a jicni
-a maltrata
-a martiriza
-a ocărî
-a schingiui
-a teroriza
-a tortura
-a vexa
-eclerori
-inchizitor
-pândar
-spion
-V, banal
-liniștit
-a clocoti
-a cuteza
-a desfide
-a se încumeta
-a îndrăzni
-a înfrunta
-a se îngâmfa
-a se lăuda
-a lupta
-CUVÂNT
-bestie
-călău
-gâde
-șacal
-satrap
-declinabil
-diminutiv
-echivoc
-invariabil
-morfologic
-ardoare
 
-39
--
-DAR
-neologic
-oral
-ortografic
-pejorativ
-technic
-univoc
-verbal
-sinonimie
-solecisme
-sufix
-termen
-terminologie
-vocabular
-- D -
-A DA
-a altera
-a articula
-a corupe
-a denumi
-a numi
-a porecli
-a se uzita
-a vorbi
-a zice
+binefăcător
+binevoitor
+darnic
+generos
+indatoritor
+larg
+mărinimos
+risipitor
+ajutor
+amabilitate
+amintire
+asistenţă
+avantaj
+bacşiş
+binefacere
+cadou
+cesiune
+danie
+donatar
+donator
+donație
+filantrop
+fraternitate
+generozitate
+liberalitate
+milostenie
+munificenţă
+obol
+politeță
+pomană
+prinos
+subscripţie
+umanitate
+
+a abandona
+a acorda
+a ajuta
+a atribui
+d ceda
+a conferi
+a dărui
+a decerne
+a dispensa
+a distribui
+a ierta
+a îmbuiba
+a împărţi
+a oferi
+a plăti
+a preda
+a procura
+
+remite
+n remunera
+a restitui
+a retroceda
+a risipi
+a transmite
+a transfera
+
 afereză
 anagramă
 antonim
@@ -3199,7 +4215,7 @@ apocopă
 arhaism
 barbarisme
 crază
-dicționar
+dictionar
 elipsă
 eliziune
 epenteză
@@ -3223,97 +4239,98 @@ rădăcină
 radical
 semnificație
 sens
-a abandona
-a acorda
-a ajuta
-a atribui
-ä сeda
-à conferi
-a dărui
-a decerne
-a dispensa
-a distribui
-a ierta
-a îmbuiba
-a împărți
-a oferi
-a plăti
-a preda
-a procura
-a remite
-a remunera
-a restitui
-a retroceda
-a risipi
-a transmite
-a transfera
-binefăcător
-binevoitor
-darnic
-generos
-îndatoritor
-larg
-mărinimos
-risipitor
-ajutor
-amabilitate
-amintire
-asistență
-avantaj
-bacșiș
-binefacere
-cadou
-cesiune
-danie
-donatar
-donator
-donație
-filantrop
-fraternitate
-generozitate
-liberalitate
-milostenie
-munificență
-obol
-politeță
-pomană
-prinos
-subscripție
-umanitate
+sinonim
+
+a bruftului
+a brutaliza
+a căzni
+a chinui
+a jicni
+a maltrata
+a martiriza
+a ocări
+a schingiui
+a teroriza
+a tortura
+a vexa
+
 DEFECT
+
+eclerori
+inchizitor
+pândar
+spion
+
+V. banal
+
+liniştit
+
+a clocoti
+a cuteza
+a desfide
+a se incumeta
+a îndrăzni
+a înfrunta
+a se îngâmfa
+a se lăuda
+a lupta
+
 alocare
-atribuție
+atribuţie
 cesiune
 concesiune
 dar
 generozitate
 gratificație
-remunerație
+remuneratie
 subvenție
 transfer
+
 absurd
 abuziv
 ambițios
 avar
 avortat
 becisnic
-bețiv
+betiv
 brusc
 brut
 capricios
 ciudat
-de copilăros
+copilăros
 defectuos
-sinonim
-__v.__ avar
+
+CUVANT
+
+bestie
+călău
+gâde
+şacal
+satrap
+
+declinabil
+diminutiv
+echivoc
+invariabil
+morfologic
+
+V. avar
+
 avid
 a cere
 
-40 –
+ardoare
+
+§§----------------------------------------------------------------------
+
+40
+
+- 41
+
 orgolios
 păcătos
 pătat
-pătimaș
+pătimaş
 periculos
 pocit
 posac
@@ -3331,17 +4348,18 @@ slut
 stângaciu
 stricat
 trandav
-trufaș
+trufaş
 turbulent
-ușuratic
+uşuratic
 urât
-i violent
+violent
 viciat
 vinovat
 vitios
+
 natură
 neorândueli
-nerecunoștință
+nerecunoştinţă
 obiceiuri
 piedică
 pizmă
@@ -3351,115 +4369,10 @@ răutate
 râvnă
 silă
 slăbiciune
-șnapan
-tendință
+şnapan
+tendinţă
 zeflemea
-__v.__ calitate
-desfigurat
-deteriorat
-dezagreabil
-diform
-dobitoc
-egoist
-elementar
-excesiv
-fals
-fățarnic
-flecar
-furios
-greșit
-grosolan
-îmbuibat
-imperfect
-încăpățânat
-închipuit
-incomod
-incorect
-indiscret
-inferior
-ingrat
-invidios
-ipocrit
-lacom
-las
-lenes
-lingușitor
-mâncăcios
-mândru
-mediocru
-mijlociu
-mincinos
-misel
-moale
-mojic
-morocănos
-neastâmpărat
-nebun
-necinstit
-necomplect
-necuvincios
-neînsemnat
-neisprăvit
-neizbutit
-neplăcut
-nepoliticos
-nereușit
-nerușinat
-obraznic
-A DESCHIDE
-adevărat
-cordial
-drept
-franc
-inițial
-loial
-sincer
-abuz
-apatie
-apucături
-bârfeală
-batjocură
-curiozitate
-cusur
-dâră
-deșertăciune
-dezavantaj
-dispreț
-drăcovenie
-exces
-excroc
-Ezitare
-iluzie
-inconvenient
-înșelăciune
-insuficiență
-lipsă
-meteahnă
-a căsca
-a da cep
-a degaja
-a demasca
-a desbrăca
-a descătărăma
-a descheia
-a descoperi
-a descopcia
-a descuia
-a descurca
-a deșerta
-a desface
-a desfășa
-a desfășura
-a desgrădi
-a deslega
-a deslipi
-a desnoda
-a despacheta
-a despica
-a despuia
-a destupa
 
-41
 a desvolta
 a forta
 a făuri
@@ -3481,18 +4394,73 @@ a sgâi
 a spinteca
 a străbate
 a străpunge
+
+V. calitate
+
+desfigurat
+deteriorat
+dezagreabil
+diform
+dobitoc
+egoist
+elementar
+excesiv
+fals
+făţarnic
+flecar
+furios
+greşit
+grosolan
+îmbuibat
+imperfect
+încăpățânat
+închipuit
+incomod
+incorect
+indiscret
+inferior
+ingrat
+invidios
+ipocrit
+lacom
+laş
+lenes
+linguşitor
+mâncăcios
+mândru
+mediocru
+mijlociu
+mincinos
+misel
+moale
+mojic
+morocă nos
+neastâmpărat
+nebun
+necinstit
+necomplect
+necuvincios
+neînsemnat
+neisprăvit
+neizbutit
+neplăcut
+nepoliticos
+nereuşit
+neruşinat
+obraznic
+
 început
 interstițiu
 interval
-lărgime
-naștere
+làrgime
+naştere
 ochiu
 orificiu
 origine
 pâlnie
 pasaj
 pervaz
-peșteră
+peşteră
 prag
 preliminări
 preludiu
@@ -3500,11 +4468,11 @@ premisă
 principiu
 răsuflătoare
 sabord
-șant
-separație
+şanţ
+separaţie
 scobitură
 spărtură
-știrbitură
+ştirbitură
 strecurătoare
 stropitoare
 supapă
@@ -3516,34 +4484,19 @@ valvă
 vedere
 vrană
 vid
-abis
-anus
-arcadă
-boltă
-bresă
-butonieră
-cavernă
-comunicație
-coridor
-crater
-crenel
-crestătură
-culoar
-debut
-defileu
-degajament
-deschidere
-eșire
-excavație
-fereastră
-filtru
-frântură
-gaură
-germen
-golf
-groapă
-gură
-imbucătură
+
+А
+
+DESCHIDE
+
+adevărat
+cordial
+drept
+franc
+initial
+loial
+sincer
+
 a descompune
 a desființa
 a deslega
@@ -3556,11 +4509,11 @@ a disloca
 a distruge
 a dizolva
 a doborî
-à elimina
+a elimina
 a extirpa
 a frânge
-a împrăștia
-à îndepărta
+a împrăştia
+a îndepărta
 a infirma
 a înlătura
 a invalida
@@ -3595,78 +4548,191 @@ a separa
 a sgâria
 a sparge
 a spulbera
+
+abis
+anus
+arcadă
+boltă
+breşă
+butonieră
+cavernă
+comunicație
+coridor
+crater
+crenel
+crestătură
+culoar
+debut
+defileu
+degajament
+deschidere
+eşire
+excavație
+fereastră
+filtru
+frântură
+gaură
+germen
+golf
+groapă
+gură
+îmbucătură
+inaugurare
+
+abuz
+apatie
+apucături
+bârfeală
+batjocură
+curiozitate
+cusur
+dâră
+deşertăciune
+dezavantaj
+dispret
+drăcovenie
+exces
+excroc
+ezitare
+iluzie
+inconvenient
+înşelăciune
+insuficientă
+lipsă
+meteahna
+
 A DESFACE
+
+a căsca
+a da cep
+a degaja
+a demasca
+a desbrăca
+a descătărăma
+a descheia
+a descoperi
+a descopcia
+a descuia
+a descurca
+a deşerta
+a desface
+a desfăşa
+a desfăşura
+a desgrădi
+a deslega
+a deslipi
+a desnoda
+a despacheta
+a despica
+a despuia
+a destupa
+
 a aboli
 a abroga
 a anihila
 a anula
 a conjura
-a consuma
+
+consuma
 a contramanda
 a da afară
 a dărâma
 a decima
 a dejuca
-a demasca
+a àemasca
 a deschide
-inaugurare
+
+§§----------------------------------------------------------------------
 
 42
+
+43
+
 a stârpi
-a șterge
+a şterge
 a strica
 a suprima
 a zădărnici
-vecumpătare
+
+necumpătare
 orgie
 petreceri
-pușlama
+puşlama
 seducător
 strengar
-vițiu
+vitiu
+
 a descuraja
 a desgusta
 a enerva
 a se împotrivi
 a plictisi
 a revolta
+
+lecţie
+morală
+pamflet
+reclamatie
+satiră
+scenă
+ură
+
 a uri
-__v.__ asociat
+
+V. asociat
+
 a împreuna
 întreg
 uniune
-__v.__ auster
-îngrijit
-înțelept
-măsură
-moderat
-nevinovat
-pocăință
-pudoare
-serios
+
 anorexie
 aversiune
 oroare
 repulsiune
 saturație
 scârbă
+
+V. auster
+
+îngrijit
+înţelept
+măsură
+moderat
+nevinovat
+pocăinţă
+pudoare
+serios
+
 DESFRAU
+
+V. admirație
+
+aprobare
+ascultare
+a repeta
+
+DEZORDINE
+
 DESGUST
-__v.__ a atrage
-dorință
+
+V. a atrage
+
+dorinţă
 interesant
 invidie
 ispită
-a luădla
+a luăda
 neplăcut
+
 DESMIERDARE
+
 ademenitor
 adulter
 cinic
 corupt
 depravat
 desfrânat
-desmățat
+desmătat
 destrăbălat
 dezonorat
 dizolvant
@@ -3676,7 +4742,7 @@ indecent
 libertin
 licențios
 neînfrânat
-nerușinat
+neruşinat
 obscen
 pervers
 pervertit
@@ -3685,6 +4751,7 @@ sensual
 stricat
 trupesc
 voluptos
+
 anost
 antipatic
 arid
@@ -3698,7 +4765,7 @@ greu
 insipid
 insuportabil
 intolerabil
-mârșav
+mârşav
 monoton
 mortal
 neplăcut
@@ -3706,185 +4773,287 @@ nerod
 nesărat
 nesuferit
 obositor
-blând
-complezant
-drăgăstos
-gingaș
-îndatoritor
-mieros
-prevenitor
-răsfățat
-serviabil
-a risipi
-a strica
-a alinta
-a desfăta
-a desmierda
-a giugiuli
-a îmbrățișa
-a linguși
-a măguli
-a mângâia
-a râsgăi
-a săruta.
-abuz
-chefuri
-corupție
-curtezană
-descompunere
-dezordine
-escapadă
-exces
-mesalină
 odios
 respingător
-searbăd
+searbåd
 supărător
 ucigător
 urât
 uscat
-amabilitate
-atențiune
-duioșie
-gentiletă
-pisică
-a agasa
-a contraria
-43
+
+blând
+complezant
+drăgăstos
+gingas
+îndatoritor
+mieros
+prevenitor
+răsfăţat
+serviabil
+
 voluptate
-3
+
 a se jertfi
-lecție
-a se sacrifica morală
-__v.__ cruzime
-pamflet
+
+a se sacrifica
+V. cruzime
 grosolan
-abnegațiune
-reclamație
+
+abnegatiune
 mânie
-imolațiune
-satiră
+
+imolaţiune
 mustrare
+
 olocaust
-scenă
 satiră
 ură
-ură
-Ti avar
+
+1. avar
+
 fals
-__v.__ admirație
-DESPERARE a înșela
-aprobare
+DESPERARR a înşela
+
 ipocrizie
-ascultare
-a copleși
+a copleşi
+
 a părăsi
-a repeta
-a decepționa
-schimbător
+a deceptiona
+
+schimbator
 a demoraliza
-DEZORDINE
 a descuraja
-DEZAPROBARE
+
+DEZAPROBARS
 a desmetici
-anarhic
 a dezamăgi
+
 a acuza
-ánormal
-a doborî
+a dobori
+
 a afurisi
-simetric
+
 a ataca
-cacofonic
 abătut
+
 a bârfi
-complicat
 amărît
+
 a batjocori
-confuz
 desperat
+
 a blama
-desperechiat
 dezolat
+
 a cenzura
-dezordonat
 mâhnit
+
 a cleveti
-aifuz
 inconsolabil
+
 a condamna
-discordant
 trist
+
 a contesta
-amestecat
+
 a critica
-disparat
 consternare
+
 a defăima
-disproportionat
 desnădejde
+
 a dezaproba
-divergent
 deziluzie
+
 a difama
-gălăgios
 doliu
-a disprețui
-haotic
+
+a dispreţui
 necazuri
+
 a dojeni
-încâlcit
 prostrație
+
 a imputa
-incoherent
-a nu încuviința inextricabil
-__v.__ consolare
+
+a nu încuviinţa
+V. consolare
+
 a mustra
-nearmonios
 curaj
-a persifla
-nepotrivit
-entuziasm
-a ponegri
-nergulat
+
+a persifia
+entuziasm a ponegri
 fericire
+
 a reproba
-sbârlit
 veselie
-a reproșa
-sgomotos
+
+a reproşa
+
 a revolta
-stricat
 DEVOTAMENT a tăgădui
-svăpăiat
+
 a veșteji
-turbulent
 constant
+
 a zeflemisi
-turburat
 credincios
-turbure
 devotat
+
 admonestare
-vijelios
 dezinteresat
+
 anatemă
 fidel
-bătaie de joc a agita
+
+bătaie de joc
 statornic
+
 contrazicere
-a se agita
+
 diatribă
-a buimăci
 a se consacra
+
 hulă
-a se certa
-a ispăși
+a ispăşi
+
 îmbufnare
+
+anarhic
+anormal
+simetric
+cacofonic
+complicat
+confuz
+desperechiat
+dezordonat
+aifuz
+discordant
+amestecat
+disparat
+disproporționat
+divergent
+gålägios
+haotic
+încâlcit
+incoherent
+inextricabil
+nearmonios
+nepotrivit
+mergulat
+sbârlit
+sgomotos
+stricat
+svăpăiat
+turbulent
+turburat
+turbure
+vijelios
+
+a risipi
+a strica
+
+a alinta
+a desfăta
+a desmierda
+a giugiuli
+a îmbrăţişa
+a linguşi
+a måguli
+a mângâia
+a rásgái
+a săruta.
+
+abuz
+chefuri
+corupție
+curtezana
+riescompunere
+dezordine
+escapadă
+exces
+mesalină
+
+amabilitate
+atențiune
+duiosie
+gentiletă
+pisică
+
+a agita
+a se agita
+a buimăci
+a se certa
 a se ciufuli
 
-44
-DIFICULTATY
+a agasa
+a contraria
+
+§§----------------------------------------------------------------------
+
+- 44
+
+45
+
+DIFICULTATE
+
+suferinţă
+
+a se sfriji
+a strâmba
+a stropşi
+
+V. lesne
+
+simplu
+succes
+plăcere
+plăcut
+
+DIFORM
+
+discordie
+discuție
+ferment de
+
+discordie
+gâlceavă
+galimatie
+gloată
+havră
+imbroglio
+învălmășală
+iureş
+mărul discordiei
+neorânduială
+nepotrivire
+proces
+promiscuitate
+risipă
+talmeş-balmes
+tămbălău
+tărăboiu
+târg
+turnul lui Babel
+zizanie
+
+aiid
+anevoios
+b, complex
+delicat
+dificil
+greu
+încâlcit
+întortochiat
+inextricabil
+indescifrabil
+incomod
+laborios
+neplăcut
+penibil
+spinos
+
 a se confunda
 a deranja
 a desbate
@@ -3899,7 +5068,7 @@ a doborî
 a frământa
 a încâlci
 a încurca
-a nu se înțelege
+a nu se întelege
 a învrăjbi
 a lupta
 a nimici
@@ -3915,145 +5084,27 @@ a se sbate
 a sdruncina
 a se sfădi
 a sfărâma
-a șicana
+a şicana
 a sparge
-a turbura
+a tur bura
 a ului
 a zăpăci
-discordie
-discuție
-ferment de
-discordie
-gâlceavă
-galimatie
-gioată
-havră
-imbroglio
-învălmășală
-iures
-mărul discordiei
-neorânduială
-nepotrivire
-proces
-promiscuitate
-risipă
-ialmeș-balmes
-tămbălău
-tărăboiu
-târg
-turnul lui Babel
-zizanie
-arid
-anevoios
-complex
-delicat
-dificil
-greu
-încâlcit
-întortochiat
-inextricabil
-indescifrabil
-incomod
-laborios
-neplăcut
-penibil
-spinos
-a complica
-a hărțui
-a se împotrivi
-a încolți
-a încurca
-a înfrânge
-a nu izbuti
-__v.__ armonie
-îngrijit
-ordine
-scrupul
-DIAVOL
-diabolic
-drăcesc
-îndrăcit
-infernal
-nelegiuit
-satanic
-a conjura
-a exorciza
-altercație
-amestec
-arababură
-babilonie
-buimăceală
-capriciu
-cataclism
-ciocnire
-conflict
-controversă
-deavalma
-debandadă
-desfrâu.
-dezacord
-diferend
-belea
-bocluc
-chestiune
-chichiță
-chin
-corvadă
-criză
-dedal
-dilemă
-efort
-eșec
-impas
-inconvenient
-labirint
-obstacol
-recaz
-nedumerire
-neînțelegere
-nereușită
-obiecțiune
-opunere
-piedică
-plictiseală
-problemă
-rebus
-Belzebut
-iad
-Impelițatul
-infern
-Mefistofele
-Michiduță
-Necuratul
-Nichipercea
-Satana
-Sarsailă
 
-45
-suferință
-a se sfriji
-a strâmba
-a stropși
-__v.__ lesne
-simplu
-succes
-plăcere
-plăcut
-DIFORM
 căpcăun
 caricatură
 dihanie
 fenomen
 lepădătură
-niaimuță
+maimuță
 pigmeu
 pocitanie
 stârpitură
 strigoiu
 tortură
 vampir
+
 a se izbi
-a liniști
+a linişti
 a lupta
 a mijloci
 a necăji
@@ -4063,31 +5114,49 @@ a nu se potrivi
 a prigoni
 a provoca
 a se război
-a nu recunoaște
+a nu recunoaşte
 a rivaliza
 a se sfădi
 a sfida
-a șicana
+a şicana
 a soma
 a stinge
 a se strădui
 a tăgădui
-__v.__ armonie
+
+V. armonie
+
 frumos
 ornament
-proporție
+proporţie
+
+a complica
+a hărţui
+a se împotrivi
+a încolți
+a încurca
+a înfrânge
+a nu izbuti
+
 DISCUȚIE
+
+V. armonie
+
+îngrijit
+ordine
+scrupul
+
 baroc
 bizar
 caraghios
 chinuit
 chior
 ciudat
-cocoșat
+cocoşat
 cumplit
 de râs
-disgratios
-disproportionat
+disgrațios
+disproporţionat
 ghebos
 groaznic
 grotesc
@@ -4108,17 +5177,19 @@ schiop
 slut
 strâmb
 sucit
-urât
+urat
+
 arțăgos
-certăreț
-Chițibușar
+certåret
+chitibuşar
 disident
 inconsecvent
 limbut
-pisălog
+pisålog
 sfătos
+
 afacere
-altercație
+altercaţie
 chestie
 chichiță
 conflict
@@ -4130,37 +5201,108 @@ dispută
 explicație
 gâlceavă
 litigiu
-neînțelegere
+neînţelegere
 pricină
 proces
-__v.__ instinct
+
+DIAVOL
+
+diabolic
+drăcesc
+indrăcit
+infernal
+nelegiuit
+satanic
+
+V. instinct
+
+o conjura
+a exorciza
+
+belea
+bocluc
+chestiune
+chichiţă
+chin
+corvadă
+criză
+dedal
+dilema
+efort
+esec
+impas
+inconvenient
+labirint
+obstacol
+recaz
+nedumerire
+neintelegere
+nereuşită
+obiectiune
+opunere
+piedică
+plictiseala
+problema
+rebus
+
+altercaţie
+amestec
+arababură
+babilonie
+buimăceală
+capriciu
+cataclism
+ciocnire
+conflict
+controversă
+deavalma
+debandada
+desfrâu
+dezacord
+diferend
+
 DISPRET
+
+Pelzebut
+iad
+Impelitatul
+infern
+Mefistofele
+Michiduta
+Necuratul
+Nichipercea
+Satana
+Sarsaila
+
 a adormi
 a apostrofa
-a ațâța
+a atata
 a calma
 a se certa
 a cerceta
 a cicăli
-a se ciorovăi
+a se ciorovi
 a contesta
 a se deosebi
 a desbate
 a discuta
 a epiloga
-a hărțui
-a înăbuși
+a hårtui
+a înăbuşi
 a interpela
 a se interpune
 a interveni
+
 a ciunti
 a contraface
-a deforma
+
+deforma
 a desfigura
 a falsifica
 a se sbârci
 a schimonosi
 a se scoroji
+
 abject
 anost
 bădăran
@@ -4171,13 +5313,20 @@ desfrânat
 grosolan
 ignobil
 
--
-46
-1
-a dezarticula
+§§----------------------------------------------------------------------
+
+- 46
+
+- 47
+
+trib
+
+ură
+varietate
+
 a păta
 a persifla
-2 râde
+a râde
 a scandaliza
 a scoborî
 a stigmatiza
@@ -4185,21 +5334,42 @@ a se târî
 a se tăvăli
 a umili
 a veșteji
-a dezuni
-a difuza
-a disjunge
-a disloca
-a distinge
-a dizolva
-a dumica
-a fărămita
-a fractiona
+
+oaie
+papă-lapte
+stupiditate
+vită
+
+pasiune
+pornire
+râvnă
+saturație
+tendinţă
+toană
+trebuinţă
+voinţă
+urări
+
+V. adunare
+
+a împreuna
+legătură
+uniune
+
+V. inteligent
+
+a judeca
+a raționa
+spirit
+
+DOBITOC
+
 infam
 infamant
-ireverențios
+ireverenţios
 josnic
 malitios
-mârșav
+mârşav
 misel
 mizerabil
 mojic
@@ -4208,16 +5378,16 @@ necinstit
 necuvincios
 nedemn
 nemernic
-nerusinat
+neruşinat
 nevrednic
 odios
 ordinar
 paria
 profan
 pungas
-pușlama
+puşlama
 răutăcios
-rușinos
+ruşinos
 scandalos
 scârbos
 scârnav
@@ -4226,7 +5396,35 @@ servil
 slugarnic
 sordid
 ticălos
-blestemăție
+
+DORINTA
+
+a dezarticula
+a dezuni
+a difuza
+a disjunge
+a disloca
+a distinge
+a dizolva
+a dumica
+a fărămița
+a fracţiona
+a fractura
+a împărţi
+a împrăştia
+a presăra
+a ramifica
+a răspândi
+a repartiza
+a risipi
+a separa
+a sectiona
+a scinda
+a sfărâma
+a subdiviza
+a tăia
+
+blestemăţie
 canalie
 dezaprobare
 haimana
@@ -4237,142 +5435,50 @@ mitocan
 mocirlă
 noroiu
 ocară
-rușinc
+ruşinc
 secătură
 topârlan
 turpitudine
 zeflemea
-a fractura
-a împărți
-a împrăștia
-a presăra
-a ramifica
-a răspândi
-a repartiza
-a risipi
-a separa
-a sectiona
-a scinda
-2, sfărâma
-a subdiviza
-a tăia
-__v.__ admirație
-a atrage
-dorință
-favoare
-a iubi
-a lăuda
-respect
-animozitate
-antipatie
-clasă
-categorie
-cotă
-bifurcatic
-dedublare
-cispersiune
-divergență
-diviziune
-familie
-gen
-grup
-lot
-neînțelegere
-ordin
-parcelă
-partaj
-porțiune
-rang
-ramificație
-rasă
-a batjocori
-a blestema
-a cleveti
-a decădea
-a degrada
-a descalifica
-a desconsidera
-a desfrâna
-a dezonora
-a disprețui
-a huidui
-a înfiera
-a se înhăita
-a înjosi
-a mânji
-a murdări
-a nesocoti
-a ocări
-DIVIDE
-a analiza
-a clasa
-a ciopârți
-a crăpa
-a debita
-a descompune
-a desface
-a deșira
-a desmembra
-a despărți
-a detaila
-a detașa
-a dezagrega
-repartiție
-schismă
-sciziparitate
-sciziune
 
-47
-trib
-ură
-varietate
-oaie
-papă-lapte
-stupiditate
-vită
-V adunare
-a împreuna
-legătură
-uniune
-pasiune
-pornire
-râvnă
-saturatie
-tendință
-toană
-trebuință
-voință
-urări
-__v.__ inteligent
-a judeca
-a raționa
-spirit
-DOBITOC
-DORINTA
-__v.__ consolare
+V. consolare
+
 desgust
 dispret
 nu
-liniștit
+liniştit
 a părăsi
 ură
+
 ahtiat
 arzător
 avid
 capricios
 curios
-infocat
+înfocat
 invidios
 lacom
 nebun
-liesățios
-pàtimas
+Besățios
+påtimas
 setos
-Vorace
+vorace
+
 A. DUCE
+
 portabil
 portativ
 transportabil
+
+V. admirație
+
+a atrage
+dorinţă
+favoare
+a iubi
+a lăuda
+respect
+
 absurd
 abrutizat
 ageamiu
@@ -4385,10 +5491,12 @@ găgăuță
 gogoman
 idiot
 imbecil
-îngust la minte
+îngust la
+
+minte
 inocent
 mărginit
-naiv
+naiy
 nătăflet
 nătâng
 nătărău
@@ -4403,9 +5511,10 @@ prost
 prostănac
 prostut
 pueril
-sărac cu duhul
+sărac си) duhul
 simplu
 tâmpit
+
 a ambiționa
 a aspira
 a cere
@@ -4418,7 +5527,58 @@ a potoli
 a pretinde
 à râvni
 a se sătura
-à urmări
+a urmări
+
+A
+
+DIVIDE
+
+animozitate
+antipatie
+clasă
+categorie
+cotă
+bifurcafic
+dedublare
+cispersiune
+divergenţă
+diviziune
+familie
+gen
+grup
+lot
+neîntelegere
+ordin
+parcela
+partaj
+portiune
+rang
+ramificatie
+rosa
+1epartitie
+schismă
+sciziparitate
+Eciziune
+
+a batjocori
+a blestema
+a cleveti
+a decădea
+a degrada
+a descalifica
+a desconsidera
+a desfrâna
+a dezonora
+a dispreţui
+a huidui
+a înfiera
+a se înhăita
+a înjosi
+a mânji
+a murdări
+a nesocoti
+a ocări
+
 a aduce
 a colporta
 a comanda
@@ -4446,13 +5606,29 @@ a sustine
 a târî
 a transborda
 a transfera
+
+a analiza
+a clasa
+a ciopârti
+a crăpa
+a debita
+a descompune
+a desface
+a desira
+a desmembra
+a despărţi
+a detaila
+a detaşa
+a dezagrega
+
 bou
 cretin
 gâscă
 inanitate
-inepție
+ineptie
 insanitate
-cerință
+
+cerinţă
 ciudă
 cupiditate
 deziderat
@@ -4464,23 +5640,49 @@ marotă
 năzbâtie
 nevoie
 
-48
+down the
+
+§§----------------------------------------------------------------------
+
+- 48
+
+- 49
+
 a transporta
+
 a subzista
 a urma
+
+ENTUZIASM
+
+EVENIMENT
+
 epocă
 eră
-existență
+existenţă
 interregn
 interval
 timp
-viață
+viaţă
+
+criză
+iad
+jale
+junghiu
+martir
+niucenic
+obidă
+paroxism
+supliciu
+tristețe
+victimă
+
 aport
 cârmaciu
 Cicerone
 comisionar
 conductor
-direcție
+directie
 directive
 factor
 firul Arianei
@@ -4498,23 +5700,63 @@ sarcină
 strategie
 suport
 tactică
-__v.__ capriciu
+
+arzător
+epic
+exaltat
+fanatic
+ſervent
+ſienetic
+iluminat
+înflăcărat
+infocat
+inspirat
+liric
+mnistic
+pasionat
+vehement
+
+accidental
+actual
+aleatoriu
+anecdotic
+catastrofal
+contingent
+eventual
+întâmplător
+neaşteptat
+nenorocit
+nestatornic
+posibil
+probabil
+
+V. capriciu
+
 schimbător
-substanță
+substanţă
+
+V. insensibil
+
+plăcere
+veselie
+
 DURERE
+
+E-
+
 îndelungat
 indisolubil
 instantaneu
-interminabil
+interminabi)
 inuzabil
 învechit
-învederat
+în vederat
 momentan
 neclintit
 necurmat
-nehotarît
+nehotărît
 neîntrerupt
-nemișcat
+nemişcat
 nemuritor
 neperitor
 neschimbăcios
@@ -4532,13 +5774,24 @@ provizoriu
 scurt
 solid
 statornic
-șubred
+şubred
 temporar
 tenace
 trainic
-veșnic
+veşnic
 vivace
 vremelnic
+
+ELOCVENTA
+
+a brodi
+a se desfăşura
+a se îndeplini
+a se înlănţui
+a păţi
+a se potrivi
+a se prezenta
+
 acut
 amar
 ascuțit
@@ -4555,8 +5808,41 @@ răbdător
 surd
 violent
 viu
-__v.__ inacțiune
+
+limbut
+mişcător
+patetic
+retoric
+volubil
+
+a aiuri
+a ameţi
+a antrena
+a aprinde
+a se extazia
+a fermeca
+a îmbăta
+a încânta
+i insufla
+a însufleţi
+a răpi
+a slăvi
+a surexcita
+a târî
+a transporta
+
+V. inacţiune
+
 DURATA
+
+a convinge
+a declania
+a emoționa
+a improviza
+a îndupleca
+a înflăcăra
+a vorbi
+
 asiduu
 caduc
 constant
@@ -4567,166 +5853,31 @@ durabil
 efemer
 etern
 ferm
-fix
-fragil
-fugitiv
-hotărîtor
-imanent
-imortal
-imprescriptibil
-immuabil
-inalterabil
-indefectibil
-indefinit
-a consolida
-a continua
-a curma
-a epuiza
-a insista
-a întrerupe
-a pieri
-a prelungi
-a rămâne
-a seca
-a sfârși
-a slei
-a stinge
+
 a chinui
 a indispune
-a neliniști
-a riemulțumi
+a nelinişti
+a nemultumi
 a schingiui
-a sfâșia
+a sfâşia
 a smuci
 a strâmba
 a suferi
 a tortura
 a turba
 a ustura
-acces
-amărăciune
-calvar
-contorsiune
 
-49
-ENTUZIASM
-EVENIMENT
-criză
-iad
-jale
-junghiu
-martir
-niucenic
-obidă
-paroxism
-supliciu
-tristețe
-victimă
-arzător
-epic
-exaltat
-fanatic
-ſervent
-frenetic
-iluminat
-inflăcărat
-infocat
-inspirat
-liric
-mnistic
-pasionat
-vehement
-accidental
-actual
-aleatoriu
-anecdotic
-catastrofal
-contingent
-eventual
-întâmplător
-neașteptat
-nenorocit
-nestatornic
-posibil
-probabil
-__v.__ insensibil
-plăcere
-veselie
-RP
-E-
-ELOCVENȚA
-a brodi
-a se desfășura
-a se îndeplini
-a se înlănțui
-a păți
-a se potrivi
-a se prezenta
-limbut
-mișcător
-patetic
-retoric
-volubil
-a aiuri
-a ameți
-a antrena
-a aprinde
-a se extazia
-a fermeca
-a îmbăta
-a încânta
-i insufla
-a însufleți
-a răpi
-a slăvi
-a surexcita
-a târî
-a transporta
-a convinge
-a declania
-a emoționa
-a improviza
-a îndupleca
-a înflăcăra
-a vorbi
-aticism
-bară
-barou
-dicțiune
-discurs
-discuție
-disertație
-elocuțiune
-orator
-patos
-persuasiune
-poliloghie
-tiradă
-tribună
-vervă
-vorbărie
-admirație
-adorare
-ardoare
-avânt
-beție
-căldură
-delir
-elan
-emotii
-furie
-paroxism
-râvnă
-zel
-accident
+fix
+
+accident,
 anecdotă
 antecedent
 aventură
 basm
-boroboață
+boroboată
 caz
-circumstanță
-coincidență
+circumstanţă
+coincidenţă
 conjunctură
 criză
 desnodământ
@@ -4740,162 +5891,107 @@ incident
 istorie
 istorioară
 ocaziune
-peripeție
+peripeţie
 poveste
 precedent
 prilej
-șansă
-__v.__ inacțiune
+şansă
+
+admirație
+adorare
+ardoare
+avânt
+beţie
+căldură
+delir
+elan
+emotii
+furie
+paroxism
+râvnă
+zel
+
+a consolida
+a continua
+a curma
+a epuiza
+a insista
+a întrerupe
+a pieri
+a prelungi
+a rămâne
+a seca
+a sfârși
+a siei
+a stinge
+
+aticism
+bară
+barou
+dieţiune
+discurs
+discuție
+aisertație
+clocuțiune
+orator
+patos
+persuasiune
+pollloghie
+tirada
+Tribuna
+vervå
+vorbărie
+
+fragil
+fugitiv
+hotărîtor
+imanent
+imortal
+imprescriptibil
+immuabil
+inalterabil
+indefectibil
+indefinit
+
+acces
+amărăciune
+calvar
+contorsiune
+
+V. inacţiune
+
 insensibil
-linistit
+liniştit
 moderat
+
 4
 
-- 50
-soartă
-vicisitudine
-__v.__ banal
-liniștit
-nimic
-obiceiu
-EXCITATIE
-a accelera
-a activa
-a agasa
-a anima
-a antrena
-a aprinde
-a asmuti
-a atâta
-a biciui
-a deslănțui
-a deștepta
-a enerva
-a exalta
-a excita
-a fanatiza
-a fierbe
-a da ghies
-a grăbi
-a hărțui
-a îmbărbăta
-a îmboldi
-a îmbrânci
-a împinge
-a împunge
-a încălzi
-a încuraja
-a înflăcăra
-a instiga
-a insufla
-a însufleți
-a întărîta
-a înteți
-a întepa
-a învenina
-a înviora
-a irita
-a pișca
-a provoca
-a sgândări
-a stimula
-a sufla
-a sugera
-extensibil
-a târî
-extensiv
-a trezi
-general
-a zori
-imens
-încăpător
-agent
-îndelungat
-agitator
-în extenso
-drojdic
-lung
-efervescență
-mare
-enervare
-molipsitor
-eretism
-nemărginit
-exacerbație
-obștesc
-ferment
-public
-îndemn
-spațios
-promotor
-total
-sămânță
-universal
-stupefiant
-vast
-surescitare
-sugestiune
-a altoi
-tăciune
-a continua
-a comunica
-__v.__ liniștit
-a deschide
-moderat
-a destinde
-opunere
-a da drumul
-răbdător
-a deșerta
-slab
-a desface
-a desfășura
-EXCLAMAŢIUNE a desvolta
-a dilata
-exclamativ
-a emite
-interjectiv
-a etala
-a generaliza
-a aprostrofa
-a împărți
-a blestema
-a împrăștia
-a dojeni
-a încăpea
-a exclama
-a încălca
-a mustra
-a îndepărta
-a vocifera
-a infiltra
-a inocula
-imprecațiune
-a întinde
-interjecțiune
-a inunda
-objurgațiune
-a iradia
-strigăt
-a lărgi
-țipăt
-a lăți
-a libera
-EXTENSIUNE a lungi
-a mări
-comun
-a molipsi
-contagios
-a năvăli
-endemic
-a prelungi
-expansiv
-a presăra
+§§----------------------------------------------------------------------
+
+- 60
+
+--
 
 51
+
+soartă
+vicisitudine
+
+a sugera
+a târi
+a trezi
+a zori
+
 nedeterminare
 piedică
-supoziție
+supoziţie
+
+V. banal
+
+liniştit
+nimic
+obiceiu
+
 a propaga
 a propovădui
 a radia
@@ -4905,9 +6001,13 @@ a se revărsa
 a risipi
 a transmite
 a trimite
-- F-
+
 FABULA
+
+EXCITATIE
+
 difuziune
+
 potop
 propagandă
 publicitate
@@ -4915,6 +6015,7 @@ reclamă
 spațiu
 torent
 vulgarizare
+
 alegorie
 anecdotă
 apolog
@@ -4924,20 +6025,23 @@ ficțiune
 legendă
 morală
 născocire
-parabola
+parabolă
 pildă
 povestire
 snoavă
+
+A EZITA
+
 a făuri
 a forma
 a funda
-a găti
+a gåti
 a împlini
 a improviza
-a înălța
+a înălţa
 a îndeplini
 a înfăptui
-a înființa
+a înfiinţa
 a institui
 a întemeia
 a intocmi
@@ -4945,7 +6049,7 @@ a isprăvi
 a manufactura
 a munci
 a născoci
-a naște
+a naşte
 a opera
 a plăsmui
 a preface
@@ -4959,16 +6063,193 @@ a răscula
 a răsvrăti
 a realiza
 a ridica
-a săvârși
-a sfârși
+a săvârşi
+a sfârşi
 a stabili
-a urca
+aurca
 a zămisli
 a zidi
-A EZITA
-__v.__ adevăr
+
+V. adevăr
+
 certitudine
+
+extensibil
+extensiv
+general
+imens
+
+încăpător
+agent
+
+îndelungat
+
+în extenso
+agitator
+drojdic
+
+lung
+efervescenţă
+
+mare
+enervare
+
+molipsitor
+eretism
+
+nemărginit
+exacerbaţie
+
+obştesc
+ferment
+
+public
+îndemn
+
+spatios
+promotor
+
+total
+sămânţă
+
+universal
+stupefiant
+
+vast
+surescitare
+sugestiune
+
+a altoi
+tăciune
+
+a continua
+
+a comunica
+v. liniştit
+
+a deschide
+moderat
+
+a destinde
+opunere
+
+a da drumul
+răbdător
+
+a deşerta
+slab
+
+a desface
+
+a desfăşura
+EXCLAMATIUNE a desvolta
+
+a dilata
+exclamativ
+
+a emite
+interjectiv
+
+a etala
+
+a generaliza
+a aprostrofa
+
+a împărţi
+a blestema
+
+a împrăştia
+a dojeni
+
+a încăpea
+a exclama
+
+a încălca
+a mustra
+
+a îndepărta
+a vocifera
+
+a infiltra
+
+a inocula
+imprecaţiune
+
+a întinde
+interjecţiune
+
+a inunda
+objurgaţiune
+
+a iradia
+strigăt
+
+a lărgi
+tipăt
+
+a lätt
+
+a libera
+EXTENSIUNE a lungi
+
+a mări
+comun
+
+a molipsi
+contagios
+
+a năvăli
+endemic
+
+a prelungi
+expansiy
+
+a presăra
+
+a accelera
+a activa
+a agasa
+a anima
+a antrena
+a aprinde
+a asmuti
+a atâta
+a biciui
+a deslănţui
+a deştepta
+a enerva
+a exalta
+a excita
+a fanatiza
+a fierbe
+a da ghies
+a grăbi
+a hărtut
+a imbărbăta
+a imboldi
+a îmbrânci
+a împinge
+a împunge
+a încălzi
+a încuraja
+a înflăcăra
+a instiga
+a insufla
+a însufleţi
+a întărîta
+a înteti
+a întepa
+a invenina
+a înviora
+a irita
+a pişca
+a provoca
+a sgândări
+a stimula
+a sufla
+
 A FACE
+
 aleatoriu
 dubitativ
 incert
@@ -4978,6 +6259,7 @@ nehotărît
 nesigur
 perplex
 sceptic
+
 a bâjbâi
 a se codi
 a dibui
@@ -4988,11 +6270,12 @@ a se pipăi
 a se poticni
 a pregeta
 a presupune
-a șovăi
+a şovăi
 a tergiversa
+
 a activa
 a alcătui
-a așeza
+a aşeza
 a căpătui
 a cauza
 a colabora
@@ -5004,8 +6287,8 @@ a construi
 a consuma
 a crea
 a croi
-a da naștere
-a desăvârși
+a da naştere
+a desăvârşi
 a efectua
 a elabora
 a executa
@@ -5013,7 +6296,8 @@ a expedia
 a fabrica
 a făptui
 a fasona
-acțiune
+
+acţiune
 ajutor
 autor
 artist
@@ -5021,19 +6305,32 @@ artizan
 fondator
 generator
 lucru
+
 alternativă
 bănuială
 conjectură
 cumpănă
-fluctuațiune
+fluctuatiune
 ipoteză
-__v.__ a desface
-inacțiune
+
+V. a desface
+
+inacţiune
 nimic
 nu
 
-52
+§§----------------------------------------------------------------------
+
+· 52 -
+
+53
+
+-
+
 FALS
+
+FIINTA
+
 creatură
 exclusiv
 favorabil
@@ -5042,8 +6339,29 @@ favorit
 influent
 injust
 nedrept
-parțial
+parţial
 prielnic
+priincios
+proprice
+
+generos
+îmbelşugat
+lucrativ
+mănos
+productiv
+prolific
+roditor
+rodnic
+zămislitor
+
+plăcero
+prosperitate
+reuşită
+şansă
+succes
+tara făgăduinţii
+vraje
+
 comedie
 contrazicere
 dol
@@ -5055,25 +6373,26 @@ fraudă
 himeră
 iluziune
 impostor
-invențiune
+invenţiune
 legendă
 mit
 nălucă
 nălucire
 poveste
 pseudonim
-șarlatan
+şarlatan
 stafie
 umbră
+
 apocrif
 artificial
 ascuns
 eronat
 fabulos
 factice
-fățarnic
+făţarnic
 fictiv
-greșit
+greşit
 ipocrit
 iluzoriu
 imaginar
@@ -5085,7 +6404,7 @@ mincinos
 mitologic
 neadevărat
 de necrezut
-hefiresc
+nefiresc
 neînchipuit
 neîntemeiat
 nesincer
@@ -5093,102 +6412,7 @@ plăsmuit
 prefăcut
 pretins
 pseudo
-priincios
-proprice
-a avantaja
-a influența
-a înrâuri
-a ocroti
-a părtini
-a răsfăța
-a râsgâi
-a sprijini
-V adevăr
-just
-a raționa
-FANTOMA
-a evoca
-credit
-favoritism
-grație
-hatâr
-încredere
-monopol
-nepotism
-precădere
-predilecțiune
-preferință
-prerogativă
-privilegiu
-protecție
-trecere
-tutelă
-vază
-apariție
-arătare
-fantasmă
-halucinație
-nălucă
-spectru
-sperietoare
-spirit
-stafie
-strigoiu
-umbră
-vedenie
-a altera
-a copia
-a contraface
-a deghiza
-a denatura
-a desminți
-a disimula
-a imita
-a închipui
-a înșela
-a născoci
-a plagia
-a scorni
-a simula
-a trișa
-a truca
-__v.__ opunere
-ură
-a vătăma
-FECUND
-__v.__ certitudine
-ființă
-viață
-FAVOARE
-absurditate
-basm.
-caraghioslâc
-abundent
-avut
-bogat
-darnic
-fertil
-fructuos
-arbitrar
-complezant
-53
-FIINTA
-generos
-îmbelșugat
-lucrativ
-mănos
-productiv
-prolific
-roditor
-rodnic
-zămislitor
-plăcero
-prosperitate
-reușită
-șansă
-succes
-țara făgăduinții
-vraje
+
 absolut
 abstract
 antropomorf
@@ -5200,6 +6424,16 @@ necesar
 relativ
 subiectiv
 uman
+
+a avantaja
+a influenţa
+a înrâuri
+a ocroti
+a părtini
+a răsfăţa
+a râsgâi
+a sprijini
+
 a da
 a fecunda
 a fertiliza
@@ -5209,51 +6443,116 @@ a prăsi
 a produce
 a raporta
 a rodi
-__v.__ bolnav
+
+V. bolnav
+
 desperare
 durere
 a îndura
 nenorocire
 plictiseală
-remușcare
+remuşcare
 supliciu
 trist
+
 A FI
-belșug
+
+V. adevăr
+
+just
+a raționa
+
+belşug
 generație
-îngrășăminte
+îngrăşăminte
 prăsilă
-__v.__ avar
+
+FANTOMA
+
+V. avar
+
 avid
 sărac
 steril
+
+a evoca
+
 antropologie
 canibal
-chintesență
+chintesenţă
 concept
 contingent
 creatură
 duh
-enoriaș
+enoriaş
 entitate
 esență
-existentă
+existență
 făptură
 fire
 individ
 ins
-metafizică
+metafizica
 om
 ontologie
 particular
 personal
 personalitate
-prezentă
+prezenţă
 semn
 spirit
 subiect
 umanitate
+
+credit
+favoritism
+grație
+hatâr
+încredere
+monopol
+nepotism
+precădere
+predilecţiune
+preferinţă
+prerogativă
+privilegiu
+protectie
+trecere
+tutelă
+vază
+
 FERICIRE
+
+apariţie
+arătare
+fantasmă
+halucinatie
+nălucă
+spectru
+sperietoare
+spirit
+stafie
+strigoiu
+umbră
+vedenie
+
+a altera
+a copia
+a contraface
+a deghiza
+a denatura
+a desminți
+a disimula
+a imita
+a închipui
+a înşela
+a născoci
+a plagia
+a scorni
+a simula
+a trişa
+a truca
+
 a se afla
 a se alcătui din
 a consista
@@ -5263,37 +6562,53 @@ a dăinui
 a dura
 a se executa
 a exista
-a fiinta
+a flinta
 a se găsi
 a se împlini
 a se încarna
 a se îndeplini
 a se înfăptui
-a se înfățișa
+a se înfăţişa
 a se întâmpla
-a sc ivi
+2 sa ivi
 a avea loc
 a se oferi
 a se prezenta
 a se realiza
-a se săvârși
+a se săvârşi
 a stărui
 a susbsista
 a trăi
 a se vedea
-a viețui
+a vietui
+
 fericit
 fermecat
 încântat
-mulțumit
+multumit
 providential
-răpit
+Tăpit
 satisfăcut
 vesel
-__v.__ mort
+
+V. opunere
+
+ura
+a vătăma
+
+V. mort
+
 nimic
-substanță
+substanţă
 vid
+
+V. certitudine
+
+fiinţă
+viaţă
+
+FECUND
+
 bucurie
 confort
 deliciu
@@ -5304,21 +6619,48 @@ farmec
 felicitare
 noroc
 paradis
+
 FIZIONOMIE
-__v.__ nimic
+
+FAVOARE
+
+abundent
+avut
+bogat
+darnic
+Tertil
+fructuos
+
+absurditate
+basm
+caraghioslâc
+
+arbitrar
+complezant
+
+V. nimic
+
 vid
+
 expresiv
 gălbejit
 palid
 
--
+§§----------------------------------------------------------------------
+
 54
+
+- 55
+
+FRUMOS
+
 pământiu
 rebarbativ
 respingător
 slab
-șters
+sters
 tras
+
 vârtos
 vehement
 viguros
@@ -5326,14 +6668,9 @@ violent
 virulent
 voinic
 zdravăn
-a desfigura
-a se fasoli
-a încreți
-a se înfățișa
-a se schimonosi
-a transfigura
+
 desen
-dispoziție
+dispoziţie
 expresiune
 exterior
 fason
@@ -5345,16 +6682,76 @@ imagine
 linie
 model
 profil
-proporție
+proporţie
 relief
 siluetă
 structură
 tipar
-__v.__ substanță
+
+a desfigura
+a se fasoli
+a încreți
+a se înfăţişa
+a se schimonosi
+a transfigura
+
+select
+semeţ
+splendid
+sublim
+subţire
+superb
+svelt
+uimitor
+unic
+
+misel
+neliniştit
+nesigur
+oribil
+periculos
+poltron
+primejdios
+prudent
+sfios
+straşnic
+teribil
+timid
+
+a atrage
+a fermeca
+a orna
+a seduce
+a străluci
+a vrăji
+
+V. substanţă
+
 vid
+
+aer
+aparenţă
+aspect
+cap
+chip
+expresiune
+facies
+faţă
+figură
+fizic
+fiziognomonie
+fizionomist
+înfăţişare
+mască
+mină
+mutră
+nazuri
+obraz
+trăsături
+
 a consolida
 a constrânge
-a forța
+a forţa
 a întări
 a obliga
 a rezista
@@ -5366,7 +6763,7 @@ elan
 energie
 Hercule
 Milon din Cretona
-mușchiu
+muşchiu
 nerv
 paroxism
 presiune
@@ -5374,43 +6771,107 @@ resort
 salt
 sbor
 sevă
-sforțare
+sfortare
 tonicitate
 vlagă
 vigoare
-violență
-aer
-aparență
-aspect
-cap
-chip
-expresiune
-facies
-față
-figură
-fizic
-fiziognomonie
-fizionomist
-înfățișare
-mască
-mină
-mutră
-nazuri
-obraz
-trăsături
-FORȚA
+violenţă
+
+a alarma
+a ameninţa
+a consterna
+a împietri
+a încremeni
+a înnebuni
+a înfiora
+a îngheţa
+a îngrijora
+a îngrozi
+a înspăimânta
+a intimida
+a nelinişti
+a petrifica
+a se sfii
+a sminti
+a speria
+a se teme
+a teroriza
+a tortura
+a tremura
+a tresări
+
+Adonis
+Apollon
+capodoperă
+ideal
+model
+ornament
+perlă
+podoabă
+
+FORTA
+
+ademenitor
+admirabil
+adorabil
+ales
+amabil
+ameţitor
+armonios
+avantajos
+bine
+cochet
+cornelian
+decorativ
+delicat
+desăvârşit
+distins
+divin
+drăgălaş
+drăguţ
+dumnezeiesc
+elegant
+falnic
+favorabil
+feeric
+fin
+frumuşel
+gentil
+gingaş
+grațios
+încântător
+incomparabil
+inimitabil
+ireprosabil
+magic
+magistral
+magnific
+măreţ
+minunat
+nobil
+nostim
+fără pereche
+orbitor
+perfect
+pitoresc
+plăcut
+prestigios
+pretios
+răpitor
+râzător
+regulat
+
+V. urât
+
+A FUGI
+
 FORMA
-a deforma
-a desfigura
-a înfățișa
-a metamorfoza
-a transfigura
-a transforma
+
 aspru
 consistent
 dinamic
 dur
-heiculean
+herculean
 ferm
 formidabil
 forte
@@ -5428,156 +6889,25 @@ neobosit
 puternic
 robust
 solid
-strașnic
+straşnic
 tânăr
 tare
 teapăn
 trainic
-__v.__ bolnav
+
+a deforma
+a desfigura
+a înfăţişa
+a metamorfoza
+a transfigura
+a transforma
+
+V. bolnav
+
 frică
 inferior
 slab
-FRICA
-aparență
-aranjament
-aspect
-calibru
-chip
-configurație
-conformatie
-croială
-becisnic
-cominatoriu
-confuz
-cumplit
-fricos
-groaznic
-grozav
-laș
 
-55
-FRUMOS
-misel
-neliniștit
-nesigur
-oribil
-periculos
-poltron
-primejdios
-prudent
-sfios
-strașnic
-teribil
-timid
-select
-semet
-splendid
-- sublim
-subțire
-superb
-svelt
-uimitor
-unic
-a atrage
-a fermeca
-a orna
-a seduce
-a străluci
-a vrăji
-1
-a alarma
-a amenința
-a consterna
-a împietri
-a încremeni
-a înnebuni
-a înfiora
-a îngheța
-a îngrijora
-a îngrozi
-a înspăimânta
-a intimida
-a neliniști
-a petrifica
-a se sfii
-a sminti
-a speria
-a se teme
-a teroriza
-a tortura
-a tremura
-a tresări
-Adonis
-Apollon
-capodoperă
-ideal
-model
-ornament
-perlă
-podoabă
-ademenitor
-admirabil
-adorabil
-ales
-amabil
-amețitor
-armonios
-avantajos
-bine
-cochet
-cornelian
-decorativ
-delicat
-desăvârșit
-distins
-divin
-drăgălaș
-drăguț
-dumnezeiesc
-elegant
-falnic
-favorabil
-feeric
-fin
-frumușel
-gentil
-gingaș
-gratios
-încântător
-incomparabil
-inimitabil
-ireprosabil
-magic
-magistral
-magnific
-măreț
-minunat
-nobil
-nostim
-fără pereche
-orbitor
-perfect
-pitoresc
-plăcut
-prestigios
-prețios
-răpitor
-râzător
-regulat
-__v.__ urât
-A FUGI
-aprehensiune
-fiori
-fobie
-frământare
-groază
-oroare
-panică
-scrupul
-spaimă
-sperietoare
-stupoare
-trac
 a abandona
 a alerga
 a se căra
@@ -5592,17 +6922,57 @@ a evacua
 a evada
 a evita
 a fugări
-a se furisa
-a ieși
+a se furișa
+a ieşi
 a se îndepărta
 a părăsi
 a pieri
 a pleca
 a se prezerva
-__v.__ îndrăzneală
+
+aprehensiune
+fiori
+fobie
+frământare
+groază
+oroare
+panică
+scrupul
+spaimă
+sperietoare
+stupoare
+trac
+
+FRICA
+
+aparenţă
+aranjament
+aspect
+calibru
+chip
+configuratie
+conformatie
+croială
+
+becisnic
+cominatoriu
+conſuz
+cumplit
+fricos
+groaznic
+grozav
+las
+
+V, îndrăzneală
+
 curaj
 
-- 56
+§§----------------------------------------------------------------------
+
+56
+
+57
+
 a preveni
 a spăla putina
 a se repezi
@@ -5610,13 +6980,14 @@ a sări
 a sbura
 a scăpa
 a stârni
-a o șterge
+a o şterge
 a se sustrage
-a tâșni
+a tâşni
 a se urni
-a jefui
+
+a jeful
 a prăda
-a pungăși
+a pungăşi
 a răpi
 a spolia
 a șterpeli
@@ -5624,6 +6995,7 @@ a subtiliza
 a sustrage
 a tăinui
 a uzurpa
+
 a îngropa
 a pătrunde
 a perfora
@@ -5634,8 +7006,55 @@ a scotoci
 a sfredeli
 a sonda
 a străpunge
+
+a aclama
+a admira
+a deifica
+a diviniza
+a glorifica
+a preamări
+a proslăvi
+a prețui
+a sărbători
+a triumfa
+
+imaginat
+închipuit
+inexact
+neadevărat
+necorect
+sofistic
+smintit
+
+a crede
+a cugeta
+a cumpăni
+a gândi
+a imagina
+a înţelege
+a inventa
+a judeca
+a medita
+a născoci
+a observa
+a plănui
+a presupune
+a raţiona
+a reflecta
+a rumega
+a specula
+
+a abjura
+a greși
+a so înşela
+a momi
+a i se năzări
+a prejudicia
+a rătăci
+a trage pe sfoară
+
 debandadă
-dispariție
+dispariţie
 escapadă
 evaziune
 fugă
@@ -5643,17 +7062,18 @@ fugă
 fugar
 goană
 grabă
-migrațiune
+migraţiune
 panică
 plecare
 pribeag
 transfug
+
 bandit
-borfaș
+borfaş
 brigand
 concusiune
 defraudator
-furtișag
+furtişag
 haiduc
 hot
 hoție
@@ -5661,9 +7081,10 @@ pirat
 potlogar
 prevaricator
 pungas
-șarlatan
+şarlatan
 spărgător
 tâlhar
+
 alveolă
 abis
 cavernă
@@ -5675,126 +7096,28 @@ excavație
 făgas
 grotă
 orificiu
-peșteră
+peşteră
 por
 prăpastie
 profunzime
 puț
-șant
+şant
 spărtură
 trecere
 vid
-__v.__ curios
-întoarcere
-a iubi
-uniune
-__v.__ a da
-dar
-just
-onest
-permis
-sacrificiu
-scrupul
-FURT
-__v.__ plin
-GANDIRE
-fraudulos
-hrăpăret
-indelicat
-necinstit
-nedelicat
-rapace
-G
-GAURA
-absorbit
-idee abstractă
-clară
-confuză
-factice
-fixă
-înăscută
-mintal
-profund
-găunos
-scorburos
-a-și apropia
-a despuia
-a devaliza
-a escroca
-a frauda
-a frustra
-a fura
-a încălca
-a înșela
-a-și însuși
-i
-a adânci
-a aprofunda
-a crăpa
-a deschide
-a desfunda
-a găuri
-a împunge
-a adânci
-a cântări
-a combina
-a concepe
-a considera
 
-- 57
-a aclama
-a admira
-a deifica
-a diviniza
-a glorifica
-a preamări
-a proslăvi
-a prețui
-a sărbători
-a triumfa
-imaginat
-închipuit
-inexact
-neadevărat
-necorect
-sofistic
-smintit
-a crede
-a cugeta
-a cumpăni
-a gândi
-a imagina
-a înțelege
-a inventa
-a judeca
-a medita
-a născoci
-a observa
-a plănui
-a presupune
-a raționa
-a reflecta
-a rumega
-a specula
-a abjura
-a greși
-a sc înșela
-a momi
-a i se năzări
-a prejudicia
-a rătăci
-a trage pe sfoară
 concept
-concepție
-conștiință
+concepţie
+conştiinţă
 gând
 idee
 închipuire
-inteligență
+inteligenţă
 minte
-noțiune
+noţiune
 proverb
 reflexiune
+
 alaiu
 apogeu
 apoteoză
@@ -5813,29 +7136,51 @@ mărire
 nimb
 onoruri
 osana
-ovațiune
+ovaţiune
 Pantheon
 podoabă
 renume
-reputație
+reputaţie
 răsunet
 slavă
 somitate
 splendoare
 strălucire
 succes
-venerație
-__v.__ instinct
+veneratie
+
+V. curios
+
+întoarcere
+a iubi
+uniune
+
+V. a da
+
+dar
+just
+onest
+permis
+sacrificiu
+scrupul
+
+V. instinct
+
 simț
+
+FURT
+
+V. pli
+
 abatere
-aberațiune
+aberaţiune
 amăgire
 anacronism
 boacănă
-boroboață
+boroboaţă
 confuziune
 cusur
-decepție
+decepția
 dezamăgire
 deziluzie
 erată
@@ -5857,8 +7202,47 @@ sofism
 stângăcie
 superstite
 vină
-viziune
+viziunc
+
 GLORIE
+
+GANDIRE
+
+fraudulos
+hrăpăreț
+indelicat
+necinstit
+nedelicat
+rapace
+
+G
+
+GAURA
+
+absorbit
+idee abstractă
+clară
+confuză
+factice
+fixă
+înăscuta
+mintal
+profund
+
+găunos
+scorburos
+
+a-şi apropia
+a despuia
+a devaliza
+a escroca
+a frauda
+a frustra
+a fura
+a încălca
+a înşela
+a-şi însuşi
+
 considerabil
 eminent
 faimos
@@ -5866,8 +7250,8 @@ falnic
 glorios
 ilustru
 însemnat
-înzeit
-măreț
+inzeit
+măret
 memorabil
 nemuritor
 notoriu
@@ -5875,39 +7259,103 @@ onorat
 pompos
 popular
 vanitos
-__v.__ necunoscut
-nereușită
-obscur
-șters
-GRESALA
-falș
-eronat
-__v.__ just
-a raționa
 
-58
-GROSOLAN
-- H -
+V. necunoscut
+
+nereuşită
+obscur
+sters
+
+a adânci
+a aprofunda
+a crăpa
+a deschide
+a desfunda
+a găuri
+a împunge
+
+GREŞALA
+
+a adânci
+a cântări
+a combina
+a concepe
+a considera
+
+falş
+eronat
+
+V. just
+
+a raţiona
+
+§§----------------------------------------------------------------------
+
+- 58
+
+59
+
+1
+
 HOTAR
-HAZARD
+
+H
+
+GROSOLAN
+
 extrem
 final
 terminal
+
+HAZARD
+
+a desvinovăţi
+a gratia
+a se înduioșa
+a libera
+a menaja
+a se milostivi
+a reabilita
+a schimba
+a scuza
+a scuti
+a şterge
+a trece cu
+
+vederea
+
+a combina
+a crede
+a imagina
+a inventa
+a născoci
+a presupune
+a visa
+
 a circumscrie
 a demarca
-bădăran
+a defini
+a delimita
+a depăşi
+a despărţi
+a îngrădi
+a limita
+a mărgini
+a separa.
+
+bådăran
 bestial
 cinic
 deplasat
 grobian
 impertinent
 impudic
-in corect
+incorect
 indecent
-îndrăzneț
+îndrăznet
 insolent
 libertin
-licențios
+licentios
 mojic
 murdar
 necinstit
@@ -5915,8 +7363,8 @@ necioplit
 necuviincios
 necurtenitor
 nepoliticos
-nerușinat
-nesărat
+neruşinat
+nesårat
 obraznic
 obscen
 ordinar
@@ -5924,9 +7372,9 @@ pocit
 pornografic
 rău crescut
 rustic
-scârbos
+scårbos
 ticălos
-din topor
+
 accidental
 aleatoriu
 blestemat
@@ -5937,112 +7385,16 @@ eventual
 fatal
 fericit
 fortuit
-îr doelnic
+ir doelnic
 întâmplător
 nenorocit
 nesigur
 nestatornic
 ocazional
-orbește
+orbeşte
 temerar
 variabil
-a defini
-a delimita
-a depăși
-a despărți
-a îngrădi
-a limita
-a mărgini
-a separa.
-barieră
-capăt
-graniță
-frontieră
-împrejmuire
-margine
-sfârșit
-stavilă
-__v.__ extensiune
-a hazarda
-a înfrunta
-a risca
-a tenta
--I-
-A IERTA
-canalie
-desfrâu
-destrăbălare
-gunoi
-insultă
-mitocan
-nepoliteță
-pușlama
-secătură
-țărănoiu
-topârlan
-aventură
-brodeală
-caz
-circumstanță
-destin
-eveniment
-ghinion
-împrejurare
-întâmplare
-loterie
-martingală
-noroc
-ocaziune
-prilej
-șansă
-soartă
-talisman
-ursită
-vicisitudine
-blând
-bun
-clement
-culant
-îndurător
-îngăduitor
-iremisibil
-milos
-milostiv
-mizericordios
-de neiertat
-__v.__ afabil
-îndatoritor
-ipocrizie
-subtil
-a achita
-a amnestia
-a anula
-a comuta
-a cruța
-a da drumul
-zar
 
-59
-a desvinovăți
-a gratia
-a se înduioșa
-a libera
-a menaja
-a se milostivi
-a reabilita
-a schimba
-a scuza
-a scuti
-a șterge
-a trece cu
-vederea
-a combina
-a crede
-a imagina
-a inventa
-a născoci
-a presupune
-a visa
 nătâng
 necompetent
 necultivat
@@ -6050,10 +7402,10 @@ nedeprins
 nedestoinic
 neexersat
 neghiob
-neînvățat
+neînvăţat
 nepriceput
 nerod
-neștiutor
+neştiutor
 nevinovat
 nul
 primitiv
@@ -6061,7 +7413,17 @@ profan
 simplu
 stângaciu
 stupid
-absoluțiune
+
+barieră
+capăt
+graniță
+frontieră
+împrejmuire
+margine
+sfârşit
+stavilă
+
+absoluţiune
 aman
 bunătate
 clemență
@@ -6070,20 +7432,22 @@ inocent
 pardon
 slăbiciune
 uitare
+
 a ignora
 a nu se pricepe
-a nu ști
-alucinatie
-aparență
+a nu şti
+
+alucinație
+aparenţă
 arătare
 capriciu
-divagație
+divagatie
 fantezie
 fantomă
 ficțiune
 himeră
 închipuire
-iluzie
+uuzie
 miraj
 nălucă
 nălucire
@@ -6094,7 +7458,27 @@ utopie
 vedenie
 vis
 viziune
-__v.__ a acuza
+
+V. extensiune
+
+a hazarda
+a înfrunta
+a risca
+a tenta
+
+dezvăț
+inaptitudine
+incompetenţă
+insuficienţă
+necunoştinţă
+neștință
+neștire
+novice
+recrut
+ucenic
+
+V. a acuza
+
 cruzime
 mustrare
 a pedepsi
@@ -6102,24 +7486,72 @@ răutate
 sever
 suplicu
 ură
-dezvăț
-inaptitudine
-incompetență
-insuficiență
-necunoștință
-neștință
-neștire
-novice
-recrut
-ucenic
-__v.__ precis
-IGNORANTA
+
+I
+
+A IERTA
+
+V. precis
+
+din topor
+
 IMOBIL
-__v.__ competență
-înțelepciune
+
+IGNORANTA
+
+V. competentă
+
+înţelepciune
 savant
-știință
+ştiinţă
+
+canalie
+desfrâu
+destrăbălare
+gunoi
+insultă
+mitocan
+nepoliteță
+puşlama
+secătură
+fărănoiu
+toparlan
+
 IMAGINATIE
+
+aventură
+brodeală
+caz
+circumstanţă
+destin
+eveniment
+ghinion
+împrejurare
+întâmplare
+loterie
+martingală
+noroc
+ocaziune
+prilej
+şansă
+soartă
+talisman
+ursită
+vicisitudine
+zar
+
+blând
+bun
+clement
+culant
+indurător
+îngăduitor
+iremisibil
+milos
+milostiv
+mizericordios
+de neiertat
+
 ageamiu
 agramat
 analfabet
@@ -6128,24 +7560,15 @@ candid
 dobitoc
 grosolan
 ignorant
-înapoiat
+inapoiat
 inept
 incapabil
-inconștient
+inconştient
 incult
 inexperimentat
 mărginit
-naiy
-fantastic
-fantezist
-fictiv
-himeric
-iluminat
-iluzoriu
-imaginar
-romantic
-utopic
-visător
+naiv
+
 ancorat
 ferm
 fixat
@@ -6156,14 +7579,43 @@ inamovibil
 inert
 înfipt
 inflexibil
-înțepenit
+întepenit
 înrădăcinat
 invariabil
 neclintit
 neînduplecat
-nemișcat
+nemişcat
+
+fantastic
+fantezist
+fictiv
+himeric
+iluminat
+iluzoriu
+imaginar
+romantic
+utopic
+visător
+
+a achita
+a amnestia
+a anula
+a comuta
+a cruta
+a da drumul
+
+V. afabil
+
+indatoritor
+ipocrizie
+subtil
+
+§§----------------------------------------------------------------------
 
 - 60
+
+61 -
+
 neschimbător
 nestrămutat
 plantat
@@ -6174,13 +7626,14 @@ stabil
 stagnant
 statu-quo
 stătător
-staționar
+stationar
 statornic
-țeapăn
+teapăn
+
 mare
 marcant
-moțat
-neprețuit
+motat
+nepretuit
 notabil
 preponderent
 predominant
@@ -6190,6 +7643,7 @@ serios
 temeinic
 transcendent
 valoros
+
 generic
 inerent
 simultan
@@ -6198,24 +7652,75 @@ sinoptic
 solidar
 unanim
 universal
-a acompania
-a acumula
-a adera
-a adapta
-a adăoga
+
+paralitic
+retras
+sedentar
+teapin
+tembel
+trândav
+
+a încrusta
+a încurca
+a îndesa
+a infeuda
+a înfrăți
+a înghesui
+a îngloba
+a îngrămădi
+a înlănţui
+a înnoda
+a înregimenta
+a se însoţi
+a înşuruba
+a intercala
+a întruni
+a lega
+a lipi
+a masa
+a monopoliza
+a participa
+a potrivi
+a reuni
+a strânge
+a uni
+
+juxtapunere
+legătură
+organism
+pace
+procesiune
+reunire
+societato
+simpatie
+simfonie
+sincretism
+sincronism
+sinteză
+sistem
+totalitate
+unison
+uniune
+
 a aprecia
 a conta
 a domina
 a însemna
 a semnala
-a așeza
+
+V, a desface
+
+dezordine
+a divide
+
+a aşeza
 a asigura
 a fixa
 a imobiliza
-a înlănțui
-a înșuruba
+a înlănţui
+a înşuruba
 a întări
-a înțepeni
+a întepeni
 a nitui
 a opri
 a paraliza
@@ -6224,10 +7729,13 @@ a reține
 a stabiliza
 a stagna
 a țintui
+
+INACTIUNE
+
 ascendent
 autoritate
-consecință
-considerație
+consecinţă
+consideraţie
 credit
 efect
 greutate
@@ -6238,6 +7746,12 @@ pret
 trecere
 urmări
 vază
+
+a acompania
+a acumula
+a adera
+a adapta
+a adăoga
 a aduna
 a aflua
 a aglomera
@@ -6251,7 +7765,7 @@ a armoniza
 a asista
 a asocia
 a asorta
-a atașa
+a ataşa
 a atârna
 a centraliza
 a cimenta
@@ -6265,113 +7779,31 @@ a confrunta
 a confunda
 a contopi
 a convoca
-__v.__ capricu
-mișcare
-schimbător
-IMPORTANTA
-__v.__ mic
-moderat
-necunoscut
-IMPREUNA
-capital
-considerabil
-de căpetenie
-eficace
-enorm
-esențial
-faimos
-forte
-fundamental
-grav
-important
-inapreciabil
-incalculabil
-însemnat
-aderent
-asociat
-coerent
-colectiv
-comun
-concomitent
-conex
-congruent
-contemporan
-general
 a coordona
 a cumula
 a fuziona
-a grămădi
+a grämadi
 a grefa
 a grupa
-a îmbulzi
-a împerechea
-a împleti
-a încorpora
+nimbulzi
+a imperechea
+a impleti
 
-61
-paralitic
-retras
-sedentar
-țeapăn
-tembel
-trandav
-a încrusta
-a încurca
-a îndesa
-a infeuda
-a înfrăți
-a înghesui
-a îngloba
-a îngrămădi
-a înlănțui
-a înnoda
-a înregimenta
-a se însoți
-a înșuruba
-a intercala
-a întruni
-a lega
-a lipi
-a masa
-a monopoliza
-a participa
-a potrivi
-a reuni
-a strânge
-a uni
-juxtapunere
-legătură
-organism
-pace
-procesiune
-reunire
-societate
-simpatie
-simfonie
-sincretism
-sincronism
-sinteză
-sistem
-totalitate
-unison
-uniune
-V a desface
-dezordine
-a divide
-INACȚIUNE
+incorpora
+
 a adormi
-a amorti
+a amorţi
 a curma
 a destinde
 a hoinări
 a imobiliza
 a înceta
 a încremeni
-a înțepeni
+a înţepeni
 a întrerupe
 a se izola
 a se lăfăi
-a lăinici
+a låinici
 a lâncezi
 a se odihni
 a opri
@@ -6380,15 +7812,57 @@ a poposi
 a potoli
 a se repauza
 a se rugini
-a slăbi
+a slābi
 a stagna
-a staționa
+a stationa
 a suspenda
-a tăndăli
+a tändai
 a tânji
 a tărăgăni
-a trândăvi
+a trândåvi
 a zăbovi
+
+V. capricu
+
+mişcare
+schimbător
+
+IMPORTANTA
+
+V. mic
+
+moderat
+necunoscut
+
+alene
+anchilozat
+apatic
+beteag
+consternat
+copleşit
+demoralizat
+descurajat
+disponibil
+domol
+fără viaţă
+imobil
+impotent
+încet
+indolent
+inert
+lenes
+lent
+moale
+mort
+neactiv
+nec'intit
+neglijent
+nemişcat
+neocupat
+nepăsător
+nesimtitor
+olog
+
 acord
 adeziune
 adunare
@@ -6400,93 +7874,138 @@ ansamblu
 armată
 asortiment
 coeziune
-coincidență
+coincidentă
 colaborare
 colectie
 comunitate
 concert
-concordanță
+concordanta
 concordat
 conexiune
-convenție
+conventie
 cooperatie
 culegere
 cumul
 fraternitate
 grupare
-invoială
-alene
-anchilozat
-apatic
-beteag
-consternat
-copleșit
-demoralizat
-descurajat
-disponibil
-domol
-fără viață
-imobil
-impotent
-încet
-indolent
-inert
-lenes
-lent
-moale
-mort
-neactiv
-neclintit
-neglijent
-nemișcat
-neocupat
-nepăsător
-nesimțitor
-olog
-armistițiu
+învoiala
+
+capital
+considerabil
+de căpetenie
+eficace
+enorm
+esential
+faimos
+forte
+fundamental
+grav
+important
+inapreciabil
+Incalculabil
+înseinnat
+
+IMPREUNA
+
+aderent
+asociat
+coerent
+colectiv
+comun
+concomitent
+conex
+congruent
+contemporan
+feneral
+
+armistlțiu
 concediu
 farniente
 grevist
 hoinar
-moliciune
+inoliciune
 nelucrare
-neputință
+neputinţă
 pauză
-prostrațiune
-răgaz
-sinecură
-toropeală
+prostraţiune
+rågaz
+sinecura
+toropeala
+
+§§----------------------------------------------------------------------
 
 62
+
+63
+
+vacanţă
+
 transversal
-vacanță
+
 temerar
 voluntar
 zelos
-__v.__ acțiune
+
+prea
+revoluţie
+
+înalt
+importanţă
+majestate
+superior
+
+V. acţiune
+
 entuziasm
 a face
 luptă
-mișcare
-revoluție
+mişcare
+revoluţie
 a uza
+
+meticulos
+migălos
+minuțios
+ordonat
+scrupulos
+spilcuit
+ticluit
+
+INEVITABIL
+
+INFLUENȚA
+
 a abate
 a coti
 a devia
 a îndoi
 a oblica
 a ocoli
-a ricoșa
-a șerpui
+a ricoşa
+a şerpui
 a strâmba
 a suci
+
 a se aventura
 a se expune
 a îndrăzni
 a înfrunta
 a primejdui
 a risca
+
 INALT
+
+fatal
+infailibil
+iremediabil
+fără leac
+negreşit
+de neînlăturat
+nelipsit
+predestinat
+scris
+sorocit
+
 culminant
 dominant
 eminent
@@ -6496,6 +8015,15 @@ mândru
 proeminent
 stăpânitor
 superior
+
+curaj
+forţă
+imprudenţă
+obrăznicie
+rezoluţie
+tupeu
+voinţă
+
 alegorie
 circuit
 digresiune
@@ -6505,121 +8033,9 @@ inflexiune
 parabolă
 serpentină
 zigzag
-curaj
-forță
-imprudență
-obrăznicie
-rezoluție
-tupeu
-voință
-__v.__ ascultare
-frică
-măsură
-prudență
-pudoare
-timid
-umil
-a arbora
-a se cățăra
-a exalta
-a înălța
-a ridica
-a se sui
-a urca
-INDRĂZNEALA
-A INDURA
-altitudine
-colină
-elevație
-etiaj
-eminență
-protuberanță
-aventuros
-cinic
-confient
-curagios
-cutezător
-decis
-Fanfaron
-hotărât
-inchipuit
-increzător
-încrezut
-indrăznet
-Intrepid
-lăudăros
-Qebun
-nechibzuit
-nerușinat
-nesabuit
-nesocotit
-poruncitor
-prezumțios
-puternic
-semet
-sigur
-smintit
-tare
-a încerca
-a înghiți
-a îngădui
-a pătimi
-a primi
-a, răbda
-a resimți
-a simți
-a suferi
-a suporta
-a tolera
-a trage
-__v.__ inferior
-mic
-umil
-INDIRECT
-martir
-pățit
-victimă
-alegoric
-figurat
-lăturalnic
-oblic
-parabolic
-piezis
-sinuos
-sucit
-__v.__ contrariu
-a contrazice
-cruzime
-opunere
-mânie
-63
-prea
-revoluție
-inalt
-importanță
-majestate
-superior
-INEVITABIL
-meticulos
-migălos
-minuțios
-ordonat
-scrupulos
-spilcuit
-ticluit
-INFLUENȚĂ
-fatal
-infailibil
-iremediabil
-fără leac
-negreșit
-de neînlăturat
-nelipsit
-predestinat
-scris
-sorocit
+
 a căpăta
-a câștiga
+a câştiga
 a catehiza
 a decide
 a dobândi
@@ -6634,68 +8050,143 @@ a lucra
 a predispune
 a sfătui
 a stila
+
 băgare de seama
-conștiință
+conştiinţă
 grije
 minuție
 orânduială
 ordine
-precauțiune
+precauţiune
 rânduială
 solicitudine
+
 destin
 predestinație
 soartă
 ursită
-__v.__ dezordine
+
+V. dezordine
+
 murdar
 urât
-__v.__ a fugi
-opunere
+
 A INLĂTURA
+
+V. ascultare
+
+frică
+măsură
+prudenţă
+pudoare
+timid
+umil
+
+V. a fugi
+
+opunere
+
+a arbora
+a se căţăra
+a exalta
+a înălţa
+a ridica
+a se sui
+a urca
+
+INDRĂZNEALA
+
 INFERIOR
+
+A INDURA
+
 mai mic
 mai prejos
 servil
 slugarnic
 supus
-acțiune
+
+altitudine
+colină
+elevatie
+etiaj
+eminentă
+protuberanţă
+
+acţiune
 ascendent
 autoritate
 credit
 efect
 greutate
 imperiu
-importanță
-preponderență
+importanţă
+preponderenţă
 prestigiu
 putere
 trecere
+
+a încerca
+a înghiți
+a îngădui
+a pătimi
+a primi
+2. răbda
+a resimti
+a simti
+a suferi
+a suporta
+a tolera
+a trage
+
 a atârna
 a depinde
 a subordona
 a se supune
-__v.__ inacțiune
+
+aventuros
+cinic
+confient
+curagios
+cutezător
+decis
+xanfaron
+hotărât
+nchipuit
+increzător
+increzut
+Indrăzneț
+Intrepid
+1ăudăros
+nebun
+nechibzuit
+neruşinat
+nesăbuit
+nesocotit
+poruncitor
+prezumtios
+puternic
+semet
+sigur
+smintit
+tare
+
+V. inferior
+
+mic
+umil
+
+V. inacţiune
+
 inutil
 neascultare
 slab
-figurant
-iobag
-minor
-pupilă
-rob
-secund
-seryitor
-servitudine
-sclav
-Şerb
-subaltern
-vasal
+
 a da afară
 a alunga
 a concedia
 a cotorosi
-a curăți
+a curăţi
 a deplasa
 a deporta
 a deposeda
@@ -6715,43 +8206,102 @@ a expulza
 a goni
 a îmbrânci
 a împinge
-a împrăștia
+a împrăştia
 a îndepărta
 a izgoni
+
+INDIRECT
+
 INGRIJIRE
-așezat
-conștiincios
+
+martir
+pătit
+victimă
+
+figurant
+iobag
+minor
+pupilă
+rob
+secund
+servitor
+servitudine
+sclav
+şerb
+subaltern
+vasal
+
+alegoric
+figurat
+lăturalnic
+oblic
+parabolic
+piezis
+sinuos
+sucit
+
+V. contrariu
+
+a contrazice
+cruzime
+opunere
+mânie
+
+aşezat
+conştiincios
 elgant
 frumos
 îngrijit
 măsurat
 metodic
-__v.__ glorie
 
-64
-1
-a izola
+V. glorie
+
+§§----------------------------------------------------------------------
+
+- 64 -
+
+65
+
+INTELIGENTA
+
 a îmbrobodi
-a minți
+a minţi
 a mistifica
 a păcăli
 a seduce
-a tråda
+a trăda
 a trage pe sfoară
-a trișa
+a trişa
 a zăpăci
+
 a adormi
-a amorti
+a amorţi
 a anestezia
 a cloroformiza
-a se detașa
-leșin
-nesimțire
+a se detaşa
+
+presentiment
+presimţire
+tendinţă
+vocea sângelui
+vocaţiune
+
+lesin
+nesimţire
 sânge rece
-sincopa
+sincopă
 toropeală
+
+V. inteligenţă
+
+obiceiu
+a raţiona
+voinţă
+
+a izola
 a da jos
-a licenția
+a licentia
 a muta
 a mătura
 a ostraciza
@@ -6769,17 +8319,18 @@ a scoate
 a schimba
 a sgorni
 a stârni
-a șterge
+a şterge
 a surghiuni
 a suspenda
 a transporta
 a trimite
 a urmări
 a urni
+
 capcană
-captațiune
+captaţiune
 contrabandă
-corupție
+corupţie
 cursă
 defraudator
 dol
@@ -6787,103 +8338,26 @@ drăcovenie
 farsă
 festă
 impostură
-înșelăciune
+înşelăciune
 merchez
-meșteșug
+meşteşug
 perfidie
 potlogar
 poznă
-șarlatan
-__v.__ afabil
+şarlatan
+
+V. afabil
+
 entuziasm
-excitatie
+excitație
 pasiune
-politeță
+politeţă
 sensibilitate
 sentiment
 simt
 susceptibil
-INSTINCT
-absență
-concediu
-dispersiune
-epurație
-__v.__ certitudine
-devotament
-onest
-pudoare
-scrupul
-sincer
-dotat
-firesc
-inconștient
-înnăscut
-instinctiv
-intuitiv
-involuntar
-mașinal
-mecanic
-natural
-nereflectat
-orbește
-reflex
-A INŞELA
-INSENSIBIL
-artificial
-fals
-insidios
-ipocrit
-necredincios
-șiret
-viclean
-apatic
-cataleptic
-flegmatic
-impasibil
-inconstient
-indiferent
-inert
-letargic
-neînsuflețit
-nepăsător
-nesimțit
-nesimțitor
-rece
-aplecare
-chemare
-dar
-dibăcie
-dispoziție
-înclinare
-iscusință
-intuiție
-à abuza
-a ademeni
-a amăgi
-a decepționa
-a dejuca
-a escroca
-a frauda
-a frustra
-natură
-pantă
-poftă
-pornire
-predispoziție
 
-65
-INTELIGENTA
-presentiment
-presimțire
-tendință
-vocea sângelui
-vocațiune
-__v.__ inteligență
-obiceiu
-a raționa
-voință
-a întelege
-a interpreta
+a înţelege-a interpreta
 a iscodi
 a judeca
 a lămuri
@@ -6894,7 +8368,7 @@ a născoci
 a pătrunde
 a percepe
 a plăzmui
-a presimți
+a presimţi
 a presupune
 a pricepe
 a prinde
@@ -6903,88 +8377,162 @@ a reflecta
 a sugera
 a supoza
 a tâlcui
-a tălınăci
+a tălmăci
 a vedea
 a zămisli
+
+INSTINCT
+
 abstract
 ager
 ascuțit
 clar
 comprehensibil
-deștept
+deştept
 fin
 ideologic
+
 imaterial
-INTELEPCIUNE ingenios
+INŢELEPCIUNE ingenios
+
 intelectual
 blând
+
 inteligibil
 chibzuit
+
 inventiv
 cuminte
+
 iscusit
 cumpătat
+
 istet
-deștept
+deştept
+
 judicios
 disciplinat
+
 limpede
 docil
+
 lucid
-înțelept
+înţelept
+
 mental
 inteligent
+
 mintos
-liniștit
+liniştit
+
 paradoxal
 luminat
+
 perspicace
 mintos
+
 pozitiv
 onest
+
 psihologic
 perspicace
+
 rationabil
 prudent
+
 rațional
 rezervat
+
 rezonabil
 rezonabil
+
 serios
 rațional
+
 spiritual
 sfătuitor
+
 teoretic
 supus
+
 transcendental
+
 vioiu
-experiență
+experienţă
+
 viu
 logică
 maturitate
+
 a adulmeca
-moderațiune
+moderaţiune
+
 a cântări
 prevedere
+
 a chibzui
 rațiune
+
 a concepe
 reflexiune
+
 a cugeta
+sfat
+
 a descâlci
+simt
+
 a descurca
-a desluși
+a desluşi
+
 a discerne
-__v.__ absurditate
-a explica
+v. absurditate a explica
+aventură
+
 a ghici
 desfrâu
+
 a hotărî
+ispită
+
 a imagina
+nebun
+
 a închipui
 orgoliu
+
 a insufla
-apercepție
+
+absenţă
+concediu
+dispersiune
+epuraţie
+
+dotat
+firesc
+inconştient
+înnăscut
+instinctiv
+intuitiv
+involuntar
+maşinal
+mecanic
+natural
+nereflectat
+orbeşte
+reflex
+
+V. certitudine
+
+devotament
+onest
+pudoare
+scrupul
+sincer
+
+A INŞELA
+
+apercepţie
 bază
 bunul simt
 comprehensiune
@@ -6993,10 +8541,10 @@ fire
 gândire
 idee
 intelect
-intuițiune
+intuiţiune
 minte
 părere
-rațiune
+raţiune
 sagacitate
 simț
 spirit
@@ -7004,42 +8552,97 @@ subtilitate
 tact
 temelie
 teorie
-sfat
-simț
-bun simț
-aventură
-ispită
-nebun
-__v.__ absurditate
+
+artificial
+fals
+insidios
+ipocrit
+necredincios
+şiret
+viclean
+
+INSENSIBIL
+
+bun simt
+
+a abuza
+a ademeni
+a amăgi
+a decepționa
+a dejuca
+a escroca
+a frauda
+a frustra
+
+apatic
+cataleptic
+flegmatic
+impasibil
+inconştient
+indiferent
+inert
+letargic
+neînsuflețit
+nepăsător
+nesimţit
+nesimţitor
+rece
+
+aplecare
+chemare
+dar
+dibäcie
+dispoziţie
+înclinare
+iscusinţă
+intuitie
+natură
+pantă
+poftă
+pornire
+predispoziţie
+
+V. absurditate
+
 dobitoc
 instinct
 sensibilitate
 simt
+
 5
 
+§§----------------------------------------------------------------------
+
 66
+
 INTERESANT
+
 revers
 reversiune
 reviriment
-__v.__ a părăsi
+
+V. a părăsi
+
 A INTRA
+
 ciudat
 curios
-emoționant
+emoţionant
 important
 izbitor
 palpitant
 rar
 remarcabil
-sfâșietor
+sfâşietor
 sguduitor
 simpatic
+
 avansat
 adânc
 cotropitor
 înaintat
 profund
+
 anticameră
 antreu
 endosmoză
@@ -7047,89 +8650,88 @@ impenetrabilitate
 import
 incursiune
 ingestie
-inserțiune
+inserţiune
 intrare
 intromisiune
 intrus
 invaziune
-irupțiune
+irupţiune
 pătrundere
 penetrabilitate
 pasaj
 poartă
 prag
 trecere
-__v.__ origine
+
+a atrage
+a captiva
+a fermeca
+a interesa
+a intriga
+a mişca
+a reţine
+
+V. origine
+
 a părăsi
 rezultat
-.
+
+V. banal
+
+mic
+obiceiu
+plictiseală
+şters
+
 A INTREBA
+
 curios
 examinator
 indiscret
-a atrage
+
+A INTOARCE
+
+retroactiv
+retrograd
+retrospectiv
+reversibil
+vice-versa
+
 a se arunca
-a captiva
 a se asvârli
-a fermeca
 a se băga
-a interesa
 a cotropi
-a intriga
 a debarca
-a mișca
 a deschide
-a reține
 a descinde
-a forța
-V banal
+a forţa
 a se îmbarca
-mic
 a îmbuca
-obiceiu
 a îmbuiba
-plictiseală
-a impuia
-sters
+a împuia
 a încăpea
 a încorpora
-A INTOARCE a infesta
+a infesta
 a se infiltra
-retroactiv
 a se înfunda
-retrograd
-a înghiți
-retrospectiv
+a înghiţi
 a se insinua
-reversibil
 a introduce
-vice-versa
 a inunda
 a invada
-a se abate
 a năpădi
-a se înapoia
 a năvăli
-a da îndărăt
 a pătrunde
-a se întoarce
 a precipita
-a recâștiga
 a revărsa
-a redobândi
 a scotoci
-a reintegra
 a sosi
-a se retrage
 a sparge
-a retrograda
 a strecura
-a reveni
 a străbate
-a ricoșa
-a tisni
-a suci
+a ţişni
 a vârî
+
 a cerceta
 a cere
 a chestiona
@@ -7142,27 +8744,49 @@ a interviewa
 a investiga
 a scruta
 a sonda
+
+a se abate
+a se înapoia
+a da îndărăt
+a se întoarce
+a recâştiga
+a redobândi
+a reintegra
+a se retrage
+a retrograda
+a reveni
+a ricoşa
+a suci
+
 anchetă
 chestiune
 chestionar
-interogație
+interogaţie
 interogatoriu
-Inversiune
+
+inversiune
 nostalgie
+
 acces
 admisiune
+
 V, banal
-politeță
+
+politetă
+
+§§----------------------------------------------------------------------
 
 67
-1
+
 INTREG
+
 INUTIL
+
 absolut
 adecuat
 complet
 deplin
-desăvârșit
+desăvârşit
 intact
 integral
 ireductibil
@@ -7170,25 +8794,27 @@ perfect
 plenar
 plin
 radical
-sfârșit
+sfârşit
 terminal
 total
+
 nourat
 obscur
 opac
 posomorât
 profund
 spălăcit
-șters
+şters
 sombru
 sumbru
 turbure
 umbrit
 vag
 vânăt
+
 caduc
 de prisos
-deșert
+deşert
 formalist
 găunos
 gol
@@ -7208,22 +8834,25 @@ sterp
 superfluu
 van
 zadarnic
+
 a consuma
 a epuiza
 a îndeplini
 a integra
 a umple
+
 a dibui
 a înneca
 a întuneca
-a înfășura
+a înfăşura
 a învălui
-a inveseli
-à masca
+a înveseli
+a masca
 a orbi
 a orbocăi
 a păinjini
 a stinge
+
 ansamblu
 bloc
 complement
@@ -7233,30 +8862,36 @@ plenitudine
 quantum
 tot
 totalitate
-deșertăciune
+
+deşertăciune
 expirare
 inanitate
 inutilitate
 vid
-__v.__ favoare
+
+V. favoare
+
 fecund
 util
-V, a divide
-CE
-A INVATA
+
+V. a divide
+
 INTUNECOS
+
+A INVATA
+
 beznă
 amurg
-ceață
+ceată
 crepuscul
-desis
+desiş
 eclipsă
 frunzar
-frunziș
+frunzis
 întunecime
 întuneric
 negreală
-negreață
+negreaţă
 negură
 noapte
 nor
@@ -7268,11 +8903,13 @@ perdea
 quiproquo
 stor
 tăinită
-văl
+vål
 woal
+
 erudit
 expert
 savant
+
 adânc
 adumbrit
 ascuns
@@ -7286,6 +8923,7 @@ mohorât
 negricios
 negru
 nocturn
+
 a arăta
 a dresa
 a îndemna
@@ -7294,45 +8932,57 @@ a instrui
 a lumina
 a profesa
 a sfătui
+
 artă
 
+§§----------------------------------------------------------------------
+
+---
+
 68
+
+1
+
 autor
 cercetător
 inovatie
-Inspiratie
+Inspirație
 noutate
-novațiune
+novaţiune
 novator
+
 mieros
 mincinos
 necinstit
 perfid
-plezis
+pieziş
 prefăcut
 prevaricator
 retoric
-șiret
+şiret
 viclean
-__v.__ asemănător
+
+V. asemănător
+
 obiceiu
-carte
+
+varte
 cirac
 cunostinte
 discipol
-doctrina
+doctrină
 educație
 elev
-formațiune
-învățăcel
-învățător
+formaţiune
+învăţăcel
+învăţător
 învățământ
 maestru
 metodă
 novice
-povață
+povată
 practică
-preparație
+preparatie
 principii
 sistem
 stagiu
@@ -7340,7 +8990,9 @@ studiu
 teorie
 recrut
 ucenic
+
 INVIZIBIL
+
 absent
 Imperceptibil
 indistinct
@@ -7350,26 +9002,31 @@ microscopic
 nevăzut
 nezărit
 tainic
+
 a amăgi
 a contraface
 a disimula
-a înșela
+a înşela
 a insinua
 a întortochia
-a se maimuțări
-a pungăși
+a se maimuţări
+a pungăşi
 a simula
 a trăda
-__v.__ ignoranță
+
+V. ignoranță
+
 uitare
+
 a acoperi
 a ascunde
 a dispare
 a eclipsa
 a lipsi
 a masca
-а pieri
+a pieri
 a piti
+
 comediant
 duplicitate
 fariseu
@@ -7378,21 +9035,30 @@ insinuare
 Iuda
 mască
 motan
-șarlatan
+şarlatan
+
 INVENTIUNE
+
 abil
 fertil
 fecund
 imaginativ
 inventiv
-__v.__ a proba
+
+V. a proba
+
 a vedea
-__v.__ adevăr
+
+V. adevăr
+
 onest
 scrupul
 sincer
+
 IPOCRIZIE
+
 IPOTEZA
+
 a breveta
 a concepe
 a crea
@@ -7402,29 +9068,31 @@ a găsi
 a imagina
 a închipui
 a inventa
-a minti
+a minţi
 a născoci
 a plănui
 a plăsmui
 a scorni
 a zămisli
+
 ademenitor
 artificial
 ascuns
-falș
+falş
 fariseic
-fățarnic
+făţarnic
 felon
 hain
 insidios
 ipocrit
 iezuit
 machiavelic
-mâță blândă
-meșteșugit
+mâţă blândă
+meşteşugit
+
 arbitral
 conjectural
-în doelnic
+îndoelnic
 îndoios
 întâmplător
 ipotetic
@@ -7435,18 +9103,24 @@ probabil
 problematic
 verosimil
 
+§§----------------------------------------------------------------------
+
 69
+
 A IUBI
+
 virtual
+
 a crede
-a eșafoda
+a eşafoda
 a imagina
 a închipui
 a infera
 a opina
 a presupune
+
 a se înflăcăra
-a se înfrăți
+a se înfrăţi
 a se înhăita
 a fi intim
 a se învoi
@@ -7459,16 +9133,20 @@ a pretui
 a simpatizo
 a slăvi
 a se uni
+
 bănuială
 conjectură
 eventualitate
-inducțiune
-prezumpție
-supoziție
-__v.__ certitudine
+inducţiune
+prezumpţie
+supoziţie
+
+V. certitudine
+
 a proba
 rezultat
-ufectiv
+
+afectiy
 afectuos
 amical
 aprins
@@ -7489,7 +9167,7 @@ fanatic
 fervent
 fidel
 fierbinte
-înduioșător
+înduioşător
 înfocat
 inseparabil
 însuflețit
@@ -7497,19 +9175,22 @@ intim
 iubit
 iubitor
 neclintit
-nedespărțit
+nedespărţit
 plăcut
-prețios
+preţios
 prietenesc
 prietenos
 scump
 sensibil
 simțitor
 statornic
+
 ISPITA
+
 agreabil
 captivant
 plăcut
+
 a ademeni
 a amăgi
 a atrage
@@ -7522,16 +9203,17 @@ a orbi
 a seduce
 a tenta
 a vrăji
+
 acord
-afecțiune
+afecţiune
 altruism
 amor
 chemare
 cult
 diletantism
-dispoziție
+dispozitie
 dragoste
-drăguț
+drăguţ
 favorit
 idol
 idolatrie
@@ -7543,23 +9225,25 @@ plăcere
 pornire
 potrivire
 precădere
-predilecție
-preferință
-relație
+predilectie
+preferinţă
+relatie
 sentiment
 simpatie
 solicitudine
 stimă
 talent
 uniune
-vocațiune
+vocaţiune
+
 dor
-dorință
+dorinţă
 invidie
 obsesiune
 poftă
 sugestie
-tentatie
+tentație
+
 a adora
 a aprecia
 a se entuziasma
@@ -7569,37 +9253,47 @@ a îndrăgi
 a se închina
 a înclina
 a înduioșa
-aînebuni după
-__v.__ desgust
+a înebuni după
+
+V. desgust
+
 neplăcut
 urât
-__v.__ desgust
+
+V. desgust
+
 dispret
 mizantropie
-11ră
+ură
+
+§§----------------------------------------------------------------------
 
 - 70
+
+-
+
 IUTE
+
 zel
-__v.__ inacțiune
+
+1
+
+JAF
+
+V. inacţiune
+
 durată
 moderat
 moliciune
 târziu
-JAP .
+
 A SE IVI
-a-și apropria
-a deposeda
-a desbrăca
-a despuia
-a devasta
-a frustra
-a-și însuși
+
 agil
 aprig
 brusc
 curând
-cursiv
+cursiy
 deodată
 expeditiv
 focos
@@ -7623,6 +9317,7 @@ trecător
 urgent
 vertiginos
 vioiu
+
 a apare
 a se arăta
 a asista
@@ -7630,30 +9325,44 @@ a compare
 a se distinge
 a se desprinde
 a figura
-a se înfățișa
+a se înfăţişa
 a izbucni
 a miji
 a se prezenta
 a răsări
 a se ridica
-a țișni
+a ţişni
 a veni
+
+a-şi apropria
+a deposeda
+a desbrăca
+a despuia
+a devasta
+a frustra
+a-şi însuşi
 a jefui
 a lua
 a prăda
 a pustii
 a răpi
 a spolia
+
 escrocherie
 furt
 spargere
 trofeu
-__v.__ a da
+
+V. a da
+
 dar
+
 A JUDECA
+
 arbitral
 critic
 paradoxal
+
 a accelera
 a activa
 a atâta
@@ -7661,8 +9370,9 @@ a se impacienta
 a improviza
 a sbura
 a zori
+
 aer
-apariție
+apariţie
 aspect
 chip
 ecloziune
@@ -7670,20 +9380,21 @@ fază
 fel
 imagine
 început
-înfățișare
-proeminență
-prezență
+înfăţişare
+proeminentă
+prezenţă
 prezentare
-priveliște
+privelişte
 semnalmente
 suprafață
 teofanie
 vedere
+
 cursă
-diligență
+diligentă
 galop
 grabă
-iuteală
+iuţeală
 nerăbdare
 precipitare
 repeziciune
@@ -7691,6 +9402,7 @@ stenografie
 tahigrafie
 tahimetru
 viteză
+
 a adopta
 a aprecia
 a arbitra
@@ -7708,33 +9420,43 @@ a evalua
 a estima
 a experti27
 a gândi
-__v.__ absență
+
+V. absență
+
 ascuns
 invizibil
 necunoscut
 nimic
 secret
 
+§§----------------------------------------------------------------------
+
 71
+
+a găsi
+a hotărî
+
 ovațiune
 panegiric
 portret avantajos
-a găsi
-a hotări
-a împărtăși
-a împărți
+
+V. dezaprobare
+
+dispreț
+mustrare
+
+a împărtăşi
+a împărţi
 a infirma
 a măsura
 a opina
-a pretui
-a pronunța
-a se pronunta
+a preţui
+a pronunta
+a se pronunţa
 a rândui
 a socoti
 a statua
-__v.__ dezaprobare
-dispret
-mustrare
+
 incoruptibil
 integru
 întemeiat
@@ -7751,42 +9473,53 @@ potrivit
 scrupulos
 temeinic
 vrednic
+
 LEGATURA
+
 aviz
 criteriu
+
 gust
+
+V. nedrept
+
 judecată
 părere
-sentință
+sentinţă
 teză
 verdict
-V nedrept
+
+L
+
 a atârna
-a atașa
+a ataşa
 a cupla
-a hârțui
+a hârţui
 a împerechia
-a împreuna
-a încătușa
+a impreuna
+a încătuşa
 a închinga
 a încinge
 a înfrâna
-a înlănțui
+a înlănţui
 a înnoda
 a lega
-a menține
+a mentine
 a păstra
 a prinde
 a strânge
 a susține
 a uni
-L
+
 A LAUDA
+
 JUNE
+
 ditirambic
 elogios
 lăudăros
 laudativ
+
 fraged
 imberb
 juvenil
@@ -7794,15 +9527,16 @@ tânăr
 tinerel
 adolescent
 băiat
-băiețandru
+băieţandru
 efeb
 fată
 flăcău
 minor
 paj
 primăvară
-tinerete
-a aplauda.
+tinereţe
+
+a aplauda
 a consacra
 a complimenta
 a diviniza
@@ -7811,17 +9545,18 @@ a se făli
 a felicita
 a glorifica
 a se gudura
-a linguși
+a linguşi
 a măguli
-a proslăvi
+a proslavi
 a preconiza
 a recomanda
 a slăvi
 a tămâia
+
 centură
 crampon
 funie
-impreuna
+împreună
 jug
 ligament
 ligatură
@@ -7829,11 +9564,14 @@ mănunchiu
 nod
 scaiu
 uniune
+
 JUST
-__v.__ a desface
+
+V. a desface
+
 libertate
 a sfărâma
-ร
+
 auster
 conștiincios
 cuvenit
@@ -7841,19 +9579,26 @@ demn
 drept
 echitabil
 fundat
-impartial
+imparţial
+
 LESNE
-aclamatie
-adulatie
+
+aclamaţie
+adulație
 adulator
-apologic
+apologie
 fală
+
 abordabil
 accesibil
-clar
+Clar
+
+§§----------------------------------------------------------------------
 
 72
+
 a slobozi
+
 comod
 elementar
 executabil
@@ -7864,13 +9609,26 @@ posibil
 practicabil
 realizabil
 simplu
-ușor
+uşor
+
 emancipare
 liberare
-licență
+licenţă
 permisiune
 relaxare
-vacanță
+vacanţă
+
+V. imobil
+
+legătură
+obligaţiune
+măsură
+
+a aplana
+a facilita
+a înlesni
+a simplifica
+
 blajin
 blând
 calm
@@ -7881,39 +9639,16 @@ flegmatic
 impartial
 imperturbabil
 indiferent
-înțelept
-__v.__ imobil
-legătură
-obligațiune
-măsură
-a aplana
-a facilita
-a înlesni
-a simplifica
-LICENTA
-facultate
-îndemânare
-înlesnire
-latitudine
-ușurință
-abuziv
-decoltat
-desfrânat
-imoral
-indecent
-excesiv
-libertin
-libidinos
-fără măsură
+înţelept
 lent
 moderat
 moale
 nepărtinitor
-nesimțitor
+nesimţitor
 neturburat
 neutru
 pacificator
-pașnic
+paşnic
 placid
 potolit
 rece
@@ -7921,14 +9656,37 @@ sedativ
 sigur
 stoic
 tăcut
-__v.__ dificultate
+
+LICENȚA
+
+facultate
+îndemânare
+înlesnire
+latitudine
+uşurinţă
+
+abuziv
+decoltat
+desfrânat
+imoral
+indecent
+excesiv
+libertine
+libidinos
+fără măsură
+
+V. dificultate
+
 opunere
+
 LIBERTATE
+
 autonom
 independent
 neatârnat
 neîmpiedecat
 nestingherit
+
 abuz
 crailâc
 dezordine
@@ -7938,18 +9696,20 @@ neorânduială
 orgii
 perversiune
 saturnale
-vitiu
+vițiu
+
 a alina
 a împăca
-a împăciul
-a înăbuși
+a împăciui
+a înăbuşi
 a îndulci
-a liniști
+a linişti
 a neutraliza
 a pacifica
 a restabili
 a se stăpâni
-a ușura
+a uşura
+
 a se cotorosi
 a da drumul
 a se debarasa
@@ -7957,63 +9717,75 @@ a debloca
 a degaja
 a se desbăra
 a se descotorosi
-a descătușa
-a deslănțui
+a descătuşa
+a deslăntui
 a deslega
 a despresura
 a desrobi
 a destinde
-a detașa
+a detaşa
 a libera
 a scăpa
 a slăbi
-__v.__ auster
+
+V. auster
+
 îngrijit
 moderat
 ordine
-pocăință
+pocăinţă
 pudoare
 respect
 scrupul
 timid
+
 acalmie
 curaj
 dezinvoltură
-inacțiune
+inacţiune
 moliciune
 pace
 reculegere
 resemnare
 sânge rece
 securitate
-siguranță
+siguranţă
+
 LINISTIT
-așezat
+
+aşezat
 asigurat
 
+§§----------------------------------------------------------------------
+
 73
-1
+
 seninătate
-__v.__ capriciu
+
+V. capriciu
+
 curios
-excitație
+excitaţie
 mânie
-revoluție
+revoluţie
+
 penurie
-privațiune
+privaţiune
 rabat
 raritate
-reticență
+reticenţă
 sărăcie
 scădere
-șomaj
-subînțeles
+şomaj
+subînţeles
 sustragere
 tăcere
 trădare
 uitare
 văduvie
+
 LIPSA
+
 ascuns
 deposedat
 despuiat
@@ -8022,15 +9794,16 @@ jupuit
 imperfect
 incomplet
 infidel
+
 difuziune
-difractiune
+difracţiune
 foc
 fotofobie
 fotometrie
 fotosferă
 halo
-interferență
-irizație
+interferenţă
+irizaţie
 licurici
 litofanie
 luciu
@@ -8038,32 +9811,40 @@ lustru
 reflector
 reflex
 reflexiune
-reverberație
+reverberaţie
 transparentă
 răsărit
 strălucire
 zorile
-__v.__ a avea
-bogăție
+
+V. a avea
+
+bogăţie
 mult
 prea
-prezență
+prezenţă
+
 LUMINA
+
 a se abține
 a escamota
 a frustra
 a goli
-a înțărca
+a întărca
 a posti
 a seca
 a suprima
 a sustrage
-__v.__ întunecos
+
+V. întunecos
+
 sters
+
 LUNG-LUNGIME
+
 diafan
 fosforescent
-fotogenic
+fotogenic -
 fulgurant
 fulminant
 orbitor
@@ -8071,28 +9852,41 @@ radios
 refringent
 străvăzător
 străveziu
-abstinență
+
+abstinenţă
 bancrută
-contracțiune
+contracţiune
 defect
-defecțiune
-deficiență
-deșeu
+defecţiune
+deficienţă
+deşeu
 detriment
 deziderat
 dietă
 eliziune
 foamete
-indigență
-insuficiență
+indigenţă
+insuficienţă
 întrerupere
-lacună
+lacuna
 neajuns
-neglijență
+neglijenţă
 neexecutare
 nevoie
 omisiune
 pierdere
+
+a aprinde
+a ilumina
+a iradia
+a licări
+a lumina
+a oglindi
+a reflecta
+a refracta
+a resfrânge
+a sclipi
+
 difuz
 fastidios
 inepuizabil
@@ -8107,28 +9901,11162 @@ nesecat
 nesleit
 prelung
 prolix
-a aprinde
-a ilumina
-a iradia
-a licări
-a lumina
-a oglindi
-a reflecta
-a refracta
-a resfrânge
-a sclipi
+
 actinometrie
 amurg
 aureolă
 clar-obscur
 crepuscul
 curcubeu
+
 a adăogi
-a întinde
+9 întinde
 a lungi
 a măsura
 a prelungi
 a proiecta
 a trage
+
 apendice
+
+§§----------------------------------------------------------------------
+
+74
+
+dimensiune
+durată
+extensiune
+mărime
+parametru
+supliment
+
+războiu
+retragere
+rival
+soldat
+succes
+trântă
+victorie
+
+ursitoare
+vraciu
+vrăjitor
+vrăjitorie
+virtute magica
+zână
+zodie
+
+V. mic
+
+precis
+
+MAI
+
+V. asociat
+
+inacţiune
+
+LUPTA
+
+- M
+
+MAGIE
+
+a ataca
+a se bate
+a da bătălie
+a birui
+a boxa
+a se certa
+a combate
+a fugi
+a se hărţui
+a înfrânge
+a înfrunta
+a se întâlni
+a se întrece
+a izbândi
+a se izpi
+a se lovi
+a se măsura
+
+a conjura
+a descânta
+a evoca
+a fermeca
+a ursi
+a vrăji
+
+aditional
+aluvial
+augmentativ
+mai bine
+complementar
+dincolo
+excesiv
+extensiv
+mai mult
+peste
+în plus
+prea
+prisos
+superior
+superlativ
+suplimentar
+supranumerar
+ultra
+
+adversar
+asalt
+avantaj
+bătaie
+bătălie
+box
+ciocnire
+combatant
+competitie
+concurenţă
+conflict
+debandadă
+dezastru
+duel
+Inamic
+încăerare
+învălmăşală
+insucces
+nereuşită
+panică
+pugilat
+
+alchimie
+alchimist
+amuletă
+baghetă
+cabală
+conjuraţie
+descântec
+fantomă
+farmece
+filtru
+ghicitor
+gnom
+halucinatie
+Ielele
+Jettatura
+leacuri
+miracol
+necromanție
+ştiinte oculte
+oroscop
+profet
+Sabat
+sibilă
+spectru
+spirit
+talisman
+taumaturg
+ursită
+
+a accentua
+a achiziţiona
+a adăoga
+a adăogi
+a aduna
+a agonisi
+a agrava
+a amplifica
+a anexa
+a augmenta
+a avantaja
+a câştiga
+a completa
+a covârşi
+a creşte
+a depăşi
+a desăvârşi
+a desfăşura
+a desvolta
+a dubla
+a excede
+a extinde
+
+§§----------------------------------------------------------------------
+
+75
+
+sufix
+supleant
+supliment
+supraofertă
+
+remaniere
+revizie
+vindecare
+
+V. mai rău
+
+v. mai puțin
+
+prea
+
+MAI PUTIN
+
+MAI BINE
+
+de preferinţă
+preferabil
+progresiv
+superior
+superlativ
+
+a împinge
+a împlini
+a împrospăta
+a înnădi
+a înălţa
+a îndoi
+a îngroşa
+a înmulţi
+a înrăi
+a se înrăutăţi
+a întări
+a înteţi
+a întinde
+a întrece
+a întregi
+a lăţi
+a licita
+a lungi
+a mări
+a multiplica
+a precede
+a prelungi
+a prisosi
+a profita
+a progresa
+a propăşi
+a repeta
+a ridica
+a spori
+a supralicita
+a umfla
+a urca
+
+absent
+corectiv
+defectuos
+grosolan
+imperfect
+incomplect
+inferior
+inform
+insuficient
+mai prejos
+neisprăvit
+neterminat
+paliativ
+cel puțin
+restrictiv
+rezervat
+subaltern
+
+a ameliora
+a cârpi
+a ciopli
+a cizela
+a corecta
+a corija
+a desăvârşi
+a drege
+a îmbunătăţi
+a împodobi
+a înfrumuseta
+a se întrema
+a înviora
+a limpezi
+a lustrui
+a perfecţiona
+a polei
+a prelucra
+a primeni
+a promova
+a purifica
+a rectifica
+a reface
+a reforma
+a regenera
+a reînnoi
+a renova
+a reorganiza
+a repara
+a restabili
+a restaura
+a retusa
+
+adaos
+aluviune
+afix
+anexă
+apendice
+bonificație
+complement
+diferenţă
+excedent
+exces
+majorație
+majoritate
+maximum
+plus
+plus-valută
+pluralitate
+prefix
+progresiune
+
+a atenua
+a avorta
+a ciunti
+a constrânge
+a cruţa
+a decădea
+a degrada
+a deprecia
+a descreşte
+a deserta
+a desfiinţa
+a dezavantaja
+a economisi
+a elimina
+a epuiza
+a goli
+a împuțina
+a înfrâna
+a îngusta
+a lipsi
+a lua
+a menaja
+a micşora
+a modera
+a mutila
+
+ajustare
+amendament
+
+§§----------------------------------------------------------------------
+
+76
+
+vacanţă
+
+MANIERA
+
+a omite
+a păgubi
+a palia
+a pieri
+a potoli
+a prăpădi
+a prescurta
+a reduce
+a restrânge
+a roade
+a scădea
+a scăpăta
+a schilodi
+a iţa
+a scoate
+a scoborî
+a scoroji
+a scurta
+a seca
+a sfârşi
+a slăbi
+a slei
+a strânge
+a subordona
+a subţia
+a sustrage
+a tempera
+a trunchia
+a uita
+a uşura
+
+V. extensiune
+
+acţiune
+mult
+
+aer
+
+apucături
+MAI RAU
+
+aparenţă
+
+aranjament
+inferior
+
+aspect
+mai prejos
+
+cale
+pejorativ
+
+calitate
+
+caracter
+a agrava
+
+chip
+a altera
+
+conduită
+a corupe
+
+croială
+a corci
+
+dispozițiune
+a dăuna
+
+fason
+a decădea
+
+fel
+a degenera
+
+figură
+a degrada
+
+formă
+a deteriora
+
+formulă
+a îngreuia
+
+gen
+a înjosi
+
+înfăţişare
+a înrăutăţi
+
+manoperă
+a istovi
+
+manevră
+a mânji
+
+mers
+a moleşi
+
+metodă
+a murdări
+
+mijloc
+a necinsti
+
+mină
+a păgubi
+
+mod
+a pângări
+
+natură
+a periclita
+
+obiceiu
+a perverti
+
+ordine
+a pieri
+
+plan
+a poci
+
+port
+a se prăpădi
+
+procedeu
+a profana
+
+program
+a scăpăta
+
+purtare
+a strica
+
+rânduială
+a terfeli
+
+rețetă
+a urâți
+
+resursă
+a viția
+
+secret
+
+şiretlic
+decadentă
+
+sistem
+declin
+
+soiu
+putreziciune
+
+specie
+rău
+
+stratagemă
+ruină
+
+tactică
+din Scyla în Cha- tertip
+rybda
+
+ţinută
+
+titlu
+V, mai bine
+
+turnură
+
+contracțiune
+cusur
+decadenţă
+declin
+deficit
+detriment
+diminuțiune
+eufemism
+foamete
+gaură
+indigenţă
+lacună
+lipsă
+minimum
+minoritate
+penurie
+privatiune
+rabat
+restricţiune
+scăzământ
+
+§§----------------------------------------------------------------------
+
+- 77
+
+-
+
+MAJESTATE
+
+august
+boer
+emfatic
+falnic
+grandios
+impozant
+impunător
+magnific
+magistral
+mărinimos
+maiestos
+nobil
+solemn
+superb
+a domni
+
+intolerabil
+insuportabil
+întepat
+irascibil
+iritabil
+iritant
+mânios
+morocă nos
+năbădăios
+năpraznic
+neastâmpărat
+neaşteptat
+necăjit
+nepoliticos
+nerăbdător
+palid
+posac
+posomorât
+roşu
+sensibil
+supărat
+supărăcios
+susceptibil
+țâfnos
+turbat
+ursuz
+veninos
+violent
+
+a izbucni
+a jigni
+a maltrata
+a mânia
+a mârâi
+a mustra
+a ocărî
+a ofensa
+a pişca
+a plictisi
+a provoca
+a răscula
+a răsvrăti
+a reproşa
+a ridica
+a sâcâi
+a sfida
+a sgâltâi
+a spumega
+a stârci
+a sufoca
+a surexcita
+a tărbăci
+a trezi
+a turba
+a vexa
+
+alaiu
+aureolă
+boer
+demnitate
+fast
+glorie
+măreție
+mărire
+orgoliu
+pompă
+prestanţă
+prestigiu
+splendoare
+strălucire
+ținută
+tron
+
+V. unil
+
+MANIE
+
+acru
+amărât
+aprins
+aspru
+brusc
+foc şi pară
+furibund
+furios
+gâdilicios
+îmbufnat
+înfuriat
+întărâtat
+
+a agasa
+a ațâța
+a cicăli
+a descărca
+a deslănţui
+a deştepta
+a dojeni
+a enerva
+a exaspera
+a excita
+a se formaliza
+a se impacienta
+a imputa
+a înăcri
+a înăspri
+a indigna
+a înflăcăra
+a înfrunta
+a însufleți
+a insulta
+a întărâta
+a irita
+
+acces
+atac
+bilă
+ciuda
+criză
+delir
+dezacord
+explozie
+fiere
+frecus
+gâlceavă
+ghiont
+ieșire
+iritaţie
+învierşunare
+năzbâtie
+paroxism
+pică
+pumn
+resentiment
+revoltă
+ruptură
+săpuneală
+scenă
+
+§§----------------------------------------------------------------------
+
+78
+
+ură
+
+V. liniştit
+
+moderat
+
+crescendo
+extensiune
+Goliat
+spatiu
+statură
+talie
+
+MANTUIRE
+
+V. mic
+
+nevătămat
+priincios
+salutar
+zdravăn
+
+MARTOR
+
+a apăra
+a cotorosi
+a desbăra
+a desrobi
+a feri
+a izbăvi
+a libera
+a mântui
+a prezerva
+a restabilt
+a salva
+a scuti
+a slobozi
+a tămădui
+a vindeca
+
+încăpător
+incomensurabil
+îndelungat
+inefabil
+inexprimabil
+infinit
+însemnat
+intens
+intensiv
+interminabil
+întins
+lllâu
+larg
+lat
+lung
+lungan
+fără margint
+măricel
+monumental
+peste măsură
+mult
+nelimitat
+nemărginit
+nemăsurat
+neprecis
+nesfârşit
+nespus
+notabil
+puternic
+spațios
+tare
+urias
+vag
+vast
+
+martor autorizat
+martor cumpărat
+martor fals
+martor mincinos
+martor plătit
+mărturie covârşi-
+
+toare
+mărturie zdro-
+
+bitoare
+probant
+testimonial
+veridic
+
+scăpare
+ex voto
+
+a atesta
+a audia
+a certifica
+a confrunta
+a depune
+a garanta
+a invoca
+a jura
+a mărturisi
+a protesta
+a recuza
+
+V. nenorocire
+
+periculos
+sacrificiu
+a vătăma
+
+MARE
+
+amplu
+bogat
+ciclopic
+colosal
+considerabil
+deşelat
+enorm
+gigantic
+grandios
+important
+îmbelşugat
+imens
+inalt
+
+a augmenta
+a creşte
+a desfăşura
+a desvolta
+a exagera
+a înălța
+a îngroşa
+a întinde
+a mări
+a prelungi
+a ridica
+a spori
+a urca
+
+adeverinţă
+confesiune
+demonstraţie
+declaraţie
+dovadă
+mărturie
+prezență
+probă
+versiune
+
+MĂSURA
+
+amploare
+ascensiune
+
+comensurabil
+imens
+indefinit
+
+§§----------------------------------------------------------------------
+
+79
+
+1
+
+1
+
+nedefinit
+nedeterminat
+nehotărît
+nelimitat
+nemărginit
+nesfârşit
+
+metraj
+perimetru
+planimetru
+porţie
+profunzime
+punct
+raţie
+suprafaţă
+talie
+treaptă
+voltaj
+volum
+
+comemorare
+hypermnesie
+lapsus
+memento
+memorandum
+memorial
+mnemotechnică
+reminiscenţă
+suvenir
+
+a cuprinde
+a defini
+a determina
+a doza
+a evalua
+a extinde
+a limita
+a mărgini
+a raționa
+
+V. absenţă
+
+uitare
+
+MEMORIE
+
+MIC
+
+comemorativ
+memorabil
+mnemonic
+m. auditivă
+m. locală
+m. infidelă
+m. promptă
+m. rebelă
+m. scurtă
+m. tenace
+m. vizuală
+papagaliceşte
+
+arpentaj
+altimetru
+cadastru
+calibru
+cantitate
+capacitate
+conținut
+contur
+cubaj
+cuprins
+dara
+depărtare
+dimensiune
+distanţă
+dosar
+doză
+etalon
+etiaj
+extensiune
+format
+grad
+greutate
+grosime
+
+a aminti
+a evoca
+a imortaliza
+a învăța
+a perpetua
+a reaminti
+a recita
+a recunoaşte
+a reîmprospăta
+a reînvia
+a rememora
+a reţine
+a reveni
+a suscita
+a fine minte
+a trezi
+
+atomic
+bondoc
+chircit
+concis
+corpuscular
+delicat
+diminutiv
+efemer
+embrionar
+filiform
+fin
+impalpabil
+imperceptibil
+imponderabil
+înăbuşit
+infir
+infinitesimal
+îngust
+jigărit
+laconic
+liliputan
+mărginit
+mărunt
+mediocru
+meschin
+meticulos
+microscopic
+micut
+migălos
+minim
+minor
+minuscul
+modest
+molecular
+momentan
+neînsemnat
+
+înălțime
+întindere
+jalon
+lărgime
+lățime
+linie
+litru
+lungime
+mărime
+metru
+
+aducere aminte
+album
+agendă
+amintire
+amnesie
+carnet
+
+§§----------------------------------------------------------------------
+
+80
+
+1
+
+a îndupleca
+a menaja
+a mişca
+
+bunătate
+îndurare
+milostenie
+pomană
+
+bob
+detaliu
+element
+fărâmă
+fir
+fleac
+gânganie
+lepădătură
+lipsă
+mărunțiş
+microb
+miniatură
+modicitate
+moleculă
+nimic
+pic
+picătură
+piciu
+pigmeu
+pitic
+prichindel
+Spiriduş
+stârpitură
+strop
+vierme
+
+nepretentios
+pipernicit
+pirpiriu
+pitic
+plăpând
+precar
+precis
+provizoriu
+puțin
+redus
+restrictiv
+scund
+slab
+slăbut
+Spiridus
+strâmt
+strâns
+şubred
+subțire
+subțirel
+succint
+sugrumat
+sumar
+svelt
+ticsit
+temporar
+tranzitoriu
+trecător
+vremelnic
+
+V. cruzime
+
+insensibil
+sever
+ură
+
+A MINTI
+
+fals
+inexact
+ipocrit
+neadevărat
+
+V. mare
+
+MILA
+
+a altera adevărul
+a amăgi
+a ascunde
+a deghiza adevărul
+a denatura
+a imagina
+a închipui
+a induce în eroare
+a înşela
+a inventa
+a mistifica
+a născoci
+a păcăli
+a se preface
+
+a condensa
+a constrânge
+a diminua
+a fragmenta
+a împuțina
+a îndesa
+a înjosi
+a limita
+a micşora
+a prescurta
+a reduce
+a restrânge
+a rezuma
+a sbârci
+a scurta
+a se sfriji
+a se sgribuli
+
+accesibil
+bun
+caritabil
+îndurător
+jalnic
+milos
+milostiv
+mizericordios
+
+a compătimi
+a cruţa
+a deplânge
+a deplora
+a economisi
+a emoționa
+a favoriza
+a grația
+a ierta
+a îmblânzi
+a înduiosa
+
+basm
+fabulă
+fanfaron
+ficțiune
+iluzie
+impostură
+lăudăros
+minciună
+neadevăr
+palavragiu
+şarlatan
+
+abreviațiune
+amănunt
+atom
+
+V. adevăr
+
+scrupul
+sincer
+
+§§----------------------------------------------------------------------
+
+81
+
+1
+
+MIRARE
+
+paradoxal
+particular
+fără pereche
+fără precedent
+prestigios
+prodigios
+rar
+singular
+straniu
+stupid
+subit
+supranatural
+surprinzător
+uimitor
+uluitor
+unic
+fără veste
+
+neplăcut
+pătrunzător
+pestilential
+pişcător
+plăcut
+puturos
+suay
+sufocant
+tenace
+
+absurd
+din cale afară
+aiurit
+anormal
+baroc
+bizar
+caraghios
+ciudat
+cumplit
+curios
+deosebit
+excentric
+exceptional
+extraordinar
+extravagant
+fabulos
+fenomenal
+fermecător
+grozav
+hazliu
+împietrit
+improbabil
+încremenit
+inlemnit
+inopinat
+înmărmurit
+insolit
+magic
+minunat
+de minune
+
+admirație
+anomalie
+magician
+minunăţie
+năzbâtie
+năzdrăvănie
+prestidigitator
+scamator
+stupefacţie
+stupoare
+taumaturg
+vrăjitor
+
+a absorbi
+a aromatiza
+a aspira
+a bate
+a degaja
+a dezinfecta
+a duhni
+a emana
+a exala
+a îmbălsăma
+a îmbiba
+a impregna
+a împuți
+a infesta
+a izvorî
+a otrăvi
+a parfuma
+a pătrunde
+a puţi
+a râncezi
+a răspândi
+a răsufla
+a simţi
+a sufla ,
+
+V. liniştit
+
+obiceiu
+simplu
+şters
+
+MIROS
+
+miraculos
+mirat
+mirific
+monstruos
+năprasnic
+neaşteptat
+neauzit
+de necrezut
+de neconceput
+de neînchipuit
+de neînţeles
+nemaiauzit
+nemaivăzut
+neobişnuit
+neprevăzut
+neuzitat
+neverosimil
+no17
+original
+
+aromatic
+delicios
+fetid
+fezandat
+gretos
+îmbătător
+infect
+inodor
+înţepător
+mefitic
+olfactiv
+odorant
+odorifer
+
+abur
+anosmie
+aromă
+balsam
+buchet
+efluvii
+esență
+extract
+iz
+miasmă
+mireasmă
+mirodenie
+nas
+odorat
+parfum
+putreziciune
+
+6
+
+§§----------------------------------------------------------------------
+
+82
+
+1
+
+MIŞCARE a cădea
+
+a călători
+agil
+
+a ciocni
+automatic
+
+a clătina
+centrifug
+
+a coborî
+centriped
+
+a coti
+circulator
+
+a se cufunda
+convulsiv
+
+a se cutremura
+energic
+
+a cumpăni
+furtunos
+
+a curge
+giratoriu
+
+a dansa
+grav
+
+a deplasa
+impetuos
+
+a deschide
+impulsiv
+
+a descinde
+întretăiat
+
+a deslănțui
+iute
+
+a deslega
+izocron
+
+a se desprinde
+lent
+
+a duco
+mlădios
+
+a evolua
+mobil
+
+a fâlfâi
+nărăvaş
+
+a fluctua
+neastâmpărat
+
+a flutura
+nestatornic
+
+a funcţiona
+puternic
+
+a gâdila
+repede
+
+a gesticula
+sacadat
+
+a grăbi
+sburdalnic
+
+a gravita
+sglobiu
+
+a hâțâi
+spasmodic
+
+a hâţâna
+sprinten
+
+a îmboldi
+succesiv
+
+a îmbrânci
+turbulent
+
+a se impletici
+vertiginos
+
+a se înfiora
+vibratoriu
+
+a înflăcăra
+vijelios
+
+a însufleţi
+vioiu
+
+a întoarce
+vivace
+
+a învârti
+
+a izbi
+a abate
+
+a juca
+a accelera
+
+a legăna
+a accentua
+
+a se legăna
+a acţiona
+
+a mişca
+a activa
+
+a mişuna
+a agita,
+
+a mobiliza
+a alterna
+
+a ondula
+a aluneca
+
+a oscila
+a ameți
+
+a pluti
+a aprinde
+
+a porni
+a atâta
+
+a prăbuşi
+a se avânta
+
+a prăvăli
+a se prăvăli
+
+a răscoli
+a răspândi
+a răsturna
+a răsuci
+a răsvrăti
+a regula
+a repeta
+a retrage
+a rostogoli
+a se rostogoli
+a sălta
+a sări
+a se sbengui
+a sbura
+a scoborî
+a scormoni
+a sdruncina
+a sgâltâi
+a smuci
+a şovăi
+a stimula
+a strâmba
+a sui
+a svâcni
+a svârcoli
+a târî
+a ţopăi
+a tremura
+a tresări
+a tropăi
+a umbla
+a undula
+a urca
+a veni
+a vibra
+a zgudui
+a zori
+
+acţiune
+ascensiune
+automatism
+avans
+contorsiune
+conversiune
+convulsiune
+cursă
+dans
+drum
+elan
+fior
+flux
+
+a balanta
+
+§§----------------------------------------------------------------------
+
+83
+
+1
+
+a profana
+a releva
+
+hieroglife
+magie
+mit
+popă
+preot
+revelație
+secret
+
+maleabil
+maniabil
+mlădios
+moleşit
+neconsistent
+plastic
+spongios
+
+a lichefia
+a malaxa
+a topi
+
+V. obiceiu
+
+simplu
+
+freamăt
+gravitaţiune
+impulsiune
+izocronism
+joc
+locomotiune
+lovitură
+mars
+mers
+metronom
+motor
+navetă
+plecare
+propulsiune
+reflux
+resort
+rotaţiune
+salt
+sincronism
+ȘOC
+sosire
+spasm
+tangaj
+tic
+trambulină
+translație
+tremolo
+trepidatie
+vâltoare
+volbură
+
+MIZANTROPIE
+
+atonie
+flexiune
+lenevire
+molusc
+moliciune
+
+V. tare
+
+MODERAT
+
+blazat
+cumplit
+inadaptabil
+insociabil
+mizantrop
+morocănos
+nesociabil
+pesimist
+posac
+sălbatec
+solitar
+straşnic
+urs
+ursuz
+
+calm
+circumspect
+cuminte
+cumpănit
+cumpătat
+discret
+echilibrat
+liniştit
+mediocru
+modest
+ponderat
+potrivit
+puțin
+mai puțin
+rezervat
+serios
+
+V. imobil
+
+deziluzie
+ipocondrie
+melancolie
+
+MISTER
+
+V. afabil
+
+bun
+a iubi
+
+MOALE
+
+ascuns
+enigmatic
+impenetrabil
+legendar
+misterios
+mistic
+nepătruns
+obscur
+pe sub mână
+pe tăcute
+tacit
+tainic
+
+a se înfrâna
+a reprima
+a se reține
+a tempera
+
+afânat
+destins
+ductil
+flasc
+fleşcăit
+flexibil
+fraged
+fuzibil
+lăbărţat
+mălăet
+
+măsură
+moderaţie
+
+a destăinui
+a iniția
+a pângări
+
+V. avid
+
+licență
+mai
+mult
+
+§§----------------------------------------------------------------------
+
+84
+
+MOLICIUNE
+
+toropeală
+
+V. forţă
+
+putere
+
+parastas
+pomelnic
+requiem
+relicvie
+sfârşit
+sicriu
+sinucidere
+stâry
+
+MORT
+
+V. viu
+
+A MUIA
+
+alene
+adormit
+apatic
+blajin
+blând
+bleg
+prea bun
+de ceară
+domol
+flasc
+flegmatic
+fleşcăit
+încet
+indolent
+inofensiv
+leneş
+lent
+limfatic
+maleabil
+mălăet
+melc
+molatic
+molâu
+slab
+tembel
+trândav
+fără vlagă
+
+cadaveric
+defunct
+in extremis
+funebru
+macabru
+mortuar
+muribund
+neînsufleţit
+postum
+răposat
+rigid
+secerat
+
+apos
+diluat
+hidratat
+hidrofil
+hidrofug
+higroscopic
+igrasios
+jilav
+leoarcă
+lichid
+permeabil
+spongios
+ud
+umed
+
+a deceda
+a dispărea
+a expira
+a horcăi
+a înmormânta
+a incinera
+a înhuma
+a muri
+a omorî
+a da ortul popii
+a pieri
+a-şi da sufletul
+a se prăpădi
+a se stinge
+a succmba
+
+a ceda
+a îmblânzi
+a îndup'eca
+a lâncezi
+a se muia
+a se ramoli
+a tăndăli
+a tânji
+a tărăgăni
+a zăbovi
+
+a amesteca
+a asuda
+
+bălăcări
+a boteza
+a dilua
+a îmbăia
+a îmbiba
+a impermeabiliza
+a impregna
+a înmuia
+a înneca
+a întinde
+a întinge
+a inunda
+a macera
+a năduşi
+a opări
+a picura
+a pompa
+a răcori
+a scălda
+a scufunda
+a şiroi
+
+agonie
+cavou
+cimitir
+comă
+crematoriu
+doliu
+epitaf
+funeralii
+hoit
+les
+moaşte
+mortăciune
+mortalitate
+necrolog
+necropolă
+
+atonie
+desmăţ
+inactiune
+inertie
+lenevire
+laşitate
+nepăsare
+nesimțire
+paresie
+tânjală
+
+§§----------------------------------------------------------------------
+
+85
+
+a transpira
+a turna
+a umezi
+a vărsa
+
+a contamina
+a împuti
+a înegri
+a infecta
+a întuneca
+a mânji
+a mâzgăli
+a molipsi
+a păta
+a spurca
+a terfeli
+
+abluţiune
+drenaj
+dropica
+hidraulica
+hidrocefal
+hidrodinamică
+hidrofobie
+hidrografie
+hidrologie
+hidrometrie
+hidropizie
+higrometrie
+imersiune
+împroșcătură
+
+fabulos
+faimos
+formidabil
+frecvent
+îmbelșugat
+inepuizabil
+larg
+maximum
+cu miile
+măreț
+minunat
+nemăsurat
+nenumărat
+nesecat
+nesleit
+nespus
+notabil
+plin
+cu prisosinţă
+prodigios
+profund
+radical
+remarcabil
+superlativ
+
+cloacă
+gunoiu
+murdărie
+necurăţenie
+otreapă
+puroiu
+
+MUSTRARE
+
+infuzie
+lavaj
+loțiune
+rouă
+saturatie
+scafandru
+SOS
+spălătură
+stropitură
+submersibil
+submarn
+sudoare
+umiditate
+
+abundenţă
+cantitate
+grămadă
+
+a acuza
+a bodogăni
+a certa
+a corija
+a dojeni
+a înjura
+a mârâi
+a mustra
+a ocărî
+a recrimina
+a vesteji
+
+V. puțin
+
+MURDAR
+
+V. uscăciune
+
+MULT
+
+absolu;
+adesea
+amplu
+la apogeu
+colosal
+considerabil
+copios
+la culme
+la discreţie
+eminamente
+enorm
+excesiv
+extraordinar
+extrem
+
+desgustător
+gretos
+îmbâcsit
+impur
+infect
+nespălat
+noroios
+parsiv
+puturos
+repugnant
+respingător
+scârbos
+scârnav
+soios
+turbure
+unsuros
+urduros
+viermănos
+
+admonestare
+blam
+critică
+dezaprobare
+filipică
+frecus
+imputare
+incriminare
+inculpare
+lecţie
+mânie
+morală
+objurgație
+observație
+perdaf
+refec
+reprimandă
+reproş
+
+§§----------------------------------------------------------------------
+
+- 86 –
+
+săpuneală
+
+refractar
+
+a izbucni
+a plesni
+a surprinde
+a țişni
+
+V. aprobare
+
+desmierdare
+a ierta
+a lăuda
+politețe
+
+a călca
+a înfrânge
+a înfrunta
+a se înfuria
+a se opune
+a stânjeni
+a stingheri
+
+imprudentă
+mirare
+neprevedere
+surpriză
+lovitură de teatru
+
+MUTUAL
+
+V. prudenţă
+
+a vedea
+
+alternativ
+bilateral
+corelativ
+reciproc
+sinalagmatic
+vice-versa
+
+NEBUN
+
+a compensa
+a revanşa
+a schimba
+
+abatere
+anarhie
+contravenţie
+derogare
+dezordine
+împotrivire
+încălcare
+încăpățânare
+independenţă
+indignare
+indisciplină
+insurecţiune
+insurgent
+neorânduială
+răscoală
+revoltă.
+rezistenţă
+turburări
+violare
+
+represalii
+simbioză
+talion
+
+MUZICANT
+
+amator
+diletant
+executant
+meloman
+solist
+virtuos
+
+alienat
+căpiat
+cretin
+dement
+dezechilibrat
+erotoman
+frenetic
+furios
+halucinat
+idiot
+inconştient
+iresponsabil
+maniac
+năuc
+nerod
+nevropat
+posedat
+psihopat
+rătăcit
+sărit
+simplu
+scrântit
+smintit
+tâmpit
+tâcnit
+zăpăcit
+
+V. ascultare
+
+respect
+umil
+a urma
+
+- N -
+
+NEAŞTEPTAT
+
+NEASCULTARE
+
+incorigibil
+îndărătnic
+îndrăcit
+insubordonat
+nedisciplinat
+neînduplecat
+nesupus
+orgolios
+perturbator
+răzvrătit
+rebel
+recalcitrant
+
+accidental
+brusc
+deodată
+fortuit
+inopinat
+iute
+pe negândite
+neprevăzut
+nesperat
+subit
+uimitor
+
+a aiuri
+a bate câmpii
+a delira
+a divaga
+a se prosti
+
+a
+
+ănțui
+a exploda
+
+aberaţiune
+acces
+
+§§----------------------------------------------------------------------
+
+87
+
+tâlhar
+
+V. onest
+
+a-şi aroga
+a favoriza
+a încălca
+a părtini
+a uzurpa
+
+NECUNOSCUT
+
+delir
+deranjament
+depresiune
+halucinare
+idee fixă
+idiotism
+insanitate
+manie
+melancolie
+monomanie
+obsesie
+psihoză
+
+V. adevăr
+
+just
+onest
+
+incognito
+inedit
+inexplorat
+misterios
+neobservat
+neştiut
+obscur
+retras
+tainic
+tiptil
+
+NELEGIUIT
+
+ramolisment
+rigiditate mintală
+turburare
+
+V. conştiinţă
+
+gândire
+
+anticreştinesc
+antireliigos
+ateu
+imoral
+infidel
+ireligios
+necredincios
+necucernic
+păcătos
+păgân
+
+a acoperi
+a ascunde
+a ignora
+a piti
+
+NECINSTE
+
+V. obiceiu
+
+renume
+ştiinţă
+
+a blestema
+a profana
+
+măsluitor
+necinstit
+nedemn
+neleal
+nemernic
+netrebnic
+pervers
+prevaricator
+ticălos
+veros
+
+NEDREPT
+
+crimă
+desfrâu
+impietate
+sacrilej
+scepticism
+
+V. religie
+
+a escroca
+a fura
+a înşela
+a sfeterisi
+a trişa
+
+NENOROCIRE
+
+borfaş
+dezonoare
+găinar
+hot
+abuz de încredere
+indelicateță
+lichea
+neonestitate
+potlogar
+pungas
+ruşine
+şarlatan
+secătură
+
+arbitrar
+deplasat
+despotic
+ilegal
+ilicit
+inic
+injust
+nedemn
+neîntemeiat
+nefundat
+nelegitim
+nemeritat
+nepermis
+nepotrivit
+de nesusținut
+nevrednic
+oprit
+parţial
+părtinitor
+uzurpat
+uzurpător
+
+amărât
+critic
+deplorabil
+dezastruos
+fatal
+funest
+încercat
+înfrânt
+lamentabil
+mâhnit
+mizerabil
+nefast
+nefericit
+oropsit
+penibil
+
+a abuza
+
+§§----------------------------------------------------------------------
+
+88
+
+NEPLĂCUT
+
+rău
+supărător
+trist
+
+antipatic
+dezagreabil
+incomod
+ingrat
+insipid
+insuportabil
+mârşav
+neagreabil
+nesuferit
+odios
+scârbos
+trist
+urâcios
+
+dezamăgire
+dezastru
+dezavantaj
+deziluzie
+eşec
+fiasco
+înfrângere
+insucces
+marasm
+necaz
+neizbândă
+neizbutire
+nenoroc
+pocinog
+prăpăd
+ruină
+Stânca Tarpeiană
+vicisitudine
+
+a descuraja
+a desgusta
+a displăcea
+a importuna
+a ofusca
+a plictisi
+a supăra
+
+V. succes
+
+NERY
+
+adversitate
+avanie
+calamitate
+cataclism
+catastrofă
+contrarietate
+decepţie
+defavoare
+descurajare
+desperare
+detriment
+dezastru
+discredit
+disgrafie
+eşec
+flagel
+ghinion
+inconvenient
+înfrângere
+insucces
+năpastă
+neajuns
+necaz
+neizbândă
+neizbutire
+nenoroc
+nenorocire
+nereuşită
+neşansă
+pagubă
+piedici
+pierdere
+plagă
+plictiseală
+pocinog
+prăpăd
+restrişte
+ruină
+soartă
+strâmtoare
+stricăciune
+supărare
+urgie
+ursită
+vicisitudine
+
+V. frumos
+
+plăcere
+plăcut
+veselie
+
+irascibil
+isteric
+nervos
+nevralgic
+reflex
+spasmodic
+
+NEREUŞITĂ
+
+bătut
+declasat
+falimentar
+învins
+plouat
+ratat
+
+convulsiune
+enervare
+eretism
+iritabilitate
+nervozitate
+nevricale
+nevropat
+nevroză
+spasm
+tic
+
+a avorta
+a cădea
+a capitula
+a fugi
+a naufragia
+a pierde
+a se prăbuşi
+a se retrage
+
+NESANATOS
+
+amăgire
+catastrofă
+debandadă
+decepţie
+
+contrariu
+deleter
+funest
+insalubru
+mefitic
+mortal
+periculos
+pernicios
+
+V. fericire
+
+§§----------------------------------------------------------------------
+
+89
+
+a reînnoi
+a renova
+
+pestilenţial
+potrivnic
+primejdios
+putred
+rău
+septic
+stricat
+vătămător
+vițiat
+
+a nimici
+a neutraliza
+a oblitera
+a pieri
+a prăpădi
+a radia
+a rezilia
+a stârpi
+a şterge
+a stinge
+a suprima
+
+ageamiu
+fecioară
+începător
+neofit
+neologism
+nou născut
+noutate
+novațiune
+novice
+trufanda
+
+a corupe
+a infecta
+a învenina
+a otrăvi
+
+NU
+
+boală
+malaria
+miasmă
+
+abolițiune
+absenţă
+dispariţie
+extincţiune
+lipsă
+neant
+nulitate
+zero
+
+V. sănătate
+
+NEVINOVAT
+
+V. tot
+
+NOU
+
+candid
+curat
+imaculat
+inocent
+nepătat
+
+absent
+contradictoriu
+deloc
+impasibil
+inacceptabil
+inconştient
+indecis
+inexistent
+neavenit
+negativ
+nehotărât
+nepăsător
+neputincios
+nesigur
+nesimţitor
+neutru
+nici decum
+nul
+rebiditoriu
+renegat
+
+a desvinovăţi
+a disculpa
+
+actual
+de curând
+inedit
+intact
+modern
+neatins
+neauzit
+necunoscut
+nemaipomenit
+nepătat
+proaspăt
+fără precedent
+recent
+fără seamăn
+virgin
+
+candoare
+cinste
+cuvintă
+mieluşel
+onestitate
+puritate
+
+V. crimă
+
+NIMIC
+
+a abroga
+a anula
+a casa
+a consuma
+a dărâma
+a desființa
+a distruge
+a înlătura
+
+a deflora
+a împrospăta
+a înnoi
+a inova
+a inventa
+a născoci
+a preschimba
+a primeni
+a reîmprospăta
+a reîncepe
+
+a abroga
+a se abține
+a anula
+a casa
+a contramanda
+a contrazice
+a nu conveni
+a decomanda
+a desfiinţa
+a desminți
+a se dezice
+a dezavua
+a dispare
+a dispensa
+
+§§----------------------------------------------------------------------
+
+- 90
+
+NUMĂR
+
+a elimina
+a exonera
+a împiedica
+a înlătura
+a înțărca
+a invalida
+a nega
+a nimici
+a opri
+a se lepăda
+a pieri
+a se priva
+a protesta
+a recuza
+a refuza
+a renega
+a renunţa
+a respinge
+a retracta
+a scuti
+a stârpi
+a şterge
+a suprima
+a sustrage
+a tăgădui
+
+a îngrămădi
+a înmulți
+a se înmulti
+a înşira
+a inunda
+a mişuna
+a număra
+a plodi
+a ploua
+a prăsi
+a prolifera
+a repeta
+a se revărsa
+a risipi
+a umplea
+
+abundent
+comun
+considerabil
+copios
+des
+la discreţie
+divizibil
+doldora
+dublu
+egal
+enorm
+extrem
+felurit
+fracţionar
+frecvent
+îmbelşugat
+impar
+impopular
+încărcat
+infinit
+întreg
+larg
+luxuriant
+mult
+multiplu
+nedivizibil
+nenumărat
+nemăriginit
+numeric
+numeros
+obişnuit
+Obstesc
+ordinar
+par
+plin
+prolific
+supranumerar
+stufos
+ticsit
+total
+unanim
+
+abolițiune
+abstentiune
+abstinentă
+contestație
+dietă
+dispensă
+inacţiune
+inaniție
+lacună
+lipsă
+neant
+neexecutare
+nihilist
+nimicire
+opunere
+privaţiune
+radiere
+reclamație
+regim
+stingere
+zero
+
+adunare
+adunătură
+afluență
+cantitate
+catalog
+câtime
+cifră
+coadă
+concurentă
+concurs
+cont
+contingent
+cuplu
+droaie
+dualitate
+efectiv
+flux
+gloată
+grămadă
+havră
+îmbulzeală
+infinitate
+înghesuială
+îngrămădire
+intrunire
+listă
+litanie
+majoritate
+masă
+minoritate
+morman
+mulțime
+noian
+nor
+numărătoare
+
+a calcula
+a copleşi
+a covârşi
+a ciurui
+a curge
+a deborda
+a enumera
+
+V. a afirma
+
+aprobare
+ascultare
+
+§§----------------------------------------------------------------------
+
+91 –
+
+numeratie
+oaste
+pereche
+personal
+pluralitate
+pomelnic
+popor
+populaţie
+potop
+
+a aclimatiza
+a se acomoda
+a adapta
+a se deprinde
+a dresa
+a se familiariza
+a forma
+a se înhăita
+a se înrădăcina
+
+a constrânge
+a domina
+a forta
+a impune
+a se lega
+a obliga
+a oprima
+a pretinde
+a rechiziţiona
+a sili
+a stăpâni
+a subjuga
+a supune
+a tiranisi
+a trebui
+a violenta
+
+produs
+profuziune
+puzderie
+quantum
+recensământ
+repopulare
+şir
+statistică
+sumă
+sumedenie
+supraabundenţă
+total
+torent
+trinitate
+unanimitate
+unitate
+val
+valoare
+
+antrenament
+apucături
+datină
+desuetudine
+făgaş
+lege
+manie
+marotă
+modă
+moravuri
+nărav
+rutină
+tic
+tradiţie
+uz
+
+cerinţă
+dependenţă
+exigenţă
+legământ
+forţă majoră
+nevoe
+opresiune
+obligativitate
+redevenţă
+
+V. interesant
+
+neaşteptat
+necunoscut
+nou
+uimitor
+
+V. lesne
+
+libertate
+
+OBSCUR
+
+OBICEIU
+
+OBLIGATIUNE
+
+bătătorit
+comun
+cunoscut
+curent
+exersat
+familiar
+frecvent
+general
+înrădăcinat
+învechit
+inveterat
+maşinal
+obişnuit
+ordinar
+tipicar
+tradițional
+uzitat
+uzual
+
+coercitiv
+cuvenit
+dator
+de drept
+exigibil
+fatal
+imperios
+musai
+necesar
+nevoit
+obligat
+obligatoriu
+
+abscons
+abstruz
+alambicat
+apocaliptic
+apocrif
+ascuns
+clandestin
+complicat
+confidential
+confuz
+delicat
+echivoc
+greu
+greoiu
+ignorat
+impenetrabil
+încâlcit
+încurcat
+indescifrabil
+
+a apăsa
+a asupri
+a cere
+a condamna
+
+§§----------------------------------------------------------------------
+
+92
+
+subinteles
+
+V. certitudine
+
+clar
+inteligent
+lesne
+simplu
+
+ecatombă
+infanticid
+măcel
+moarte
+olocaust
+omor
+omucidere
+paricid
+pruncucidere
+regicid
+vărsare de sânge
+spadasin
+supliciu
+ucigas
+
+A OMORI
+
+indescriptibil
+inexplicabil
+inextricabil
+insondabil
+insolubil
+întortochiat
+mic
+misterios
+nebulos
+neclar
+necunoscut
+nedefinit
+nedesluşit
+nedeterminat
+neînţeles
+neînsemnat
+nelămurit
+neobservat
+nepătruns
+neştiut
+ocult
+orbeşte
+retras
+sibilin
+slab
+spinos
+şters
+tainic
+tăinuit
+turbure
+vag
+
+V. a ierta
+
+mântuire
+a proteja
+viață
+
+ONEST
+
+a ameți
+a asasina
+a asfixia
+a-și sbura creerii
+a dărîma
+a decapita
+a desfiinta
+a despica
+a distruge
+a doborî
+a executa
+a extermina
+a gâtui
+a ghilotina
+a imola
+a împuşca
+a înăbuşi
+a îneca
+a înjunghia
+a însângera
+a jertfi
+a măcelări
+a masacra
+a nimici
+a otrăvi
+a prăpădi
+a răpune
+a sacrifica
+a sângera
+a se sinucide
+a spânzura
+a spinteca
+a strangula
+a suci gâtul
+a sugruma
+a suprima
+a tăia
+a ucide
+
+aluzie
+ambiguitate
+dedal
+dificultate
+enigmă
+galimatie
+haos
+imbroglio
+involuție
+jargon
+labirint
+nedumerire
+obscuritate
+obscurantism
+problemă
+rebus
+şaradă
+secret
+sfinx
+
+auster
+cinstit
+conştiincios
+corect
+curat
+delicat
+de treabă
+dezinteresat
+drept
+exemplar
+impecabil
+inatacabil
+incoruptibil
+integru
+ireprosabil
+just
+lăudabil
+meritoriu
+nieritos
+moral
+nepătat
+onorabil
+perfect
+prob
+recomandabil
+respectabil
+rigid
+riguros
+scrupulos
+
+călău
+crimă
+
+§§----------------------------------------------------------------------
+
+- 93
+
+refractar
+
+stimabil
+virtuos
+
+V. fals
+
+furt
+a înşela
+ipocrizie
+a minţi
+necinste
+nelegiuit
+orgoliu
+
+a rezista
+a se revolta
+a se ridica contra
+a se sfădi
+a sfărâma
+a şicana
+a sparge
+a stăvili
+a stingheri
+a stânjeni
+a tine piept
+a trece peste
+a triumfa
+a zădărnici
+a zdrobi
+
+OPINIE
+
+apreciere
+aviz
+conjectură
+convingere
+credinţă
+critică
+idee
+judecată
+părere
+sentiment
+teză
+fel de a vedea
+vederi
+verdict
+vot
+
+a acomoda
+a alunga
+a apăra
+a bara calea
+a se ciocni
+a combate
+a contrabalanta
+a contraria
+a contrazice
+a cotorosi
+a depăşi
+a se disputa
+a frâna
+a frânge
+a hărţui
+a împiedica
+a se împotrivi
+a înăbuşi
+a îndepărta
+a se indigna
+a infirma
+a înfrâna
+a înfrânge
+a îngădui
+a înlătura
+a intercepta
+a interzice
+a intrerupe
+a învinge
+a jena
+a lupta
+a mărgini
+a nega
+a obiecta
+a opri
+a se opune
+a preîntâmpina
+a prohibi
+a protesta
+a prescrie
+a se răscula
+a răspunde
+a se răsvrăti
+a reactiona
+a reclama
+a refuza
+a respinge
+a restrânge
+a reține
+
+OPUNERE
+
+advers
+anevoios
+antagonist
+concurent
+contradictoriu
+contrariu
+discordant
+incompatibil
+invers
+ireductibil
+neîngăduit
+neîmpăcat
+nepotrivit
+nepermis
+opozabil
+opus
+potrivnic
+prohibitiv
+recalcitrant
+
+antifrază
+antipod
+antiteză
+antonim
+barieră
+belea
+ceartă
+clenciu
+chichiţă
+concurs
+conflict
+contestație
+contraordin
+contrapartidă
+contrarietate
+contrast
+dificultate
+duşmănie
+embargo
+frâu
+gâlceavă
+inhibiţie
+insurecţiune
+luptă
+necaz
+obstacol
+obstrucţie
+oponent
+opozant
+opoziţie
+piedică
+prohibiţie
+protest
+reacţiune
+replică
+
+§§----------------------------------------------------------------------
+
+- 94
+
+unificare
+
+rivalitate
+şicană
+veto
+
+metodic
+minuțios
+ordonat
+ponderat
+regulat
+scrupulos
+simetric
+sistematic
+
+V. capriciu
+
+dezordine
+stângaciu
+
+V. aprobare
+
+a ierta
+permis
+
+ORGOLIU
+
+ORATOR
+
+declamatoriu
+discursiv
+elocvent
+sfătos
+
+a acuza
+a apăra
+a declama
+a denunţa
+a improviza
+a învinui
+a povesti
+a predica
+a propovădui
+
+a alcătui
+a alege
+a alinia
+a aranja
+a aşeza
+a clasa
+a clasifica
+a coordona
+a descâlci
+a descurca
+a dispune
+a divide
+a echilibra
+a grupa
+a împărţi
+a înjgheba
+a întocmi
+a orândui
+a ordona
+a organiza
+a precede
+a rândui
+a reorganiza
+a repartiza
+a separa
+a urma
+
+afectat
+artificial
+arogant
+bătos
+dispreţuitor
+fals
+fălos
+fanfaron
+fudul
+impertinent
+închipuit
+încrezut
+îngâmfat
+înfumurat
+insolent
+întepat
+ipocrit
+lăudăros
+mândru
+mincinos
+orgolios
+parvenit
+pedant
+pretenţios
+prezumptios
+scortos
+semet
+tantos
+teapăn
+trufas
+vanitos
+
+apologie
+avocat
+Bossuet
+Cicerone
+conferenţiar
+Demostene
+discurs
+elocuțiune
+flecar
+Mirabeau
+oraţiune
+panegiric
+predică
+procuror
+raportor
+retorică
+sofist
+substitut
+tribun
+
+ansamblu
+armonie
+categorie
+contextură
+distribuţie
+orânduială
+organism
+rang
+repartiţie
+şir
+şireag
+sistem
+structură
+textură
+triaj
+
+a se ameți
+a se îmbăta
+a lua de sus
+a păuna
+a poza
+a se prevala
+a se umfla
+
+ORDINE
+
+armonios
+exact
+ingrijit
+meticulos
+
+aere
+
+coapsa lui Jupite:
+deşertăciune
+
+§§----------------------------------------------------------------------
+
+95
+
+fatuitate
+ifose
+ostentaţiune
+paradă
+
+V. moderat
+
+onest
+simplu
+timid
+umil
+
+principiu
+rădăcină
+raţiune
+sorginte
+spiţă
+sursă
+suşă
+temeiu
+temelie
+viţă
+
+antidot
+arsenic
+ciuperci
+contra-otravă
+hapuri
+laur
+miasme
+mitridatizare
+morfină
+morfinomanie
+şarpe
+scorpie
+stricnină
+toxicologie
+toxicomanie
+toxine
+viperă
+virus
+
+ORIGINE
+
+ORNAMENT
+
+ascendent
+autohton
+băştinas
+cosmopolit
+exotic
+extrinsec
+indigen
+inițial
+intrinsec
+original
+originar
+primitiv
+străin
+
+a cizela
+a decora
+a garnisi
+a găti
+a împodobi
+a încondeia
+a încorona
+a înflori
+a înfrumuseţa
+a ornamenta
+
+- P -
+
+A PĂRĂSI
+
+absent
+apostat
+fugar
+vacant
+
+a deriva
+a emana
+a ieși
+a începe
+a izvorî
+a purcede
+a proveni
+a ţâşni
+
+arabescuri
+atribuit
+bordură
+cadră
+cadru
+dantelă
+emblemă
+filigrana
+ghirlandă
+linie
+medalie
+motiv
+podoabă
+profil
+
+OTRAVĂ
+
+bază
+cauză
+explicație
+extracţie
+fundament
+germen
+început
+izvor
+motiv
+naştere
+neam
+nou
+obârşie
+punct de plecare
+pricină
+
+a abandona
+a abdica
+a abjura
+a arunca
+a asvârli
+a călători
+a se cotorosi
+a demisiona
+a da drumul
+a se degaja
+a delăsa
+a depune
+a desbrăca
+a se desface
+a se despărţi
+a dezerta
+a dispare
+a divorţa
+a emana
+a emigra
+a se expatria
+a fi pe ducă
+
+letal
+mortal
+toxic
+veninos
+virulent
+
+a infecta
+a intoxica
+a molipsi
+a otrăvi
+
+§§----------------------------------------------------------------------
+
+96
+
+A PĂREA
+
+asemănător
+aparent
+fals
+ipotetic
+probabil
+specios
+
+a fugi
+a ieşi
+a se îndepărta
+a izbucni
+a izvorî
+a jertfi
+å lăsa
+a se lepăda
+a se libera
+a se lipsi
+a se muta
+a neglija
+a pieri
+a pleca
+a pribegi
+a renega
+a renunta
+a repudia
+a retracta
+a retrage
+a rezilia
+a sacrifica
+a scoate
+a scăpa
+a scutura
+
+aviz
+camelon
+cauză
+convingere
+credinţă
+profesie de credintă
+critică
+directivă
+idee
+opinie
+părtinire
+recomandaţie
+sentiment
+sentinţă
+sſat
+sugestie
+teză
+
+a avea aerul
+a ascunde
+s'ar crede
+a disimula
+a evoca ideia
+a da iluzia
+a simula
+a trece drept
+s'ar zice
+
+PARTICULAR
+
+aer
+aspect
+idee
+imaginație
+impresie
+înfăţişare
+miraj
+orgoliu
+paradox
+prestigiu
+prezumție
+semnalmente
+simulacru
+suprafaţă
+
+abnegație
+adio
+apostazie
+defecţiune
+demisiune
+dezertor
+erupţie
+exod
+exosmoză
+părăginire
+pierdere
+ruină
+ruptură
+separație
+trădare
+transfug
+uitarc
+
+PARERE
+
+anormal
+anumit
+atributiv
+aparte
+bizar
+caracteristic
+ciudat
+cansacrat
+consfinţit
+curios
+deosebit
+distinct
+distinctiv
+exclusiv
+extraordinar
+individual
+insolit
+neobişnuit
+original
+parțial
+partitiv
+personal
+propriu
+privat
+respectiv
+separat
+singur
+singular
+special
+straniu
+subiectiv
+
+1
+
+a adopta
+a aprecia
+a inspira
+a judeca
+a notifica
+a opina
+a povăţui
+a pretinde
+a preveni
+a se pronunta
+a pretui
+a semnala
+a susține
+
+V. a ajuta
+
+avid
+a cere
+a colabora
+întoarcere
+a intra
+prezent
+
+acord
+
+§§----------------------------------------------------------------------
+
+97
+
+A PEDEPSI
+
+technic
+
+a destina
+à incumba
+a particulariza
+a privi
+
+anomalie
+apanaj
+atribuţiune
+competenţă
+particularitate
+proprietate
+resort
+singularitate
+specialitate
+specificație
+speţă
+
+a adora
+a ameţi
+a aprinde
+a ațâța
+a da foc
+a se deslănţui
+a dori
+a excita
+a îmbăta
+a se îndrăgosti
+a întărâta
+a întuneca
+a iubi
+a pasiona
+a pizmui
+a râvni
+a satisface
+
+aflictiv
+capital
+corectiv
+corporal
+infamant
+pasibil
+pecuniar
+penal
+represibil
+represiv
+riguros
+sever
+vindicativ
+
+V. extensiune
+
+împreună
+obiceiu
+tot
+
+PASIUNE
+
+arzător
+entuziast
+exaltat
+fanatic
+fervent
+fierbinte
+gelos
+înflăcărat
+înfocat
+înfrigurat
+invidios
+iute
+lacom
+nebun
+palpitant
+pasional
+pasionat
+patetic
+pătimaş
+setos
+smintit
+transportat
+violent
+vehement
+vibrant
+
+ambiție
+amor
+ardoare
+avânt
+avariție
+beție
+căldură
+concupiscență
+cupiditate
+delir
+dorinţă
+dragoste
+elan
+febră
+foc
+frenezie
+friguri
+furie
+idolatrie
+orbire
+paroxism
+poftă
+pornire
+râvnă
+turburare
+
+a aresta
+a biciui
+a canoni
+a chinui
+a comuta
+a condamna
+a confisca
+a decapita
+a degrada
+a deporta
+a executa
+a exila
+a expia
+a expulza **
+a ghilotina
+a încarcera
+a închide
+a îndrepta
+a înfiera
+a înfrâna
+a întemniţa
+a interna
+a ispăşi
+a osândi
+a ostraciza
+a pedepsi
+a proscrie
+a reprima
+a sancționa
+a spânzura
+a surghiuni
+a tortura
+
+V. auster
+
+desgust
+dispreț
+insensibil
+liniştit
+moderat
+ură
+
+amendă
+arest
+
+7
+
+§§----------------------------------------------------------------------
+
+- 98
+
+1
+
+bătae
+
+putinţă
+voie
+
+cursă
+frică
+groază
+îngrijorare
+spaimă
+teamă
+
+V.
+
+opunere
+
+A PIERDE
+
+V. liniştit
+
+slab
+
+deposedat
+incurabil
+
+PERMIS
+
+detenţiune
+deținut
+eşafod
+fiare
+furci
+galeră
+închisoare
+indemnizare
+index
+jude
+ocnă
+opreală
+penitenciar
+penitenţă
+recluziune
+roată
+sentinţă
+supliciu
+temniţă
+urgie
+verdict
+victimă
+
+a aliena
+a ceda
+a instrăina
+a se lipsi
+a păgubi
+a rătăci
+
+acceptabil
+admisibil
+cuvenit
+drept
+just
+legitim
+liber
+licit
+slobod
+
+daună
+detriment
+neizbândă
+peire
+pierzanie
+prejudiciu
+pierzare
+
+V. bunătate
+
+consolare
+a ierta
+milă
+
+V. a găsi
+
+PLACERE
+
+PERICULOS
+
+ameninţător
+critic
+dificil
+grav
+hazardat
+primejdios
+riscat
+de temut
+
+a adopta
+a agrea
+a autoriza
+a concede
+a concesiona
+a consimţi
+a se cuveni
+a da voie
+a împuternici
+a încuviinţa
+a îndura
+a îngădui
+a învoi
+a se învoi
+a lăsa
+a suferi
+a suporta
+a permite
+a tolera
+
+agreabil
+delicios
+glumet
+nebunatic
+plăcut
+recreativ
+şăgalnic
+sburdalnic
+sensual
+sglobiu
+sibarit
+voluptos
+
+a brava
+a conjura
+a se expune
+a înfrunta
+a înlătura
+a periclita
+
+adeziune
+aprobare
+asentiment
+concediu
+facultate
+latitudine
+obedienţă
+permisie
+posibilitate
+
+a se ameti
+a se amuza
+a benchetui
+a se bucura
+a chefui
+a se delecta
+a se desfăta
+a se destinde
+a se distra
+
+alarmă
+aventură
+capcană
+curaj
+
+§§----------------------------------------------------------------------
+
+99-
+
+a se îmbăta
+a se înveseli
+a mulțumi
+a petrece
+a se recrea
+a serba
+a satisface
+a se sbengui
+
+V. auster
+
+durere
+plictiseală
+supliciu
+trist
+
+a agrea
+a amăgi
+a antrena
+a aproba
+a atrage
+a bucura
+a captiva
+a câştiga
+a se complace
+a consimţi
+a cuceri
+a delecta
+a desfăta
+a entuziasma
+a fascina
+a fermeca
+a încânta
+a înflăcăra
+a înveseli
+a linguși
+a măguli
+a multumi
+a plăcea
+a râde
+a satisface
+a seduce
+a surâde
+a vrăji
+a zâmbi
+
+îngrijat
+îngrijurat
+insuportabil
+intempestiv
+jalnic
+mizantrop
+morocănos
+neplăcut
+obositor
+perplex
+pisălog
+plicticos
+posac
+supărător
+ticălos
+trist
+ucigător
+ursuz
+
+PLĂCUT
+
+agapă
+plăcere
+
+adorabil
+admirabil
+agreabil
+ales
+amuzant
+armonios
+artistic
+atrăgător
+bine
+bun
+captivant
+cochet
+comod
+confortabil
+convenabil
+delicios
+excelent
+fericit
+fin
+frumos
+grațios
+cu gust
+îmbătător
+îmbucurător
+încântător
+interesant
+minunat
+miraculos
+răpitor
+râzător
+simpatic
+subtil
+
+V. neplăcut
+
+plictiseală
+posac
+sever
+urât
+
+a bombăni
+a cicáli
+a contraria
+a desgusta
+a displăcea
+a enerva
+a hărţui
+a se impacienta
+a indispune
+a înşela sperantelo
+a inspaimanta
+a jigni
+a mâhni
+a murmura
+a omori
+a persecuta
+a plictisi
+a preocupa
+a prigoni
+a sâcâi
+a se sătura
+a scârbi
+a supăra
+a tachina
+a tortura
+a turba
+a turbura
+a turmenta
+a se uri
+а уеха
+
+PLICTISEALA
+
+agitat
+amărât
+anost
+antipatic
+copleşit
+dezagreabil
+fastidios
+importun
+incomod
+
+a ademeni
+
+alean
+
+§§----------------------------------------------------------------------
+
+100
+
+101
+
+ticsit
+
+POLITETE
+
+PORUNCA
+
+a îndura
+inferior
+slab
+
+POSAC
+
+avanie
+belea
+chin
+ciudă
+decepţie
+dezamăgire
+ipocondrie
+inconvenient
+melancolie
+necaz
+nelinişte
+nemultumire
+neplăcere
+obidă
+obsesie
+păs
+pățanie
+pocinog
+spleen
+tribulaţiune
+vicisitudine
+
+a astupa
+a condensa
+a deborda
+a ghiftui
+a grămădi
+a împovăra
+a încărca
+a îndopa
+a prisosi
+a se revărsa
+a umple
+
+afabil
+amabil
+bine crescut
+cumsecade
+ceremonios
+complezant
+corect
+curtenitor
+cuviincios
+discret
+distins
+gentilom
+grafios
+îndatoritor
+de lume
+manierat
+politicos
+primitor
+rezervat
+reverențios
+serviabil
+sociabil
+
+absolut
+categoric
+despotic
+dictatorial
+draconic
+formal
+hotărît
+imperativ
+imperios
+intimat
+poruncitor
+riguros
+superior
+tiranic
+
+excesiv
+exclusiv
+exorbitant
+expletiv
+fanatic
+imens
+intolerabil
+mare
+monstruos
+nắpắdit
+nebuneşte
+necumpătat
+neînfrânat
+nemăsurat
+peste măsură
+pletoric
+podidit
+prea mult
+de prisos
+superfluu
+supranatural
+supraomenesc
+suprauman
+
+afluenţă
+exces
+excedent
+grămadă
+masă
+morman
+plenitudine
+pletoră
+saţietate
+saturatie
+supraabundenţă
+
+acrit
+arțăgos
+aspru
+brusc
+brutal
+capricios
+fără pereche
+cicălitor
+cu toane
+dezagreabil
+fantast
+gâlcevitor
+grosolan
+îmbufna:
+înăcrit
+mânios
+indispus
+morocănos
+neplăcut
+rebarbativ
+posomorât
+respingător
+sanchiu
+sălbatec
+supărăcios
+tâfnos
+trist
+urs
+ursuz
+violent
+
+autoritate
+cap
+comandă
+comandament
+decizie
+decret
+edict
+instrucţiuni
+firman
+ordin
+ordonanță
+porunceală
+şef
+somaţie
+ucaz
+ultimatum
+
+V. afabil
+
+entuziasm
+fericire
+interesant
+plăcere
+plăcut
+veselie
+
+V. vid
+
+POCĂINTA
+
+a deborda
+a exagera
+a ghiftui
+a imbuiba
+a împieta
+a îndopa
+a se revărsa
+a satura
+a sătura
+a supraîncărca
+a surmena
+
+PLIN
+
+a se căi
+a se converti
+a expia
+a ispăşi
+a se jeli
+a se pocăi
+a răscumpăra
+a regreta
+a se umili
+
+aristocrat
+compliment
+condescendență
+consideraţie
+convenientă
+buna cuviinţă
+deferenţă
+educație
+etichetă
+formulă de politete
+omagiu
+onoruri
+plecăciune
+prezentare
+protocol
+respect
+salamalec
+salut
+stimă
+tact
+urbanitate
+
+compact
+complect
+dens
+deplin
+des
+desăvârşit
+destul
+doldora
+exuberant
+îmbuibat
+indesat
+integral
+întreg
+luxuriant
+masiv
+plenar
+sătul
+plin
+supraîncărcat
+
+a bombåni
+a mormăi
+
+a administra
+a conduce
+a dicta
+a dirija
+a dispune
+a domina
+a exige
+a guverna
+a impune
+a orândui
+a ordona
+a prezida
+a prescrie
+a pretinde
+a ståpâni
+
+conştiinţă
+contrițiune
+mea culpa
+mortificaţie
+mustrare
+obida
+penitenţă
+remuşcare
+
+V. afabil
+
+bun
+plăcut
+
+cumul
+excedent
+desgust
+ipertrofie
+indigestie
+iperbolă
+pleonasm
+pletoră
+prisosinţă
+supraabundenţă
+suprasaturație
+surplus
+
+PREA
+
+V. desfrâu
+
+licență
+
+V. grosolan
+
+mizantropie
+posac
+ultragiu
+
+abuziv
+din cale afară
+colosal
+disproportionat
+exagerat
+
+V. absenţă
+
+lipsă
+
+V. ascultare
+
+§§----------------------------------------------------------------------
+
+102
+
+103
+
+mai puțin
+mic
+moderat
+
+A PRECEDE
+
+limpede
+ad litteram
+matematic
+meticulos
+migălos
+net
+neted
+peremptoriu
+
+necurmat
+nelipsit
+punctual
+sârguitor
+silitor
+
+pozitiv
+punctual
+răspicat
+riguros
+strict
+tipic
+
+a arăta
+a compare
+a expune
+a frecventa
+a se înfăţişa
+a se ivi
+a prezenta
+
+anterior
+inițial
+prealabil
+precedent
+precoce
+preconceput
+preexistent
+pregătitor
+preistoric
+preliminar
+prematur
+preopinent
+prestabilit
+preventiv
+primordial
+princeps
+suscitat
+susnumit
+suszis
+
+înaintare
+înaintaş
+început
+iscoadă
+menire
+mesager
+oracol
+preambul
+precădere
+precugetare
+precursor
+predecesor
+prefaţă
+prefix
+preludiu
+premergător
+premise
+preopinent
+preparative
+presentiment
+presimţire
+prevenție
+prioritate
+prodrom
+profeţie
+prolog
+prolegomen
+pronostic
+semn
+simptom
+stagiu
+strămoşi
+trecut
+ucenic
+
+a fixa
+a preciza
+a specifica
+
+clauză
+condiție
+precizie
+stipulaţiune
+
+V. obscur
+
+PREJUDECATĂ
+
+grațios
+
+a arăta
+ospitalier
+
+a certifica
+plăcut
+
+a clarifica
+politicos
+
+a confirma
+primitor
+
+a corobora
+
+a convinge
+a găzdui
+
+a deduce
+a îmbrăţişa
+
+a demonstra
+a întâmpina
+
+a desluşi
+a primi
+
+a dovedi
+a saluta
+
+a elucida
+a săruta
+
+a expiica
+
+a justifica
+admisiune
+
+a lămuri
+ospitalitate
+
+a limpezi
+recepție
+
+a stabili
+
+a verifica
+V. cruzime
+
+dezagreabil bazš
+sever
+
+considerent
+trist
+
+criteriu
+
+document
+PRINCIPIU dosar
+
+fundament
+a priori
+
+motiv
+fundamental
+
+probă
+
+temeiu
+axiomă
+
+temelie
+bază
+
+valoare
+cauză
+fond
+
+V. ascuns
+fundament
+
+fals
+maximă
+
+obscur
+rațiunc
+regulă
+
+PROCEDURA
+temelie
+
+cârcotaş
+A PROBA contradictoriu
+
+în lipsă
+categoric
+
+intimat
+evident
+
+litigios
+fundat
+
+procedural
+întemiat
+
+procesiv
+manifest
+
+rezolutoriu
+peremptoriu
+
+rogatoriu
+pertinent
+
+suspensiv
+persuaziv
+probant
+
+a admite
+
+a amâna
+a adeveri
+
+a anula
+a administra probe a cita
+
+actualitate
+adunare
+apariție
+apel
+ascultare
+asistenţă
+aspect
+auditoriu
+gură-cască
+curios
+exhibiţie
+figurant
+galerie
+invitaţi
+modă
+multime
+observator
+omniprezentă
+popor
+prezentare
+public
+reuniune
+societate
+ubiquitate
+
+a anticipa
+a depăşi
+a distanţa
+a ghici
+a iniţia
+a întrece
+a precuvânta
+a predestina
+a prejudeca
+a premedita
+a preopina
+a presupune
+a prevedea
+a preveni
+a prevesti
+a prima
+a prooroci
+
+influenţat
+informat
+parţial
+preconceput
+prevenit
+
+V, a urma
+
+a anticipa
+a hotărî dinainte
+a părtini
+
+PRECIS
+
+prevenţiune
+
+V. just
+
+v. absenţă
+
+nimic
+
+PREZENTĂ
+
+PRIMIRE
+
+antecedent
+avangardă
+cazier judiciar
+cercetas
+curier
+dedicație
+dosar
+
+categoric
+circumscris
+clar
+definit
+determina:
+distinct
+exact
+formal
+franc
+îngrijit
+intocmai
+just
+
+aci
+actual
+asiduu
+asistent
+astăzi
+contimporan
+modern
+
+abordabil
+accesibil
+afabil
+amabil
+binevoitor
+blând
+drăgălaş
+
+§§----------------------------------------------------------------------
+
+104
+
+105
+
+relativ
+
+inocent
+neprihănit
+pudibund
+pudic
+serios
+
+a compulsa
+a conchide
+a confirma
+a contesta
+a disjunge
+a evoca
+a înregistra
+a instrumenta
+a intenta
+a se învoi
+a libela
+a motiva
+a omologa
+a prigoni
+a pronunţa
+a provoca
+a recuza
+a reintegra
+a replica
+a scinda
+a suspenda
+a urmări
+
+a armoniza
+a cumpăni
+a echilibra
+a ordona
+a orândui
+a potrivi
+a proporţiona
+a raţiona
+
+a proteja
+a recomanda
+a răzima
+a salva
+a sprijini
+a supraveghea
+a susține
+a veghea
+
+formulă
+gândire
+înţelepciune
+învăţătură
+locuţiune
+maximă
+opinie
+povaţă
+precept
+reflexiune
+sentenţă
+teză
+vorbă
+zicală
+zicătoare
+zicere
+
+a alarma
+a indigna
+a scandaliza
+a speria
+
+PRUDENTĂ
+
+prescripţie
+pricină
+proces
+resort
+rezoluţie
+rol
+sentinţă
+şicana
+tranzacţie
+tutelă
+urmărire
+verdict
+
+armonie
+vocaţie
+
+asemănare
+
+balanță
+PROFESIUNE comparație
+
+corelație
+lucrativ
+
+cota-parte
+profesional
+
+dimensiuni
+
+echilibru
+a alege
+
+ecuaţie
+a exercita
+
+ordine
+a funcţiona
+
+rânduială
+a îmbrăţişa
+
+raport
+a îndeplini
+
+raţiune
+a instala
+
+scară
+a lucra
+a ocupa
+
+A PROTEJA
+a profesa
+a se stabili
+
+bun
+
+defensiv
+calitate
+
+favorabil
+carieră
+
+patronal
+clasă
+
+preventiv
+funcţiune
+
+profilactic
+funcționar
+
+proteguitor
+impiegat
+
+providential
+meserie
+
+tutelar
+meşteşug
+ocupație
+
+a acoperi
+post
+
+a adăposti
+profesiune
+
+a apăra
+profesiune liberă a dădăci
+sarcină
+
+a favoriza
+situaţiune
+
+a feri
+
+a garanta
+PROPORŢIE a ocroti
+
+a păstra
+ponderat
+
+a patrona
+proporţional
+
+a păzi
+direct proportional a prezerva
+invers proporţional a propti
+
+apostilă
+asistenţă
+auspicii
+binefăcător
+campion
+concurs
+curator
+curatelă
+dădacă
+epitropie
+gardă
+Mecena
+patronaj
+proptea
+protecţiune
+protecționism
+protectorat
+
+atent
+bănuitor
+circumspect
+cuminte
+neîncrezător
+precaut
+prevăzător
+prudent
+rezervat
+
+abținere
+castitate
+continenţă
+conveniență
+curățenie
+curăţie
+cuviinţă
+mironosiţă
+modestie
+moralitate
+nevinovăţie
+puritate
+rezervă
+ruşine
+sfială
+ţinută
+virginitate
+virtute
+
+referinţe
+scut
+tutelă
+tutore
+
+a lua aminte
+a se feri
+a lua precauţiuni
+a se observa
+a se păzi
+
+V. desfrâu
+
+grosolan
+îndrăzneală
+
+PROVERB
+
+acţiune
+acte
+afacere
+antiteză
+arbitraj
+cauză
+chichiţă
+competenţă
+conciliaţiune
+concluzie
+contencios
+contestaţie
+contumacie
+dicţiune
+diligente
+dosar
+formalitate
+hotărîre
+încheiere
+incident
+instanţă
+jurisdicţiune
+litigiu
+notificare
+opoziţie
+perempţiune
+poprire
+prejudiciu
+
+A PUNE
+
+faimos
+gnomic
+moralist
+de pomină
+proverbial
+sentențios
+tradiţonal
+universal
+vestit
+
+chibzuială
+chibzuinţă
+economie
+fereală
+pază
+provizie
+băgare de seamă
+
+V. neaşteptat
+
+a alinia
+a aşeza
+a aşterne
+a băga
+a campa
+a căţăra
+a cocota
+a consemna
+a da în păstrare
+a deplasa
+a depune
+a etala
+a fixa
+a găzdui
+a îmbuca
+
+PUDOARE
+
+adagiu
+aforism
+apoftegmă
+axiomă
+cugetare
+cuvânt
+deviză
+dicton
+
+cinstit
+corect
+curat
+decent
+
+§§----------------------------------------------------------------------
+
+103
+
+PUR
+
+107
+
+PUTERE
+
+PUTREZICIUNE
+
+- Ꭱ -
+
+tărie
+tiran
+vază
+vigoare
+virtute
+voie
+
+RĂBDĂTOR
+
+V. bolnav
+
+inacţiune
+slab
+
+a implanta
+a impune
+a încorpora
+a insera
+a instala
+a întinde
+a interpela
+a interpune
+a introduce
+a Juxtapune
+a localiza
+a monta
+a muta
+a planta
+a plasa
+a posta
+a rândui
+a răsădi
+a repune
+a sădi
+a situa
+a stabili
+a strămuta
+a substitui
+a suprapune
+a transborda
+a transfera
+a transplanta
+a transpune
+a trece
+a urca
+a urni
+
+angelic
+auster
+candid
+cast
+corect
+curat
+fin
+ideal
+imaculat
+impecabil
+imperceptibil
+incoruptibil
+inocent
+integru
+ireprosabil
+limpede
+naiv
+neamestecat
+neprihănit
+net
+neturburat
+nevinovat
+sadea
+transparent
+virtuos
+
+absolut
+arbitrar
+atotputernic
+cap
+despot
+destoinic
+discretionar
+energic
+intens
+omnipotent
+preponderent
+puternic
+putincios
+suprem
+tare
+tiran
+violent
+virtual
+virulent
+
+acru
+alterat
+antiseptic
+avariat
+infect
+invechit
+murdar
+purulent
+putred
+puturos
+rânced
+scârbos
+septic
+stricat
+trezit
+vătămat
+
+blajin
+blând
+calm
+filozof
+flegmatic
+impasibil
+liniştit
+pasiv
+rece
+resemnat
+stoic
+tolerant
+
+PUȚIN
+
+exceptional
+deloc
+fără pereche
+fără seamăn
+foarte rar
+imperceptibl
+insuficient
+mediocru
+meschin
+de negăsit
+neobişnuit
+puțintel
+rar
+rarisim
+scurt
+slab
+singular
+unic
+
+a indura
+a îngădui
+a răbda
+a suferi
+a suporta
+
+a se acri
+a se dezagrega
+a se împuti
+a se înăcri
+a infecta
+a molipsi
+a mucegăi
+a putrezi
+a râncezi
+a spurca
+a strica
+
+nepăsare
+martir
+mucenic
+perseverență
+răbdare
+sânge rece
+stoicism
+
+a vâri
+
+a cerne
+a clarifica
+a decanta
+a decapa
+a defeca
+a filtra
+a purifica
+a rafina
+a spăla
+
+depozit
+dispoziţie
+
+V. excitaţie
+
+iute
+mânie
+revoluție
+
+loc
+
+abuz
+ascendent
+autoritate
+autorizaţie
+dominaţiune
+drept
+egemonie
+facultate
+forţă
+guvern
+împărăţie
+importanţă
+influenţă
+insignii
+întâletate
+precădere
+posibilitate
+potentat
+prerogativă
+prestigiu
+putinţă
+satrap
+sef
+stăpân
+stăpânire
+supremație
+suveran
+suveranitate
+suzeranitate
+
+localizare
+miza
+montaj
+montare
+orientare
+pozitie
+report
+transfer
+transfuziune
+translaţiune
+tranzit
+tranzite
+
+A RADE
+
+asanare
+chintesenţă
+continenţă
+curățenie
+epurație
+esență
+înger
+pudicitate
+purism
+puritan
+virginitate
+
+atom
+bagatela
+fir
+fleac
+grăunte
+mai nimic
+nimica toată
+o leacă
+licărire
+lipsă
+pic
+picătură
+puţinătate
+rara avis
+rarefactiune
+raritate
+strop
+
+cangrenă
+carie
+corupţie
+descompunere
+fermentație
+hoit
+impuritate
+mălura
+mortăciune
+mucegai
+necroză
+puroiu
+putrefacţie
+putregaiu
+stâry
+tăciune
+
+amuzant
+bufon
+burlesc
+caraghios
+comic
+glumet
+grotesc
+hazliu
+ironic
+malitios
+mucalit
+năzdrăvan
+
+V. întreg
+
+sănătate
+viaţă
+
+V. a scoate
+
+V. murdar
+
+V. mult
+
+§§----------------------------------------------------------------------
+
+108
+
+- 103
+
+nostim
+de ocară
+poznas
+de râs
+râzător
+ridicul
+rizibil
+şăgalnic
+sarcastic
+sardonic
+şugubăţ
+spiritual
+vesel
+voios
+zefliu
+
+poznă
+renghiu
+rictus
+şagă
+săgeată
+şotie
+spirit
+zeflemea
+
+rațional
+rezonabil
+sintetic
+sofistic
+strâns
+subtil
+
+ofensivă
+operaţii
+ostilităţi
+pradă
+răsboiu civil
+razzie
+revanşă
+soldat
+strategie
+tactică
+tactician
+teatru de răsboiu
+victorie
+
+misiune
+povară
+răspundere
+sarcină
+scuză
+subterfugiu
+
+gură-cască
+noctambul
+nomad
+pierde-vară
+pribeag
+rătăcitor
+razna
+
+V. ignoranță
+
+nebun
+
+V. auster
+
+mânie
+respect
+serios
+trist
+
+RASPUNS
+
+RĂSBOIU
+
+V. liniştit
+
+categoric
+peremptoriu
+răspunzător
+
+a se abate
+a bate drumurile
+a circula
+a da târcoale
+a se depărta
+a devia
+a se dezorienta
+a hoinări
+a se pierde
+a se plimba
+a pribegi
+a se rătăci
+a se zăpăci
+
+RĂSPUNDERE
+
+a bufni de râs
+a chicoti
+a descreţi
+a glumi
+a hihoti
+a îngâna
+a lua peste picior
+a maimuţări
+a mistifica
+a păcăli
+a persifla
+a pufni de râs
+a ridiculiza
+a rînji
+a săgeta
+a schimonosi
+a surâde
+a şugui
+a zâmbi
+
+adversar
+aliat
+beligerant
+belicos
+inamic
+marțial
+neutru
+ostil
+potrivnic
+strategic
+
+a se apăra
+a combate
+a comunica
+a confunda
+a corespunde
+
+dinadins
+garant
+imputabil
+indemn
+involuntar
+om de pae
+plauzibil
+pasibil
+responsabil
+cu bună ştiinţă
+tap ispăşitor
+valabil
+
+a argumenta
+a conchide
+a dărâma
+a deduce
+a demonstra
+a desbate
+a desluşi
+a discuta
+a dovedi
+a explica
+a induce
+a infera
+a filozofa
+a judeca
+a lămuri
+a milita
+a obiecta
+a proba
+a răsturna
+a refuta
+a reproşa
+a ruina
+a se sfădi
+a şicana
+
+a se bate
+a cuceri
+a se împotrivi
+a înfrânge
+a invada
+a învinge
+a năvăli
+a se răsboi
+
+a da spre
+a se desvinovăți
+a se disculpa
+a imputa
+a înfunda
+a invoca
+a obiecta
+a pătrunde
+a răspunde
+a se răsti
+a recrimina
+a refuta
+a releva
+a repeta
+a replica
+a riposta
+
+boem
+dedal
+derivă
+haimana
+labirint
+ocol
+plimbare
+tigan
+turneu
+vagabond
+
+A RATIONA
+
+bătae de joc
+batjocură
+bobârnac
+caricatură
+derâdere
+deriziune
+desfătare
+dispret
+duh
+farsă
+festă
+haz
+ilaritat
+măscăriciu
+parodie
+
+armistițiu
+bătălie
+campanie
+combatant
+conflagrație
+defensivă
+duşman
+expedițiune
+incursiune
+luptă
+manevră
+mars
+militar
+mişcare
+
+a acoperi
+a se apăra
+a asuma
+a se descărca
+a se disculpa
+a se emancipa
+a se eschiva
+a explica
+a se justifica
+a invoca
+à motiva
+a pretexta
+a da seamă
+a da socoteală
+
+ecou
+întâmpinare
+obrăznicie
+răspundere
+răspunsuri
+replică
+responsabilitate
+ripostă
+
+absurd
+analitic
+de bună credinţă
+de rea credinţă
+deductiv
+discursiv
+fals
+inductiv
+irefutabil
+judicios
+just
+logic
+metodic
+paradoxal
+peremptoriu
+probant
+
+analogie
+arguție
+axiomă
+cazuist
+cerc vițios
+chestiune
+concluzie
+consecinţă
+corolar
+controversă
+cugetare
+deducţiune
+dilemă
+dialectică
+entimemă
+inducţiune
+logică
+opinie
+metodă
+
+A RATACI
+
+cauţiune
+garantie
+imputare
+însărcinare
+menire
+
+ambulant
+aventurier
+
+§§----------------------------------------------------------------------
+
+110
+
+111
+
+RECOLTA
+
+a strâmba
+a strica
+a supăra
+a turbura
+a vătăma
+
+complezent
+desmierdare
+îndatoritor
+milă
+
+a aduna
+a culege
+a recolta
+a strânge
+
+RECIPIENT
+
+paradox
+paralogism
+părere
+postulat
+premise
+principiu
+problemă
+raționament
+rectitudine
+şicană
+silogism
+speţă
+teren de discuţie
+teză
+
+nedeplin
+nedrept
+nefast
+neîngrijit
+neplăcut
+neprielnic
+nesănătos
+nesuferit
+păgubitor
+penibil
+periculos
+pernicios
+pocit
+prejudiciabil
+primejdios
+prost
+ruşinos
+scandalos
+şiret
+scârbos
+slut
+smintit
+urâcios
+urât
+viclean
+violent
+vițios
+
+necredincios
+neofit
+ortodox
+păgân
+pios
+practicant
+pravoslavnic
+prozelit
+religios
+renegat
+ritual
+sacramental
+schismatic
+smerit
+
+oală
+receptacul
+recipient
+urnă
+vas
+
+calamitate
+cusur
+declin
+defect
+disgraţie
+inconvenient
+lipsă
+neajuns
+nenorocire
+neplăcere
+ocară
+pacoste
+pată
+prihană
+tară
+urgie
+
+V. greşală
+
+zăpăceală
+
+RĂU
+
+a abjura
+a afurisi
+a blestema
+a converti
+a excomunica
+a mirui
+a predica
+a sfinţi
+a târnosi
+a unge
+
+V, bine-bun
+
+bunătate
+
+RĂUTATE
+
+abominabil
+abuziv
+defectuos
+deleter
+depravat
+detestabil
+detracat
+dezagreabil
+dezavantajos
+diform
+dureros
+excesiv
+execrabil
+funest
+greşit
+groaznic
+imperfect
+imperfectibil
+impur
+incomod
+incorigibil
+infamant
+insuficient
+inutil
+iremediabil
+ireparabil
+fără leac
+mânjit
+mediocru
+murdar
+necioplit
+necurat
+
+agresiv
+duşmănos
+fieros
+ingrat
+nemulțumitor
+nerecunoscător
+perfid
+rău
+răufăcător
+răuvoitor
+viclean
+
+agricultură
+Baccus
+cereale
+Ceres
+cules
+
+bucate
+RECLAMATIE
+
+fân
+
+grâne
+a cârti
+
+poame
+a critica
+
+produs
+a denunţa
+
+randament
+a dojeni
+
+seceriş
+a se împotrivi
+
+venit
+a imputa
+a se jelui
+
+V. a cheltui
+a pârâ
+
+jaf
+a se plânge
+
+ruină
+a protesta
+
+sărac
+a reclama
+a recrimina
+
+RELIGIE
+a revendica
+a se ridica împotriva apostolat
+a se revolta
+
+apostolic
+a se tângui
+
+bigot
+a tânji
+
+canonic
+a se văita
+
+credincios
+
+cucernic
+acuzaţie
+
+cuvios
+admonestare
+
+devot
+apel
+
+dogmatic
+cerere
+
+eclesiastic
+dezaprobare
+
+eretic
+doleanță
+
+evlavios
+jeluire
+
+extatic
+imputare
+
+fanatic
+mustrare
+
+fervent
+plângere
+
+fidel
+petiţie
+
+iconoclast
+pretenţie
+
+iluminat
+reproş
+
+infidel
+vaet
+
+înfocat
+
+iniţiat
+V. aprobare
+
+liturgic
+fericire
+
+mistic
+
+a avaria
+a blestema
+a condamna
+a corupe
+a decădea
+a degenera
+a desgusta
+a despera
+a deteriora
+a devasta
+a falsifica
+a greşi
+a împiedica
+a infesta
+a înjura
+a maltrata
+a păgubi
+a perverti
+a pripi
+a rata
+a râsgâi
+a regreta
+a scârţâi
+a spurca
+
+adept
+alegorie
+altar
+ateist
+anatemă
+apostazie
+biserică
+călugăr
+catehism
+catehumen
+catihet
+coreligionar
+credinţă
+credo
+crez
+cult
+dogmă
+enorias
+ereziarh
+erezie
+exorcism
+gnosticism
+hagiu
+idolatrie
+intoleranţă
+
+6
+
+a bate
+
+vătăma
+
+bârfeală
+criminal
+cruzime
+reavoinţă
+ură
+viperă
+
+V. afabil
+
+bunătate
+
+§§----------------------------------------------------------------------
+
+-
+
+112
+
+113
+
+prezervativ
+profilactic
+revulsiv
+salutar
+stupefiant
+supozitor
+suveran
+tonic
+vermifug
+
+ingredient
+leac
+mijloc
+medicament
+poţiune
+sănătate
+sinapism
+tratament
+
+a colporta
+a divulga
+a lansa
+a răspândi
+a slăvi
+a vulgariza
+
+V. bolnav
+
+mai
+mai rău
+
+jertfă
+lege
+maslu
+minune
+miracol
+mister
+moaşte
+moliftă
+monah
+noviciat
+parabolă
+patrologie
+patristică
+pietate
+predestinare
+prelat
+preot
+reculegere
+relicvă
+revelaţiune
+rit
+rugăciune
+sacrament
+sacerdotiu
+sacrilegiu
+schimnic
+schismă
+Scriptură
+sectă
+sectar
+sihastru
+taină
+toleranţă
+uncţiune
+ungere
+
+a alina
+a amortiza
+a atenua
+a corecta
+a corija
+a dejuca
+a domoli
+a drege
+a evita
+a face faţă
+a se feri
+a împiedica
+a îndrepta
+a înfrâna
+a înlătura
+a întări
+
+REMUŞCARE
+
+a primeni
+a recădea
+a recapitula
+a reclădi
+a reconstitui
+a reconstrui
+a recopia
+a reface
+a reînnoi
+a reincepe
+a reîmprospăta
+a reînsufleţi
+a reitera
+a relua
+a repeta
+a reproduce
+
+repune
+a revedea
+a reveni
+a terfeli
+a stărui
+
+a ataca
+a bârfi
+a batjocori
+a cleveti
+a compromite
+a consacra
+a considera
+a defăima
+a deprecia
+a desconsidera
+a dezonora
+a discredita
+a huli
+a intuneca
+a mânji
+a murdări
+a necinsti
+a păta
+a ponegri
+a preţui
+a primejdui
+a reabilita
+a terfeli
+a veșteji
+
+afiş
+cinste
+considerație
+favoare
+glorie
+importanţă
+modă
+nume
+onoare
+opinie
+popularitate
+publicitate
+răsunet
+reclamă
+reputație
+respect
+rumoare
+stimă
+strălucire
+vogă
+zvon
+
+iertător
+milos
+obidit
+penitent
+
+a se căi
+a se îndura
+a se pocăi
+a regreta
+a-şi reproşa
+
+căinţă
+canon
+conştiinţă
+mâhnire
+mea culpa
+mustrare de cuget
+obidă
+pocăinţă
+sacrificiu
+
+aliteraţiune
+copie
+ecou
+întoarcere
+obiceiu
+papagal
+răsunet
+recidivă
+tautologie
+
+V. necunoscut
+
+obscur
+sters
+
+amintire
+ignominie
+glorie
+mărire
+memorie
+nume
+părere
+renume
+reputaţie
+respect
+slavă
+stimă
+vază
+vogă
+
+V. puțin
+
+A REPETA
+
+REPUTATIE
+
+a lecui
+a opri
+a palia
+a para
+a paraliza
+a preîntâmpina
+a potoli
+a preveni
+a repara
+
+reprima
+a restabili
+a salva
+a scăpa
+a stăpâni
+a stăvili
+a tăia
+a tămădui
+a vaccina
+a vindeca
+a zădărnici
+
+REMEDIU
+
+V. cruzime
+
+insensibil
+linistit
+
+RENUME
+
+ades
+bis
+des
+frecvent
+idem
+iterativ
+obişnuit
+periodic
+reduplicativ
+reiterat
+repetent
+
+antiseptic
+astringent
+curativ
+depurativ
+diuretic
+doctoricesc
+emolient
+febrifug
+întăritor
+hemostatie
+oficinal
+paliativ
+panaceu
+
+V. necunoscut
+
+obscur
+şters
+
+celebru
+considerat
+faimos
+imaculat
+important
+nepătat
+notabil
+notoriu
+onorat
+popular
+pretuit
+reputat
+stimat
+venerabil
+vestit
+
+celebru
+consacrat
+cunoscut
+eminent
+faimos
+ilustru
+notoriu
+venerabil
+vestit
+
+RESPECT
+
+antidot
+balsam
+buruiană
+cură
+
+a bisa
+a împrospăta
+a insista
+a obseda
+
+considerabil
+cucernic
+impozant
+inviolabil
+onorific
+
+8
+
+§§----------------------------------------------------------------------
+
+--
+
+114
+
+115
+
+a purcede
+a reesi
+a săvârşi
+a se termina
+a zămisli
+
+plos
+plecat
+respectabil
+respectuos
+reverend
+reverențios
+sacro-sanct
+sacru
+sfânt
+smerit
+temut
+umil
+venerabil
+
+a horcăi
+a înnăbuşi
+a inspira
+a răsufla
+a soarbe
+a sforăi
+a sufla
+a sufoca
+a sughița
+a suspina
+
+conversiune
+dar
+declamație
+discurs
+disjunctiune
+dispozițiuni
+elipsă
+elocinţă
+elocuțiune
+elocvență
+emfază
+enumeratie
+epitrop
+
+pleonasm
+preterițiune
+prolepsă
+repetițiune
+regresiune
+reticenţă
+retor
+ritm
+silepsă
+sinecdocă
+sofist
+stil
+suspensiune
+tact
+talent
+
+lacţiune
+ferment
+fierbere
+frământări
+insurecţiune
+învălmășală
+licenţă
+mişcare
+nesupunere
+perturbatie
+răscoală
+răsmiriţă
+război civil
+război fratricid
+rebeliune
+turburări
+zaveră
+
+astm
+inhalaţie
+nădui
+cpresiune
+suflu
+
+concluzie
+consecinţă
+efect
+importanţă
+influenţă
+înlănţuire
+inocuitate
+insucces
+neizbutire
+nereuşită
+panaceu
+rezultantă
+sfârşit
+succes
+curmare
+
+KETORICA
+
+a cinsti
+a impune
+a se închina
+a se înclina
+a îngenunchia
+a onora
+a respecta
+a saluta
+a sfinţi
+a slăvi
+
+topic
+tranziţie
+trop
+turnură
+
+V. liniştit
+
+REZULTAT
+
+REVOLUȚIE
+
+artificial
+declamatoriu
+ernfatic
+înflorit
+îngâmfat
+meşteşugit
+nefiresc
+
+V. inacţiune
+
+RUINA
+
+a declama
+a perora
+a proba
+a personifica
+
+atenții
+deferenţă
+genuflexiune
+glorie
+închinăciune
+îngenunchiere
+omagiu
+onoruri
+plecăciune
+ploconire
+pudoare
+reverenţă
+salut
+stimă
+teamă
+temenea
+
+epocă
+epopee
+eufemism
+exclamare
+exord
+figură
+flori
+frază
+frazeologie
+gradaţiune
+imagine
+imprecaţiune
+iperbolă
+interogaţiune
+întrebare
+invenţiune
+inversiune
+ironie
+litotă
+măsură
+metalepsă
+metafora
+metastază
+metonomazie
+metonimie
+moravuri
+număr
+obsecraţiune
+ocol
+onomatopee
+orator
+paralelă
+parafrază
+paronomază
+pasiune
+patos
+perioadă
+perorație
+
+agitator
+anarhist
+indisciplinat
+insubordonat
+insurgent
+răsvrătit
+rebel
+recalcitrant
+refractar
+revoluţionar
+sedițios
+subversiv
+
+anodin
+benign
+efectiv
+eficace
+favorabil
+fericit
+implicit
+indemn
+ineficace
+inofensiv
+inutil
+neînsemnat
+nenorocit
+nevătămător
+prielnic
+priincios
+suveran
+
+acţiune
+alegorie
+aluziune
+amplificaţie
+anacolută
+anafora
+anastrofă
+antifrază
+antiteză
+antonimie
+antonomază
+apostrofă
+armonie
+artă oratorică
+cadenţă
+catacreză
+comparatie
+comunicare
+confirmare
+
+a asmuţi
+a îndârji
+a indigna
+a lua armele
+a se răscula
+a se răsvrăti
+a se revolta
+a revoluţiona
+a scoate din fire
+a turbura
+
+a avaria
+a bântui
+a cădea in ruins
+a cheltui
+a crăpa
+a dărâma
+a dărăpăna
+a degrada
+a descompune
+a desface
+a desfiinţa
+a desmembra
+a deteriora
+a se deteriora
+a devasta
+a devora
+a se disloca
+a distruge
+a dizolva
+a dobori
+a se fărămita
+& jefui
+a da jos
+a mistui
+a se nărui
+
+V. dispret
+
+RESPIRAȚIE
+
+a ajunge
+a atinge
+a cauza
+a crea
+a decurge
+a deriva
+a efectua
+a ieşi
+a pricinui
+a produce
+a proveni
+
+a aspira
+a asfixia
+a exala
+a expira
+a gafai
+
+anarhie
+baricadă
+comunism
+dezordine
+eteria
+
+§§----------------------------------------------------------------------
+
+116
+
+117
+
+a nimici
+a pieri
+a pierde
+a se prăbuşi
+a prăda
+a prăpădi
+a se prăvăli
+a pustii
+a rade
+a răsturna
+a risipi
+a sdruncina
+a spulbera
+a suprima
+a se surpa
+a se topi
+
+a ispăşi
+a jertfi
+a neglija
+a părăsi
+a renunţa
+a sacrifica
+a subordona
+
+functional
+higienic
+înfloritor
+întăritor
+robust
+salubru
+salutar
+sănătos
+sanitar
+solid
+
+ştiinţific
+transcendental
+universal
+versat
+
+mediocritate
+mizerie
+nevoie
+pauperism
+paupertate
+penurie
+pomană
+ruină
+strictul necesar
+
+circulație
+congestie
+dambla
+embolie
+globule
+hemoragie
+hemoptizie
+hemostatic
+inimă
+leucocite
+pulsaţii
+tensiune
+transfuziune
+vână
+varice
+
+V. bogăţie
+
+abnegatiune
+devotament
+dezinteresare
+
+tonic
+ecatombă
+
+valid
+imolaţiune
+
+verde
+Iphigenia
+Isac
+
+a asana
+olocaust
+
+a dezinfecta
+spirit de sacrificiu a se îngrăşa
+victimă
+
+a intări
+
+a se restabil!
+V. avar
+
+a rezista
+
+cercetător
+cărturar
+competenţă
+doctor
+elenist
+făclie
+învăţat
+literat
+oracol
+Pic dela Mirandole
+umanist
+
+SATIRA
+
+SARAC
+
+V. ignoranţă
+
+avid
+
+SCHIMBARE
+
+SALUT
+
+amărît
+calic
+cerşetor
+curăţat
+desculţ
+famelic
+flămând
+
+baracă
+cataclism
+catastrofă
+cocioabă
+deconfitură
+dezastru
+dispariție
+distrugere
+explozie
+foamete
+flagel
+foc
+incendiu
+inundaţie
+jaf
+lipsă
+magherniță
+mizerie
+pagubă
+plagă
+ravagii
+sandrama
+sărăcie
+schelet
+sinistru
+vandalism
+
+a aclama
+a felicita
+a se închina
+a se înclina
+a lăuda
+a saluta
+
+gol
+
+acerb
+amar
+aspru
+aprig
+batjocoritor
+caustic
+coroziv
+inciziv
+înţepător
+muşcător
+sarcastic
+sardonic
+straşnic
+virulent
+critică
+epigramă
+invectivă
+libel
+pamflet
+zeflemea
+
+asanare
+complexiune
+constituție
+cordon sanitar
+dezinfectare
+diateză
+higienă
+idiosincrazie
+profilaxie
+rezistenţă
+sanatoriu
+stare
+temperament
+vigoare
+vindecare
+
+compliment
+ovaţiune
+politeță
+plecăciune
+respect
+reverenţă
+salamalec
+salutare
+salve
+
+golan
+leşinat de foame
+mizer
+mizerabil
+muritor de foame
+nenorocit
+nevoiaş
+sărăcăcios
+sărăcut
+sărman
+strâmtorat
+uscat
+zdrenţăros
+
+V. desmierdare
+
+a lăuda
+
+altul
+alterabil
+alternativ
+amovibil
+apostat
+cameleon
+capricios
+efemer
+fantezist
+fluşturatec
+inconsecvent
+inconstant
+indecis
+inegal
+infidel
+instabil
+lunatec
+mişcător
+mobil
+necredincios
+nehotărît
+neregulat
+nesigur
+nestatornic
+nou
+renegat.
+şovăitor
+transfug
+tranzitoriu
+trecător
+
+V. boală
+
+nesănătos
+
+SAVANT
+
+SÅNGE
+
+V. dezaprobare
+
+dispret
+
+a sărăci
+a scăpăta
+
+SĂNĂTATE
+
+S-
+
+anemic
+clorotic
+injectat
+însângerat
+sângeros
+sanguin
+
+cultivat
+doct
+doctoral
+erudit
+enciclopedic
+forte
+instruit
+luminat
+pedant
+priceput
+speculativ
+
+SACRIFICIU
+
+asistenţă
+azil
+caritate
+foamete
+încurcătură
+indigentă
+jena
+lipsă
+
+antirabic
+antiseptic
+climateric
+dezinfectant
+dispus
+
+a abandona
+a expia
+
+apoplexie
+artera
+
+§§----------------------------------------------------------------------
+
+118
+
+119
+
+uşuratec
+vag
+variabil
+versatil
+zanatec
+
+a transforma
+a transmuta
+a transpune
+a travesti
+a trece
+a vira
+
+Ville
+
+dorinţă
+intenţie
+iluzie
+obiect
+obiectiv
+pretenţie
+scop
+tendinţă
+ţintă
+
+a duce
+a elimina
+a epuiza
+a escamota
+a escroca
+a excepta
+a exclude
+a excomunica
+a excorciza
+a exhuma
+a exila
+a expatria
+a expectora
+a exporta
+a expropria
+
+V. cauză
+
+origine
+
+a roade
+a rupe
+a scobi
+a smulge
+a spicui
+a spolia
+a stârpi
+a şterge
+a şterpeli
+a știrbi
+a stoarce
+a suprima
+a surghiuni
+a sustrage
+a tăia
+a toci
+a trage
+a trunchia
+
+SCRISOARE
+
+a dărâma
+a decapita
+a deconta
+a decortica
+a deduce
+a defalca
+a degaja
+a depava
+a deposeda
+a derapa
+a se desbăra
+a desbrăca
+a descălfa
+a descărca
+a descoase
+a desclei
+a descopcia
+a descoperi
+a descotorosi
+a desface
+a desfereca
+a desfiinta
+a desfrunzi
+a desfunda
+a desgropa
+a deshăma
+a desjuga
+a deslega
+a deslipi
+a desmormânta
+a desmoşteni
+a despăduri
+
+amendament
+anastrofă
+apostazie
+avatar
+cameleon
+comutaţie
+comutator
+conversiune
+diversitate
+evoluţie
+inovație
+metalepsă
+metaplasm
+metateză
+metempsicoză
+mutaţie
+nuanţă
+paiaţă
+palinodie
+reviriment
+sfârlează
+sperjur
+troc
+variantă
+
+a abandona
+a acomoda
+a adapta
+a aranja
+a corecta
+a corija
+a deforma
+a degenera
+a denatura
+a deplasa
+a deranja
+a desfigura
+a se dezice
+a falsifica
+a îmbunătăţi
+a împrospăta
+a îndrepta
+a înlocui
+a interverti
+a întoarce
+a metamorfoza
+a modifica
+a muta
+a năpârli
+a părăsi
+a parodia
+a permuta
+a preface
+a prelucra
+a preschimba
+a primeni
+a răscoli
+a răstălmăci
+a răsturna
+a rectifica
+a reforma
+a reînnoi
+a remania
+a renunta
+a retracta
+a revoluţiona
+a schimba
+a schimonosi
+a strămuta
+a transfigura
+
+epistolar
+a comunica
+a distribui
+a franca
+a libela
+a oblitera
+a ridica
+
+abolițiune
+abrogare
+anulare
+casaţie
+depilator
+detaşare
+elipsă
+eliziune
+epilator
+excepţie
+extorcare
+exciziune
+inciziune
+perempţiune
+rabat
+razzie
+secţiune
+scamator
+
+V imobil
+
+inacţiune
+statornic
+
+a expulza
+a extirpa
+a extrăda
+a extrage
+a feri
+a frustra
+a fura
+a împrăştia
+a împuțina
+a înlătura
+a înțărca
+a jefui
+a jumuli
+a jupui
+a lua
+a libera
+a mătura
+a micşora
+a mutila
+a netezi
+a pili
+a plivi
+a prăda
+a priva
+a purica
+a râcâi
+a rade
+a radia
+a răpi
+a răzui
+a recolta
+a reduce
+a reteza
+a reține
+a retrage
+a ridica
+
+A SCOATE
+
+adresă
+apostilă
+aviz
+bilet
+carte
+ciornă
+circulară
+corespondenţă
+cuvânt
+depeşă
+destinatar
+enciclică
+epistolă
+expeditor
+invitaţie
+înscris
+mesaj
+misivă
+pecete
+plic
+poştă
+răvaş
+redactare
+sigiliu
+ştire
+telegramă
+text
+veste
+
+a despătura
+a despecetlui
+a despolei
+a despopula
+a despotcovi
+a despuia
+a desrădăcina
+a destepeni
+a destitui
+a destupa
+a deşurupa
+a desvăţa
+a desveli
+a detrona
+a devaliza
+a dezarma
+a dezoxida
+a diminua
+a distruge
+
+SCOP
+
+diminutiv
+exclusiv
+privativ
+rescizoriu
+
+a ciopli
+a ciuguli
+a ciunti
+a coji
+a cosi
+a se cotorosi
+a culege
+a curăţi
+
+a ajunge
+a ajusta
+a atinge
+a lovi
+a ochi
+a tinti
+a râvni
+a ura
+a viza
+
+destinație
+
+§§----------------------------------------------------------------------
+
+120
+
+121
+
+SCRUPUL
+
+SFÂRŞIT
+
+SENTIMENT
+
+respectabil
+sacro-sant
+sacru
+
+feapin
+
+conştiincios
+delicat
+formalist
+scrupulos
+migălos
+minuțios
+
+instinctiv
+sensitiv
+sentimental
+
+V. bagatelă
+
+desfrâu
+licență
+inutil
+veselie
+zăpăceală
+
+fin
+fraged
+frapant
+gingas
+impresionabil
+interesant
+mişcător
+palpitant
+patetic
+plăpând
+răpitor
+receptiv
+sensibil
+sensitiv
+sensual
+sentimental
+simpatic
+simțitor
+susceptibil
+trupesc
+voluptos
+
+definitiv
+extremis
+in extremis
+final
+gata
+încetat
+penultim
+terminal
+ultim
+
+a binecuvânta
+a canoniza
+a consacra
+a sanctitica
+a sfinţi
+a venera
+
+a nutri
+a fi pradă
+a resimti
+a simți
+
+a cruta
+a ezita
+
+SEVER
+
+conştiinţă
+exactitate
+
+V. fals
+
+greşală
+îndrăzneală
+
+aureolă
+beatitudine
+hagialâc
+nimb
+martir
+sacrificiu
+
+aspru
+brutal
+crud
+crunt
+cumplit
+draconic
+dur
+
+ardoare
+dragoste
+emoție
+entuziasm
+excitaţie
+gelozie
+iluzie
+inimă
+milă
+pasiune
+presentiment
+presimţire
+simțimânt
+simțire
+turbare
+
+a completa
+a conchide
+a consuma
+a desăvârși
+a expira
+a isprăvi
+a stârpi
+a suprima
+a termina
+
+SECRET
+
+A SFĂRAMA
+
+clandestin
+confidențial
+disimulat
+indescifrabil
+misterios
+de nepătruns
+obscur
+pe furiş
+tainic
+
+V. insensibil
+
+liniştit"
+
+a emoționa
+a impresiona
+a încerca
+a înduioșa
+a îndura
+a înflăcăra
+a înfiora
+a îngrijora
+a resimti
+a robi
+a simți
+a sensibiliza
+a tresări
+a turbura
+a vibra
+
+hapsân
+neînduplecat
+neîndurat
+nemilos
+rău
+rebarbativ
+rigid
+rigorist
+riguros
+sălbatec
+sec
+sever
+straşnic
+strict
+tiran
+ursuz
+violent
+
+a ciunti
+a crăpa
+a desface
+a desmembra
+a dezagrega
+a dezarticula
+a disloca
+a fărâma
+a fărămița
+a fractiona
+a fractura
+a frământa
+a frânge
+a malaxa
+a mutila
+a pulveriza
+a rupe
+a sparge
+a schilodi
+a strivi
+
+SERIOS
+
+a destăinui
+a releva
+a da la iveală
+a releva
+a şopti
+a tălmăci
+a trăda
+a transpira
+cifră
+criptografie
+enigmă
+sfinx
+zăbrele
+
+a comanda
+a martiriza
+a pedepsi
+a porunci
+
+apogeu
+apus
+ariergardă
+capăt
+coadă
+concluzie
+creştet
+culme
+declin
+desnodământ
+epilog
+extincţiune
+extremitate
+fine
+hotar
+încheere
+închidere
+limită
+margine
+maximum
+paroxism
+perorație
+rezultat
+scop
+soluţie
+stingere
+sufix
+termen
+țintă
+
+afectat
+aşezat
+auster
+bătos
+dârz
+emfatic
+fudul
+flegmatic
+grav
+îngâmfat
+înţepat
+liniştit
+pompos
+rece
+scortos
+sever
+solemn
+straşnic
+
+afecţiune
+coarda simtitoare
+dragoste
+elan
+emoţiune
+fibră
+impresie
+sentiment
+sibarit
+simt
+simțire
+
+V. bun
+
+complezent
+desmierdare
+ierta
+
+SENSIBILITATE
+
+efractie
+fărâmă
+fisură
+fragment
+plesnitură
+sciziune
+tåetură
+
+SFÂNT
+
+captivant
+delicat
+dramatic
+duios
+
+august
+intangibil
+inviolabil
+
+V. insensibil
+
+V. întreg
+
+legătură
+
+§§----------------------------------------------------------------------
+
+123
+
+122
+
+SFAT
+
+consultativ
+cuminte
+experimentat
+înţelept
+prevăzător
+prudent
+
+scandal
+$oapte
+suspin
+susur
+
+a mustra
+a opina
+a pofti
+a povăţui
+a preveni
+a recomanda
+a seduce
+a sfătui
+a stărui
+a stila
+a stimula
+a subjuga
+
+probat
+raţional
+real
+solid
+stabilit
+tangibil
+vizibil
+
+net
+palpabil
+perceptibil
+sensibil
+sensitiv
+sensorial
+simțitor
+
+tapaj
+tărăboi
+tobă
+vuiet
+zarvă
+zumzet
+zvon
+
+V. discuție
+
+a ezita
+ipnteză
+obscur
+
+a atinge
+a percepe
+a privi
+a resimți
+a simţi
+a vedea
+
+a sufla
+
+a sugera
+
+SIGUR
+
+SIMPLU
+
+adunare
+aviz
+conciliabul
+consiliu
+directivă
+inspirație
+instrucţiuni
+lecţiune
+mentor
+observații
+oracol
+părere
+persuasiune
+recomandaţie
+reproşuri
+sugestiune
+
+a cârâi
+a câşâi
+a ciripi
+a clăpăni
+a clăncăi
+a clefăi
+a cloncăni
+a cotcodăci
+a grohăi
+a hârâi
+a hârşâi
+a hăui
+a hăuli
+a hodorogi
+a huidui
+a fâsâi
+a fluera
+a mârâi
+a murmura
+a răsuna
+a sbârnâi
+a scârţâi
+a sdrăngăni
+a striga
+a şuiera
+a țârâi
+a tipa
+a ţiui
+a trăncăni
+a trosni
+a tuna
+a urla
+a zângăni
+a zâzâi
+
+adevărat
+admis
+asigurat
+autentic
+categoric
+clar
+constant
+demonstrat
+exact
+evident
+fatal
+
+auz
+gust
+impresie
+miros
+odorat
+organ
+pipăit
+sensibilitate
+senzaţie
+tact
+văz
+
+a ademeni
+a admonesta
+a amăgi
+a aprinde
+a aproba
+a aţâţa
+a avertiza
+a capta
+a cere avizul
+a certa
+a consulta
+a converti
+a convinge
+a dăscăli
+a decide
+a determina
+a dezaproba
+a dojeni
+2. excita
+a fanatiza
+a galvaniza
+a hotărî
+a îmbărbăta
+a îmboldi
+a împinge
+a încuraja
+a indica
+a înflăcăra
+a influenţa
+a înrâuri
+a inspira
+a instiga
+a înştiinţa
+a instrui
+a insufla
+a însufleti
+a întărîta
+a învăţa
+a invita
+a limpezi
+a lumina
+a moraliza
+
+V. insensibil
+
+ageamiu
+candid
+comun
+cordial
+deschis
+dobitoc
+familiar
+franc
+frugal
+inocent
+lesne
+modest
+natural
+naiv
+nevinovat
+obişnuit
+ordinar
+patriarhal
+prozaic
+sărac
+simplist
+sincer
+umil
+vulgar
+
+SINCER
+
+SGOMOT
+
+a zornăi
+a zumbi
+a zurui
+a zuzui
+a vâjâi
+a vui
+
+fidel
+flagrant
+fondat
+formal
+garantat
+inatacabil
+încercat
+incontestabil
+indiscutabil
+indubitabil
+inevitabil
+infailibil
+invederat
+inviolabil
+invulnerabil
+istoric
+manifest
+matematic
+net
+de netăgăduit
+notoriu
+oficial
+palpabil
+patent
+peremptoriu
+pozitiv
+
+asurzitor
+cadenţat
+confuz
+distinct
+imperceptibil
+indistinct
+infernal
+puternic
+răsunător
+ritmic
+slab
+strident
+surd
+
+V. dezordine
+
+dificultate
+inteligent
+ipocrizie
+
+adevărat
+cinstit
+comunicativ
+cordial
+curat
+deschis
+desluşit
+devotat
+expansiv
+explicit
+fidel
+franc
+leal
+lămurit
+limpede
+neprefăcut
+net
+onest
+pe şleau
+răspicat
+
+SIMT
+
+cacofonie
+disonanţă
+ecou
+explozie
+gălăgie
+gemåt
+larmă
+onomatopee
+pocnitură
+rumoare
+
+a bălăngăni
+a bâzâi
+a bubui
+
+confuz
+desluşit
+imperceptibil
+insensibil
+
+§§----------------------------------------------------------------------
+
+124
+
+125
+
+veridic
+
+candoare
+naivitate
+simplicitate
+simplitate
+
+V. artificial
+
+ascuns
+fals
+ipocrizie
+a minti
+orgoliu
+
+pipernicit
+pirpiriu
+piţigăiat
+plăpând
+prăpădit
+precar
+rahitic
+ramolit
+rupt
+sfrijit
+slăbănog
+slăbut
+sleit
+şubred
+subţirel
+suferind
+trecător
+trudit
+uscat
+uscăţiv
+uzat
+vulnerabil
+
+inertie
+lângoare
+marasm
+mârfoagă
+moleşeală
+moliciune
+mortăciune
+senilitate
+sincopă
+slăbiciune
+toropeală
+
+multime
+nobil
+norod
+plebe
+popor
+populație
+poziţie
+preot
+proletar
+prostime
+
+finete
+glumă
+humor
+ironie
+năzbâtie
+persiflare
+sarcasm
+sare
+satiră
+suflet
+vervă
+vioiciunelim
+zeflemea
+
+SLAB
+
+V. forţă
+
+sănătate
+
+SOCIETATE
+
+rang
+rob
+seminţie
+sclav
+şerb
+stare
+topârlan
+treaptă
+uniune
+
+V. grosolan
+
+liniştit
+mizantrop
+plictiseală
+timid
+trist
+
+dârz
+devotat
+ferm
+fix
+hotărît
+imanent
+imuabil
+inalterabil
+inamovibil
+incoruptibil
+incorigibil
+îndârjit
+invariabil
+irevocabil
+monoton
+neclintit
+nedesmințit
+neschimbător
+nesecat
+nesdruncinat
+nestins
+neștirbit
+nestrămutat
+nevătămat
+permanent
+perseverent
+persisent
+stabil
+staționar
+temeinic
+trainic
+uniform
+
+V. un
+
+comun
+împreună
+industrial
+mojic
+negustoresc
+obştesc
+popular
+public
+social
+sociabil
+
+STÂNGACIU
+
+SPIRIT
+
+ageamius
+
+a frecventa
+
+anemic
+beteag
+bolnav
+bolnăvicios
+caduc
+convalescent
+costeliy
+debil
+delicat
+efemer
+epuizat
+fără putere
+fără vlagă
+fin
+fraged
+fragil
+frânt
+friabil
+flexibil
+fugitiv
+gălbejit
+gârbovit
+impotent
+infirm
+inofensiv
+invalid
+istovit
+jigărit
+mărunt
+mic
+moale
+muribund
+neputincios
+obosit
+ofticos
+
+a ceda
+a se clătina
+a se dărăpăna
+a extenua
+a se încovoia
+a se îndoi
+a lâncezi
+a leşina
+a scădea
+a scăpăta
+a slăbi
+a şovăi
+a se stinge
+a tânji
+a tremura
+
+boblet
+greoiu
+grosolan
+începător
+incompetent
+nătâng
+nătărău
+nedestoinic
+neexersat
+neindemânatec
+neînvăţat
+nepolitic
+nepriceput
+novice
+zăpăcit
+
+caustic
+coroziv
+hazliu
+incisiv
+ingenios
+inteligent
+jovial
+malitios
+mușcător
+poznas
+răutăcios
+șăgalnic
+sarcastic
+satiric
+scânteetor
+spiritual
+şugubăţ
+tăios
+umoristic
+vesel
+zburdalnic
+
+adunare
+aristocrat
+artizan
+burghez
+castă
+categorie
+cetăţean
+clasă
+condițiune
+contact
+drojdie
+gloată
+grămadă
+ierarhie socială
+industrias
+iobag
+legătură
+lume
+massă
+meseriaş
+meşteşugar
+
+a dăinui
+a dura
+a înclina
+a pironi
+a stagna
+a stărui
+a subsista
+a ține
+
+astenie
+atonie
+atrofie
+baccea
+căzătură
+cloroză
+convalescență
+declin
+ftisie
+gloabă
+hodoroagă
+inaniție
+
+a greși
+a se înnămoli
+a se încurca
+
+V. abil
+
+ordine
+
+ataşament
+bărbăție
+curaj
+fidelitate
+încăpăţânare
+îndărătnicie
+obsesie
+rezistenţă
+tenacitate
+
+ace
+batjocură
+drăcovenie
+duh
+epigramă
+
+STATORNICIE
+
+constant
+credincios
+
+§§----------------------------------------------------------------------
+
+126
+
+127
+
+virtute
+
+V. capriciu
+
+neascultare
+schimbare
+
+sumbru
+surd
+turbure
+vânăt
+veștejit
+
+STERIL
+
+ȘTIINȚA
+
+arid
+inactiv
+infructuos
+ingrat
+inutil
+nefolositor
+neproductiv
+neroditor
+părăginit
+sărac
+sec
+slab
+sterp
+uscat
+zadarnic
+
+cult
+instruit
+luminat
+omniscient
+pedant
+universal
+a cunoaşte
+a iniția
+a instrui
+a poseda
+a pricepe
+a şti
+a studia
+
+încâlcit
+incisiv
+incorect
+încurcat
+îndrăznet
+inegal
+înflorit
+întortochiat
+întretăiat
+josnic
+lăbărtat
+laconic
+languros
+
+anost
+arid
+armonios
+aspru
+atic
+banal
+barbar
+bogat
+căutat
+clar
+clasic
+colorat
+comun
+concis
+confuz
+contestabil
+corect
+curat
+curăţel
+curgător
+declamatoriu
+delicat
+delicios
+desluşit
+distins
+dezordonat
+difuz
+diluat
+ditirambic
+dur
+echivoc
+
+prost
+prozaic
+pur
+puternic
+rece
+romantic
+sărac
+searbăd
+sec
+scânteetor
+sforăitor
+simplu
+silit
+slab
+solemn
+strălucit
+sublim
+subtil
+tăios
+tare
+teatral
+temperat
+trivial
+umflat
+uscat
+uşor
+viguros
+viril
+
+imagine
+improvizaţie
+întorsătură
+literatură
+limbă
+lungime
+manieră
+metaforă
+mod
+neologism
+pană
+patos
+perifrază
+povestitor
+redactare
+relief
+repetiție
+retorică
+ritm
+scriitor
+tiradă
+ton
+turnură
+vorbărie
+
+lapidar
+lesne
+limpede
+luminos
+maiestos
+manierat
+măreţ
+meşteşugit
+mieros
+muşcător
+narativ
+natural
+neclar
+neglijat
+neglijent
+neînţeles
+
+bărăgan
+desert
+pustiu
+stepă
+
+bagaj
+competenţă
+doctrină
+erudiţie
+exercițiu
+experienţă
+fond
+învăţat
+noțiuni
+rutină
+savant
+spoială
+studii
+
+A STRÅNGE
+
+V. bogăţie
+
+fecund
+
+vioiu
+viu
+vivace
+vulgar
+
+STERS
+
+V. ignoranță
+
+STIL
+
+decolorat
+ieşit
+închis
+incolor
+întunecat
+mat
+mohorât
+mort
+ofilit
+palid
+pământiu
+plumburiu
+posomorât
+sarbăd
+slăbit
+spălăcit
+stins
+
+elegant
+emfatic
+energic
+epistolar
+expresiv
+facil
+familiar
+figurat
+firesc
+fluid
+frumos
+găunos
+glacial
+gol
+gratios
+greoiu
+grosolan
+împodobit
+impropriu
+impur
+
+nelămurit
+nemeşteşugit
+nepotrivit
+nervos
+net
+nobil
+oarecare
+obişnuit
+obscur
+ordinar
+original
+ornat
+pedant
+personal
+pitoresc
+plăcut
+plat
+poetic
+pompos
+prea îngrijit
+pretenţios
+prolix
+
+abscons
+abstrus
+academic
+admirabil
+afectat
+agreabil
+alambicat
+ales
+amabil
+ambitios
+amfiguric
+
+3
+
+a aduna
+a apăsa
+a călca
+a comprima
+a condensa
+a crispa
+a culege
+a se ghemui
+a încleşta
+a îndesa
+a înghesui
+a îngusta
+a înlănțui
+a lega
+a pisa
+a presa
+a stoarce
+a stâlci
+a se stârci
+a strangula
+a strâmta
+a strivi
+a suci
+a turti
+
+abundenţă
+arhaism
+bărbăţie
+cadenţă
+căldură
+circonlocuţiune
+cuvânt
+dezordine
+digresiune
+elocuţiune
+elocvență
+expresiune
+figură
+formă
+forţă
+frazeologie
+galimatias
+gen
+
+§§----------------------------------------------------------------------
+
+-129
+
+128
+
+SUCCES
+
+centură
+cleşte
+compresiune
+contractilitate
+contracţiune
+crispaţiune
+menghinea
+presă
+retractiune
+sgârcire
+spasm
+
+a înfăţişa
+a născoci
+a prezenta
+a pătrunde
+a reveni
+a ridica
+a scrie
+a studia
+a susține
+a trata
+a vorbi
+
+inorganic
+material
+omogen
+organic
+palpabil
+perceptibil
+simplu
+substantial
+tangibil
+
+a ajunge
+a consacra
+a parveni
+a prospera
+a război
+
+precumpănitor
+predominant
+preponderant
+preferabil
+mai presus
+principal
+proeminent
+puternic
+în relief
+remarcabil
+ridicat
+splendid
+superb
+superlativ
+superfin
+suprem
+
+a împuşca
+a jupui
+a lapida
+a martiriza
+a omorî
+a schingiui
+a spânzura
+a țintui
+a tortura
+i trudi
+
+V. a desface
+
+extensiune
+
+STRIGĂT
+
+apogeu
+avantaj
+biruinţă
+câştig
+fericire
+izbândă
+noroc
+ovaţiune
+parte
+reuşită
+şansă
+sorţi
+triumf
+
+mai sus
+
+aliaj
+amalgam
+amestec
+atom
+compoziţie
+concept
+corp
+duh
+element
+lucru
+principiu
+produs
+spirit
+suflet
+
+a aclama
+a chiui
+a exclama
+a răcni
+a rage
+a sbiera
+a striga
+a tipa
+a urla
+a vocifera
+
+victorie
+
+a bate
+a birui
+a depăşi
+a eclipsa
+a întrece
+a întuneca
+a învinge
+a prevala
+
+V. nereuşită
+
+nenorocire
+
+SUBTIL
+
+SUPERIOR
+
+argument
+bază
+câmp
+canava
+capitol
+chestiune
+context
+conţinut
+descoperire
+digresiune
+domeniu
+fond
+invenţiune
+materie
+obiect
+ordine de zi
+paragraf
+plan
+program
+punct
+substanţă
+structură
+temă
+enung
+temeiu
+teren
+litigiu
+tesătură
+text
+teză
+urzeală
+
+chiote
+gălăgie
+gemăt
+harmalae
+huidueli
+larmă
+rumoare
+svon
+vuet
+zarvă
+
+afectat
+ager
+alambicat
+ales
+delicat
+fertil
+fin
+fluid
+încâlcit
+ingenios
+întortochiat
+inventiv
+meşteşugit
+migălos
+pur
+rafinat
+şiret
+
+cap
+căpetenie
+întâietate
+primul
+primat
+prioritate
+şef
+somitate
+superioritate
+supremaţie
+
+autodafé
+bardă
+baston
+bastonadă
+bătae
+butuc
+călău
+căluş
+caznă
+cleşte
+cnut
+condamnat
+cruzime
+eşafod
+gâde
+gheenă
+ghilotină
+iad
+inchiziție
+infern
+martir
+mucenic
+nuiele
+osândă
+patimi
+pedeapsă
+proţap
+roată
+rug
+secure
+strânsoare
+streang
+talion
+teapă
+topor
+vergi
+victimă
+
+V. inferior
+
+mai bine
+mai bun
+covârşitor
+deasupra
+deosebit
+desăvârșit
+emerit
+eminent
+excelent
+extra
+fruntaş
+ideal
+important
+inalt
+incomparabil
+ireprosabil
+magistral
+mai
+maiestos
+mare
+maximum
+nec plus ultra
+perfect
+
+SUBIECT
+
+SUPLICIU
+
+SUBSTANȚĂ
+
+a aborda
+a adânci
+a agita
+a analiza
+a aprofunda
+a cerceta
+a dezvolta
+a diserta
+a epuiza
+a expune
+
+compus
+concret
+eterogen
+fizic
+imaterial
+
+arguție
+chintesenţă
+sofism
+subtilitate
+
+a arde
+a biciui
+a canoni
+
+căzni
+a chinui
+a crucifica
+a decapita
+a executa
+a expune
+
+V. a ierta
+
+milă
+
+V. grosolan
+
+9
+
+§§----------------------------------------------------------------------
+
+130
+
+- 131
+
+SUPORT
+
+dotat
+inspirat
+magistral
+perfect
+
+zăbavă
+
+V. iute
+
+noduros
+pietros
+rezistent
+rigid
+scortos
+solid
+ţeapăn
+temeinic
+trainic
+vârtos
+zdravăn
+
+a duce
+a căra
+a propti
+a purta
+a rezema
+a ridica
+a sprijini
+a suporta
+a susține
+a transporta
+
+TIMID
+
+aptitudine
+artă
+artist
+calitate
+capacitate
+chemare
+dar
+dispoziţiuni
+facilitate
+forţă
+geniu
+gust
+inspirație
+maestru
+măiestrie
+merit
+mijloace
+predispoziţii
+propensiune
+suflu
+temperament
+uşurinţă
+valoare
+virtuozitate
+vocaţiune
+
+bătătură
+calozitate
+chiag
+duritate
+indurație
+grunji
+tărie
+
+baston
+bază
+cârjă
+coloană
+pană
+picior
+piedestal
+proptea
+protecţie
+soclu
+stâlp
+țăruş
+temeiu
+temelie
+
+ascultător
+buimăcit
+confundat
+conruz
+doci
+înfricoşat
+jenat
+modest
+prudent
+ruşinos
+sfiicios
+sfios
+smerit
+stângaciu
+stânjenit
+umil
+
+V. moale
+
+TĀRZIU
+
+a ezita
+a roşi
+
+dilatoriu
+perimat
+tardiv
+trecut
+zăbavnic
+
+traducere inexactă
+totalitate
+
+traducere liberă
+unanimitate
+universalitate traducere literală
+
+traducere servilă
+V. a
+divide
+
+translator
+mai puţin
+
+versiune
+nimic
+
+A TRECE
+A TRADUCE
+
+a se abate
+indescifrabil
+
+a cârmi
+
+a cerne
+interpretativ
+intraductibil
+
+a depăşi
+literal
+
+a-şi deschide
+traductibil
+
+a dubla
+
+a duce
+a comenta
+
+a excede
+a descifra
+
+a forţa
+a descâlci
+
+a înconjura
+a descurca
+
+a întrece
+a desluşi
+
+a introduce
+a explica
+
+a ocoli
+a exprima
+
+a omite
+a se îndepărta a sări
+a interpreta
+
+a strecura
+a lămuri
+
+a străbate
+a manifesta
+
+a sui
+a pricepe
+
+a se transforma
+a reda
+
+a transmite
+a reprezenta
+
+a traversa
+a reproduce
+
+a urca
+a tălmăci
+a traduce
+
+cale
+a transpune
+
+călătorie
+
+canal
+autor
+
+chee
+dragoman
+
+drum
+interpret
+
+drumet
+original
+
+escaladare
+parafrază
+
+galerie
+tâlc
+
+înaintare
+temă
+
+obstacol
+text
+
+opoziţie
+traducător
+
+pasaj
+traducere
+
+prea
+traducere ad litteram a precede
+traducere anapoda punte
+traducere conformă trecătoare
+traducere cuvânt cutrecător
+
+cuvânt
+traducere eronată
+
+trecere
+voiaj
+
+SUSCEPTIBIL
+
+frică
+încurcătură
+sfială
+teamă
+timiditate
+turburare
+zăpăceală
+
+V. dificultate
+
+stângaciu
+
+TARE
+
+delicat
+gâdilicios
+irascibil
+iritabil
+nervos
+sensibil
+sperios
+supărăcios
+tâfnos
+violent
+
+V. îndrăzneală
+
+poruncă
+
+a amâna
+a întârzia
+a întrerupe
+a lungi
+a pierde
+a prelungi
+a proroga
+a remite
+a reţine
+a scăpa
+a suspenda
+a tărăgăni
+a temporiza
+a zăbovi
+
+TOT
+
+V. liniştit
+
+aspru
+bătătorit
+coagulat
+consistent
+dens
+dur
+durabil
+ferm
+de fier
+împietrit
+închegat
+inflexibil
+înghețat
+învârtosat
+neclintit
+
+deplin
+desăvârşit
+grămadă
+împreună
+integral
+întreg
+
+- T
+
+TALENT
+
+consacrat
+consumat
+desăvârşit
+
+întârziere
+peremțiune
+prescripţiune
+soroc
+tânjală
+termen
+
+ansamblu
+bloc
+generalitate
+integritate
+total
+
+§§----------------------------------------------------------------------
+
+132
+
+133
+
+TREMURATURA
+
+a resfrânge
+a refracta
+a refuza
+a remite
+a repercuta
+a retrimite
+a reverbera
+a transmite
+
+V. a râde
+
+spirit
+vesel
+
+a pălmui
+a scuipa
+a ultragia
+a vexa
+
+a se ploconi
+a se prosterna
+a răni
+a roşi
+a se scoborî
+a se târî
+a umili
+
+- U -
+
+UITARE
+
+a bălăbăni
+a se agita
+a cădea
+a clăngăni
+a se clătina
+a se cutremura
+a dárdai
+a falfâi
+a foşni
+a se înfiora
+a hâtai
+a hâțâna
+a hurduca
+a oscila
+a sălta
+a sdruncina
+a sgudui
+a şovăi
+a svâcni
+a tremura
+a tresălta
+a vibra
+
+distrat
+uituc
+zăpăcit
+
+afront
+atac
+cuvinte grele
+huidueli
+impietate
+invectivă
+nelegiuire
+ocară
+palmă
+ruşine
+sacrilegiu
+sarcasm
+violență
+
+abnegaţie
+evlavie
+pietate
+platitudine
+resemnare
+umilinţă
+
+inconsolabil
+înfrânt
+îngrozitor
+întristat
+întunecat
+învins
+ipocondric
+jalnic
+lamentabil
+lugubru
+mâhnit
+melancolic
+melodramatic
+mizantrop
+mohorât
+morocănos
+năpăstuit
+necăjit
+neconsolat
+nemângâiat
+nenorocit
+penibil
+pesimist
+posac
+posomorît
+plictisit
+sfâşietor
+sumbru
+supărat
+taciturn
+tenebros
+tragic
+ursuz
+
+a se desvăța
+a sări
+a-i scăpa
+a uita
+
+ambasadă
+colet
+comandă
+deputat
+curier
+destinatar
+dispersiune
+ecou
+emisar
+expeditor
+grop
+imagine
+mesager
+misiune
+provenienţă
+reflexiune
+refracţiune
+ştafetă
+trimis
+
+V. importanţă
+
+îndrăzneală
+orgoliu
+
+UN
+
+TRIST
+
+fior
+freamăt
+frică
+mișcarc
+sacadă
+scuturătură
+tremolo
+tremur
+tremuriciu
+trepidaţie
+tresărire
+
+a se chinui
+å se frământa
+a se jeli
+a plânge
+a tângui
+
+amnezie
+memorie infidelă V. afabil
+memorie necredin- desmierdare
+cioasă
+
+politeţă
+memorie scurtă
+
+respect
+neglijenţă
+omisiune
+
+UMIL
+preteriţiune
+
+cucernic
+V. memorie
+
+cuviincios
+prezenţă
+
+mic
+
+mediocru
+ULTRAGIU modest
+
+plecat
+grosolan
+
+plouat
+impertinent
+
+rezervat
+insolent
+
+ruşinat
+ireverenţios
+
+servil
+mojic
+
+sfiicios
+necuviincios
+
+simplu
+neobrăzat
+
+slugarnic
+nepoliticos
+
+smerit
+obraznic
+
+şters
+
+supus
+a blesa
+
+timid
+a blestema
+
+tremurând
+a înjura
+a injuria
+
+a batjocori
+a insulta
+
+a îngenunchia
+a jigni
+
+a înjosi
+a murdări
+
+a jigni
+a ocări
+
+a mortifica
+a ofensa
+
+a se pleca
+
+abandonat
+despărţit
+distinct
+indivizibil
+ins
+ireductibil
+izolat
+mizantrop
+monocotiledon
+monocrom
+monopter
+necomplex
+nedivizibil
+părăsit
+particular
+personal
+retras
+sălbatec
+separat
+simplu
+singular
+singur
+singuratec
+solitar
+solo
+unanim
+unic
+unicolor
+uniform
+unipar
+
+abătut
+absorbit
+acrit
+afectat
+amărît
+cernit
+copleşit
+crud
+decepționat
+desperat
+dezamăgit
+deziluzionat
+dezolat
+dureros
+funebru
+funest
+groaznic
+înăcrit
+înåsprit
+încercat
+
+V. imobil
+
+A TRIMITE
+
+a adresa
+a delega
+a emite
+a expedia
+a exporta
+a imprăştia
+a lansa
+a oglindi
+a radia
+a reflecta
+
+contrarietate
+doliu
+durere
+ieremiadă
+jale
+litanie
+păs
+spleen
+suferinţă
+tribulatiuni
+zăbranic
+
+§§----------------------------------------------------------------------
+
+134
+
+135
+
+UNIUNE
+
+unipersonal
+unisexual
+unitar
+univalv
+univoc
+
+împreună
+individual
+masiv
+necomplex
+omogen
+simplu
+
+execrabil
+impopular
+inamic
+nepopular
+nesuferit
+odios
+ostil
+pizmas
+vrăjmaş
+
+sec
+steril
+sterp
+sicativ
+uscat
+vested
+
+desgustător
+diform
+disgratios
+grotesc
+grosolan
+hidos
+maimuţă
+neplăcut
+plictisitor
+pocit
+respingător
+slut
+
+a întârzia
+a întovărăşi
+a observa
+a păşi
+a petrece
+a proceda
+a reconduce
+a supravieţui
+a se supune
+a urmări
+a veni
+a zăbovi
+
+a isprăvi
+a se ofili
+a seca
+a slei
+a şterge
+
+a alipi
+a anexa
+a îmbina
+a împreuna
+a întruni
+a ralia
+a uni
+
+a blestema
+a bârfi
+a se certa
+a cleveti
+a detesta
+a duşmăni
+a fi îmbufnat
+a ponegri
+a se supăra
+a urî
+
+hidrofug
+secetă
+uscătură
+
+a se schimonosi
+a se urâți
+
+V. a muia
+
+UTIL
+
+V. agreabil
+
+frumos
+ornament
+plăcere
+plăcut
+subtil
+
+A URMA
+
+acord
+adunare
+amestec
+as
+atom
+bloc
+centru
+cucuvea
+individ
+individualism
+indiviziune
+intrunire
+intrunire
+legătură
+monadă
+monah
+monarhie
+monoclu
+monogamie
+monocord
+monogram
+monografie
+monolit
+monolog
+monom
+monomanie
+monometalism
+monopol
+monorimă
+monostih
+monosilabă
+monoteism
+monotonie
+sihastru
+simplicitate
+singurătate
+solist
+solo
+unificare
+unison
+unitate
+uniune
+
+acord
+adunare
+aliaj
+alianță
+amalgam
+amestec
+anastomoză
+armonię
+asociație
+coaliţie
+coeziune
+concordie
+conexiune
+confederatie
+coordonare
+cotizație
+fuziune
+indiviziune
+joncţiune
+legătură
+ligă
+racord
+reuniune
+sudură
+unificare
+unison
+
+animozitate
+antipatie
+aversiune
+ceartă
+desbinare
+desgust
+dezacord
+discordie
+duşmănie
+fiere
+incompatibilitate
+inimiciţie
+preventie
+ostilitate
+resentiment
+răceală
+scârbă
+venin
+vrajbă
+zizanie
+
+apoi
+apropiat
+consecutiv
+după
+a fortiori
+imediat
+implicit
+logic
+neîntârziat
+posterior
+postum
+proxim
+tardiv
+ulterior
+următor
+zăbavnic
+
+acolit
+apendice
+ariergardă
+coadă
+coloană
+complement
+consecinţă
+corolar
+cortegiu
+deducție
+descendenţă
+dinastie
+epilog
+genealogie
+lang
+linie
+moştenire
+nomenclatură
+post-scriptum
+posteritate
+procesiune
+rezultat
+serie
+sfârşit
+şir
+succesiune
+sufix
+suită
+supliment
+
+avantajos
+bun
+capital
+de căpătenie
+comod
+convenabil
+disponibil
+eficace
+esențial
+favorabil
+fecund
+folositor
+fructuos
+important
+indispensabil
+însemnat
+interesant
+lucrativ
+necesar
+preţios
+priincios
+productiv
+profitabil
+roditor
+salutar
+sănătos
+spornic
+suveran
+trebuincios
+utilitar
+
+V. admirație
+
+amor
+a iubi
+
+terminație
+urmas
+
+V. a desface
+
+dezordine
+a divide
+
+V. a precede
+
+URAT
+
+a asculta
+a acompania
+a conduce
+a se conforma
+a continua
+a frecventa
+a se înclina
+a înlocui
+a însoți
+
+USCĂCIUNE
+
+URA
+
+V. a desface
+
+număr
+
+antipatic
+bocciu
+dezagreabil
+
+abominabil
+
+anhidru
+arid
+
+§§----------------------------------------------------------------------
+
+137
+
+136
+
+vade-mecum
+valabil
+valid
+
+a înveseli
+a jubila
+a râde
+a surâde
+a zâmbi
+
+vizibil
+
+mâncat
+năruit
+pilit
+prăpădit
+putrezit
+ros
+ruginit
+stricat
+tocit
+
+a ajuta
+a contribui
+a exploata
+a folosi
+a îndatora
+a întrebuinta
+a mântui
+a obliga
+a pretui
+a salva
+a scăpa
+a servi
+a sluji
+a valora
+a utiliza
+
+revistă
+santinelă
+spectacol
+spectator
+tablou
+telescop
+vedenie
+vedere
+vedetă
+vigilenţă
+vizibilitate
+viziune
+
+a asista
+a atinti
+a cerceta
+a considera
+a constata
+a contempla
+a controla
+a descoperi
+a discerne
+a distinge
+a examina
+a găsi
+a inspecta
+
+;
+
+a devasta
+a discredita
+a infesta
+a înjosi
+a învenina
+a jigni
+a leza
+a mânji
+a murdări
+a nedreptăţi
+a necinsti
+a otrăvi
+a păgubi
+a păta
+a persecuta
+a prejudicia
+a prigoni
+a face rău
+a ruina
+a strica
+a terfeli
+a umili
+a viția
+
+coroziune
+eroziune
+ruină
+sdreanţă
+uzură
+vechitură
+
+bazaconie
+bucurie
+dispoziţie
+farsă
+festă
+ilaritate
+încântare
+mulţumire
+plăcere
+râsete
+renghiu
+satisfacţie
+sbengueli
+şotie
+
+V. întunecos
+
+obscur
+
+VESELIE
+
+V. întreg
+
+V
+
+V. inutil
+
+a vătăma
+
+V. durere
+
+mizantrop
+posac
+trist
+
+A VĂTĂMA
+
+UZ
+
+a întrevedea
+a observa
+a ochi
+a pândi
+a privi
+a răsfoi
+a recunoaşte
+a remarca
+a revedea
+a revizui
+a scruta
+a spiona
+a supraveghea
+a surprinde
+a se uita
+a veghea
+a verifica
+a zări
+
+VIAȚA
+
+atingere
+inimiciţie
+prejudiţiu
+răutate
+vătămătură
+victimă
+
+contrariu
+deleter
+dezastruos
+duşmănos
+fatal
+funest
+insalubru
+nesănătos
+ostil
+periculos
+pernicios
+prejudiciabil
+primejdios
+rău
+răufăcător
+răuvoitor
+vătămător
+
+a afecta
+a consuma
+a destina
+a dispune
+a exploata
+a folosi
+a întrebuinţa
+a profita
+a servi
+a sluji
+a utiliza
+a face uz
+
+amuzant
+bufon
+caraghios
+comic
+ghiduş
+glumet
+hazliu
+jovial
+msăcărici
+mucalit
+nebunatec
+nostim
+păcălici
+plăcut
+poznas
+radios
+râzâtor
+şăgalnic
+sburdalnic
+sglobiu
+soitariu
+spiritual
+umoristic
+vesel
+voios
+zeflemist
+
+V. mai bine
+
+remediu
+sănătos
+
+animat
+însufleţit
+sprinten
+viabil
+viager
+vioiu
+vital
+viu
+vivace
+vivipar
+
+A VEDEA
+
+folosinţă
+posesiune
+utilitate
+uzufruct
+
+alucinatie
+aspect
+atențiune
+curiozitate
+înfăţişare
+lunetă
+microscop
+nălucire
+ochiada
+ochian
+ochiu
+optică
+pândar
+panoramă
+prezenţă
+privire
+privelişte
+
+V. inutil
+
+clar
+diafan
+distinct
+lucid
+limpede
+luminos
+net
+ocular
+precis
+sinoptic
+străveziu
+translucid
+transparent
+de visu
+
+a bârfi
+a batjocori
+a calomnia
+a cleveti
+a compromite
+a corupe
+a deprecia
+a desconsidera
+a deteriora
+
+UZAT
+
+a fi
+a învia
+a înviora
+a reînsufleți
+a reînvia
+a renaşte
+a respira
+a retrăi
+a suprapravieţui
+
+trăi
+a vegeta
+a vietui
+
+a chicoti
+a chiui
+a se delecta
+a se desfăta
+a exulta
+a glumi
+
+consumat
+dărăpănat
+învechit
+jerpelit
+
+§§----------------------------------------------------------------------
+
+138
+
+139
+
+a mări
+a spori
+
+sistematic
+slobod
+spontan
+statornic
+tenace
+tiran
+unanim
+viril
+voit
+voluntar
+
+ani
+animatie
+animism
+biografie
+destin
+energie
+existenţă
+fiinţă
+forţă
+longevitate
+prezenţă
+principiu vital
+putere
+soartă
+suflet
+suflu
+tărie
+timp
+traiu
+ursită
+vitalitate
+vivisecţiune
+vreme
+zile
+
+a aspira
+a curăți
+a descărca
+a deşerta
+a despopula
+a dezerta
+a epuiza
+a evacua
+a expulza
+a extrage
+a fugi
+a goli
+a goni
+a înlătura
+a pritoci
+a se revărsa
+a scoate
+a scobi
+a seca
+a slei-a stoarce
+a sustrage
+a trage
+a vărsa
+
+a chibzui
+a decide
+a determina
+a exige
+a hotărî
+a impune
+a începe
+a încerca
+a insista
+a întreprinde
+a se obstina
+a-şi propune
+a stărui
+a statornici
+a ţine la
+a viza
+a vrea
+
+personalitate
+plan
+pornire
+precugetare
+predispoziţie
+premeditare
+pretenţie
+privelişte
+proecte
+propensiune
+răspundere
+responsabilitate
+reviriment
+scop
+tendinţă
+ţintă
+toană
+unanimitate
+vederi
+veleitate
+
+amplitudine
+amploare
+bob
+bulgăre
+capacitate
+conţinut
+corp
+cub
+cubaj
+formă
+grâunte
+încăpere
+întindere
+intumescenţă
+mai
+mai mult
+picătură
+recipient
+sferă
+strop
+tonaj
+tumefacţie
+tumoare
+
+a adresa cuvântui
+a articula
+a balba
+a bodogăni
+a bogonisi
+a bolborosi
+a bombăni
+a cuvânta
+a debita
+a declama
+a flecări
+a fleoncăi
+a gângăvi
+a grăi
+a îndruga
+a înşira
+a mormăi
+a murmura
+a opina
+a pălăvrăgi
+a perora
+a pomeni
+a preopina
+a profera
+a pronunta
+a psalmodia
+a răspunde
+a repeta
+a rosti
+a şopti
+a sporovăi
+a spune
+a striga
+a șoșoi
+a şuşui
+a tipa
+a trăncăni
+a vocifera
+a zâzâi
+a zice
+
+vocaţiune
+voie
+volițiune
+vrere
+
+V. mort
+
+VID
+
+absenţă
+goliciune
+lipsă
+neant
+
+V. ascultare
+
+slab
+timid
+
+A VORBI
+
+VOLUM
+
+V. plin
+
+VOINȚA
+
+abandonat
+curat
+deşert
+disponibil
+gol
+liber
+nelocuit
+neocupat
+net
+neted
+neumblat
+nimeni
+nimic
+părăsit
+pustiu
+sec
+singur
+singuratec
+slobod
+solitar
+vacant
+
+aplecare
+aspiraţiune
+bărbăție
+capriciu
+dar
+despot
+dispozițiune
+energie
+fantezie
+gust
+hotărîre
+ideal
+idee
+inclinare
+inițiativă
+intenţie
+înverşunare
+manie
+marotă
+năzbâtie
+obiectiv
+pantă
+
+adânc
+balonat
+butucanos
+enorm
+gras
+gros
+maro
+profund
+umflat
+voluminos
+
+arbitrar
+autoritar
+despotic
+dinadins
+expres
+facultativ
+încăpăţânat
+îndărătnic
+îndârjit
+intenţionat
+intransigent
+involuntar
+liber
+perseverent
+persistent
+reflex
+satrap
+
+comunicativ
+concis
+cuvântător
+expansiv
+flecar
+fluid
+guraliv
+laconic
+limbut
+oral
+oratoric
+parolist
+peltic
+prolix
+scurt
+sentenţios
+verbal
+volubil
+vorbăret
+vorbitor
+
+a amplifica
+a creşte
+a cuprinde
+a desfăşura
+a desvolta
+a dilata
+a se îngrăşa
+a îngroşa
+a lărgi
+
+abundenţă
+accent
+apoftegmă
+ceartă
+conversație
+convorbire
+cumătră
+cugetare
+cuvânt
+dialog
+
+a se adresa
+
+§§----------------------------------------------------------------------
+
+140
+
+141
+
+aluzie
+cancan
+confidență
+conversaţie
+convorbire
+cronică
+
+dictiune
+discurs
+discuție
+elocuţiune
+elocvenţă
+expresiune
+flux
+frază
+galimatie
+graiu
+improvizaţie
+interlocutor
+interpret
+jargon
+limbaj
+logomahie
+logos
+lozincă
+maximă
+monolog
+palavre
+papagal
+parolă
+poliloghie
+precept
+predică
+pronuntare
+proverb
+retorică
+rotacism
+sfat
+taifas
+tiradă
+ventrilog
+vervă
+vorbărie
+voroavă
+zicătoare
+
+năục
+
+a se căzni
+neatent
+
+a-şi da osteneala
+nechibzuit
+
+a veghea
+nedumerit
+nesăbuit
+
+ardoare
+nesocotit
+
+asiduitate
+prosteşte
+
+avânt
+turburat
+
+brio
+uşuratic
+
+căldură
+vertiginos
+
+diligente
+zăpăuc
+
+elan
+
+entuziasm
+a ameti
+
+focul sacru
+a buimăci
+
+osârdie
+a distra
+
+silinţă
+a nu reflecta
+
+sârguinţă
+a ului
+
+strădanie
+buimăceală
+
+tragere de inimă
+confuzie
+
+vervă
+inadvertentă
+
+vigilenţă
+nebăgare de seama
+neprevedere
+
+V. insensibil
+risipă
+
+liniştit
+stupefacţie
+
+moderat
+
+prudenţă
+V. clar
+
+scrupul
+ordine
+precis
+
+A ZICE
+
+a desvălui
+a divulga
+a dovedi
+a emite
+a enunta
+a explica
+a exprima
+a expune
+a flecări
+a formula
+a împărtăşi
+a informa
+a insinua
+a insista
+a înştiinţa
+a învăţa
+a învinovăţi
+a lămuri
+a mărturisi
+a menţiona
+a notifica
+a se numi
+a obiecta
+a pomeni
+a porunci
+
+a povesti
+a preda
+a pretinde
+a pronunţa
+a propaga
+a publica
+a pune în curent
+a răspândi
+a recita
+a reda
+a relata
+a reproşa
+a revela
+a rosti
+a scorni
+a şopti
+a spune
+a stărui
+a stipula
+a sufla
+a sustine
+a trâmbiţa
+a transmite
+a vorbi
+
+dialog
+dicţiune
+discurs
+discuție
+disertație
+interpret
+monolg
+rumoare
+secret
+sgomot
+subînţeles
+svon
+tărăboiu
+tiradă
+zicală
+zicătoare
+zicere
+
+ZEL
+
+- Z -
+
+activ
+aprig
+cald
+călduros
+devotat
+exaltat
+fanatic
+febril
+fervent
+focos
+impetuos
+înflăcărat
+infocat
+iute
+neastâmpărat
+pasionat
+pătimas
+zelator
+zelos
+
+a acredita
+a acuza
+a adeveri
+a admite
+a se chema
+a aduce la cuno-
+
+ştinţă
+a face cunoscut
+a afirma
+a anunta
+a articula
+a atesta
+a avertiza
+a cânta
+a citi
+a colporta
+a comunica
+a debita
+a declara
+a denunta
+a desluşi
+a destăinui
+
+ZAPĂCEALA
+
+bezmetic
+buimac
+descreierat
+fără minte
+fluşturatec
+frivol
+încurcă lume
 
