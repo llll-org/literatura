@@ -732,7 +732,7 @@ Dar cine îmi va spune mie însu-mi aceleași lucruri? Și cine mă va învăța
 
 Adversitatea lor, a antisemiților, ar fi la urma urmelor suportabilă. Ce ne facem însă cu adversitatea noastră, cu propria noastră adversitate intimă.
 
-Cu ei ne vom împăca poate — cine știe?, — într’o zi. Cu noi însă, când?
+Cu ei ne vom împăca poate — cine știe? — într’o zi. Cu noi însă, când?
 
 ⁂
 
@@ -1240,7 +1240,7 @@ M’am dus într’adevăr și nu-mi explic dece, pe drum, eram atât de nelini�
 
 Urcând scările îmi părea rău că am venit. Dacă n’ar fi fost Winkler cu mine, m’ași fi întors poate din prag. „Cine știe ce mă mai așteaptă.” O discuție lungă cu un profet nervos, o altă serie de argumente, un alt șir de neînțelegeri, un nou S. T. H. sionist deastădată și mult mai intolerant decât celălalt, pentrucă ăsta fără să vrea, va vorbi în numele sacrificiului lui, cu prestigiul tăcut al unui braț pierdut în luptă. Mă simțiam dinainte umilit în victoria eventuală, pe care ar fi fost posibil s’o repurtez în discuție. 
 
-Și pe urmă, ce sunt eu?, o mașină de discutat? ce o să-mi spună omul ăsta? ce o să-i spun eu lui? și cine stă să despartă adevărul lui de al meu? și la ce bun tot timpul ăsta pierdut, toate vorbele astea în vânt? la ce bun, dacă pe urmă regăsești aceleași întrebări închise, aceiași tristețe care rezistă? Un argument, o sută de argumente, un milion de argumente, să le ia dracu pe toate.
+Și pe urmă, ce sunt eu? o mașină de discutat? ce o să-mi spună omul ăsta? ce o să-i spun eu lui? și cine stă să despartă adevărul lui de al meu? și la ce bun tot timpul ăsta pierdut, toate vorbele astea în vânt? la ce bun, dacă pe urmă regăsești aceleași întrebări închise, aceiași tristețe care rezistă? Un argument, o sută de argumente, un milion de argumente, să le ia dracu pe toate.
 
 Am intrat. O cameră mare, goală, cu câteva bănci de lemn și — pe pereți — două trei fotografii, imagini palestiniene probabil. Vreo douăzeci de băieți și fete nu mai mari de 14–16 ani, cred, ascultau o istorie, pe care le-o spunea un băiat mai mare din mijlocul lor. Vorbiau curent ebraica, ceeace m’a mirat întâiu (nu știam că limba asta se poate vorbi așa, familiar, orășănește) și pe urmă m’a stingherit. Nu pricepeam nimic și mă simțiam străin, nechemat. Băiatul mai mare, cel care povestia, ne-a făcut însă un semn de bună primire și când ne-am apropiat de grup, am băgat de seamă cu uimire că el, copilul ăsta, adolescentul ăsta, el trebue să fie omul nostru, misionarul palestinian, căci în timp ce cu stânga bătea parcă în aer, larg; măsura povestei pe care o spunea, puțin cântând-o, mâneca dreaptă a surtucului, goală din umăr, era trasă pe lângă corp și vârîtă în buzunar.
 
@@ -1665,7 +1665,7 @@ Dispăruse cu totul în ultimii ani. Nu-mi aduc aminte să-l fi zărit de mai mu
 
 Am simțit că-mi spune asta, anume ca să prevină întrebarea mea, dar că în realitate nu crede nimic din ce spune. Dealtfel era nedrept cu sine, căci banii, oricât i-ar avea de mulți, nu i-au alterat cu nimic aerul lui de om liber, în stare să piardă totul și să ia totul dela început, aerul puțin copilăros și aiurit, pe care oamenii cu viață interioară, îl păstrează în bogăție, semn că această bogăție, dacă nu le este indiferentă, în niciun caz nu le este indispensabilă pentru a fi ceeace sunt. Neglijența este humorul eleganței și nu cunosc intelectual veritabil, care fiind elegant, să nu aibe acest humor. S. T. H, în orice caz îl are. Cămășile de mătase, hainele de flanelă londoneză, pantofii fini și masivi, cravata cu desen subțire, de toate acestea nu numai că nu se lasă intimidat, dar le tratează cu bonomie, ca ne niște fleacuri amuzante.
 
-Ne-am plimbat prin sălile de joc și prin parc, foarte bucuroși amândoi de revedere. S. T. H. cunoștea lucrările dela Uioara și părea .bine informat.
+Ne-am plimbat prin sălile de joc și prin parc, foarte bucuroși amândoi de revedere. S. T. H. cunoștea lucrările dela Uioara și părea bine informat.
 
 — Foarte interesant tot ce a încercat Vieru acolo. Voi lucrați pentru noi. Proletarizați o întreagă regiune. Ba făceți un lucru și mai grav: dizolvați antinomia țăran-proletar. Încă o superstiție care se duce. Nu există, domnule, nu poate exista în lupta deschisă pentru revoluție, o reacțiune rurală. Nu cunosc rurali. Cunosc muncitori și posedanți. Ce muncesc și ce posedă, nu importă. În fabrici sau la câmp, problema de clasă e aceiași.
 
@@ -2198,7 +2198,7 @@ Dar socotindu-mi situația personală la fel de proastă, îmi pot permite să m
 
 — Nu-mi pare rău de ce a fost. Îmi pare rău de cum s’a terminat: în indiferență, în uitare… A sparge geamuri, e un lucru excelent. Orice faptă violentă este o faptă bună. Că „jos jidanii” e o dobitocie, de acord! Dar ce importanță are asta? Totul este să poți zgudui ceva în țară. Începe cu ovreii — dacă altfel nu se poate — dar sfârșește sus, într’un incendiu general, într’un cutremur care să nu cruțe nimic. Aveam pe atunci ambiția asta, aveam mai ales nădejdea asta. Dar să știi că eu unul n’am terminat. Mă sufoc, dacă nu începe altceva. 
 
-Ștefan Pârlea poate gândi liric, cu simboluri, cu mituri, dar tumultul acesta nu e pentru el mai puțin o cugetare politică. Cine mă asigură că ideile sau cifrele lui S. T. Haim sunt mai aproape de adevăr, decât iluminările lui Ștefan Pârlea? Mă reconfortează în băiatul ăsta totala lui incapacitate pentru scheme. El gândește printr’un fel de iureș, care dărâmă, răstoarnă, îmbrățișează, fără metodă, fără criterii , după ritmul acceselor lui de frenezie. Urmăresc în vocabularul lui perzistența câtorva termeni, pe care nu i-a precizat suficient nici în scris, nici în vorbă, dar care au nu știu ce valoare magică pentru el. I-ar fi probabil greu să spună exact ce înțelege prin „năvălirea barbarilor” pe care o tot invoacă, sau prin „sâmburele de foc despre care spune că îl avem cu toții latent în noi, dar că e nevoe să-l creștem până la proporțiile unui incendiu. Toate acestea sunt atât de vagi, atât de inconsistente, atât de ridicole uneori… Totuși, Ștefan Pârlea le duce până la act, până la cele mai răspicate acte. Plecarea lui din Universitate de exemplu, pe care toată lumea o socotia o imensă ușurință, căci cu puțină răbdare ar fi fost în câțiva ani conferențiar, plecarea aceasta nu putea fi numai atâta. 
+Ștefan Pârlea poate gândi liric, cu simboluri, cu mituri, dar tumultul acesta nu e pentru el mai puțin o cugetare politică. Cine mă asigură că ideile sau cifrele lui S. T. Haim sunt mai aproape de adevăr, decât iluminările lui Ștefan Pârlea? Mă reconfortează în băiatul ăsta totala lui incapacitate pentru scheme. El gândește printr’un fel de iureș, care dărâmă, răstoarnă, îmbrățișează, fără metodă, fără criterii, după ritmul acceselor lui de frenezie. Urmăresc în vocabularul lui perzistența câtorva termeni, pe care nu i-a precizat suficient nici în scris, nici în vorbă, dar care au nu știu ce valoare magică pentru el. I-ar fi probabil greu să spună exact ce înțelege prin „năvălirea barbarilor” pe care o tot invoacă, sau prin „sâmburele de foc despre care spune că îl avem cu toții latent în noi, dar că e nevoe să-l creștem până la proporțiile unui incendiu. Toate acestea sunt atât de vagi, atât de inconsistente, atât de ridicole uneori… Totuși, Ștefan Pârlea le duce până la act, până la cele mai răspicate acte. Plecarea lui din Universitate de exemplu, pe care toată lumea o socotia o imensă ușurință, căci cu puțină răbdare ar fi fost în câțiva ani conferențiar, plecarea aceasta nu putea fi numai atâta. 
 
 „Singurul lucru pe care-l pot face pentru Universitate, este să-i dau foc” se zice că i-ar fi scris decanului în scrisoarea de explicații.
 
@@ -2417,7 +2417,7 @@ Marți, dejun în familia Grevy.
 
 — Suspectă zici?
 
-— Vai cum te alarmezi? Imprudent eu că-ți atrag atenția. Acum n’ai să-mi mai dai pace.Sunt convins că te și vezi tuberculoasă.
+— Vai cum te alarmezi? Imprudent eu că-ți atrag atenția. Acum n’ai să-mi mai dai pace. Sunt convins că te și vezi tuberculoasă.
 
 — Nu, Maurice, — dar oricum — dacă zici… 
 
@@ -2433,8 +2433,7 @@ E un conrupător? Nu. Nimic comun cu Gide, nici viciul, nici prozelitismul și n
 
 „Eu nu mă îngrijesc decât să-mi variez cât mai mult peisagiile psichologice de care dispun. Am impresia că Robert și Jacques pot da împreună ceva foarte reușit. Încerc prin urmare să le facilitez apropierea, să le atenuez asperitățile, să le lămuresc propria lor vocație. E un travaliu modest, de culise.”
 
-Îl ascult pe Maurice Buret și fac serioase eforturi să nu mă scandalizez. Odată pentru totdeauna trebue să înțeleg că omul ăsta nu
-are scrupule morale și că deci trebue ori acceptat în totul, ori refuzat în totul, ceeace mie mult mai greu.
+Îl ascult pe Maurice Buret și fac serioase eforturi să nu mă scandalizez. Odată pentru totdeauna trebue să înțeleg că omul ăsta nu are scrupule morale și că deci trebue ori acceptat în totul, ori refuzat în totul, ceeace mie mult mai greu.
 
 Patronul lui spiritual (dacă „spiritual” e un termen posibil pentru el) nu este Gide, ci Laclos, iar ambianța morală în care trăește seamănă enorm cu atmosfera din _„Les liaisons dangereuses”_ care nu este perversă, ci numai libertină, pentrucă nu viciul primează, ci gustul inteligenții de a inventa pretutindeni jocuri variate.
 
@@ -2488,7 +2487,7 @@ I-am răspuns prin avion:
 
 Maurice Buret s’a întors eri din Normandia, unde a avut la Oizy-sur-Glaive un ramplasament de 25 de zile. E fericit de recolta cu care se întoarce, atât de fericit încât a renunțat la micul zâmbet de modestie, cu care deobiceiu își scuză victoriile. A dat la Oisy două lovituri, amândouă frumoase și mi le istorisește acum animat dar metodic, pe capitole numerotate.
 
-1) Doctorul Sibier.<br>
+1) Doctorul Sibier. <br>
 2) Registrul de Încasări.
 
 1) Doctorul Sibier este medicul pe care l-a înlocuit.
@@ -2663,9 +2662,9 @@ I-am spus lui Maurice Buret:
 
 Viața dumitale este fără mister și eu mă întreb cum nu te plictisești trăind-o. Ea în orice caz trebue să se plictisească groaznic în tovărășia dumitale. Ești un om fără surprize. Dumneata zici „un om cu tact”. Fie. Nu vei răcni niciodată, nu vei sparge niciodată nimic, nu vai înbrânci pe nimeni. Politețea este metafizica dumitale. 
 
-„Te supraveghezi ca pe un edificiu public. Poliția este vocația dumitale. Ai etaje și apartamente interioare pentru fiecare sentiment sau gând, ai scări și ascensoare care te duc precis dela o gândire la alta. Ești portarul acestei clădiri: controlezi cine intră și cine pleacă, închizi ușile, stingi lumina, faci ordine. Îți crești cu atenție plantele de apartament, lę tai ramurile care îndrăznesc să crească neregulat, proptești tulpinele care se îndoaie, retezi coroanele ce se ridică prea înalt. Nu suporți pădurile, te simți bine numai în parcuri. Iar dumneala ești propriul dumitale parc. 
+„Te supraveghezi ca pe un edificiu public. Poliția este vocația dumitale. Ai etaje și apartamente interioare pentru fiecare sentiment sau gând, ai scări și ascensoare care te duc precis dela o gândire la alta. Ești portarul acestei clădiri: controlezi cine intră și cine pleacă, închizi ușile, stingi lumina, faci ordine. Îți crești cu atenție plantele de apartament, le tai ramurile care îndrăznesc să crească neregulat, proptești tulpinele care se îndoaie, retezi coroanele ce se ridică prea înalt. Nu suporți pădurile, te simți bine numai în parcuri. Iar dumneala ești propriul dumitale parc. 
 
-„Ași vrea să știu dacă n’ai întrezărit niciodată umbra morții dincolo de micile certitudini, pe care le cultivi… Dacă nu te-a înfiorat vreodată sentimentul că ceeace faci este mărunt, inutil, vid, că toate aceste „experiențe” sunt deșearte, că viața trece peste capul dumitale… Ași vrea să știu dacă nu te-a cuprins niciodată dorul absurd și urgent de a lăsa toate baltă și a te duce la întâmplare, unde s’o nimeri, predându-te în seamạ norocului, care să facă din dumneata ce o voi…
+„Ași vrea să știu dacă n’ai întrezărit niciodată umbra morții dincolo de micile certitudini, pe care le cultivi… Dacă nu te-a înfiorat vreodată sentimentul că ceeace faci este mărunt, inutil, vid, că toate aceste „experiențe” sunt deșearte, că viața trece peste capul dumitale… Ași vrea să știu dacă nu te-a cuprins niciodată dorul absurd și urgent de a lăsa toate baltă și a te duce la întâmplare, unde s’o nimeri, predându-te în seama norocului, care să facă din dumneata ce o voi…
 
 Ești un om sănătos și echilibrat, dar ești prea sănătos. Îți lipsește un mic punct de dezechilibru, fără de care viața nu se deschide niciodată în fața noastră dincolo de zările imediate. Îți lipsește un simț mai puțin exact decât văzul, dar mai esențial decât el: „simțul tragicului”.
 
@@ -2695,7 +2694,7 @@ Am aflat cu surprindere că bătrânul Ralph Rice îl cunoaște pe S. T. H. și 
 
 Mă amuza capul speriat al bătrânului, ascultându-l pe S. T. H., care măsura biroul în lung și’n lat, descriind în aer cu degetul arătător, scări grafice de catastrofă. 
 
-„S’a terminat, domnule, s’a terminat. Puteți închide prăvălia .Mergem spre revoluție, cum te văd și cum mă vezi. Germania nu mai fine,
+„S’a terminat, domnule, s’a terminat. Puteți închide prăvălia. Mergem spre revoluție, cum te văd și cum mă vezi. Germania nu mai fine,
 
 Austria nici vorbă că nu, extremul Orient trozmește. Nu mai e o criză de 7 sau 11 ani, din alea despre care scrie în cărțile de economie; este un naufragiu general. Pot să ți-o demonstrez cu cifre, dar nu vreau. Am mai multă încredere în mirosul dumitale de om de afaceri. Vii din Europa: spune-mi? N’ai simțit 0 aromă de dinamită, gădilându-ți nările cu care te-ai dus să miroși petrol?
 
@@ -2707,7 +2706,7 @@ L-am prezentat lui Maurice Buret. Sătul de discuții sociale, căci avusese câ
 
 Am fost toți trei la concertul Colonne. În program _„Horace victorieux”_ a lui Honegger, liniar, grav, concis, cu un înșelător aer de simplicitate, care triumfa asupra celor mai ascunse dificultăți. Am ieșit de acolo refăcut, limpezit, „Ordinea domnește în lume — am reflectat în mine însu-mi, — devreme ce asemenea victorie este posibilă”.
 
-Ne-am continuat seara în Montmartre, unde descoperiserăm mai demult un miraculos vin de Anjou .S. T. H. era de o vervă de zile mari. Povestia dedesupturi despre scandalul Oustric, din care făcea un întreg roman cu femei, cu aventuri, cu lovituri de bursă, cu lovituri de alcov, toate regisate genial și expuse precipitat ca într’un film. Știe o sumedenie de lucruri și mai ales știe să le pună în legătură, puțin abracadabrant, dar logic și greu de combătut. Explicațiile lui au ceva de Ponson du Terrail, melodramatic și senzațional, dar dacă nu just, cel puțin plauzibil.
+Ne-am continuat seara în Montmartre, unde descoperiserăm mai demult un miraculos vin de Anjou. S. T. H. era de o vervă de zile mari. Povestia dedesupturi despre scandalul Oustric, din care făcea un întreg roman cu femei, cu aventuri, cu lovituri de bursă, cu lovituri de alcov, toate regisate genial și expuse precipitat ca într’un film. Știe o sumedenie de lucruri și mai ales știe să le pună în legătură, puțin abracadabrant, dar logic și greu de combătut. Explicațiile lui au ceva de Ponson du Terrail, melodramatic și senzațional, dar dacă nu just, cel puțin plauzibil.
 
 — Cu aptitudinile pe care le ai, vei termina la Intelligence Service. 
 
@@ -2743,7 +2742,7 @@ Pe Șerban-Vodă în sus, de unde încep a se rări casele, automobilul provoac�
 
 Maidanul se deschide pe stânga, trist, murdar, cu lăzi sparte, vechituri, cutii de tinichea, movile de gunoi arzând mocnit. Pe alocuri, un petec de iarbă, care a rezistat începutului de Noembrie, un pom pe jumătate desfrunzit, un dulău fără treabă. 
 
-…Poate că e o greșeală vizita aceasta. Ce am să-i spun? ce are să-mi spună? Nimic nu mă dezarmează mai complect decât o situație solemnă, căci vorbele obișnuite mi se par sărace, iar vorbele mari mă stingheresc. De trei zile de când am căpătat biletul de liberă trecere, nu mă pot gầndi la altceva decât la momentul revederii.
+…Poate că e o greșeală vizita aceasta. Ce am să-i spun? ce are să-mi spună? Nimic nu mă dezarmează mai complect decât o situație solemnă, căci vorbele obișnuite mi se par sărace, iar vorbele mari mă stingheresc. De trei zile de când am căpătat biletul de liberă trecere, nu mă pot gândi la altceva decât la momentul revederii.
 
 Fiecare gest mi l-am imaginat de zeci de ori și de fiece dată mi se părea când excesiv, când insuficient. Cutia de țigări pe care i-o duc, mă încurcă și ea: nu știu cum să i-o dau. Ași vrea să găsesc gestul scurt și pe trei sferturi neatent, cu care întinzi cuiva tabachera să se servească. Ași vrea să-i pot strânge mâna simplu, cum i-ași strânge-o pe stradă, să-i dau impresia că nimic nu s’a schimbat, că întâlnirea noastră aici nu este excepțională, că apariția lui între baionete nu este o catastrofă…
 
@@ -2943,7 +2942,7 @@ Am fost cu maistrul și cu profesorul Ghiță la Snagov să vedem parcela profes
 
 ⁂
 
-Locuește mereu în aceiași casă din 1923. Toate sunt cum le-am cunoscut întâiu, geamul lung, dreptunghiular fără perdele, patul de campanie, cărțile, micul Breughel din perete… El însuși, în haina lungă de casă, sub bătaia aceleiași lămpi de birou, pare a fi rămas neschimbát. Vorbește rar, despicând lucrurile, verificând toate ipotezele, dându-și singur replica, respingându-și singur obiecțiile. Calm și stăpânit cum e, cine ar spune cât de arzătoare sunt problemele care îl preocupă? Am adesea, ascultându-l, impresia că mă aflu în fața unui chimist, care, cu o fiolă de ecrazită în mână, dizertează asupra calităților explozive ale corpului. Și omul acesta rece, e cel mai pasionat și mai tumultuos om.
+Locuește mereu în aceiași casă din 1923. Toate sunt cum le-am cunoscut întâiu, geamul lung, dreptunghiular fără perdele, patul de campanie, cărțile, micul Breughel din perete… El însuși, în haina lungă de casă, sub bătaia aceleiași lămpi de birou, pare a fi rămas neschimbat. Vorbește rar, despicând lucrurile, verificând toate ipotezele, dându-și singur replica, respingându-și singur obiecțiile. Calm și stăpânit cum e, cine ar spune cât de arzătoare sunt problemele care îl preocupă? Am adesea, ascultându-l, impresia că mă aflu în fața unui chimist, care, cu o fiolă de ecrazită în mână, dizertează asupra calităților explozive ale corpului. Și omul acesta rece, e cel mai pasionat și mai tumultuos om.
 
 I-am amintit întâile noastre convorbiri aici, cursul din 1923 despre evoluția noțiunii de valoare”, indignarea specialiștilor, uluirea noastră a studenților… Am scos din bibliotecă un atlas geografic și am deschis harta Europei să însemnăm cu creionul centrele de criză care verifică astăzi prevestirile lui de pe vremuri.
 
@@ -3017,7 +3016,7 @@ O apariție senzațională la Exploatare: Eva Nicholson. A venit singură, într
 
 — Nu sunt răsculați: sunt răniți.
 
-Totuși, lucrurile la Uioara nu sunt chiar atât de grave. Eva Nicholson né-a liniștit. În primul rând nu s’a distrus nimic, sau aproape nimic. S’a jefuit pe ici pe colo și s’a făcut scandal. Jandarmii au tras. Muncitorii s’au încuiat în uzină și rafinărie. Dacă în 24 de ore nu ies de acolo, jandarmii vor trage iar. Până în trei zile, totul va fi lichidat.
+Totuși, lucrurile la Uioara nu sunt chiar atât de grave. Eva Nicholson ne-a liniștit. În primul rând nu s’a distrus nimic, sau aproape nimic. S’a jefuit pe ici pe colo și s’a făcut scandal. Jandarmii au tras. Muncitorii s’au încuiat în uzină și rafinărie. Dacă în 24 de ore nu ies de acolo, jandarmii vor trage iar. Până în trei zile, totul va fi lichidat.
 
 ⁂
 
@@ -3139,7 +3138,7 @@ Tăcuserăm prea mult și Marjorie a înțeles aceest lucru. I-a cerut lui Marin
 
 Dacă ținem minte… Am luat-o „la groapa cu furnici” și Marjorie aducându-și aminte un gest din acea trecută zi de Septembrie, și-a scos pălăria din cap și fluturând-o ca pe un steag, a prins să cânte ca atunci:
 
-> It’s a long way to Tipperrary,<br>
+> It’s a long way to Tipperrary, <br>
 > It’s a long way to go.
 
 Îmi dădeam foarte bine seama că nu era decât un efort de a readuce între noi umbre trecute, dar asta nu m’a împiedecat să tresar la chemarea unei emoții pe care o recunoșteam.
@@ -3282,7 +3281,7 @@ Nu, nu, crede-mă, toate sunt tot una și dealtminteri asta, sentimentul acestei
 
 A tăcut iar, mult, pe gânduri. Nu-mi mai dădeam seama dacă mă urmărise în tot ce spusesem sau dacă, absent, își continuase propriile-i reflexii. Pe urmă mi s’a adresat, cu oarecare oboseală.
 
-— Mă descurajezi. Nu știu de ce, dar am impresia că fiecare poartă pe care o închizi, deschide alte zece. Hotărât, mi-ar fi greu să-ți rảspund. Ne-am pierde tot mai mult de sâmburele chestiunii. De sâmburele dramei, dacă vrei, ca să-ți fac plăcere. Ești cu prea multă pasiune evreu și eu sunt cu prea multă stăpânire român, ca să ne înțelegem. În discuție, bine înțeles, căci altfel, în viață, dă-mi voie să nu fiu atât de sumbru ca dumneata și să-ți spun că cu evrei ca dumneata, pacea va fi oricând posibilă. Mai mult chiar decât pacea: iubirea. 
+— Mă descurajezi. Nu știu de ce, dar am impresia că fiecare poartă pe care o închizi, deschide alte zece. Hotărât, mi-ar fi greu să-ți răspund. Ne-am pierde tot mai mult de sâmburele chestiunii. De sâmburele dramei, dacă vrei, ca să-ți fac plăcere. Ești cu prea multă pasiune evreu și eu sunt cu prea multă stăpânire român, ca să ne înțelegem. În discuție, bine înțeles, căci altfel, în viață, dă-mi voie să nu fiu atât de sumbru ca dumneata și să-ți spun că cu evrei ca dumneata, pacea va fi oricând posibilă. Mai mult chiar decât pacea: iubirea. 
 
 — „Cu ovrei ca dumneata…” Am mai auzit vorba asta. „Dacă toți evreii ar fi ca tine…”. E o amabilitate așa de veche. Și așa de umilitoare. Sunt obosit, crede-mă.
 
@@ -3349,7 +3348,7 @@ Norocul meu a fost de a crește lângă Dunăre, unde cel din urmă barcagiu, m�
 
 Dacă nu m’ar speria o prea lungă meditatie intimă, ași încerca să precizez în ce măsură sunt eu un om dela Dunăre înainte de a fi orice altceva. Acolo e patria mea. Mi-a fost totdeauna greu să spun aceste două vorbe, cu simplicitate: „patria mea”. Am fost de mic deprins să mi se bănuească buna credință și cum sunt sensibil la propriul meu ridicul, n’am stăruit în a face afirmații, pe care nimeni nu era dispus să le primească.
 
-_Noi, românii…_ Era aproape inevitabil în liceu, la lecția de istorie, povestind un războiu, să întrebuințez acest plural de persoana întâia: _noi românii…_ („care români?’ mi-a strigat odată unul din bancă, interzicându-mi pe multă vreme să mă solidarizez cu istoria lui Ștefan cel Mare). Ocoliam cu precauție termenii, pentru care ași fi putut fi bănuit de prefăcătorie, deși era o vârstă la care cuvintele solemne fac oricui plăcere. Țară, patrie, neam, eroi, un întreg vocabular interzis. Ca exercițiu intelectual, n’a fost rău, căci am fost astfel obligat de timpuriu să-mi supraveghez vorbele și să le cer à spune exact ceeace trebue. Dar, oricâtă consolare îți dă sentimentul nedreptății care ți se face, jocul nu e totdeauna vesel. O umbră de teroare cade peste toate amintirile mele de școală și de copilărie.
+_Noi, românii…_ Era aproape inevitabil în liceu, la lecția de istorie, povestind un războiu, să întrebuințez acest plural de persoana întâia: _noi românii…_ („care români?” mi-a strigat odată unul din bancă, interzicându-mi pe multă vreme să mă solidarizez cu istoria lui Ștefan cel Mare). Ocoliam cu precauție termenii, pentru care ași fi putut fi bănuit de prefăcătorie, deși era o vârstă la care cuvintele solemne fac oricui plăcere. Țară, patrie, neam, eroi, un întreg vocabular interzis. Ca exercițiu intelectual, n’a fost rău, căci am fost astfel obligat de timpuriu să-mi supraveghez vorbele și să le cer a spune exact ceeace trebue. Dar, oricâtă consolare îți dă sentimentul nedreptății care ți se face, jocul nu e totdeauna vesel. O umbră de teroare cade peste toate amintirile mele de școală și de copilărie.
 
 Astăzi îmi scrutez cu destulă asprime eventualele mele dispoziții de a mă simți persecutat și nu-mi prea iert accesele de patetism, dar mi-ar fi greu să uit prima noapte de gardă, la regiment, cu ani în urmă, când mi s’a comunicat că postul numărul 3, dela adjutantură, numi poate fi încredințat. („Există ordin special pentru ovrei” explica puțin jenat sublocotentul). Așa dar, în conștiința lor, eu, dacă nu eram un trădător dovedit, eram în orice caz unul posibil. Un ordin „special” suprima dintr’odată viața mea pe acest pământ viața părinților mei, viața bunicilor și a străbunilor mei, un ordin „special” ștergea cu un număr de înregistrare aproape două veacuri de amintiri într’o țară, care fără îndoială nu era „patria mea” de vreme ce puteam s’o vând într’o noapte de gardă.
 
@@ -3373,7 +3372,7 @@ E un fapt. Dacă ași încerca să-l uit ar fi de prisos. Dacă ar încerca cine
 
 Dificultatea nu stă și n’a stat niciodată, în recunoașterea juridică a situației mele, chestiune de amănunt, care nu mă privește pe mine, fiindcă eu n’am revendicări și nu-mi recunosc drepturi. (Mă gândesc la un meeting al sălciilor din balta Brăilei, revendicându-și dreptul de a fi sălcii). Eu știu ceeace sunt și dificultățile dacă există, nu pot fi decât în ceeace sunt eu, nu în ceeace scrie în registrele statului. Liber statul să mă decreteze vapor, urs polar sau aparat fotografic, eu nu voi înceta prin aceasta să fiu jun evreu, un român și un dunărean. „Prea multe lucruri deodată” șoptește vocea mea antisemită (căci am și eu o voce antisemită, cu care conversez în orele de meditație). Desigur, prea multe. Dar toate adevărate. Nu spun că aliajul lor este scutit de disonanțe, nu pretind că pacea lor este imediată. Dimpotrivă, știu că acest acord este lent, că această viețuire împreună are greutăți, interioare, intime. A discuta despre soluția politică a problemei ovreești, este pentru mine ceva cu totul deșert. Mă interesează o singură soluție și anume cea psihologică, cea spirituală. Cred că singurul chip, în care se poate lămuri ceva în această foarte veche durere, este să încerc a rezolva eu, de unul singur, pentru propria mea viață, nodul de adversități și conflicte ce mă leagă în viață românească. Și nu cred că această însingurare este o fugă, o lipsă de solidaritate cu ai mei, ci dimpotrivă, căci nu se poate ca experiența unui singur om, care acceptă și trăește cu sinceritate o dramă, să nu lămurească pentru toți ceilalți un îndreptar. Mi se pare mai urgent și mai eficace să realizez în viața mea individuală acordul valorilor judaice și al valorilor românești, din care această viață este făcută, decât să obțiu sau să pierd nu știu ce drepturi civice. Ași vrea să cunosc bunăoară legiuirea antisemită care va putea anula în ființa mea faptul irevocabil de a mă fi născut la Dunăre și de a iubi acest ținut.
 
-A avut cineva mai multă nevoe de o patrie, de un pământ, de un orizont cu plante și animale? Tot ce este abstracție în mine, a fost co• rectat și în bună parte lecuit de o simplă priveliște dunăreană. Tot ce este febră a fost liniștit, a fost ordonat. Nu știu cum ași fi fost dacă m’ași fi născut în altă parte. Sunt numai convins că ași fi fost altul. Gustului meu judaic pentru catastrofe intime, fluviul i-a ridicat împotrivă exemplul indiferenței lui regale. Complicațiilor mele interioare, i-a opus simplicitatea peisagiului. Și nesiguranței, neliniștii, i-a arătat jocul valurilor efemer și etern.
+A avut cineva mai multă nevoe de o patrie, de un pământ, de un orizont cu plante și animale? Tot ce este abstracție în mine, a fost corectat și în bună parte lecuit de o simplă priveliște dunăreană. Tot ce este febră a fost liniștit, a fost ordonat. Nu știu cum ași fi fost dacă m’ași fi născut în altă parte. Sunt numai convins că ași fi fost altul. Gustului meu judaic pentru catastrofe intime, fluviul i-a ridicat împotrivă exemplul indiferenței lui regale. Complicațiilor mele interioare, i-a opus simplicitatea peisagiului. Și nesiguranței, neliniștii, i-a arătat jocul valurilor efemer și etern.
 
 Simbolul e ieftin. Dar, ieftin sau scump, nu e mai puțin consolator.
 
