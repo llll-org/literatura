@@ -312,259 +312,94 @@ ardoare, aviditate, dorință, nesațiu, poftă
 
 __v.__ desgust, dispreț, insensibil, moderat
 
-§§----------------------------------------------------------------------
-
-
-
-
-șagă, vanitate, vid, vorbe goale
-
-
-
-
-
-__v.__ important
-
-mare, plin, serios
-
-
-
-aparență, aprehensiune, conjectură, inchiziție, îndoială, îngrijorare, ipoteză, neîncredere, prejudecată, presentiment, prevedere, prevențiune, prezumție, probabilitate, supoziție, suspiciune, teamă
-
-
-#### banal
 
 ### B
 
 #### bagatelă
 
-
-
-__v.__ certitudine
-
-a vedea
-
-#### beneficiu
-
-
 anost, frivol, gol, insipid, minuțios, nătâng, nul, searbăd, superficial, van, în vânt
-
-bătătorit, comun, copiat, cunoscut, demodat, învechit, josnic, mediocru, neînsemnat, obișnuit, ordinar, de rând, răsuflat, rococo, searbăd, simplu, știut, trivial, uzat, uzual, vulgar
-
-
-bănos, lucrativ, productiv, profitabil, rentabil
-
 
 a flecări, a fleoncăi
 
+baliverne, brașoave, cai verzi, ciurucuri, fleacurl, glumă, jucărie, minuție, moft, minciuni, naivitate, neconsecvență, nerozie, nimicuri, moși pe groși, palavre, poliloghie, prostii, șagă, vanitate, vid, vorbe goale
 
-a agonisi, a beneficia, a fructifica, a se îmbuiba, a produce, a raporta
+__v.__ important, mare, plin, serios
 
+#### banal
+
+bătătorit, comun, copiat, cunoscut, demodat, învechit, josnic, mediocru, neînsemnat, obișnuit, ordinar, de rând, răsuflat, rococo, searbăd, simplu, știut, trivial, uzat, uzual, vulgar
 
 platitudine, prostime
 
-
-__v.__ altul
-
-important, necunoscut, nou
-
-
-baliverne, brașoave, cai verzi, ciurucuri, fleacurl, glumă, jucărie, minuție, moft, minciuni, naivitate, neconsecvență, nerozie, nimicuri, moși pe groși, palavre, poliloghie, prostii
+__v.__ altul, important, necunoscut, nou
 
 #### bănuială
 
-
-
-avantaj, beneficiar, bonificație, câștig, chilipir, comision, dividend, folos, pleașcă, produs, profit, randament, rentă, rezultat, roade
-
 bănuitor, discreditat, incredul, sceptic, suspect, timid, veros
 
+aparență, aprehensiune, conjectură, inchiziție, îndoială, îngrijorare, ipoteză, neîncredere, prejudecată, presentiment, prevedere, prevențiune, prezumție, probabilitate, supoziție, suspiciune, teamă
 
-§§----------------------------------------------------------------------
+__v.__ certitudine, a vedea
 
-- 26 -
+#### beneficiu
 
-- 27
+bănos, lucrativ, productiv, profitabil, rentabil
 
-venit
+a agonisi, a beneficia, a fructifica, a se îmbuiba, a produce, a raporta
 
-__v.__ nimic
+avantaj, beneficiar, bonificație, câștig, chilipir, comision, dividend, folos, pleașcă, produs, profit, randament, rentă, rezultat, roade, venit
 
-a pierde, ruină
-
-luxos, magnific, milionar, opulent, pecuniar, pompos, somptuos
+__v.__ nimic, a pierde, ruină
 
 #### bine-bun
 
-miraculos, mulțumitor, nimerit, normal, onest, oportun, ordonat, perfect, politicos, potrivit, practic, rațional, recomandabil, reglementar, în regulă, reușit, satisfăcător, suficient, superior, uimitor
-
-a acumula, a capitaliza, a câștiga, a cruța, a economisi, a se îmbogăți, a îndestula, a îngrămădi, a străluci, a strânge, a tezauriza
-
-a se înrăi, a întoarce, a intoxica, a invada, a jena, a lovi, a mâhni, a mina, a mistui, a molipsi, a năpădi, a năvăli, a orbi, a osândi, a paraliza, a potoli, a predispune, a propaga, a pustii, a recădea, a se răspândi, a scrânti, a stingheri, a strica, a suferi, a tămădui, a turba, a vărsa
+acceptabil, adecuat, admirabil, apropiat, apt, ales, artistic, avantajos, bun, capabil, cumsecade, comod, compatibil, conform, convenabil, corect, cuviincios, decent, delicat, delicios, divin, drept, exact, excelent, exemplar, fericit, fin, frumos, îmbucurător, impecabil, incântător, îndestulător, interesant, integru, ireproșabil, just, lăudabil, legitim, magnific, măreț, meritoriu, măsurat, minunat, miraculos, mulțumitor, nimerit, normal, onest, oportun, ordonat, perfect, politicos, potrivit, practic, rațional, recomandabil, reglementar, în regulă, reușit, satisfăcător, suficient, superior, uimitor
 
 a aproba, a corija, a îndrepta, a întări
 
-#### bolnav
-
-nevralgic
-
-nevropat, abătut
-
-palid, afectat de
-
-pământiu, aftos
-
-patologic, alienat
-
-pernicios, anemic
-
-pestiferat, apoplectic
-
-pestilent, ataxic
-
-pestilențial, becisnic
-
-plumburiu, beteag
-
-primejdios, bilios
-
-pustulos, bolnăvicios
-
-rahitic, cronic
-
-slab, congenital
-
-sporadic, contagios
-
-sincopal, convalescent
-
-șubred, diabetic
-
-teafăr, diareic
-
-tetanic, dement
-
-tonic, endemic
-
-ulceros, epidemic
-
-vânăt, epileptic
-
-variolic, eruptiv
-
-veninos, febril
-
-vătămător, fen. concomitent, fen. consecutiv a acelera, fen. premonitoriu a afecta, idiot
-
-a amorti, imbecil
-
-a ankiloza, impotent
-
-a atinge, inciumat
-
-a atrofia, indemn
-
-a asfixia, indispus
-
-a cloci, in extremis
-
-a condamna, intermitent
-
-a congestiona, isteric
-
-a constipa, jigărit
-
-a consuma, letargic
-
-a contamina, livid
-
-a delira, mânios
-
-a despera, mefitic
-
-a dezamorți, morbid
-
-domni, mortal
-
-a înciuma, muribund
-
-a incomoda, neatins
-
-a incuba, nebun
-
-a infecta, nefritic
-
-a infesta, neputincios
-
-a infiltra, nesănătos
-
-a înfrânge, nevătămat
-
-a inocula
-
-acceptabil, adecuat, admirabil, apropiat, apt, ales, artistic, avantajos, bun, capabil, cumsecade, comod, compatibil, conform, convenabil, corect, cuviincios, decent, delicat, delicios, divin, drept, exact, excelent, exemplar, fericit, fin, frumos, îmbucurător, impecabil, incântător, îndestulător, interesant, integru, ireproșabil, just, lăudabil, legitim, magnific, măreț, meritoriu, măsurat, minunat
-
 mirare, succes
 
-abudență, argint, aur, avuție, bằnet, bani, belșug, bogătaș, bunuri, comoară, Cresus, niagnificență, mijloc, monedă, nabab, Pactol, parvenit, Phutus, prosperitate, rentier, resurse, situație, splendoare, stare, tezaur
-
-__v.__ defect
-
-dezaprobare, dezordine, diform, fals, greșală, grosolan, nedrept, nelegiuit, plictiseală, a rătăci, rău, urit, a vătăma
-
-acalmie, acces, accident, afecțiune, aigie, ankiloză, anestezie, anorexie, afonie, apoplexie, atac, ataxie, atonie, atrofie, boleșniță, bulimie, catalepsie, cecitate, ciumă, complicație, coșmar, criză
+__v.__ defect, dezaprobare, dezordine, diform, fals, greșală, grosolan, nedrept, nelegiuit, plictiseală, a rătăci, rău, urit, a vătăma
 
 #### bogăție
 
-avut, bogat, capitalist, fastuos, îmbelșugat
+avut, bogat, capitalist, fastuos, îmbelșugat, luxos, magnific, milionar, opulent, pecuniar, pompos, somptuos
 
-__v.__ lipsă
+a acumula, a capitaliza, a câștiga, a cruța, a economisi, a se îmbogăți, a îndestula, a îngrămădi, a străluci, a strânge, a tezauriza
 
-moderat, puțin, ruină, sărac
+abudență, argint, aur, avuție, bằnet, bani, belșug, bogătaș, bunuri, comoară, Cresus, niagnificență, mijloc, monedă, nabab, Pactol, parvenit, Phutus, prosperitate, rentier, resurse, situație, splendoare, stare, tezaur
 
--S/e Like
+__v.__ lipsă, moderat, puțin, ruină, sărac
 
-§§----------------------------------------------------------------------
+#### bolnav
 
-28
+abătut, afectat de, aftos, alienat, anemic, apoplectic, ataxic, becisnic, beteag, bilios, bolnăvicios, cronic, congenital, contagios, convalescent, diabetic, diareic, dement, endemic, epidemic, epileptic, eruptiv, febril, fen. concomitent, fen. consecutiv, fen. premonitoriu, idiot, imbecil, impotent, inciumat, indemn, indispus, in extremis, intermitent, isteric, jigărit, letargic, livid, mânios, mefitic, morbid, mortal, muribund, neatins, nebun, nefritic, neputincios, nesănătos, nevătămat, nevralgic, nevropat, palid, pământiu, patologic, pernicios, pestiferat, pestilent, pestilenţial, plumburiu, primejdios, pustulos, rahitic, slab, sporadic, sincopal, şubred, teafăr, tetanic, tonic, ulceros, vânăt, variolic, veninos, vătămător
 
-29
+a acelera, a afecta, a amorţi, a ankiloza, a atinge, a atrofia, a asfixia, a cloci, a condamna, a congestiona, a constipa, a consuma, a contamina, a delira, a despera, a dezamorţi, a domni, a înciuma, a incomoda, a incuba, a infecta, a infesta, a infiltra, a înfrânge, a inocula, a se înrăi, a intoarce, a intoxica, a invada, a jena, a lovi, a mâhni, a mina, a mistui, a molipsi, a năpădi, a năvăli, a orbi, a osândi, a paraliza, a potoli, a predispune, a propaga, a pustii, a recădea, a se răspândi, a scrânti, a stingheri, a strica, a suferi, a tămădui, a turba, a vărsa
 
-neplăcut, periculos, rău, răutate, ură, a vătăma
+acalmie, acces, accident, afecţiune, aigie, ankiloză, anestezie, anorexie, afonie, apoplexie, atac, ataxie, atonie, atrofie, boleşniță, bulimie, catalepsie, cecitate, ciumă, complicație, coşmar, criză, dambla, delir, diaree, eczemă, epidemie, epizotie, ergotism, ferbințeală, flagel, friguri, idiopatie, idiosincrazie, incontinență, indispoziție, insolație, insomnie, metastază, molimă, mortalitate, neliniște, nevralgie, otrăvire, pagubă, paroxism, predispoziție, prodrom, progres, ravagii, simptome, spasm, turbare
+
+__v.__ forță, sănătate
+
+#### bunătate
+
+acomodant, afabil, agreabil, amabil, altruist, benevol, binefăcător, binevoitor, blajin, blând, candid, caritabil, clement, complezant, conciliant, condescendent, cordial, culant, darnic, delicat, devotat, drăgăstos, excelent, filantrop, trătesc, generos, gingas, împăciuitor, îndatoritor, indulgent, inofensiv, larg, mărinimos, minunat, nevinovat, omenos, părintesc, plăcut, prevenitor, săritor, sensibil, serviabil, simțitor, tolerant, slab, uman, umanitar
+
+a se acomoda, a atrage, a concilia, a desmierda, a împăciui, a îndura, a îngădui, a tolera
+
+atenție, îndurare, milă, mizericordie, pronie, providență
+
+__v.__ contrariu, neplăcut, periculos, rău, răutate, ură, a vătăma
 
 ### C
 
 #### calitate
 
-dambla, delir, diaree, eczemă, epidemie, epizotie, ergotism, ferbințeală, flagel, friguri, idiopatie, idiosincrazie, incontinență, indispoziție, insolație, insomnie, metastază, molimă, mortalitate, neliniște, nevralgie, otrăvire, pagubă, paroxism, predispoziție, prodrom, progres, ravagii, simptome, spasm, turbare
-
-conciliant, condescendent, cordial, culant, darnic, delicat, devotat, drăgăstos, excelent, filantrop, trătesc, generos, gingas, împăciuitor, îndatoritor, indulgent, inofensiv, larg, mărinimos, minunat, nevinovat, omenos, părintesc, plăcut, prevenitor, săritor, sensibil, serviabil, simțitor, tolerant, slab, uman, umanitar
-
-abil, activ, adevărat, afabil, ager, ager la minte, agreabil, amabil, aprig, apt, ascultător, așezat, auster, bine, bine crescut, binefăcător, binevoitor, blajin, blând, brav, bun, călduros, calificativ, calm, candid, capabil, capricios, caritabil, cast, chibzuit, cinstit, civilizat, comod, compătimitor, complezent, constant, convenabil, cordial, credincios
-
-cu bun simț, cu judecată, cuminte, cumpătat, curagios, curat, cu râvnă, cuviincos, darnic, decent, deferent, delicat, delicios, deschis, deștept, destoinic, de treabă, devotat, dezinteresat, dibaciu, dispus, docil, dotat, drăgălaș, drăguț, drept, dulce, echitabil, energic, eroic, exact, excelent, fidel, filantrop, fin, fraged, franc, frugal, generos, gentil, gingas, harnic, hotărît, indatoritor, îndemânatec, îndrăznet, îndurător, înfocat, îngăduitor, ingenios, in stare
-
-integru, înțelept, întreg, intrigant, inventiv, iscusit, istet, judicios, jute, judicios, just, leal, liberal, mărinimos, mediocru, milos, milostiv, mintos, modest, muncitor, naiv, neclintit, nepretențios, neprihănit, norocos, nostim, revinovat, omenos, onest, pasionat, patriot, personal, perspicace, plăcut, plecat, politicos, pornit, potolit, precis, predispus, prevenitor, prietenos, prob, prost, prudent, pudic, punctual, puternic, răbdător, recunoscător, resemnat
-
-respectuos, rezolut, riguros, rușinos, sârguitor, sensibil, semet, serios, sever, sigur, silitor, simpatic, simplu, simțitor, sincer, șiret, smerit, sobru, statornic, strașnic, subțire, supus, susceptibil, temperat, tolerant, uman, umanitar, veridic, vesel, vioiu, virtuos, viteaz, vivace, voios, vrednic
-
-__v.__ forță
-
-sănătate
-
-#### bunătate
-
-a se acomoda, a atrage, a concilia, a desmierda, a împăciui, a îndura, a îngădui, a tolera
+abil, activ, adevărat, afabil, ager, ager la minte, agreabil, amabil, aprig, apt, ascultător, așezat, auster, bine, bine crescut, binefăcător, binevoitor, blajin, blând, brav, bun, călduros, calificativ, calm, candid, capabil, capricios, caritabil, cast, chibzuit, cinstit, civilizat, comod, compătimitor, complezent, constant, convenabil, cordial, credincios, cu bun simț, cu judecată, cuminte, cumpătat, curagios, curat, cu râvnă, cuviincos, darnic, decent, deferent, delicat, delicios, deschis, deștept, destoinic, de treabă, devotat, dezinteresat, dibaciu, dispus, docil, dotat, drăgălaș, drăguț, drept, dulce, echitabil, energic, eroic, exact, excelent, fidel, filantrop, fin, fraged, franc, frugal, generos, gentil, gingas, harnic, hotărît, indatoritor, îndemânatec, îndrăznet, îndurător, înfocat, îngăduitor, ingenios, in stare, integru, înțelept, întreg, intrigant, inventiv, iscusit, istet, judicios, jute, judicios, just, leal, liberal, mărinimos, mediocru, milos, milostiv, mintos, modest, muncitor, naiv, neclintit, nepretențios, neprihănit, norocos, nostim, revinovat, omenos, onest, pasionat, patriot, personal, perspicace, plăcut, plecat, politicos, pornit, potolit, precis, predispus, prevenitor, prietenos, prob, prost, prudent, pudic, punctual, puternic, răbdător, recunoscător, resemnat, respectuos, rezolut, riguros, rușinos, sârguitor, sensibil, semet, serios, sever, sigur, silitor, simpatic, simplu, simțitor, sincer, șiret, smerit, sobru, statornic, strașnic, subțire, supus, susceptibil, temperat, tolerant, uman, umanitar, veridic, vesel, vioiu, virtuos, viteaz, vivace, voios, vrednic
 
 a califica, a se comporta, a fi
 
-acomodant, afabil, agreabil, amabil, altruist, benevol, binefăcător, binevoitor, blajin, blând, candid, caritabil, clement, complezant
-
-atenție, îndurare, mila, mizericordie, pronie, providentă
-
 abnegațiune, ambiție, ardoare, aspiratie, bărbăție, bună credință, bună creștere, bunacuviință, caracter, chemare, civism
-
-__v.__ contrariu
 
 §§----------------------------------------------------------------------
 
