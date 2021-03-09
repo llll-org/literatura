@@ -399,263 +399,176 @@ abil, activ, adevărat, afabil, ager, ager la minte, agreabil, amabil, aprig, ap
 
 a califica, a se comporta, a fi
 
-abnegațiune, ambiție, ardoare, aspiratie, bărbăție, bună credință, bună creștere, bunacuviință, caracter, chemare, civism
-
-§§----------------------------------------------------------------------
-
-- 30
-
-- 31
-
-#### cantitate
-
-condițiune, constituție, conținut, conveniență
-
-cantitativ, mult, mai mult, numeros, mai puțin, puțin, plin
-
-căpetenie, carmuire, conducere, Cespot, despotism, egemonie, feodalitate, fruntaș, întâietate, leader, ordine, pașă, precădere, robie, satrap, sclavie, șef, staroste, suprematie, suzeranitate, vătaf
-
-imaginație, inchipuire, marotă, mendre, năsbåtie, năzdrăvănie, nebunie, pasiune, pofte, poznă, strengărie, toană
-
-a aprecia, a contingenta, a doza, a evalua, a măsura
-
-y. certitudine
-
-devotament, durată, imobil, înțelepciune, legătură, liniștit, serupul, serios, statornic
-
-deschis, desgustător, despotic, detestabil, dificil, dulce, egoist, energic, fals, fantast, fățarnic, fericit, firesc, franc, fudul, furios, gâlcevitor, gingas, geu, grobian, inžcrit, închipuit, îndatoritor, ingăduitor, ingrat, invidios, ipocrit, irascibil, iritabil, fute
-
-adunare, cât, câtime, calitate, conținut, efectiv, lungime, număr, quantum, suprafață, volum
-
-dar, dărnicie, dexteritate, discernământ, fel, fire, focul sacru, forță, geniu, gratitudine, gust, imaginație, îndemânare, inteligență, liberalitate, luciditate, măsură, memorie, minte, munificență, natură, pantă, pătrundere, promptitudine, pudoare, râvnă, recunoștință, rușine, sagacitate, sentiment, simțământ, simtire, soiu, spirit, stare, talent, tărie, temperament, urbanitate, veracitate, pasiune, virtute, Vocațiune, voință, zel
-
-Coraznic, orgolios, pătimas, plácat, posac, posomnorât, prefăcut, prevenitor, prietenos, puternic, rău, sâeâitor, sanchiu, scortos, sec, sensual, sentimental, simpatic, sincer, slugarnic, slab, smintit, sociabil, sperios, suveran, taciturn, tâfnos, tăios, tipicar, tiran, trufaș, urâcios, urât, LISZ, uscat
-
-__v.__ dezordine
-
-libertate, inferior
-
-#### caracter
-
-#### capriciu
-
-__v.__ nimic
-
-vid
-
-САР
-
-autocratic, cezarian, despotic, dictatorial, impărătesc, samavolnic, tiran
-
-bizar, capricios, ciudat, descreerat, extravagant, flușturatic, inegal, lunatic, mobil, nebun, nechibzuit, nesábuit, nesocotit, restatornic, schimbător, singular
-
-absolut, acru, afabil, agreabil, amabil, ambitios, amort, anevoios, aprins, arogant, artăgos, avar, bădăran, bănuitor, bätos, bizar, blajin, blând, brusc, capricios, certăret, cicälitor, ciudat, curat, cezagreabil
-
-lunatic, mahnit, mnändru, maniae, mānios, migalos, mizantrop, mlādlos, mohorât, mojic, morocēnos, natural
-
-viguros, violent, vifios, zănatic
-
-a imblani, a powăi, a supune
-
-a asupri, a comanda, a domina, a impila, a predomina, a stăpâni
-
-aparenta
-
-sucit
-
-nehotarit, neimblânzit, neplăcut, resărat, nesociabi, norocos
-
-absolutism, arbitrar, autocrat
-
-complexiune, configuratie, constituție, esență
+abnegațiune, ambiție, ardoare, aspiratie, bărbăție, bună credință, bună creștere, bunacuviință, caracter, chemare, civism, condițiune, constituție, conţinut, conveniență, dar, dărnicie, dexteritate, discernământ, fel, fire, focul sacru, forţă, geniu, gratitudine, gust, imaginație, îndemânare, inteligenţă, liberalitate, luciditate, măsură, memorie, minte, munificenţă, natură, pantă, pătrundere, promptitudine, pudoare, râvnă, recunoştinţă, ruşine, sagacitate, sentiment, simţământ, simțire, soiu, spirit, stare, talent, tărie, temperament, urbanitate, veracitate, pasiune, virtute, vecaţiune, voinţă, zel
 
 __v.__ defect
 
-dezordine, fantezie
+#### cantitate
 
-§§----------------------------------------------------------------------
+cantitativ, mult, mai mult, numeros, mai puțin, puțin, plin
 
-- 32
+a aprecia, a contingenta, a doza, a evalua, a măsura
 
-- 33
+adunare, cât, câtime, calitate, conținut, efectiv, lungime, număr, quantum, suprafaţă, volum
 
-a suscita
+__v.__ nimic, vid
 
-#### a cheltui
+#### cap
 
-#### certitudine
+autocratic, cezarian, despotic, dictatorial, împărătesc, samavolnic, tiran
 
-#### chirurgie
+a asupri, a comanda, a domina, a împila, a predomina, a stăpâni
 
-a revendica, a ruga, a solicita, a soma, a stărui, a urmări
+absolutism, arbitrar, autocrat, căpetenie, cârmuire, conducere, despot, despotism, egemonie, feodalitate, fruntaş, întâietate, leader, ordine, paşă, precădere, robie, satrap, sclavie, şef, staroste, supremaţie, suzeranitate, vătaf
 
-expresie, fel, fire, fizionomie, gen, însușire, obiceiu, natură, permanență, simbol, soiu, stare, substanță, temperament, tip
+__v.__ dezordine, libertate, inferior
 
-cheltuitor, darnic, fastuos, generos, larg, mână spartă, risipitor, somptuar, stricat
+#### capriciu
 
-a amputa, a arde, a cauteriza, a diseca, a exciza, a extirpa, a pansa, a trepana
+bizar, capricios, ciudat, descreerat, extravagant, fluşturatic, inegal, lunatic, mobil, nebun, nechibzuit, nesăbuit, nesocotit, nestatornic, schimbător, singular, smintit, sucit, zănatic
+
+acces, dezordine, fantezie, imaginație, închipuire, marotă, mendre, năsbâtie, năzdrăvănie, nebunie, pasiune, pofte, poznă, strengărie, toană
+
+__v.__ certitudine, devotament, durată, imobil, intelepciune, legătură, liniştit, scrupul, serios, statornic
+
+#### caracter
+
+absolut, acru, afabil, agreabil, amabil, ambițios, amorf, anevoios, aprins, arogant, arțăgos, avar, bădăran, bănuitor, bătos, bizar, blajin, blând, brusc, capricios, certăreț, cicălitor, ciudat, curat, dezagreabil, deschis, desgustător, despotic, detestabil, dificil, dulce, egoist, energic, falş, fantast, făţarnic, fericit, firesc, franc, fudul, furios, gâlcevitor, : gingaş, greu, grobian, înăcrit, închipuit, îndatoritor, irgăduitor, ingrat, invidios, ipocrit, irascibil, iritabil, iute, laş, lunatic, mâhnit, mândru, maniac, mânios, migălos, mizantrop, mlădios, mohorât, mojic, morocănos, natural, nebun, necăjit, nehotărît, neîmblânzit, neplăcut, resărat, nesociabil, norocos, obraznic, orgolios, pătimaş, plăcut, posac, posomorât, prefăcut, prevenitor, prietenos, puternic, rău, sâcâitor, sanchiu, scortos, sec, sensual, sentimental, simpatic, sincer, slugarnic, slab, smintit, sociabil, sperios, suveran, taciturn, țâfnos, tăios, tipicar, tiran, trufaş, urâcios, urât, ursuz, uscat, uscăţiv, viguros, violent, vitios, zănatic
+
+a îmblânzi, a şovăi, a supune
+
+aparenţă, calitate, complexiune, configuraţie, constituție, esență, expresie, fel, fire, fizionomie, gen, însușire, obiceiu, natură, permanență, simbol, soiu, stare, substanță, temperament, tip
+
+__v.__ absurd, dezordine, diform, a ezita, obscuritate, spălăcit
+
+
+#### cauză
+
+a aprinde, a atâta, a călăuzi, a cășuna, a concura, a conduce, a contribui, a crea, a determina, a excita, a explica, a făptui, a îmboldi, a împinge, a îndemna, a îndruma, a inspira, a instiga, a insufla, a motiva, a ocaziona, a pricinui, a produce, a proveni, a provoca, a scormoni, a suscita
 
 afacere, agent, autor, bază, cauzalitate, ferment, fundament, germen, început, izvor, legătură, mobil, motiv, obârșie, origine, punct de plecare, principiu, proces, promotor, rațiune, sorginte, sursă, temeiu
 
+__v.__ a desface, remediu, rezultat
+
+#### a cere
+
+exigent, exigibil, importun
+
+a adresa, a asedia, a candida, a cerși, a conjura, a exprima, a formula, a hărtui, a implora, a insista, a petiționa, a pofti, a postula, a pretinde, a reclama, a revendica, a ruga, a solicita, a soma, a stărui, a urmări
+
 cerință, chetă, deziderat, dorință, exigență, jalbă, intervenție, postulant, pretendent, suplică, ultimatum
 
+__v.__ a da, dar, nu, opunere
+
+#### ceremonial
+
+afectat, ceremonios, curtenitor, exagerat, ierarhic, întepat, manierat, nefiresc, politicos, protocolar, scrobit
+
+aristocrație, ceremonie, conveniență, etichetă, forma, onoare, Teceptie, rit, uzaj
+
+__v.__ grosolan, obiceiu, simplu
+
+#### certitudine
+
 autentic, clar, convins, dogmatic, evident, fatal, ferm, indiscutabil, incontestabil, inevitabil, infailibil, manifest, matematic, neclintit, nestrămutat, notoriu, palpabil, peremptoriu, sigur, tangibil, vizibil
+
+a adeveri, a afirma, a aproba, a atesta, a certifica, a confirma, a crede, a dovedi, a fortifica, a încredinta, a întări, a învedera, a proba, a ratifica, a recunoaște, a sprijini
+
+adevăr, asigurare, axiomă, convingere, crez
+
+__v.__ discuție, ezitare, ipoteză, obscuritate
+
+#### a cheltui
+
+cheltuitor, darnic, fastuos, generos, larg, mână spartă, risipitor, somptuar, stricat
+
+a devora, a distribui, a delapida, a epuiza, a îmbuiba, a împrăștia, a irosi, a mânca, a prăpădi, a remunera, a risipi, a se ruina, a sfeterisi, a asvârli
+
+alocațiune, belșug, cheltuială, cost, cotizație, dar, desfrâu, liberalitate, munificență, obol, pagubă, pret, profuziune, fiul rătăcit, rentier, resurse, socoteală, stare, tezaur, transfer
+
+__v.__ auster, avar, sărac
+
+#### chirurgie
+
+a amputa, a arde, a cauteriza, a diseca, a exciza, a extirpa, a pansa, a trepana
 
 chirurg, forceps, incizie, transfuziune, vivisecțiune
 
 #### clar
 
-__v.__ absurd
-
-dezordine, diform, a ezita, obscuritate, spălăcit
-
-a devora, a distribui, a delapida, a epuiza, a îmbuiba, a împrăștia, a irosi, a mânca, a prăpădi, a remunera, a risipi, a se ruina, a sfeterisi, a asvârli
-
-__v.__ a da
-
-dar, nu, opunere
-
-#### cauză
-
-#### ceremonial
-
-__v.__ a desface
-
-remediu, rezultat
-
-afectat, ceremonios, curtenitor, exagerat, ierarhic, întepat, manierat, nefiresc, politicos, protocolar, scrobit
-
-#### a cere
-
-a aprinde, a atâta, a călăuzi, a cășuna, a concura, a conduce, a contribui, a crea, a determina, a excita, a explica, a făptui, a îmboldi, a împinge, a îndemna, a îndruma, a inspira, a instiga, a insufla, a motiva, a ocaziona, a pricinui, a produce, a proveni, a provoca, a scormoni
-
-exigent, exigibil, importun
-
 abordabil, accesibil, comprehensibil, comun, deslușit, elementar, evident, explicit, inteligibil, lesne, limpede, lucid, luminos, manifest, net, neted, ordinar, patent, precis, sensibil, simplu, univoc, vizibil
 
-a adeveri, a afirma, a aproba, a atesta, a certifica, a confirma, a crede, a dovedi, a fortifica, a încredinta, a întări, a învedera, a proba, a ratifica, a recunoaște, a sprijini
+a descâlci, a descifra, a descurca, a desluși, a discerne, a edifica, a elucida, a explica, a informa, a lămuri, a pătrunde, a percepe, a prinde, a simplifica, a tălmăci
 
-alocațiune, belșug, cheltuială, cost, cotizație, dar, desfrâu, liberalitate, munificență, obol, pagubă, pret, profuziune, fiul rătăcit, rentier, resurse, socoteală, stare, tezaur, transfer
-
-a adresa, a asedia, a candida, a cerși, a conjura, a exprima, a formula, a hărtui, a implora, a insista, a petiționa, a pofti, a postula, a pretinde, a reclama
-
-aristocrație, ceremonie, conveniență, etichetă, forma, onoare, Teceptie, rit, uzaj
-
-adevăr, asigurare, axiomă, convingere, crez
-
-a descâlci, a descifra, a descurca, a desluși, a discerne, a edifica, a elucida, a explica
-
-__v.__ grosolan
-
-obiceiu, simplu
-
-__v.__ discuție
-
-ezitare, ipoteză, obscuritate
-
-__v.__ auster
-
-avar, sărac
-
-3
-
-§§----------------------------------------------------------------------
-
-34
-
-35
-
-#### complot
-
-#### conștiință
-
-a informa, a lămuri, a pătrunde, a percepe, a prinde, a simplifica, a tălmăci
-
-competiție, concurent, conflict, emul, emulațiune, examen, pizmă, pretendent
-
-a desmăța, a pierde, a pieri, a se purta, a strica, a turbura
-
-a se afilia, a complota, a făuri, a jura, a mașina, a plănui, a se răsvrăti, a se sfătui, a urzi
-
-a închina, a-și închina, a întări, a patrona, a sancționa, a sfinți, a sorti, a târnosi, a ursi
-
-a se căi, a capitula, a examina, a expia, a îmboldi, a insufla, a ispăși, a mortifica, a mustra, a se pocăi
-
-__v.__ ascuns
-
-dificultate, obscur, secret, sters
-
-__v.__ asemnător
-
-asociat, inacțiune, liniștit
-
-hram, invocațiune, menire, ocrotire, ofrandă, prinos, protecție
+__v.__ ascuns, dificultate, obscur, secret, sters
 
 #### a colabora
 
-#### conduită
-
-#### consolare
-
 a ajuta, a concura, a contribui, a coopera, a lucra, a lua parte, a participa
 
-agitator, cabală, Carbonari, conciliabul, conivență, conjurație, conspiratie, instigator, intrigă, lovitură, pronunciamento, răscoală, revoluție, uneltire
-
-act, acțiune, activitate, bacanale, boroboață, desfrâu, escapadă, exces, faptă, festă, ispravă, licență, manieră, moravuri, năsbâtie, necurățenie, neînfrânare, neorânduială, neregulă, obiceiuri, orgie, procedeu, purtare, saturnale, ținută
-
-considerațiune, cuget, delicateță, examen, mulțumire, obidă, penitență, pocăință, remușcare, scrupul, satisfacție, sentiment, simțământ, simțire, turburare
-
-__v.__ a desface
-
-dezordine, opunere
-
-#### concurs
-
-auster, aventuros, cinic, cinstit, dezordonat, gălăgios, imoral, moral, nebun, nerușinat, nesăbuit, nesocotit, onest, pervers, poznas, regulat, scandalos, sever, slab, smintit, strengar, de treabă, vioiu, viteaz, vițios
-
-a accepta, a alina, a atenua, a calma, a cicatriza, a desmierda, a îmbărbăta, a încuraja, a îndulci, a întări, a liniști, a mângâia, a potoli, a reconforta, a ușura
+__v.__ a desface, dezordine, opunere
 
 #### competență
 
 capabil, competent, destoinic, priceput
 
-antagonist, gelos, potrivnic
-
-__v.__ ignoranta
-
-insensibil, licență, a rătăci
-
-#### contrariu
-
 a autoriza, a declina, a împuternici
-
-__v.__ desfrâu
-
-dezordine, licență, a rătăci
-
-#### a consacra
 
 atribuție, capacitate, domeniu, jurisdicțiune, putință, resort, știință
 
+__v.__ dificultate, dobitoc, frică, ignoranță
+
+#### complot
+
+a se afilia, a complota, a făuri, a jura, a mașina, a plănui, a se răsvrăti, a se sfătui, a urzi
+
+agitator, cabală, Carbonari, conciliabul, conivență, conjurație, conspiratie, instigator, intrigă, lovitură, pronunciamento, răscoală, revoluție, uneltire
+
+#### concurs
+
+antagonist, gelos, potrivnic
+
 a se ciocni, a concura, a colabora, a conlucra, a disputa, a se împotrivi, a înfrunta, a se intrece, a se lupta, a se măsura, a ridica mănușa, a rivaliza, a tine piept
+
+adversar, ardoare, arenă, campion, competiție, concurent, conflict, emul, emulațiune, examen, pizmă, pretendent
+
+__v.__ asemnător, asociat, inacțiune, liniștit
+
+#### conduită
+
+auster, aventuros, cinic, cinstit, dezordonat, gălăgios, imoral, moral, nebun, nerușinat, nesăbuit, nesocotit, onest, pervers, poznas, regulat, scandalos, sever, slab, smintit, strengar, de treabă, vioiu, viteaz, vițios
+
+a abuza, a se agita, a se călăuzi, a se cârmui, a chefui, a se comporta, a se conduce, a se deda, a deprava, a desmăța, a pierde, a pieri, a se purta, a strica, a turbura
+
+act, acțiune, activitate, bacanale, boroboață, desfrâu, escapadă, exces, faptă, festă, ispravă, licență, manieră, moravuri, năsbâtie, necurățenie, neînfrânare, neorânduială, neregulă, obiceiuri, orgie, procedeu, purtare, saturnale, ținută
+
+__v.__ desfrâu, dezordine, licență, a rătăci
+
+#### a consacra
+
+a afecta la, a atribui, a binecuvânta, a se consacra, a consfinti, a se deda, a dedica, a destina, a făgădui, a hårăzi, a hirotonisi, a închina, a-și închina, a întări, a patrona, a sancționa, a sfinți, a sorti, a târnosi, a ursi
+
+hram, invocațiune, menire, ocrotire, ofrandă, prinos, protecție
+
+#### consolare
+
+a accepta, a alina, a atenua, a calma, a cicatriza, a desmierda, a îmbărbăta, a încuraja, a îndulci, a întări, a liniști, a mângâia, a potoli, a reconforta, a ușura
 
 balsam, condoleante, leac, nădejde, refugiu, remediu, resemnare, speranță
 
+__v.__ cruzime, dispreț, insensibil, mizantropie, mustrare, a pedepsi
+
+#### conștiință
+
+a se căi, a capitula, a examina, a expia, a îmboldi, a insufla, a ispăși, a mortifica, a mustra, a se pocăi
+
+considerațiune, cuget, delicateță, examen, mulțumire, obidă, penitență, pocăință, remușcare, scrupul, satisfacție, sentiment, simțământ, simțire, turburare
+
+__v.__ ignoranță, insensibil, licență, a rătăci
+
+#### contrariu
+
 advers, antipod, invers, mutual, opus, potrivnic, reciproc, recurent, reflex, retroactiv, retrograd, retrospectiv, reversibil
-
-a afecta la, a atribui, a binecuvânta, a se consacra, a consfinti, a se deda, a dedica, a destina, a făgădui, a hårăzi, a hirotonisi
-
-a abuza, a se agita, a se călăuzi, a se cârmui, a chefui, a se comporta, a se conduce, a se deda, a deprava
-
-__v.__ dificultate
-
-dobitoc, frică, ignoranță
-
-adversar, ardoare, aienă, campion
-
-__v.__ cruzime
-
-dispret, insensibil, mizantropie, mustrare, a pedepsi
 
 a alunga
 
