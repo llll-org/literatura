@@ -1,14 +1,28 @@
-# URMUZ
+# Urmuz
 
-Colecția Edituril UNU, 1930
+Colecția Editurii UNU, 1930
 
-ACEASTĂ CARTE S’A TIPĂRIT PE HÂRTIE VELINĂ MATĂ, ÎN DOUĂ SUTE CINCI ZECI DE EXEMPLARE NUMEROTATE, CONȚINÎND DOUĂ HORS-TEXT-URI PE HÎRTIE CROMO CHAMOIS.
+Această carte s’a tipărit pe hîrtie velină mată, în două sute cinci zeci de exemplare numerotate, conținînd două hors-text-uri pe hîrtie cromo chamois.
 
-EDIȚIE FĂCUTĂ DE SAȘA PANĂ
+S’a terminat de cules pentru Editura „Unu” în două zeci și opt Octombrie una mie nouă sute trei zeci în Atelierele Grafice Steaua Artei din București B-dul Maria doi.
 
-Pentru lămurirea unei legende, pentru dărîmarea unui simbol devenit prea limpede, pentru o nouă neliniștire a propriei noastre existențe, grupul „Unu” adună aceste cîteva ciudate pagini de revoltă, plecîndu-se dinaintea singurului privilegiu care a încheiat viața lui Urmuz ca o fereastră.
+Ediție făcută de Sașa Pană
 
-13 Octombrie 1930.
+> Pentru lămurirea unei legende, pentru dărîmarea unui simbol devenit prea limpede, pentru o nouă neliniștire a propriei noastre existențe, grupul „Unu” adună aceste cîteva ciudate pagini de revoltă, plecîndu-se dinaintea singurului privilegiu care a încheiat viața lui Urmuz ca o fereastră.
+>
+> 13 Octombrie 1930.
+
+## Cuprinsul
+
+* [Pîlnia și Stamate](#pilnia-si-stamate)
+* [Ismaïl și Turnavitu](#ismail-si-turnavitu)
+* [Gayk](#gayk)
+* [Plecarea în străinătate](#plecarea-in-strainatate)
+* [Cotadi și Dragomir](#cotadi-si-dragomir)
+* [Algazy & Grummer](#algazy-grummer1)
+* [După furtună](#dupa-furtuna)
+* [Fuchsiada](#fuchsiada)
+* [Cronicari](#cronicari)
 
 ## Pîlnia și Stamate 
 
@@ -309,33 +323,27 @@ Alergă de își scoase umbrela dela reparat și luînd și pianul cu sine disp�
 
 De acolo muzica se radiază cu egală putere în toate direcțiunile făcînd astfel să se împlinească în parte cuvîntul Destinului recunoscător care-i hărăzi ca prin gamele, concertele și etudele sale de staccato să ducă departe acel cuvînt și grație lor, prin forța educației, să facă să apară cu timpul pe această planetă o rasă mai bună și mai superioară de oameni, spre gloria sa, a pianului și a Eternității…
 
-### Cronicari
+## Cronicari
 
 Fabulă
 
-Cică niște cronicari 
-Duceau lipsă de șalvari. 
-Și-au rugat pe Rapaport 
-Să le dea un pașaport. 
-Rapaport cel drăgălaș 
-Juca un carambolaj, 
-Neștiind că — Aristotel 
-Nu văzuse ostropel. 
-„Galileu! O, Galileu!” 
-Strigă el atunci mereu – 
-„Nu mai trage de urechi 
-Ale tale ghete vechi”. 
-Galileu scoate-o sinteză 
-Din redingota franceză, 
-Și exclamă: „Sarafoff, 
+Cică niște cronicari<br/>
+Duceau lipsă de șalvari.<br/>
+Și-au rugat pe Rapaport<br/>
+Să le dea un pașaport.<br/>
+Rapaport cel drăgălaș<br/>
+Juca un carambolaj,<br/>
+Neștiind că — Aristotel<br/>
+Nu văzuse ostropel.<br/>
+„Galileu! O, Galileu!”<br/>
+Strigă el atunci mereu –<br/>
+„Nu mai trage de urechi<br/>
+Ale tale ghete vechi”.<br/>
+Galileu scoate-o sinteză<br/>
+Din redingota franceză,<br/>
+Și exclamă: „Sarafoff,<br/>
 Servește-te de cartof!”
 
 ### Morala
 
 Pelicanul sau babița.
-
----
-
-S’A TERMINAT DE CULES PENTRU EDITURA «UNU» ÎN DOUĂ ZECI ȘI OPT OCTOMBRIE UNA MIE NOUĂ SUTE TREI ZECI ÎN ATELIERELE GRAFICE STEAUA ARTEI DIN BUCUREȘTI B-DUL MARIA DOI.
-
-EXEMPLAR Nr. 79
