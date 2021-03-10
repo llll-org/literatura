@@ -11,7 +11,8 @@ Pentru documentele în limba română.
 * `/Ş/s` → `Ș`;
 * `/ş/s` → `ș`;
 * `/Ţ/s` → `Ț`;
-* `/ţ/s` → `ț`.
+* `/ţ/s` → `ț`;
+* de obicei `Î` (majuscul) apare în tipar ca `I`, se poate căuta după `/(^I|[„….?!]\s?I)/`.
 
 ### Ghilimele și apostroafe
 
