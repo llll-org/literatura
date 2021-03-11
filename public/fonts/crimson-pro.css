@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Crimson Pro'), url('./CrimsonPro-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Crimson Pro';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Crimson Pro'), url('./CrimsonPro-Italic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Crimson Pro';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Crimson Pro'), url('./CrimsonPro-Bold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Crimson Pro';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Crimson Pro'), url('./CrimsonPro-BoldItalic.woff') format('woff');
+}

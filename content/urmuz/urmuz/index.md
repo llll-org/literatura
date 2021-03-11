@@ -1,12 +1,16 @@
-# Urmuz
+---
+titlu: Urmuz
+autor: Urmuz
+an: 1930
+---
 
 Colecția Editurii UNU, 1930
 
 Această carte s’a tipărit pe hîrtie velină mată, în două sute cinci zeci de exemplare numerotate, conținînd două hors-text-uri pe hîrtie cromo chamois.
 
-S’a terminat de cules pentru Editura „Unu” în două zeci și opt Octombrie una mie nouă sute trei zeci în Atelierele Grafice Steaua Artei din București B-dul Maria doi.
-
 Ediție făcută de Sașa Pană
+
+---
 
 > Pentru lămurirea unei legende, pentru dărîmarea unui simbol devenit prea limpede, pentru o nouă neliniștire a propriei noastre existențe, grupul „Unu” adună aceste cîteva ciudate pagini de revoltă, plecîndu-se dinaintea singurului privilegiu care a încheiat viața lui Urmuz ca o fereastră.
 >
@@ -26,13 +30,13 @@ Ediție făcută de Sașa Pană
 
 ## Pîlnia și Stamate 
 
-Roman în patru părți
+_Roman în patru părți_
 
 ### I
 
 Un apartament bine aierisit, compus din trei încăperi principale, avînd terasă cu giamlîc și sonerie.
 
-În față, salonul somptuos, al cărui perete din fund este ocupat de o bibliotecă de stejar masiv, totdeauna strîns înfășurată în ciarciafuri ude… O masă fără picioare, la mijloc, bazată pe calcule și probabilități, suportă un vas ce conține esență eternă a „lucrului în sine”, un cățel de usturoi, o statuetă ce reprezintă un popă (ardelenesc) ținînd în mînă o sintaxă și… 20 de bani bacșiș… Restul nu prezintă nici o importanță. Trebuiește însă reținut că această cameră, vecinic pătrunsă de întunerec, nu are nici uși, nici ferestre și nu comunică cu lumea din afară de cît prin ajutorul unui tub, prin care uneori iese fum și prin care se poate vedea, în timpul nopții, cele șapte emisfere ale lui Ptolomeu, iar în timpul zilei doi oameni cum coboară din maimuță și un șir finit de bame uscate, alături de Auto-Kosmosul infinit și inutil…
+În față, salonul somptuos, al cărui perete din fund este ocupat de o bibliotecă de stejar masiv, totdeauna strîns înfășurată în ciarciafuri ude… O masă fără picioare, la mijloc, bazată pe calcule și probabilități, suportă un vas ce conține esență eternă a „lucrului în sine”, un cățel de usturoi, o statuetă ce reprezintă un popă (ardelenesc) ținînd în mînă o sintaxă și… 20 de bani bacșiș… Restul nu prezintă nici o importanță. Trebuiește însă reținut că această cameră, vecinic pătrunsă de întunerec, nu are nici uși, nici ferestre și nu comunică cu lumea din afară de cît prin ajutorul unui tub, prin care uneori iese fum și prin care se poate vedea, în timpul nopții, cele șapte emisfere ale lui Ptolomeu, iar în timpul zilei doi oameni cum coboară din maimuță și un șir finit de bame uscate, alături de Auto—Kosmosul infinit și inutil…
 
 A doua încăpere, care formează un interior turc, este decorată cu mult fast și conține tot ceiace luxul oriental are mai rar și mai fantastic… Nenumărate covoare de preț, sute de arme vechi, încă pătate de sînge eroic, căptușesc colonadele sălii, iar imenșii ei pereți sunt, conform obiceiului oriental, sulemeniți în fiecare dimineață, alteori măsurați, între timp, cu compasul pentru a nu scădea la întîmplare.
 
@@ -68,7 +72,7 @@ Pentru Stamate, pîlnia deveni de atunci un simbol. Era singura ființă de sex 
 
 ### IV
 
-Fericirile mari sunt totdeauna, de scurtă durată… Într’una din nopți, Stamate, venind spre a-și face obicinuita-i datorie sentimentală, constată cu uimire și desamăgire că, din cauze încă nepătrunse, orificiul de ieșire al pîlniei se strîmtase într’atîta, încît orice comunicație prin el era imposibilă. Nedumerit și totuși bănuitor, se puse la pîndă și a doua-noapte, necrezîndu-și ochilor, văzu cu groază cum Bufty, urcat sus, gîfîind, fusese lăsat să intre și să treacă. Petrifcat, Stamate, abia avu puterea să se ducă să se lege singur de țăruș; a doua zi luă însă o hotărîre supremă.
+Fericirile mari sunt totdeauna, de scurtă durată… Într’una din nopți, Stamate, venind spre a-și face obicinuita-i datorie sentimentală, constată cu uimire și desamăgire că, din cauze încă nepătrunse, orificiul de ieșire al pîlniei se strîmtase într’atîta, încît orice comunicație prin el era imposibilă. Nedumerit și totuși bănuitor, se puse la pîndă și a doua noapte, necrezîndu-și ochilor, văzu cu groază cum Bufty, urcat sus, gîfîind, fusese lăsat să intre și să treacă. Petrifcat, Stamate, abia avu puterea să se ducă să se lege singur de țăruș; a doua zi luă însă o hotărîre supremă.
 
 Mai întîi își îmbrățișă soția devotată și după ce-i dădu în grabă o vopsea, o cusu într’un sac impermeabil, în scopul de a păstra mai departe, intactă, tradițiunea culturală a familiei. După aceia, în mijlocul unei nopți reci și întunecoase, luă el pîlnia și pe Bufty și aruncîndu-i într’un tramcar, ce tocmai trecea la întîmplare, le făcu vînt cu dispreț în Nirvana. Totuși, mai tîrziu, sentimentul patern învinse, și Stamate, grație calculelor și combinațiilor sale chimice, reuși să facă cu timpul, prin puterea științei, ca Bufty să ocupe acolo un post de sub-șef de biurou.
 
@@ -82,11 +86,11 @@ Ismaïl este compus din ochi, favoriți și rochie și se găsește astăzi cu f
 
 Înainte vreme creștea și în Grădina Botanică, iar mai tîrziu, grație progresului științei moderne, s’a reușit să se fabrice unul pe cale chimică, prin syntheză.
 
-Ismaïl nu umblă niciodată singur. Poate fi găsit însă pe la ora 5½ dimineața, rătăcind în zig-zag pe strada Arionoaiei, însoțit fiind de un viezure de care se află strîns legat cu odgon de vapor și pe care în timpul nopții îl mănîncă crud și viu, după ce mai întîi i-a rupt urechile și a stors pe el puțină lămîie… Alți vierzuri mai cultivă Ismaïl în o pepinieră situată în fundul unei gropi din Dobrogea, unde îi întreține pînă ce au împlinit vârsta de 16 ani și au căpătat forme mai pline, cînd, la adăpost de orice răspundere penală, îi necinstește rînd pe rînd și fără pic de mustrare de cuget.
+Ismaïl nu umblă niciodată singur. Poate fi găsit însă pe la ora 5½ dimineața, rătăcind în zig–zag pe strada Arionoaiei, însoțit fiind de un viezure de care se află strîns legat cu odgon de vapor și pe care în timpul nopții îl mănîncă crud și viu, după ce mai întîi i-a rupt urechile și a stors pe el puțină lămîie… Alți vierzuri mai cultivă Ismaïl în o pepinieră situată în fundul unei gropi din Dobrogea, unde îi întreține pînă ce au împlinit vârsta de 16 ani și au căpătat forme mai pline, cînd, la adăpost de orice răspundere penală, îi necinstește rînd pe rînd și fără pic de mustrare de cuget.
 
 Cea mai mare parte din an, Ismaïl nu se știe unde locuiește. Se crede că stă conservat într’un borcan situat în podul locuinței iubitului său tată, un bătrîn simpatic cu nasul tras la pressă și împrejmuit cu un mic gard de nuiele Acesta, din prea multă dragoste părintească, se zice că îl ține astfel sechestrat pentru a-l feri de pișcăturile albinelor și de corupția moravurilor noastre electorale. Totuși Ismaïl reușește să scape de acolo cîte trei luni pe an, în timpul iernii, cînd cea mai mare plăcere a lui este să se îmbrace cu o rochie de gală, făcută din stofă de macat de pat cu flori mari cărămizii și apoi să se agate de grinzi pe la diferite binale, în ziua cînd se serbează tencuitul, cu scopul unic de a fi oferit de proprietar ca recompensă și împărțit la lucrători… În acest mod speră el că va contribui într’o însemnată măsură la rezolvarea chestiunii muncitorești… Ismaïl primește și audiențe însă numai în vîrful dealului de lîngă pepiniera cu viezuri. Sute de solicitatori de posturi ajutoare bănești și lemne, sunt mai întîi întroduși sub un abat-jour enorm, unde sunt obligați să clocească fiecare cîte 4 ouă. Sunt apoi suiți în cîte un vagonet de gunoi deal primăriei și cărați cu o iuțeală vertiginoasă pînă sus la Ismaïl, de către un prieten al acestuia, care îi servă și de salam, numit Turnavitu, personaj ciudat, care, în timpul ascensiunei, are urîtul obiceiu de a cere solicitatorilor să i se promită corespondență amoroasă, contrar amenință cu răsturnarea.
 
-Turnavitu nu a fost multă vreme decît un simplu ventilator pe la diferite cafenele murdare, grecești, de pe strada Covaci și Gabroveni. Nemai putînd suporta mirosul ce era silit să aspire acolo, Turnativu făcu mai multă vreme politică și reuși astfel să fie numit ventilator de Stat, anume la bucătăria postului de pompieri „Radu-Vodă”.
+Turnavitu nu a fost multă vreme decît un simplu ventilator pe la diferite cafenele murdare, grecești, de pe strada Covaci și Gabroveni. Nemai putînd suporta mirosul ce era silit să aspire acolo, Turnativu făcu mai multă vreme politică și reuși astfel să fie numit ventilator de Stat, anume la bucătăria postului de pompieri „Radu–Vodă”.
 
 La o serată dansantă făcu cunoștință lui Ismaïl. Expunîndu-i acestuia mizera situație în care a ajuns din cauza atîtor învîrtituri, Ismaïl, inimă caritabilă, îl luă sub protecțiunea sa. I se promise să i se servească de îndată cîte 50 de bani pe zi și tain, cu singura obligațiune pentru Turnavitu de a-i servi de sambelan la viezuri; asemenea, să-i iasă înainte, în fiecare dimineață pe strada Arionoaiei și prefăcîndu-se că nu-l observă, să calce viezurele pe coadă spre a-i cere apoi mii de scuze pentru neatenție, iar pe Ismaïl să-l măgulească pe rochie cu un pămătuf muiat în ulei de rapiță, urîndu-i prosperitate și fericire…
 
@@ -106,7 +110,7 @@ Ascuțit bine la ambele capete și încovoiat ca un arc, Gayk stă totdeauna pu�
 
 În timpul zilei, Gayk nu poate suferi altă îmbrăcăminte decît o perdeluță cu brizbizuri, una în față și alta în spate și cari se pot foarte ușor da înlături de ori-cine cu permisiunea sa.
 
-Timpul și-l petrece înotînd continu 23 de ore, însă numai în direcțiunea Nord-Sud, de teamă de a nu eși din neutralitate. În ora liberă ce-i mai rămîne se inspiră dela muze cu bocanci.
+Timpul și-l petrece înotînd continu 23 de ore, însă numai în direcțiunea Nord–Sud, de teamă de a nu eși din neutralitate. În ora liberă ce-i mai rămîne se inspiră dela muze cu bocanci.
 
 A reușit în curînd să ne dea o nouă îndrumare în politica noastră externă emitînd cel dintîi și cu multă autoritate, părerea că trebuie să luăm pe transilvăneni fără Transilvania; susține însă că trebuie cu orice preț să obținem prin intervenția Vaticanului, Năsăudul cu trei kilometri, kilometrii situați nu însă împrejur, ci aliniați unul lîngă altua în lungime alături de oraș și cu direcția spre ducatul de Luxemburg, ca semn de admonestare pentru că a permis să i se violeze neutralitatea de armatele germane.
 
@@ -177,7 +181,7 @@ Fire închisă și temperament bilios, stă toată ziua lungit sub tejghea, cu c
 
 Cum intri la ei în magazin, un miros delicios îți gîdilă nările… Ești întîmpinat la scară de un băiat cinstit, care pe cap, în loc de păr, are fire de arnici verde; apoi ești salutat cu multă amabilitate de Algazy și poftit să stai jos pe un taburel…
 
-Grummer stă și pîndește… Perfid, cu privirea piezișă, scoțând mai întîi numai ciocul, pe care ostentativ îl prelinge în sus și în jos pe un jghiab anume făcut la muchia tejghelei, apare la urmă în întregime… Face prin tot felul de manopere pe Algazy să părăsească localul, apoi, insinuant, te atrage pe nesimțite în tot soiul de discuții-mai ales de sport și literatură - pînă ce, cînd îi vine bine, te plesnește de două ori cu ciocul peste burtă, de te face să alergi afară în stradă, urlînd de durere.
+Grummer stă și pîndește… Perfid, cu privirea piezișă, scoțând mai întîi numai ciocul, pe care ostentativ îl prelinge în sus și în jos pe un jghiab anume făcut la muchia tejghelei, apare la urmă în întregime… Face prin tot felul de manopere pe Algazy să părăsească localul, apoi, insinuant, te atrage pe nesimțite în tot soiul de discuții-mai ales de sport și literatură — pînă ce, cînd îi vine bine, te plesnește de două ori cu ciocul peste burtă, de te face să alergi afară în stradă, urlînd de durere.
 
 Algazy, care are mai totdeauna neplăceri și discuții cu clienții, din cauza acestui procedeu nepermis a lui Grummer, iese în goană după tine, te poftește înapoi și spre a-ți lua _meritata satisfacție_, îți dă dreptul — dacă ai cumpărat un obiect mai scump ca 15 bani — să… miroși puțin ciocul lui Grummer și, dacă vrei, să-l strîngi cît de tare de o bășică cenușie de cauciuc, pe care o are înșurupată la spate, puțin deasupra fesselor, ceiace îl face să sară prin magazin fără să miște din genunchi, scoțînd și sunete nearticulate…
 
@@ -193,7 +197,7 @@ El o vomită în mîinile lui Algazy… Dar bătrînul, în pîntecul căruia fe
 
 ### Epilog
 
-A doua zi, la poalele muntelui, trecătorii putură vedea într’un șanț, aruncate de ploaie, un grătar cu sîrmă ghimpată și un mirositor plisc de lemn… Autoritățile fură anunțate, dar mai înainte ca ele să fi sosit la fata locului, una din soțiile lui Algazy, care avea formă de mătură, apăru pe neașteptate și… dînd de două-trei ori, în dreapta și în stînga, mătură tot ce găsi, la gunoi…
+A doua zi, la poalele muntelui, trecătorii putură vedea într’un șanț, aruncate de ploaie, un grătar cu sîrmă ghimpată și un mirositor plisc de lemn… Autoritățile fură anunțate, dar mai înainte ca ele să fi sosit la fata locului, una din soțiile lui Algazy, care avea formă de mătură, apăru pe neașteptate și… dînd de două–trei ori, în dreapta și în stînga, mătură tot ce găsi, la gunoi…
 
 --- 
 
@@ -201,7 +205,7 @@ A doua zi, la poalele muntelui, trecătorii putură vedea într’un șanț, aru
 
 Ne permitem a arăta mai sus cititorilor cum ar fi putut și cum ar fi putut să fie un _Algazy_ sau un _Grummer_ „in abstracto”, dacă dînșii nu ar fi fost creiați de o înlîmplare, o soartă care mai deloc nu fine seama dacă obiectele creatiunilor ei, corespund, în forma și mișcarea lor, cu numele ce li s’a hărăzit.
 
-Cerem scuze D-lor Algazy & Grummer pentru observările ce ne permiserăm mai sus; o facem însă și din dorinta de a-i servi, deșteptîndu-i din vreme asupra măsurilor mai nimerite de îndreptare în această privință.
+Cerem scuze D–lor Algazy & Grummer pentru observările ce ne permiserăm mai sus; o facem însă și din dorinta de a-i servi, deșteptîndu-i din vreme asupra măsurilor mai nimerite de îndreptare în această privință.
 
 ## După furtună
 
@@ -229,7 +233,7 @@ Se crede că ar fi apucat drumul spre orașul său natal, unde, sătul de burlă
 
 ## Fuchsiada
 
-Poem eroico-erotic și muzical, în proză
+_Poem eroico–erotic și muzical, în proză_
 
 ### I
 
@@ -237,15 +241,15 @@ Fuchs nu a fost făcut chiar de mama sa… La început, cînd a luat ființă, n
 
 După aceia Fuchs se duse direct la conservator… Aci luă forma de acord perfect și după ce, din modestie de artist, stătu mai întîi trei ani ascuns în fundul unui pian, fără să îl știe nimeni, ieși la suprafață și în cîteva minute termină de studiat armonia și contrapunctul și absolvi cursul de piano… Apoi se dete jos dar, în contra tuturor așteptărilor sale constată cu regret că două din sunetele ce îl compuneau, alterîndu-se prin trecere de timp, degeneraseră: unul, în o pereche de mustăți cu ochelari după ureche, iar altul, în o umbrelă cari împreună cu un _sol diez_ ce îi mai rămase, dădură lui Fuchs forma precisă, alegorică și definitivă…
 
-Mai tîrziu, la pubertate - zice-se-îi mai crescu lui Fuchs și un fel de organe genitale cari erau numai o tînără și exuberantă frunză de viță căci era din firea lui afară din cale de rușinos și nu ar fi permis, în ruptul capului, decât cel mult o frunză sau o floare…
+Mai tîrziu, la pubertate — zice-se — îi mai crescu lui Fuchs și un fel de organe genitale cari erau numai o tînără și exuberantă frunză de viță căci era din firea lui afară din cale de rușinos și nu ar fi permis, în ruptul capului, decât cel mult o frunză sau o floare…
 
-Această frunză îi mai servește și ca hrană cotidiană se crede. Artistul o absoarbe în fiecare seară înainte de culcare, apoi intră liniștit în fundul umbrelei sale și, după ce se încuie bine cu două chei muzicale, adoarme dus pe portative și legănat pe aripi de armonii angelice, acaparat de visuri auzite pînă a doua zi, cînd - rușinos cum este — nu iese din umbrelă pînă nu i-a crescut altă frunză în loc.
+Această frunză îi mai servește și ca hrană cotidiană se crede. Artistul o absoarbe în fiecare seară înainte de culcare, apoi intră liniștit în fundul umbrelei sale și, după ce se încuie bine cu două chei muzicale, adoarme dus pe portative și legănat pe aripi de armonii angelice, acaparat de visuri auzite pînă a doua zi, cînd — rușinos cum este — nu iese din umbrelă pînă nu i-a crescut altă frunză în loc.
 
 ### II
 
 Într’una din zile Fuchs, dîndu-și umbrela la reparat, fu silit să-și petreacă noaptea sub cerul liber.
 
-Farmecul misterios al nopții cu armoniile sale, cu acele șoapte, pare-că venite din altă lume, cari dau visarea și melancolia, îl impresionară pe Fuchs într’atîta încît - în extaz- după ce pedală trei ore la piano, fără însă a cînta, de teamă a nu turbura liniștea nopții, ajunse, grație acestui mijloc bizar de locomoțiune pînă în un cartier întunecos, în spre care, fără voia lui, o putere tainică îl atrăgea--gurile rele spun că în chiar acea stradă celebră pe care bunul împărat _Traian_, după consiliul tatălui său _Nerva_, a indicat-o naivului păstor Bucur să o așeze cea dintîi, cînd a întemeiat orașul ce îi poartă numele…
+Farmecul misterios al nopții cu armoniile sale, cu acele șoapte, pare-că venite din altă lume, cari dau visarea și melancolia, îl impresionară pe Fuchs într’atîta încît — în extaz — după ce pedală trei ore la piano, fără însă a cînta, de teamă a nu turbura liniștea nopții, ajunse, grație acestui mijloc bizar de locomoțiune pînă în un cartier întunecos, în spre care, fără voia lui, o putere tainică îl atrăgea — gurile rele spun că în chiar acea stradă celebră pe care bunul împărat _Traian_, după consiliul tatălui său _Nerva_, a indicat-o naivului păstor Bucur să o așeze cea dintîi, cînd a întemeiat orașul ce îi poartă numele…
 
 Deodată mai multe slujitoare terestre ale Venerei, servitoare umile la altarul amorului, îmbrăcate în alb-străveziu, cu buzele încarminate și ochii umbriți, înconjurară pe Fuchs din toate părțile. Era o superbă noapte de vară. Împrejur cîntece și veselie, șoapte dulci și armonie… Vestalele plăcerii îl primiră pe artist cu flori, cu șervete artistic brodate și cu interesante ibrice și lighene antice de bronz pline cu apă aromatizată. Toate strigau, care mai de care: „Dragă Fuchs, dă-mi dragostea ta imaterială!” „O, Fuchs, tu ești singurul care știi să ne iubești curat!”; iar parcă mînate de unul și acelaș gînd terminară în cor: „Dragă Fuchs, cîntă o sonată!”…
 
@@ -261,7 +265,7 @@ La ora fixată, „Cele trei grații” apărură…
 
 Ele luară pe Fuchs și-l purtară ușor pe brațe moi și voluptoase, pînă la capătul unei scări de mătasă, făcută din portative, scară ce fusese agățată de balconul Olympului, unde Venera îl aștepia…
 
-Întîmplarea făcu însă ca Vulcan-Ephaistos să prindă de veste și, gelos, o ploaie puternică făcu el să se deslăntuie atunci, ca răzbunare, prin mijlocirea lui Zeus…
+Întîmplarea făcu însă ca Vulcan—Ephaistos să prindă de veste și, gelos, o ploaie puternică făcu el să se deslăntuie atunci, ca răzbunare, prin mijlocirea lui Zeus…
 
 Fuchs, deși cu umbrela la reparat, nu se dădu însă învins știind să umble foarte ușor cu portativele și ajutat de aripele puternice ale inspirației lui de compozitor, el se înălță tot mai sus, bravînd elementele naturii. În sfîrșit ajunse plouat în Olymp. Aphrodita îl primi ca pe un erou. Ea îl îmbrățișă, îl sărută cu patimă și apoi îl trimise la o uscătorie de prune sistematică.
 
@@ -271,21 +275,21 @@ Fuchs fu introdus noaptea în alcov. Împrejur numai cîntece și flori. Gratiil
 
 Peste putin „cele nouă muze” apărură. Prin glasul melodios al Euterpei grăiră ele astfel lui Fuchs de întîmpinare:
 
-„Fii bine venit, o muritor ales, tu, care prin arta-ti divină apropii pe oameni de Zei! Venus te așteaptă! Facă Jupiter ca arta și amorul tău să fie demne de Zeita-stăpîna noastră, și facă el ca o nouă și superioară seminție să zămislească din iubirea ce vă unește, seminție care va să populeze de acum nu numai pămîntul ce nu e în stare să aspire decît la Olymp, ci și Olympul — ca și pămîntul supus, vai, decadentei!…
+„Fii bine venit, o muritor ales, tu, care prin arta-ți divină apropii pe oameni de Zei! Venus te așteaptă! Facă Jupiter ca arta și amorul tău să fie demne de Zeița-stăpîna noastră, și facă el ca o nouă și superioară seminție să zămislească din iubirea ce vă unește, seminție care va să populeze de acum nu numai pămîntul ce nu e în stare să aspire decît la Olymp, ci și Olympul — ca și pămîntul supus, vai, decadentei!…
 
 Ziseră, și corurile de amorași nevăzuți intonară iarăși slavă iubirii, iar aiezii Olympului înstrumentîndu-și lyrele preamăriră în versuri momentul nemuritor.
 
 Dar nu trecu mult și totul reintră în tăcere… Împrejur numai era nimeni… O semiobscuritate albăstruie se făcu în alcov. Venus era goală. Albă cu mîinile după cap împreunate sub păru-i de aur despletit cu un gest de delicioasă abandonare și de supremă voluptate își întinse superbu-i corp de lapte pe patul de perne moi și de flori. În aier, căldură și arome atîțătoare. Fuchs de rușine și de teamă ar fi vrut să intre undeva într’o crăpătură. Cum însă așa ceva nu există în Olymp, se văzu nevoit să-și facă singur curaj.
 
-Parcă ar fi vrut să alerge întîi puțin prin cameră, dar Aphrodita cu mîna ei fină, cu degetele de trandafiri parfumați, îl scoase din încurcătură… Ea îl culese ușor de jos, îl mîngîie, îl ridică de două-trei ori pînă în tavan și privindu-l lung îl sărută odată cu patimă. Apoi îl mai mîngîie, îl mai sărută de o mie de ori și îl așeză ușor între sîni…
+Parcă ar fi vrut să alerge întîi puțin prin cameră, dar Aphrodita cu mîna ei fină, cu degetele de trandafiri parfumați, îl scoase din încurcătură… Ea îl culese ușor de jos, îl mîngîie, îl ridică de două—trei ori pînă în tavan și privindu-l lung îl sărută odată cu patimă. Apoi îl mai mîngîie, îl mai sărută de o mie de ori și îl așeză ușor între sîni…
 
-Fuchs începu să tremure de bucurie și de teamă ar fi voit să sară jos undeva ca un purece. Cum însă acei sîni calzi și parfumați îl amețise și îl zăpăcise, începu să alerge ca un mormoloc ieșit din minți în toate părțile, circulînd în zig-zag pe corpul Zeiței, iute și nervos, trecînd nebun peste vîrfurile roze ale sînilor, peste șoldurile mătăsoase, strecurîndu-se printre pulpele-i ronde și arzătoare…
+Fuchs începu să tremure de bucurie și de teamă ar fi voit să sară jos undeva ca un purece. Cum însă acei sîni calzi și parfumați îl amețise și îl zăpăcise, începu să alerge ca un mormoloc ieșit din minți în toate părțile, circulînd în zig—zag pe corpul Zeiței, iute și nervos, trecînd nebun peste vîrfurile roze ale sînilor, peste șoldurile mătăsoase, strecurîndu-se printre pulpele-i ronde și arzătoare…
 
 Fuchs numai era de recunoscut. Ochelarii lui aruncau acum luciri perverse, mustățile îi deveniră lubrice și libidinoase. Trecu astfel o bună bucată vreme, dar artistul nu știa, în definitiv, oarecum ce îi mai rămîne de făcut, și nici Zeița nu ar mai fi putut să aștepte mult.
 
 Auzise el cîndva, undeva, că: „În dragoste, spre deosebire de muzică, totul sfîrșește printr’o _uvertură_”. Ei bine, Fuchs nu o găsia, nu… o auzia nicăieri…
 
-De odată îi veni o ideie. Își zise că precum _Uvertura_ ca muzică nu se poate raporta decît numai la ureche și cum urechea este cea mai nobilă _Uvertură_ a corpului (din cele pe cari le cunoștea Fuchs) — organul muzicii divine și prin care el apărînd pe lume, văzuse întîia oară lumina zilei - atunci bucuria supremă nu poate fi căutată decît în ureche…
+De odată îi veni o ideie. Își zise că precum _Uvertura_ ca muzică nu se poate raporta decît numai la ureche și cum urechea este cea mai nobilă _Uvertură_ a corpului (din cele pe cari le cunoștea Fuchs) — organul muzicii divine și prin care el apărînd pe lume, văzuse întîia oară lumina zilei — atunci bucuria supremă nu poate fi căutată decît în ureche…
 
 Fuchs acum înviorat se reculese, se încordă și de pe virful picioarelor Zeiței, cu o frenezie de nespus se repezi printr’un „sforzando” și pătrunse în găurica lobulului urechii drepte a Zeiței, pe unde ea deobiceiu își introducea cerceii, dispărînd înăuntru cu totul.
 
@@ -293,7 +297,7 @@ Din nou corurile de amorași nevăzuți și de muze intonară în depărtare cî
 
 Dar după aproape o oră de ședere, în care timp își verifică frunza de viță și schițase o romanță pentru piano, Fuchs apăru în sfîrșit pe lobulul urechii îmbrăcat în frac și cravată albă, satisfăcut și radios, mulțumind și complimentînd în dreapta și în stînga mulțimea care îl așteptase înfrigurată, întocmai cum știa să facă pe pămînt cînd da cîte un concert de gală. El înaintă și oferi grațios Venerei romanta dedicată.
 
-Dar cu surprindere și amărăciune constată artistul că nici un aplauz nu sosia de nicăieri. În adevăr, toți locatarii Olympului se priveau nedumeriți. Zeița întîi mirată, apoi contrariată și grav ofensată, văzînd că Fuchs își considera misiunea sa ca definitiv terminată ea care nu primise vreodată nici dela Zei un asemenea afront-se sculă brusc în picioare și roșie ca floarea macului, înciudată, scutură odată capul cu grație dar cu putere, făcînd pe Fuchs să cadă la pămînt.
+Dar cu surprindere și amărăciune constată artistul că nici un aplauz nu sosia de nicăieri. În adevăr, toți locatarii Olympului se priveau nedumeriți. Zeița întîi mirată, apoi contrariată și grav ofensată, văzînd că Fuchs își considera misiunea sa ca definitiv terminată ea care nu primise vreodată nici dela Zei un asemenea afront — se sculă brusc în picioare și roșie ca floarea macului, înciudată, scutură odată capul cu grație dar cu putere, făcînd pe Fuchs să cadă la pămînt.
 
 Deodată, ca la un semn nevăzut, tot Olympul fu în picioare… O ploaie de strigăte și amenințări din toate părțile. Toți turbau de ofensa adusă Olympului de către un muritor nedibaciu… O mînă viguroasă din ordinul lui Apollon și Marte îi smulse lui Fuchs frunza de viță, anexîndu-i în loc obiectele la cari avea dreptul. Ordin sever fu dat ca pe viitor frunza să nu fie acordată decît numai la statui… iar o mînă grațioasă, însăși mîna de trandafiri a Zeiței, îl luă pe artist ușor de o ureche și cu un gest nobil, dar energic îl asvîrli în Haos.
 
@@ -331,7 +335,7 @@ De acolo muzica se radiază cu egală putere în toate direcțiunile făcînd as
 
 ## Cronicari
 
-Fabulă
+_Fabulă_
 
 Cică niște cronicari<br/>
 Duceau lipsă de șalvari.<br/>
@@ -339,10 +343,10 @@ Duceau lipsă de șalvari.<br/>
 Să le dea un pașaport.<br/>
 Rapaport cel drăgălaș<br/>
 Juca un carambolaj,<br/>
-Neștiind că — Aristotel<br/>
+Neștiind că–Aristotel<br/>
 Nu văzuse ostropel.<br/>
 „Galileu! O, Galileu!”<br/>
-Strigă el atunci mereu –<br/>
+Strigă el atunci mereu —<br/>
 „Nu mai trage de urechi<br/>
 Ale tale ghete vechi”.<br/>
 Galileu scoate-o sinteză<br/>
@@ -353,3 +357,11 @@ Servește-te de cartof!”
 ### Morala
 
 Pelicanul sau babița.
+
+---
+
+S’a terminat de cules pentru Editura „Unu” în două zeci și opt Octombrie una mie nouă sute trei zeci în Atelierele Grafice Steaua Artei din București B—dul Maria doi.
+
+---
+
+__Această ediție__ a fost realizată după Urmuz, _Urmuz_, București, 1930. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.

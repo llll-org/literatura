@@ -1,0 +1,43 @@
+.book {
+	margin-bottom: 3rem;
+}
+
+.book .separator {
+	text-align: center;
+	margin: 1rem 0;
+}
+
+.book hr {
+	border: none;
+	height: 0.25em;
+	width: 50%;
+	margin: 2rem auto;
+	background: rgba(0,0,0,0.1);
+}
+
+.book p {
+	margin: 0;
+	text-indent: 1rem;
+}
+
+.book h1, .book h2, .book h3, .book h4, .book h5, .book h6 {
+	/*text-align: center;*/
+	text-indent: 1rem;
+}
+
+.book p:empty:after {
+	content: '\00a0';
+}
+
+.book blockquote {
+	font-style: italic;
+	margin: 1rem;
+}
+
+.book blockquote p:only-of-type {
+	text-indent: 0;
+}
+
+.book blockquote em {
+	font-style: normal;
+}

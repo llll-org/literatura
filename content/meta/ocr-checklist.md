@@ -1,4 +1,7 @@
-# Checklist pentru OCR
+---
+titlu: Checklist pentru OCR
+layout: layouts/basic.njk
+---
 
 Pentru documentele în limba română.
 

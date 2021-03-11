@@ -1,10 +1,8 @@
 ---
-autor: Ștefan Florescu
 titlu: Dicționar analogic
+autor: Ștefan Florescu
 an: 1938
 ---
-
-# Dicționar analogic
 
 La sfârșitul grupului fiecărui cuvânt central urmează, după litera __v.__, cuvintele centrale antonime acestuia, sau de un înțeles contrariu, mai larg.
 
@@ -570,199 +568,126 @@ __v.__ ignoranță, insensibil, licență, a rătăci
 
 advers, antipod, invers, mutual, opus, potrivnic, reciproc, recurent, reflex, retroactiv, retrograd, retrospectiv, reversibil
 
-a alunga
-
-§§----------------------------------------------------------------------
-
-36
-
-- 37
-
-a tachina, a tăgădui
-
-contradicțiune, dezacord, jalbă, neînțelegere, nepotrivire, rezerve
-
-a anula, a combate, a contramanda, a contrazice, a desființa, a destitui, a goni, a impinge, a se împotrivi, a înlătura, a isgoni, a răspunde, a reacționa, a replica, a respinge, a retrimite, a retroceda, a revoca
-
-__v.__ aprobare
-
-ascultare, a colabora
-
-cronologic, jubiliar, nou, perioadă caldeeană, perioadă dionisiană, perioadă victoriană, periodic, preistoric, prezent, primitiv, proaspăt, recent, secular, simultan, străvechiu, timpuri biblice, timpuri mitologice, timpuri omerice
-
-a călca, a capta, a contraveni, a denatura, a destrăbăla, a executa, a doborî, a falșifica, a greși, a măslui, a omorî, a otrăvi, a perverti, a precugeta, a premedita, a pungăși, a sechestra, a silui, a sparge, a stoarce, a strica, a tăinui, a trișa, a ucide, a viola
-
-#### conversiune
+a alunga, a anula, a combate, a contramanda, a contrazice, a desființa, a destitui, a goni, a impinge, a se împotrivi, a înlătura, a isgoni, a răspunde, a reacționa, a replica, a respinge, a retrimite, a retroceda, a revoca
 
 concurent, conflict, reacțiune, reflux, repercusiune, repulsiune, reversiune, reviriment
 
-derbedeu, desfrânat, destrăbălat, dezordonat, execrabil, falș, fioros, grav, groaznic, grozav, incendiar, incorect, infam, infamant, iremisibil, mârșav, monstruos, nebun, necinstit, neglijent, de neiertat, nemernic, nerușinat, nesocotit, nevrednic, odios, oribil, otrăvitor, păcătos, pervers, potlogar, prevaricator, pungas, rău, samovolnic, scandalos, scârbos, scelerat, secătură, simoniac, slab, smintit, strengar, ticălos, ucigător, vagabond, vinovat, zăpăcit
-
-a abjura, a converti, a se lepăda, a părăsi, a preschimba, a renega, a tăgădui
-
-exces, excroc, fără de lege, flagrant-delict, fratricid, furt, furtișag, gașcă, hot, impostor, înaltă trădare, infractor, lepădătură, lèse-majestate, năzbâtie, nelegiuire, nereguli, omucidere, orgie, păcat, paricid, pirat, pleavă, potlogar, prevaricator, pruncucidere, rătăcire, rău făcător, recidivist, sacrilegiu, șantajist, "șarlatan, sfeterisire, simonie, snapan, tâlhar, ucigaș
-
-a antidata, a data, a postdata
-
-apostat, apostazie, neofit, prozelit, renunțare, retractare
-
-__v.__ favoare
-
-îndatoritor
+__v.__ favoare, îndatoritor
 
 #### a contrazice
 
-anale, anacronism, aniversare, cronică, cronometrie, eră, epocă, interregn, jubileu, milezim, scadență, termen
+a combate, a contesta, a exclude, a se împotrivi, a necăji, a nega, a obiecta, a observa, a opina, a opune, a pârî, a preîntâmpina, a prigoni, a protesta, a reclama, a nu recunoaște, a reproșa, a șicana,a tachina, a tăgădui
+
+contradicțiune, dezacord, jalbă, neînțelegere, nepotrivire, rezerve
+
+__v.__ aprobare, ascultare, a colabora
+
+#### conversiune
+
+a abjura, a converti, a se lepăda, a părăsi, a preschimba, a renega, a tăgădui
+
+apostat, apostazie, neofit, prozelit, renunțare, retractare
 
 __v.__ statornic
 
 #### crimă
 
-#### cruzime
+abominabil, bandit, blamabil, blestemat, brigand, canalie, capital, certat cu justiția, complice, criminal, crud, crunt, culpabil, cumplit, delictuos, delicvent, derbedeu, desfrânat, destrăbălat, dezordonat, execrabil, falș, fioros, grav, groaznic, grozav, incendiar, incorect, infam, infamant, iremisibil, mârșav, monstruos, nebun, necinstit, neglijent, de neiertat, nemernic, nerușinat, nesocotit, nevrednic, odios, oribil, otrăvitor, păcătos, pervers, potlogar, prevaricator, pungas, rău, samovolnic, scandalos, scârbos, scelerat, secătură, simoniac, slab, smintit, strengar, ticălos, ucigător, vagabond, vinovat, zăpăcit
 
-a combate, a contesta, a exclude, a se împotrivi, a necăji, a nega, a obiecta, a observa, a opina, a opune, a pârî, a preîntâmpina, a prigoni, a protesta, a reclama, a nu recunoaște, a reproșa, a șicana
+a asasina, a atenta, a călca, a capta, a contraveni, a denatura, a destrăbăla, a executa, a doborî, a falșifica, a greși, a măslui, a omorî, a otrăvi, a perverti, a precugeta, a premedita, a pungăși, a sechestra, a silui, a sparge, a stoarce, a strica, a tăinui, a trișa, a ucide, a viola
 
-abominabil, bandit, blamabil, blestemat, brigand, canalie, capital, certat cu justiția, complice, criminal, crud, crunt, culpabil, cumplit, delictuos, delicvent
+abuz de încredere, adulter, atentator, bandit, brigand, boroboață, canalie, cazier judiciar, circumstanțe atenuante, clică, complice, concusiune, conivență, contrabandă, contrabandist, contravenient, contravenție, corp delict, delicvent, desfrâu, dol, efracție, escapadă, exacțiune, exces, excroc, fără de lege, flagrant-delict, fratricid, furt, furtișag, gașcă, hot, impostor, înaltă trădare, infractor, lepădătură, lèse-majestate, năzbâtie, nelegiuire, nereguli, omucidere, orgie, păcat, paricid, pirat, pleavă, potlogar, prevaricator, pruncucidere, rătăcire, rău făcător, recidivist, sacrilegiu, șantajist, "șarlatan, sfeterisire, simonie, snapan, tâlhar, ucigaș
 
-abuz de încredere, adulter, atentator, bandit, brigand, boroboață, canalie, cazier judiciar, circumstanțe ate-
-
-nuante, clică, complice, concusiune, conivență, contrabandă, contrabandist, contravenient, contravenție, corp delict, delicvent, desfrâu, dol, efracție, escapadă, exacțiune
-
-__v.__ milă
-
-nevinovat, onest, permis, a proteja, slab
-
-absolut, acerb, aspru, atroce, barbar, brutal, crâncen, crud, crunt, cumplit, denaturat, despot, fanatic
+__v.__ milă, nevinovat, onest, permis, a proteja, slab
 
 #### cronologie
 
-a asasina, a atenta
+actual, antic, antidiluvian, contemporan, cronologic, jubiliar, nou, perioadă caldeeană, perioadă dionisiană, perioadă victoriană, periodic, preistoric, prezent, primitiv, proaspăt, recent, secular, simultan, străvechiu, timpuri biblice, timpuri mitologice, timpuri omerice
 
-actual, antic, antidiluvian, contemporan
+a antidata, a data, a postdata
 
-§§----------------------------------------------------------------------
+anale, anacronism, aniversare, cronică, cronometrie, eră, epocă, interregn, jubileu, milezim, scadență, termen
 
-- 38 -
+#### cruzime
 
-39
+absolut, acerb, aspru, atroce, barbar, brutal, crâncen, crud, crunt, cumplit, denaturat, despot, fanatic, feroce, furios, grozav, inexorabil, inflexibil, insensibil, intolerant, inuman, mojic, monstruos, neîmpăcat, neîndurat, nemilos, neomenos, nesimțitor, neuman, odios, rigid, riguros, sălbatec, sângeros, sec, seves, strașnic, surd, tăios, teapin, tiran, turbat, ulsuz, uscat, violent
 
-tigru
+a bruftului, a brutaliza, a căzni, a chinui, a jicni, a maltrata, a martiriza, a ocări, a schingiui, a teroriza, a tortura, a vexa
 
-don Quijote, bărbăție, forță, inimă, sânge rece
+bestie, călău, gâde, șacal, satrap, tigru
 
-#### dar
-
-__v.__ afabil
-
-bunătate, a ierta, a iubi, milă, remușcare
-
-neologic, oral, ortografic, pejorativ, technic, univoc, verbal
-
-sinonimie, solecisme, sufix, termen, terminologie, vocabular
+__v.__ afabil, bunătate, a ierta, a iubi, milă, remușcare
 
 #### curaj
 
-__v.__ disperare
+arzător, aventuros, bătăios, brav, cavaleresc, cutezător, fanfaron, fierbinte, hotărît, imprudent, încercat, închipuit, îndrăsnet, inimos, întrepid, marțial, nechibzuit, neîmblânzit, prezumțios, puternic, războinic, semet, svăpăiat, taro, temerar, valoros, viteaz, voinic
 
-a ezita, frică, slab, prudență, timid, tremurătură
+a clocoti, a cuteza, a desfide, a se incumeta, a îndrăzni, a înfrunta, a se îngâmfa, a se lăuda, a lupta
 
-### D
+ardoare, don Quijote, bărbăție, forță, inimă, sânge rece
 
-#### a da
-
-feroce, furios, grozav, inexorabil, inflexibil, insensibil, intolerant, inuman, mojic, monstruos, neîmpăcat, neîndurat, nemilos, neomenos, nesimțitor, neuman, odios, rigid, riguros, sălbatec, sângeros, sec, seves, strașnic, surd, tăios, teapin, tiran, turbat, ulsuz, uscat, violent
-
-a altera, a articula, a corupe, i denumi, a numi, a porecli, a se uzita, a vorbi, a zice
+__v.__ disperare, a ezita, frică, slab, prudență, timid, tremurătură
 
 #### curios
 
 anormal, ciudat, indiscret, insolit, rar
 
-arzător, aventuros, bătăios, brav, cavaleresc, cutezător, fanfaron, fierbinte, hotărît, imprudent, încercat, închipuit, îndrăsnet, inimos, întrepid, marțial, nechibzuit, neîmblânzit, prezumțios, puternic, războinic, semet, svăpăiat, taro, temerar, valoros, viteaz, voinic
-
 a ancheta, a căuta, a cerceta, a depista, a desgropa, a desmormânta, a explora, a învestiga, a mirosi, a pândi, a scormoni, a scotoci, a scruta
-
-binefăcător, binevoitor, darnic, generos, indatoritor, larg, mărinimos, risipitor, ajutor, amabilitate, amintire, asistență, avantaj, bacșiș, binefacere, cadou, cesiune, danie, donatar, donator, donație, filantrop, fraternitate, generozitate, liberalitate, milostenie, munificență, obol, politeță, pomană, prinos, subscripție, umanitate
-
-a abandona, a acorda, a ajuta, a atribui, d ceda, a conferi, a dărui, a decerne, a dispensa, a distribui, a ierta, a îmbuiba, a împărți, a oferi, a plăti, a preda, a procura
-
-remite, n remunera, a restitui, a retroceda, a risipi, a transmite, a transfera
-
-afereză, anagramă, antonim, antonomază, apocopă, arhaism, barbarisme, crază, dictionar, elipsă, eliziune, epenteză, etimologie, etimologist, expresiune, flexiune, glosar, gramatică, înteles, lexicon, monosilabe, neologisme, ononim, onomatopee, paronim, paronomază, pleonasm, prefix, rădăcină, radical, semnificație, sens, sinonim
-
-a bruftului, a brutaliza, a căzni, a chinui, a jicni, a maltrata, a martiriza, a ocări, a schingiui, a teroriza, a tortura, a vexa
-
-#### defect
 
 eclerori, inchizitor, pândar, spion
 
-__v.__ banal
-
-liniștit
-
-a clocoti, a cuteza, a desfide, a se incumeta, a îndrăzni, a înfrunta, a se îngâmfa, a se lăuda, a lupta
-
-alocare, atribuție, cesiune, concesiune, dar, generozitate, gratificație, remuneratie, subvenție, transfer
-
-absurd, abuziv, ambițios, avar, avortat, becisnic, betiv, brusc, brut, capricios, ciudat, copilăros, defectuos
+__v.__ banal, liniștit
 
 #### cuvânt
 
-bestie, călău, gâde, șacal, satrap
+declinabil, diminutiv, echivoc, invariabil, morfologic, neologic, oral, ortografic, pejorativ, technic, univoc, verbal
 
-declinabil, diminutiv, echivoc, invariabil, morfologic
+a altera, a articula, a corupe, i denumi, a numi, a porecli, a se uzita, a vorbi, a zice
 
-__v.__ avar
+afereză, anagramă, antonim, antonomază, apocopă, arhaism, barbarisme, crază, dictionar, elipsă, eliziune, epenteză, etimologie, etimologist, expresiune, flexiune, glosar, gramatică, înteles, lexicon, monosilabe, neologisme, ononim, onomatopee, paronim, paronomază, pleonasm, prefix, rădăcină, radical, semnificație, sens, sinonim, sinonimie, solecisme, sufix, termen, terminologie, vocabular
 
-avid, a cere
+### D
 
-ardoare
+#### a da
 
-§§----------------------------------------------------------------------
+a abandona, a acorda, a ajuta, a atribui, d ceda, a conferi, a dărui, a decerne, a dispensa, a distribui, a ierta, a îmbuiba, a împărți, a oferi, a plăti, a preda, a procura, a remite, a remunera, a restitui, a retroceda, a risipi, a transmite, a transfera
 
-40
+alocare, atribuție, cesiune, concesiune, dar, generozitate, gratificație, remuneratie, subvenție, transfer
 
-- 41
+__v.__ avar, avid, a cere
 
-orgolios, păcătos, pătat, pătimaș, periculos, pocit, posac, prefăcut, prezumțios, prost, ratat, rău, răutăcios, rudimentar, sălbatec, sensual, sgârcit, slut, stângaciu, stricat, trandav, trufaș, turbulent, ușuratic, urât, violent, viciat, vinovat, vitios
+#### dar
 
-natură, neorândueli, nerecunoștință, obiceiuri, piedică, pizmă, pornire, prihană, răutate, râvnă, silă, slăbiciune, șnapan, tendință, zeflemea
+binefăcător, binevoitor, darnic, generos, indatoritor, larg, mărinimos, risipitor, ajutor, amabilitate, amintire, asistență, avantaj, bacșiș, binefacere, cadou, cesiune, danie, donatar, donator, donație, filantrop, fraternitate, generozitate, liberalitate, milostenie, munificență, obol, politeță, pomană, prinos, subscripție, umanitate
 
-a desvolta, a forta, a făuri, a îndepărta, a înfige, a înlătura, a intra, a întredeschide, a lărgi, a libera, a pătrunde, a perfora, a râde, a rări, a răscrăcăra, a scăpa, a scoate, a sgâi, a spinteca, a străbate, a străpunge
+#### defect
+
+absurd, abuziv, ambițios, avar, avortat, becisnic, betiv, brusc, brut, capricios, ciudat, copilăros, defectuos, desfigurat, deteriorat, dezagreabil, diform, dobitoc, egoist, elementar, excesiv, fals, fățarnic, flecar, furios, greșit, grosolan, îmbuibat, imperfect, încăpățânat, închipuit, incomod, incorect, indiscret, inferior, ingrat, invidios, ipocrit, lacom, laș, lenes, lingușitor, mâncăcios, mândru, mediocru, mijlociu, mincinos, misel, moale, mojic, morocă nos, neastâmpărat, nebun, necinstit, necomplect, necuvincios, neînsemnat, neisprăvit, neizbutit, neplăcut, nepoliticos, nereușit, nerușinat, obraznic, orgolios, păcătos, pătat, pătimaș, periculos, pocit, posac, prefăcut, prezumțios, prost, ratat, rău, răutăcios, rudimentar, sălbatec, sensual, sgârcit, slut, stângaciu, stricat, trandav, trufaș, turbulent, ușuratic, urât, violent, viciat, vinovat, vițios
+
+abuz, apatie, apucături, bârfeală, batjocură, curiozitate, cusur, dâră, deșertăciune, dezavantaj, dispret, drăcovenie, exces, excroc, ezitare, iluzie, inconvenient, înșelăciune, insuficientă, lipsă, meteahnă, natură, neorândueli, nerecunoștință, obiceiuri, piedică, pizmă, pornire, prihană, răutate, râvnă, silă, slăbiciune, șnapan, tendință, zeflemea
 
 __v.__ calitate
 
-desfigurat, deteriorat, dezagreabil, diform, dobitoc, egoist, elementar, excesiv, fals, fățarnic, flecar, furios, greșit, grosolan, îmbuibat, imperfect, încăpățânat, închipuit, incomod, incorect, indiscret, inferior, ingrat, invidios, ipocrit, lacom, laș, lenes, lingușitor, mâncăcios, mândru, mediocru, mijlociu, mincinos, misel, moale, mojic, morocă nos, neastâmpărat, nebun, necinstit, necomplect, necuvincios, neînsemnat, neisprăvit, neizbutit, neplăcut, nepoliticos, nereușit, nerușinat, obraznic
-
-început, interstițiu, interval, làrgime, naștere, ochiu, orificiu, origine, pâlnie, pasaj, pervaz, peșteră, prag, preliminări, preludiu, premisă, principiu, răsuflătoare, sabord, șanț, separație, scobitură, spărtură, știrbitură, strecurătoare, stropitoare, supapă, tăetură, tunel, uvertură, văgăună, valvă, vedere, vrană, vid
-
-А
-
-#### deschide
+#### a deschide
 
 adevărat, cordial, drept, franc, initial, loial, sincer
 
-a descompune, a desființa, a deslega, a desmembra, a desprinde, a desrădăcina, a destitui, a devasta, a disloca, a distruge, a dizolva, a doborî, a elimina, a extirpa, a frânge, a împrăștia, a îndepărta, a infirma, a înlătura, a invalida, a izgoni, a jupui, a libera, a mânca, a mina, a mistui, a nimici, a oblitera, a prăpădi, a prăvăli, a prescrie, a pulveriza, a pustii, a rade, a răpune, a răsturna, a răzui, a reforma, a retracta, a revoca, a rezilia, a roade, a rupe, a scăpa, a scoate, a scotoci, a sfărâma, a separa, a sgâria, a sparge, a spulbera
+a căsca, a da cep, a degaja, a demasca, a desbrăca, a descătărăma, a descheia, a descoperi, a descopcia, a descuia, a descurca, a deșerta, a desface, a desfășa, a desfășura, a desgrădi, a deslega, a deslipi, a desnoda, a despacheta, a despica, a despuia, a destupa, a desvolta, a forța, a făuri, a îndepărta, a înfige, a înlătura, a intra, a întredeschide, a lărgi, a libera, a pătrunde, a perfora, a râde, a rări, a răscrăcăra, a scăpa, a scoate, a sgâi, a spinteca, a străbate, a străpunge
 
-abis, anus, arcadă, boltă, breșă, butonieră, cavernă, comunicație, coridor, crater, crenel, crestătură, culoar, debut, defileu, degajament, deschidere, eșire, excavație, fereastră, filtru, frântură, gaură, germen, golf, groapă, gură, îmbucătură, inaugurare
-
-abuz, apatie, apucături, bârfeală, batjocură, curiozitate, cusur, dâră, deșertăciune, dezavantaj, dispret, drăcovenie, exces, excroc, ezitare, iluzie, inconvenient, înșelăciune, insuficientă, lipsă, meteahna
+abis, anus, arcadă, boltă, breșă, butonieră, cavernă, comunicație, coridor, crater, crenel, crestătură, culoar, debut, defileu, degajament, deschidere, eșire, excavație, fereastră, filtru, frântură, gaură, germen, golf, groapă, gură, îmbucătură, inaugurare, început, interstițiu, interval, làrgime, naștere, ochiu, orificiu, origine, pâlnie, pasaj, pervaz, peșteră, prag, preliminări, preludiu, premisă, principiu, răsuflătoare, sabord, șanț, separație, scobitură, spărtură, știrbitură, strecurătoare, stropitoare, supapă, tăetură, tunel, uvertură, văgăună, valvă, vedere, vrană, vid
 
 #### a desface
 
-a căsca, a da cep, a degaja, a demasca, a desbrăca, a descătărăma, a descheia, a descoperi, a descopcia, a descuia, a descurca, a deșerta, a desface, a desfășa, a desfășura, a desgrădi, a deslega, a deslipi, a desnoda, a despacheta, a despica, a despuia, a destupa
+a aboli, a abroga, a anihila, a anula, a conjura, a consuma, a contramanda, a da afară, a dărâma, a decima, a dejuca, a àemasca, a deschide, a descompune, a desființa, a deslega, a desmembra, a desprinde, a desrădăcina, a destitui, a devasta, a disloca, a distruge, a dizolva, a doborî, a elimina, a extirpa, a frânge, a împrăștia, a îndepărta, a infirma, a înlătura, a invalida, a izgoni, a jupui, a libera, a mânca, a mina, a mistui, a nimici, a oblitera, a prăpădi, a prăvăli, a prescrie, a pulveriza, a pustii, a rade, a răpune, a răsturna, a răzui, a reforma, a retracta, a revoca, a rezilia, a roade, a rupe, a scăpa, a scoate, a scotoci, a sfărâma, a separa, a sgâria, a sparge, a spulbera, a stârpi, a șterge, a strica, a suprima, a zădărnici
 
-a aboli, a abroga, a anihila, a anula, a conjura
+__v.__ asociat, a împreuna, întreg, uniune
 
-consuma, a contramanda, a da afară, a dărâma, a decima, a dejuca, a àemasca, a deschide
+#### desfrâu
+
+ademenitor, adulter, cinic, corupt, depravat, desfrânat, desmătat, destrăbălat, dezonorat, dizolvant, imoral, impudic, indecent, libertin, licențios, neînfrânat, nerușinat, obscen, pervers, pervertit, pornografic, sensual, stricat, trupesc, voluptos
 
 §§----------------------------------------------------------------------
 
-42
-
-43
-
-a stârpi, a șterge, a strica, a suprima, a zădărnici
 
 necumpătare, orgie, petreceri, pușlama, seducător, strengar, vitiu
 
@@ -772,17 +697,12 @@ lecție, morală, pamflet, reclamatie, satiră, scenă, ură
 
 a uri
 
-__v.__ asociat
-
-a împreuna, întreg, uniune
-
 anorexie, aversiune, oroare, repulsiune, saturație, scârbă
 
 __v.__ auster
 
 îngrijit, înțelept, măsură, moderat, nevinovat, pocăință, pudoare, serios
 
-#### desfrâu
 
 __v.__ admirație
 
@@ -798,7 +718,6 @@ dorință, interesant, invidie, ispită, a luăda, neplăcut
 
 #### desmierdare
 
-ademenitor, adulter, cinic, corupt, depravat, desfrânat, desmătat, destrăbălat, dezonorat, dizolvant, imoral, impudic, indecent, libertin, licențios, neînfrânat, nerușinat, obscen, pervers, pervertit, pornografic, sensual, stricat, trupesc, voluptos
 
 anost, antipatic, arid, detestabil, dezagreabil, fad, fastidios, greoiu, gretos, greu, insipid, insuportabil, intolerabil, mârșav, monoton, mortal, neplăcut, nerod, nesărat, nesuferit, obositor, odios, respingător, searbåd, supărător, ucigător, urât, uscat
 
@@ -5401,7 +5320,9 @@ liniștit, stupefacție
 
 moderat
 
-prudență, __v.__ clar
+prudență, 
+
+__v.__ clar
 
 scrupul, ordine, precis
 

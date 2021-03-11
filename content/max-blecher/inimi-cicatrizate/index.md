@@ -1,13 +1,8 @@
-M. Blecher
-
-Inimi Cicatrizate
-
-Ediția II-a
-
-Editura Librăriei 
-„Universala” 
-Alcalay & Co. 
-București
+---
+titlu: Inimi cicatrizate
+autor: Max Blecher
+an: 1937
+---
 
 > „Quel terrible souvenir à affronter” — Kirkegaard
 
@@ -2943,7 +2938,7 @@ Cu o mișcare bruscă se ridică pe coate și apucă strâns un arc al coviltiru
 
 <hr>
 
-	Celina veni la vila „Elseneur” într’o după masă, aducând știri rele dela Isa.
+Celina veni la vila „Elseneur” într’o după masă, aducând știri rele dela Isa.
 
 Boala se agravase brusc în mod inexplicabil. Isa suferea de o afecțiune bizară de care se infectase în orientul îndepărtat. Tot piciorul drept îi era numai plăgi și fistule deschise. În zadar se făcuseră analize și tratamente de ani de zile; carnea continua să se macereze pe loc și singura soluție rămânea ca Isa să stea întinsă pe gutieră.
 
@@ -3318,3 +3313,7 @@ Infirmiera începuse a tricota în lumina slabă a becului.
 Emanuel rămase câteva minute inert, apoi se ridică în coate și privi afară pe fereastră.
 
 În depărtare, orașul, ca un vapor ce se scufundă, dispărea în întuneric. 
+
+---
+
+__Această ediție__ a fost realizată după M. Blecher, _Inimi Cicatrizate_, Ediția II-a, apărută la Editura Librăriei „Universala” Alcalay & Co., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.

@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Crimson Pro'), url('./PoppinsLatin-SemiBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Poppins';
+	font-style: italic;
+	font-weight: 600;
+	src: local('Poppins'), url('./PoppinsLatin-SemiBoldItalic.woff') format('woff');
+}

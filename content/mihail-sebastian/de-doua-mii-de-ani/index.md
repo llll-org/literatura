@@ -1,4 +1,8 @@
-# De două mii de ani
+---
+titlu: De două mii de ani
+autor: Mihail Sebastian
+an: 1934
+---
 
 <figure>
 	<blockquote lang='fr'>
@@ -25,13 +29,13 @@ Nu, nu cred să fi fost vreodată fricos, deși grecii de la grădina mare, care
 
 Știu însă ce e spaima. Asta da. Am fost terorizat până la încleștare, până la paralizie, de mici nimicuri pe lângă care toată lumea cealaltă trecea nesimțitoare, dar care în viața mea năvăliau cu mari dimensiuni, cu adânci presimțiri. Degeaba mă apropiam ziua de plopul de peste drum, degeaba îi pipăiam coaja neagră și rupeam cu unghia însângerată așchii din lemnul descoperit printre crăpături. „Nu e decât un plop”, îmi spuneam rezemat cu spatele de el, ca să-l simt aproape și să nu-l uit. Îl uitam totuși seara, când rămâneam singur în odaie, culcat ca totdeauna la ceasurile zece: din stradă se mai auziau pași de trecători, voci înăbușite, strigări rare. Pe urmă, liniștea urma cunoscută, după un ritm și cu o gradație pe care o știam. Cu un efort, ași isbuti poate și acum, să-mi amintesc cele trei-patru svâcniri interioare cu care începea noaptea mea, adevărate trepte ce mă coborau fizic în întuneric și în tăcere. Atunci umbra plopului mă regăsia încleștat, cu pumnii strânși, cu ochii deschiși mari, voind să strig și neștiind cum și după cine.
 
-⁂
+<p class='separator'>⁂</p>
 
 Curioasă descoperire eri la anticar. George Gissing: La rançon d’Eve. Volum de pe la 1900 cred. Nici un detaliu despre autor (englez probabil). Au fost patru ceasuri bune.
 
 După ce am terminat-o, m’am dus pe stradă să iau ziarele de seară. Au fost iar bătăi, la medicină mai ales și la noi. N’am fost nici azi. La ce?
 
-⁂
+<p class='separator'>⁂</p>
 
 M’a oprit pe stradă Marcel Winder, ca să-mi spună că iar l-au bătut.
 
@@ -41,7 +45,7 @@ M’a oprit pe stradă Marcel Winder, ca să-mi spună că iar l-au bătut.
 
 Winder își pierde vremea. A greșit coarda: n’am asemenea vanități.
 
-⁂
+<p class='separator'>⁂</p>
 
 Dintr’o scrisoare a mamei primită azi.
 
@@ -49,7 +53,7 @@ Dintr’o scrisoare a mamei primită azi.
 
 „Lasă pe alții să facă pe grozavii”. Dacă ar ști mama cum sună vorba asta.
 
-⁂
+<p class='separator'>⁂</p>
 
 Asta să fie tot? Am intrat dimineața la cursul de drept roman. Nu mi-a spus nimeni nimic. Am luat febril note, ca să nu fiu obligat să ridic capul deasupra pupitrului meu. Pela jumătatea cursului, un mototol de hârtie cade pe bancă, lângă mine. Nu o văd, nu o deschid. Cineva mă strigă tare pe nume, din spate. Nu întorc capul. Vecinul din stânga se uită la mine atent, fără un cuvânt. Nu pot suferi privirea asta fixă și ridic ochii.
 
@@ -61,7 +65,7 @@ Nu. Mă strecor din bancă și pășesc nesigur spre ușe între două șiruri d
 
 Sunt în stradă. Uite o femeie frumoasă. Uite o trăsură goală care trece. Totul e la locul cuvenit: o dimineață rece de Decembrie.
 
-⁂
+<p class='separator'>⁂</p>
 
 M’a căutat Winder să mă felicite pentru isprava de eri. Nu știu cine i-a povestit-o. Și mi-a lăsat un bilet ca să viu poimâine la cămin. Se organizează pentru fiecare facultate câte un grup. Băeții țin neapărat ca de 10 Decembrie să fie prezenți la cursuri. Chestiune de principiu, spune Winder.
 
@@ -69,7 +73,7 @@ M’a căutat Winder să mă felicite pentru isprava de eri. Nu știu cine i-a p
 
 Dar nu: uite-mă angajat într’o „chestiune de principiu”. Caraghios.
 
-⁂
+<p class='separator'>⁂</p>
 
 10 Decembrie. Să umblu drept, cu capul gol, în ploaie, orbește, înainte, să nu mă uit nici la dreapta, nici la stânga, nici înapoi, să nu strig, o, mai ales să nu strig, să las să treacă peste mine larma străzii, privirea oamenilor, ceasul ăsta, învălmășit. Așa. Dacă închid ochii, nu rămâne decât ploaia măruntă: îi simt picăturile mici pe obraz, șerpuind dinspre arcada ochiului spre nară și căzând de acolo brusc pe buze. Dece nu știu, dece nu pot trăi adânca, neînfiorata liniște a unui cal, ducând după el o căruță goală, în noroi, sub furtună?
 
@@ -79,7 +83,7 @@ Sunt un om bătut și lumea nu stă în loc pentru atâta lucru. Banca Italo-Rom
 
 Dacă plâng, sunt pierdut. Îmi mai rămâne atâta cunoștință de mine însumi, ca să știu lucrul ăsta. Dacă plâng, sunt pierdut. Strânge pumnii, dobitocule, dacă e indispensabil, crede-te un erou, roagă-te lui Dumnezeu, spune-ți că ești fiul unui neam de martiri, da, da, spune-ți asta, dă-te cu capul de pereți, dar dacă vrei să te mai poți privi în ochi și dacă vrei să nu-ți crape obrazul de rușine, nu plânge. Îți cer atâta: nu plânge.
 
-⁂
+<p class='separator'>⁂</p>
 
 Dacă ași ști că asta rezolvă ceva, ași rupe pagina scrisă alaltăeri. Încă o asemenea isbucnire patetică — și renunț la jurnal. Întrebarea este dacă pot să înțeleg liniștit, critic, ceeace se întâmplă acum cu mine și cu ceilalți. Încolo…
 
@@ -91,7 +95,7 @@ Eri, pe peron, când am coborât din tren, sub becurile slabe din gară, mi s’
 
 Emoția ei… „Ai toate pachetele? N’ai uitat nimic în tren? Încheie-te bine la gât. Numai de am găsi trăsură…” Vorbește mult, grăbită, despre atâtea lucruri mărunte și nu-și șterge lacrima din gene, de teama să n’o văd eu.
 
-⁂
+<p class='separator'>⁂</p>
 
 Întâie plimbare în oraș. Trecere triumfală pe Strada Mare, între două șiruri de negustori ovrei, care mă salută zgomotos, fiecare din pragul prăvăliei respective, cu un ascuns semn de înțelegere.
 
@@ -117,7 +121,7 @@ La bărbier, patronul reclamă pentru el onoarea de a-mi tăia părul și mă î
 
 Omul e contrariat. Mă tunde în silă, fără entuziasm.
 
-⁂
+<p class='separator'>⁂</p>
 
 Seară de familie. S’a întors vara mea Viky cu bărbatul ei din voiajul de nuntă. Se pare că e însărcinată. Un unchiu se amuză de întâmplare.
 
@@ -135,7 +139,7 @@ S’ar fi putut să fiu ca ei toți, un negustor gras, însurat, mulțumit, juc�
 
 Uneori, mă întreb cu spaimă dacă evadarea mea dintre ei este întreagă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am rugat-o pe mama să stăm acasă. Ea lucrează, eu citesc. Mă uit uneori peste carte, să o văd frumoasă, calmă, cu fruntea cea mai liniștită pe care o cunosc, cu ochii puțin obosiți de vârstă. 43? 44? Mi-e frică s’o întreb.
 
@@ -157,7 +161,7 @@ Nu răspunde nimic. Trec de partea cealaltă a mesei, îi iau mâna dreaptă în
 
 Ar fi trebuit să bănuesc mai de mult. Lucrurile au mers prost acasă. Nu mai sunt bani. I-am spus că de aici încolo două mii pe lună au să-mi ajungă. O să stau la cămin. E bine și acolo, e cald, e curat, e comod. (Nu pare să mă creadă — și îi vorbesc repede, mirat și eu de calitățile, pe care le descopăr de odată barăcii ăleia din Văcărești).
 
-⁂
+<p class='separator'>⁂</p>
 
 O aud cum respiră dincolo în odaia ei. Știu bine că nu doarme și că răsuflarea asta intenționat ritmată de om adormit, e făcută să mă înșele pe mine și să mă liniștească.
 
@@ -167,7 +171,7 @@ Ce copilărie, de care ar trebui să-mi fie rușine și nu-mi este. La vârsta m
 
 Voluptatea de a fi singur într’o lume, care te crede al ei. Nu orgoliu. Nici timiditate măcar. Ci fireasca, simpla, involuntara rămânere a ta, în tine. Uneori ași vrea să mă pot depărta de mine fizic și să mă pot privi dintr’un colț al odăii, cum vorbesc, cum mă agit, cum sunt vesel, cum sunt trist, știind că nu sunt nimic din toate acestea. Dublu joc? Nu. Altceva, altceva.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am mâncat la cantină între un rus care mirosia urât și vorbia tare și o fată slabă, cu mâinile jupuite și cu buzele prost vopsite. Ciment pe jos, frig, paltonul aruncat peste umeri, farfuria de metal zmălțuit înainte, furculița de cositor căzută pe jos.
 
@@ -177,17 +181,17 @@ Suntem, cu mine, 11 băeți în odaie. Sadigurski Liowa, vecinul meu din dreapta
 
 Spre dimineață, când se întâmplă să mă trezesc, îmi place să ascult în camera asta lungă și rece, răsuflarea polifonică a ăstor zece oameni, care mă înconjoară; respirația răstită a politechnicianului de lângă ușe, șuerul de flaut al vecinului lui, oftarea lui Liowa, zumzetul de bărzăune pe care îl face nu știu cine mai spre fund, la fereastră și deasupra tuturora, greu, zoologic, stăpânitor, sforăitul lui Ianchelevici Șapsă, uriașul.
 
-⁂
+<p class='separator'>⁂</p>
 
 Îi văd cum se întorc seara dela facultate, răsleți, unul către unul, obosiți. Și își numără fiecare bătăile, cu îndârjire, ca pe niște puncte de biliard, nu cumva să pună adversarul două mai mult.
 
 Marcel Winder e la a cincisprezecea. Alaltăeri, i s’a rupt și pălăria, ceeace îl face cu totul superior pe drumul martirajului. Își indică, tare, în mijlocul curții, locul loviturilor. Aici și aici și aici…
 
-⁂
+<p class='separator'>⁂</p>
 
 I-au scos azi salteaua lui Ianchelevici Șapsă. N’a plătit taxa de trei luni și se iau măsuri. El privia liniștit, rezemat de perete, fără să protesteze. Seara s’a trântit pe scândurile patului, cu o înjurătură bună. I-am aruncat una din pernele mele, ca să și-o pună la căpătâiu. Mi-a svârlit-o înapoi, înalt de era să spargă lampa și s’a întors cu fața la perete.
 
-⁂
+<p class='separator'>⁂</p>
 
 A fost o zi grea. Se hotărâse să intrăm neapărat la civil, unde era vorba să se marcheze frecvența. Până acum, nu ne-am dus decât izolați, în grupuri de cel mult trei. Asta evită încăerările mari, dar nu servește la nimic, pentrucă de obicei ne identifică pe toți și ne dau afară.
 
@@ -197,7 +201,7 @@ E o strategie greșită, cred, dar n’am s’o spun băeților, prea excitați 
 
 Seara, Marcel Winder a făcut lista celor bătuți, ca s’o dea la gazetă. I-am spus să mă șteargă: nu cred să fi primit mai mult de două palme și mai ales nu e nevoie să afle mama.
 
-⁂
+<p class='separator'>⁂</p>
 
 Front calm. Se creează poate un stil al adversității.
 
@@ -209,7 +213,7 @@ M’au înconjurat trei și așteaptă. Scot carnetul și îl întind celui care
 
 Îmi indică drumul.
 
-⁂
+<p class='separator'>⁂</p>
 
 L-au bătut foarte rău pe Leibovici Isidor. Iar. Eu n’am fost de față, dar mi-a povestit Marga Stern, care fusese acolo. E predestinat băiatul ăsta.
 
@@ -233,7 +237,7 @@ Se întoarce pe călcâie și pleacă îmbufnat, cu capul îndesat între umeri.
 
 Mi-am pierdut în învălmășeală sau mi s’au luat mănușile. Și e un ger… Ce mizerie.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu, nu sunt un tip tare. Unde sunt jurămintele pe cari mi la făceam cu doi ani în urmă, pe coperta abia închisă a lui Zaratustra? Dece am umblat eri noaptea pe stradă, singur, într’aiurea, nenorocit că nu pot plânge și înspăimântat în acelaș moment de gândul că s’ar putea totuși? Dece seara, când îmi pun capul pe pernă, mă înduioșează oboseala acestei aplecări, ca pe o piatră de drum până la care am fost fugărit?
 
@@ -245,7 +249,7 @@ Ceeace mă dezolează mai ales este senzația de a pierde pe fiecare zi siguran�
 
 Ascultă, Marcel Winder, dacă mă mai bați o singură dată pe umăr, te pleznesc. Treaba mea dacă sunt lovit, treaba ta dacă ți se sparge capul, n’am nimic de împărțit cu tine, n’ai nimic de aflat dela mine, vezi-ți de drum și am să-mi văd de al meu.
 
-⁂
+<p class='separator'>⁂</p>
 
 De trei zile nu se mai face foc. S’au terminat lemnele și se așteaptă o subvenție promisă.
 
@@ -261,7 +265,7 @@ Un estet. Asta sunt. „Decență, discreție, singurătate” — valori de ci
 
 Nebărbierit de patru zile. E prea frig ca să stau un sfert de ceas în fața oglinzii.
 
-⁂
+<p class='separator'>⁂</p>
 
 A fost azi o cursă, care putea să sfârșească rău. Coboram dela administrativ, unde mă dusesem să mă încălzesc și eram la doi pași de ușe, când mi-a eșit înainte Ștefăniu. Nu mă observase. Abea acum îmi dau seama că el nu mă observase. Dar m’am avut atunci destul calm ca să înțeleg asta și am făcut prostia de a mă întoarce ca să-l ocolesc și în momentul acela m’a văzut. Nu m’a ajuns decât cu bastonul (o lovitură bună pe umărul stâng). Am fugit pe lângă el, deși astfel riscam să atrag atenția altora și am luat-o la stânga pe culoar. El după mine. Am trecut prin galeria de sus spre senat, socotind să mă opresc în cancelarie. N’am găsit însă cheia în ușe și s’o țin cu umărul n’ași fi putut până la urmă. Noroc că era deschisă ușa ce dă spre scara senatului. Odată ieșit în stradă, bănuiam că n’are să mă mai urmărească. Într’adevăr.
 
@@ -292,7 +296,7 @@ E o melodie pe care am mai auzit-o undeva, de mult. Acasă poate, pe vremea buni
 
 Cântă, Ianchelevici Șapsă. Tu ești un băiat mare de 25 de ani, care n’ai cetit în viața ta o carte, care ai trecut prin lume dumirit de tot ce se întâmplă și liniștit pe picioarele tale de animal bun, tu îți speli singur ciorapii și mănânci la prânz un sfert de pâine cu trei nuci, tu spui porcării și râzi singur de ele, tu n’ai privit de când ești un tablou și n’ai iubit o fată, tu înjuri de mamă și scuipi pe jos, dar uite acum, când noi ăștealalți suntem aici tăcuți ca la o margine de drum, tu singur, Ianchelevici Șapsă, așa cum ești, necăjit, ursuz și înfometat, tu singur cânți.
 
-⁂
+<p class='separator'>⁂</p>
 
 Mă dusesem la rectorat să cer o informație. La întoarcere, vestibulul, pe care îl lăsasem cu zece minute înainte gol, era invadat. N’am recunoscut pe nimeni. Dar părea să fie o bătaie cruntă.
 
@@ -312,7 +316,7 @@ Sunt încă buimăcit. Nu știu: mi-e teamă de cei de afară? mi-e rușine de �
 >
 > Asta s’o fi chemând obscurantism. Cu atât mai bine
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu e nici student, nici asistent. E profesor de economie politică. Face anul ăsta un curs despre „noțiunea de valoare în istoria doctrinelor economice”. Îl chiamă Ghiță Blidaru. Băeții îi spun scurt, Ghiță. Vine dela München sau de la Berlin, nu știu bine. E mai bătrân decât arată și mai tânăr decât este: 35 de ani. Are un obraz tras, lung, nesimetric, ceva timid în surâs și o îmbinare poruncitoare a sprâncenelor. Vorbește cu neglijență, târâgănat și se întrerupe uneori cu un „nu?” ca un punct de foc.
 
@@ -324,17 +328,17 @@ Din prelegerea de azi, un pasagiu care a fost doar o paranteză:
 
 Și râde.
 
-⁂
+<p class='separator'>⁂</p>
 
 Lecție despre Adam Smith:
 
 > Dacă m’ați întreba ce facem noi aici, într’un curs în care parantezele sunt mai mari decât tratarea propriu zisă a programului, v’ași răspunde poate așa: destituim valori. Le scuturăm ca pe niște arbori uscați. Inteligență, individualism, liber arbitru, positivism… Și căutăm o singură „valoare, una care trece cu mult peste toate. Ea se cheamă, dacă nu mă înșel, viața.
 
-⁂
+<p class='separator'>⁂</p>
 
 Miercuri și Vineri, dela 6 la 7, cursul lui Blidaru. Suntem câțiva obișnuiți care ne cunoaștem, fără să ne vorbim. Uneori o figură nouă apare în băncile din fund. Îmi place să întorc din când în când capul și să urmăresc, pe măsură ce omul depe catedră vorbește, surpriza noului venit.
 
-⁂
+<p class='separator'>⁂</p>
 
 Vorbia azi despre o superioritate a fiziocraților asupra tuturor școlilor economice moderne. Prea amplu, ca să transcriu aici notele mele de curs. Vorbia avântat, cu un accent de violență, care promitea o întorsătură bruscă în șirul argumentelor. (Are asemenea efecte de cabotin inteligent). Așteptam intrigat desnodământul — când deodată a isbucnit sub ferestrele noastre un marș militar. O companie cu drapel care trecea.
 
@@ -344,7 +348,7 @@ Pe urmă, s’a întors către noi.
 
 — Vouă nu vă place strada?
 
-⁂
+<p class='separator'>⁂</p>
 
 A treia lecție despre fiziocrați. Cursul lui Blidaru schimbă ierarchiile cele mai liniștite. Numai trei cuvinte despre ceeace în manuale este sacrosanct și dimpotrivă zece prelegeri despre ceeace manualul disprețuește cu mai multă furie.
 
@@ -352,7 +356,7 @@ A treia lecție despre fiziocrați. Cursul lui Blidaru schimbă ierarchiile cele
 >
 > Dezorientați cum suntem, vom regăsi poate într’o zi acest adevăr, care ne va readuce spre pământ, ceeace va simplifica totul și va instaura o nouă ordine, nu scornită de noi, ci crescută din noi.
 
-⁂
+<p class='separator'>⁂</p>
 
 Se vorbește iar de închiderea universității. Bătăile se încing. Facultatea e ocupată militărește de o săptămână.
 
@@ -362,7 +366,7 @@ Seara la cămin e o tăcere de maidan înzăpezit. Numai din când în când pe 
 
 Se lucrează bine în tăcerea asta. Recitesc un tratat de economie cu notele lui Ghiță în mână. Pasionantă confruntare.
 
-⁂
+<p class='separator'>⁂</p>
 
 E îngrijorător. Au fost prea mulți oameni noui la curs. Fețe necunoscute, ostile în primele bănci.
 
@@ -386,7 +390,7 @@ Ar fi fost stupid să-l dau. Am încercat să trec printre ei brusc, prin surpri
 
 — Ce este? Este că mi-e o teribilă rușine de tine și de ceilalți, este că mă simt cu un cap mai înalt decât voi, este că nici odată n’ai să cunoști mândra tristețe de a fi învins singur între zece mii și mai este că mâine dimineață am să-l văd pe Ghiță Blidaru și am să-i vorbesc.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu pot reconstitui scena. Acum, mi-e cu neputință să mi-o amintesc în totul. A fost bruscă. Două trei cuvinte, o uitătură nedumerită și gata.
 
@@ -404,7 +408,7 @@ A plecat, fără să aștepte răspuns.
 
 Ar trebui să alerg pe străzi un ceas, două, trei, ar trebui să mă bat cu zece mii deodată, ar trebui să tai cu toporul un vagon cu butuci, ca să cad seara dărâmat pe pat și să dorm și să uit.
 
-⁂
+<p class='separator'>⁂</p>
 
 A treia noapte de poker. Jucăm în bibliotecă, în jurul unui sfeșnic, până dimineața la trei, patru.
 
@@ -428,7 +432,7 @@ Mai e ceva totuși. E voluptatea de a fi murdar, orgoliul ascuns de a cădea, de
 
 Nu ni s’a spus de atâtea ori că suntem un neam murdar? Poate că e adevărat. Poate că mistica noastră, asceza noastră, sfințenia noastră este asta — murdăria. Un fel de a te îngenunchia, un fel de a te mutila lent, voluptos, tot mai departe de steaua albă a purității.
 
-⁂
+<p class='separator'>⁂</p>
 
 Mi-a spus Marga Stern, dimineața, în curtea căminului, încurcată, ca și cum ar fi fost o veste care nu mă privia:
 
@@ -458,13 +462,13 @@ Am bătut în peretele din fața patului o hartă mare a Europei. Mi-ar trebui u
 
 E copilăros poate, dar am nevoie de simbolul ăsta al unei hărți de care să mă reazim și pe care să citesc orașe și țări. Asta îmi aduce zilnic aminte că pământul există. Și că orice evadare e posibilă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Era frumos adineauri în Cișmigiu, cu soarele asta metalic, alb, cu apa de verde vegetal, cu arborii fără frunze încă și goi ca o turmă de adolescenți la recrutare.
 
 Ce urâți sunt oamenii în pardesiurile lor întârziate, cu pălăriile roase de iarnă, cu surâsurile intimidate de soare, cu pașii grei, înămoliți. I-am privit cum treceau și mi-a fost milă de inconștiența lor lipsă de grație.
 
-⁂
+<p class='separator'>⁂</p>
 
 Era o fată tânără, îmbrăcată curat, care se oprise pe Bulevard în fața unei vitrine cu fructe. I-am vorbit stupid despre ce mi-a trecut prin cap, fără se aleg. A râs și a primit să se plimbe cu mine.
 
@@ -524,7 +528,7 @@ El miroase a pământ, fericitul.
 
 Îmi pare rău că mă surprind iubindu-mi destinul. Ași vrea să mă pot detesta violent, fără nici o scuză, fără nici o înțelegere. Ași vrea să fiu cinci minute antisemit. Să simt în mine un dușman care trebuie suprimat.
 
-⁂
+<p class='separator'>⁂</p>
 
 A venit fata de acum o săptămână. N’am primit-o.
 
@@ -536,7 +540,7 @@ A venit fata de acum o săptămână. N’am primit-o.
 
 Ceva îmi spune că suntem incapabili să trăim până la capăt un moment de viață. Oricare. Că rămânem veșnic alături de ce se întâmplă, puțin mai sus, puțin mai jos de lucruri, nici odată însă în miezul lor. Că lăsăm sentimentele și evenimentele pe jumătate neterminate, să atârne după noi, nedesăvârșite. Că n’am fost nici odată deplin canalii sau deplin îngeri. Că rugurile sufletești pe care am ars, s’au stins la jumătate. Că am trăit în eterne tranzacții cu norocul și nenorocul.
 
-⁂
+<p class='separator'>⁂</p>
 
 E mai bine așa. Patrusprezece ceasuri de muncă. Examenul care se apropie n’o fi decât un pretext. Eu mă simt însă bine în închisoarea asta de cărți, până la care nu mai ajunge nimic, nici de afară, nici dinăuntru.
 
@@ -546,7 +550,7 @@ Marga Stern, a trecut prin mansardă prietenește. Purta o rochie albă, avea m�
 
 Prea puțin pentru o seducere, dragă fată.
 
-⁂
+<p class='separator'>⁂</p>
 
 Marcu Klein, ești un măgar și dacă te-aș avea aici, aproape de mine, te-ași îmbrățișa și pe urmă ți-ași trage patru zdravene palme, ca să nu le uiți.
 
@@ -562,7 +566,7 @@ Omul după catedră a mormăit o întrebare și a ațipit. Băiatul de lângă t
 
 Dece, Marcu Klein, n’ai tăcut? Cine te împinge pe tine, om nebun, singur între patruzeci, să vorbești pentru toți, să condamni și să răzbuni? Din ce nevoie absurdă de a denunța nedreptatea, vine strigătul tău? Din ce ancestrală educație a mizeriei și a revoltei? Ce instinct pervertit nu te lasă să treci pe lângă o mizerie fără să te oprești și să o descoperi? Știi tu ce ușor se face o listă de desolidarizare? Mi-e un necaz imens pe tine, fiindcă nu te pot urî suficient, și fiindcă sunt odată cu tine, dintr’un neam care nu știe să accepte și să tacă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Telegramă către mama:
 
@@ -580,7 +584,7 @@ E anotimpul meu, Noembrie. Luna când recitesc cărți, când răsfoesc hârtii,
 
 Și mirosul ăsta de vegetale ude, dimineața când plec — și cercul cald de lumină al lămpii, seara când mă întorc…
 
-⁂
+<p class='separator'>⁂</p>
 
 Într’o librărie, unde intrasem să răsfoesc revistele.
 
@@ -594,7 +598,7 @@ Sunt uimit, sau sunt foarte vesel, sau mă tem să nu răspund cu o impertinenț
 
 Salută băețește cu un deget la pălărie, și pleacă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Are trei camere pline cu cărți și o a patra goală, în care stă el: un pat simplu, aproape „pat de campanie” — și nimic mai mult. Pe peretele dinspre ușe, o reproducere mică și exactă după o iarnă de Breughel.
 
@@ -612,11 +616,11 @@ Cu ochiul lui de stăpân predestinat, cu aspra lui îmbinare de sprâncene, cu 
 
 A simțit ceva din panica asta? Se ridică, trece să caute tutun pentru pipă, și-o aprinde, pe urmă; se apropie de fereastră și privește afară atent, de parcă ar urmări ceva anume în seara ce se lasă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Ași vrea să nu-l revăd. Mi-e rușine. Rar am fost așa de stupid, de opac, de categoric prost. Inteligența mea! Oarecare bună dispoziție mintală de om tânăr — și nimic mai mult. Iar când nu e nici asta, nu mai e nimic. Altfel, cum s’ar scuza, totala mea absență de eri. Două ceasuri a vorbit și două ceasuri am tăcut. Am luat parte cu „da” și „nu” la o convorbire, dela care așteptam totul. Nu știu ce vrea să spună acest „totul”, dar trebue să spună foarte mult, de vreme ce simt atât de ascuțit cât am ratat, ratând vizita de eri la Blidaru.
 
-⁂
+<p class='separator'>⁂</p>
 
 A vorbit Luni la Fundație, în ciclul Institutului Social. Nu riscam să fiu văzut în mulțimea aceia imensă, în locul meu dela balconul doi.
 
@@ -624,7 +628,7 @@ Ce miragiu și ce simplicitate în omul ăsta. Vorbește noduros, cu colțuri, c
 
 Voi ști altă dată, mai târziu, când voi îmbătrâni, în ce măsură este Blidaru un gânditor. Știu însă de pe acum cât e de mare artist.
 
-⁂
+<p class='separator'>⁂</p>
 
 M’a găsit pe sală, când ieșia dela curs și m’a luat de braț, cu simplicitate, ca un camarad.
 
@@ -706,7 +710,7 @@ Dar S. T. H. nu pierde partida. Oricine în locul lui ar fi pierdut-o. Numai el 
 
 S. T. Haim, bunul meu prieten, ce bine jucăm noi ce avem de jucat, ce trist jucăm.
 
-⁂
+<p class='separator'>⁂</p>
 
 M’am despărțit azi noapte de S. T. H. și dimineața mi-a bătut în ușă pela 7 jumătate (când a dormit? când s’a sculat?) ca să mă facă atent că mi-a strecurat pe jos, prin încheietoarea pragului un bilet… L-am auzit pe urmă, coborând furtunos scările.
 
@@ -728,13 +732,13 @@ Crede în lucrurile acestea, trăește cu ele, deprinde-te să le privești cums
 
 Dar cine îmi va spune mie însu-mi aceleași lucruri? Și cine mă va învăța cum să le învăț eu cel dintâiu?
 
-⁂
+<p class='separator'>⁂</p>
 
 Adversitatea lor, a antisemiților, ar fi la urma urmelor suportabilă. Ce ne facem însă cu adversitatea noastră, cu propria noastră adversitate intimă.
 
 Cu ei ne vom împăca poate — cine știe? — într’o zi. Cu noi însă, când?
 
-⁂
+<p class='separator'>⁂</p>
 
 Să fugi de tine, o zi, două, douăzeci, nu e ușor, dar nici imposibil. Faci matematici și marxism ca S. T. H., faci sionism ca Winkler, citești cărți ca mine, umblii după femei sau joci șah, sau te dai cu capul de pereți. Dar într’o zi, într’un minut de neatenție, te întâlnești cu tine însuți la un colț de suflet, cum te-ai întâlni la un colț de stradă, cu un creditor de care te-ai ferit zadarnic. Dai ochii cu tine și atunci înțelegi cât de inutile sunt toate evadările, din această închisoare fără ziduri, fără porți și fără gratii, din această închisoare care este însăși viața ta.
 
@@ -752,7 +756,7 @@ Căci seara, când se făcea întuneric, și când se ridica deodată, cu o tres
 
 Între el și mine sunt cel puțin 60 de ani de viață și 20 de ani de moarte. Mai mulți chiar — mult mai mulți. El trăia în evul mediu, eu trăiesc azi: câteva secole ne despart. Citesc alte cărți decât a cetit el, cred în alte lucruri decât în cele în care a crezut, umblu între alți oameni, sufăr de alte întrebări, și totuși mă simt azi așa de mult nepotul lui, coborâtorul lui direct, coborâtorul melancoliei lui fără leac.
 
-⁂
+<p class='separator'>⁂</p>
 
 Noi care ne răzvrătim de atâtea ori, pentru atâtea lucruri, dece nu ne ridicăm o singură dată împotriva gustului nostru pentru catastrofă, împotriva simpatiei noastre pentru durere?
 
@@ -760,7 +764,7 @@ E o prietenie eternă între noi și faptul de a suferi și nu odată, în cele 
 
 Sunt rău poate gândind așa, dar nu voiu fi niciodată îndeajuns de rău cu mine, nu-mi voi administra niciodată destule palme, destui pumni.
 
-⁂
+<p class='separator'>⁂</p>
 
 Ce i-ași reproșa antisemitismului, înainte de orice, dacă mi-ași recunoaște calitate de judecător, ar fi lipsa lui de imaginație: „masonerie, cămătărie, omor ritual” — Și pe urmă?
 
@@ -772,7 +776,7 @@ Ei n’au împotriva noastră decât piatra, uneori revolverul. Noi avem, în lu
 
 Înțeleg foarte bine de ce un renegat evreu este mai crunt decât orice specie de renegat. El duce cu sine o umbră, care, cu cât o va călca mai rău în picioare, cu atât va fi mai aproape de el. Și faptul de a se dezice de neamul lui, faptul propriu zis al renegării, este încă odată un act judaic, fiindcă noi toții în sinea noastră, ne lepădăm de noi, de zece ori, de o mie de ori, reîntorși însă mereu acasă, din vrerea cuiva care trebuie să fie Dumnezeu însuși.
 
-⁂
+<p class='separator'>⁂</p>
 
 Eu nu sunt credincios desigur și problema aceasta este undeva, în afară de mine, fără să-mi creeze dificultăți serioase.
 
@@ -824,13 +828,13 @@ Tac, încurcat — și el nu insistă, căci schimbă imediat vorba, nu fără a
 
 „În orice caz, gândește-te serios la asta. Merită.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Îmi dau foarte bine seama că propunerea profesorului este plină de riscuri. Nu mi-am făcut nici o dată o problemă din „cariera” mea, căci am certitudinea că voi rămâne mereu sărac și accept cu inimă bună asta, — dar oricum ceeace îmi propune el este dacă nu deadreptul o aventură, în orice caz o imprudență… Rațiunile de psichologie, pentru care mă îndeamnă să încerc o asemenea săritură de viață, să fie într’adevăr atât de tari, încât să merite efortul de a o face?
 
 Sunt încurcat și mi-e aproape necaz că mi-a creeat din senin greutăți de felul ăsta.
 
-⁂
+<p class='separator'>⁂</p>
 
 „Săritură de viață”. Vechi apucături patetice, de care nu mă pot desvăța. În fond e mult mai simplu ce-mi cere el. Am apucat să cred că voi fi advocat. De ce? Nu știu. Din obișnuință, din lene de a alege, din indiferență pentru profesie, pentru orice profesie.
 
@@ -840,7 +844,7 @@ N’ași fi făcut mare lucru în tribunal, nu voi face lucruri mari pe șantier
 
 Trebuie să fie o senzație de împlinire, de calm. Poate liniștea după care alerg.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu, nu pot primi. Am în urmă examene, frequente, lucrări, toate prea multe că să le las în drum și să o iau dela început, dela alt început.
 
@@ -848,7 +852,7 @@ M’am dus să-i spun lui Ghiță hotărîrea mea, dar nu l-am găsit acasă, ce
 
 Nu l-am găsit acasă și asta îmi mai dă dreptul să țiu această ușă nici bine deschisă, nici cu totul închisă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Totuși am primit. N’am avut curajul să spun limpede „nu” și am încercat tot felul de obiecții. El le-a înlăturat, una câte una.
 
@@ -919,7 +923,7 @@ I-am cumpărat o biblie în idiș cu poze pentru bunică-mea și o istorie nemț
 
 Aveam impresia că se desparte greu de ele: părea că se întreabă dacă nu le dă pe mâini rele.
 
-⁂
+<p class='separator'>⁂</p>
 
 Viscolește crunt. Am încercat dimineața să cobor spre Dunăre, fiindcă auzisem că a înghețat și ași fi fost bucuros să trec cu piciorul pe malul drept, dar n’a fost chip să ajung la debarcader. Valuri întregi de zăpadă băteau dinspre port, sus, spre oraș.
 
@@ -947,7 +951,7 @@ O veste rea, o noapte nedormită, o așteptare, îi devastează subit: cercuri n
 
 Neînțelegere între Dunăre și ghettou.
 
-⁂
+<p class='separator'>⁂</p>
 
 Mă gândesc mereu la acel străbunic dela 1828. Trebue să se fi născut prin ultimele decenii ale veacului XVIII. Revoluția franceză, revoluția americană, Napoleon… Mi se pare că e ceva fabulos în existența lui și am încercat să capăt precizări, dela câteva mătuși bătrâne care l-au mai apucat în ultimii lui ani de viață, dar n’am aflat lucru mare.
 
@@ -967,7 +971,7 @@ E mult mai probabil însă că mormântul i s’a pierdut fără nume, între al
 
 Nu se găsește în familie nici o fotografie a bătrânului. A refuzat să facă asemenea prostii. Venise de puțină vreme în oraș un neamț cu o mașină complicată și se instalase pe strada mare în colț. În drum spre port, spune Mamamare, în ziua plecării, s’au oprit acolo cu toții, și l-au implorat pe bătrân să le lase cel puțin atâta amintire: o poză. A scuturat din cap, supărat. Nu.
 
-⁂
+<p class='separator'>⁂</p>
 
 Dacă ași avea timp ar fi revelator să urmăresc pe hartă, migrațiunile familiei mele. Au fost se pare plecări puține.
 
@@ -985,7 +989,7 @@ A plecat cu câțiva gologani în buzunar și cu o mulțime de nebunii în cap. 
 
 Se pare că în anii aceia au plecat foarte mulți, în grupuri mici, din toate părțile țării, spre Alasca, spre California, în căutare de aur, unii, în căutare de năluci alții. Puțin înaintea războiului, o hârtie venită prin legația americană, a adus vestea morții lui undeva, într’un orășel din Texas, unde ajunsese nu știu cum, muncitor într’o plantație.
 
-⁂
+<p class='separator'>⁂</p>
 
 I-am dat Babei biblia cu poze, cumpărată în tren, dela Abraham Sulitzer și acum ne citește cu glas tare mie și mamei-mari, care nu știe carte.
 
@@ -999,7 +1003,7 @@ Nu e nimic ceremonios în lectura Babei. Patriarhii n’o intimidează. Sunt și
 
 Cine știe? or fi având patriarhii ăștia un copil bolnav, care trebue frecat cu oțet aromatic, s’au s’o fi lovit careva la un deget și are nevoe de niște frunze de pătlagină sau, mai știi? i-o fi trebuind vreunei neveste din biblie, puțină sare-de-lămâie să pună la mâncare, că i s’a isprăvit și băcănia e departe… Se întâmplă — se întâmplă în viață — de ce nu s’ar întâmpla în biblie?…
 
-⁂
+<p class='separator'>⁂</p>
 
 O dimineață albă, vastă, de cleștar. Toată noaptea s’a zbuciumat Crivățul, pe străzi, pela ferestre, pe acoperișuri.
 
@@ -1027,13 +1031,13 @@ Seara, când îmi atârn halatul în cui și mă spăl pe mâini, totul mi se pa
 
 Puțin mai idilic să fiu — și ași scrie o laudă a uneltelor, o cântare a bucuriei de a lucra. Sunt însă din fericire destul de sensibil la ridicolul expansiunilor mele intime, ca să-mi dau seama cât e de pueril și diletant entuziasmul meu. Am ceva din naivitatea unui medicinist din anul întâiu, dispus să descopere remediul cancerului. Un arhitect adevărat ar rîde probabil cu poftă, dacă ar ceti ce scriu aici.
 
-⁂
+<p class='separator'>⁂</p>
 
 Se pare că ultimele lecții ale lui Blidaru, de după vacanța Crăciunului până azi, au fost formidabile. „Asta nu mai e economie politică”, am auzit că urlă specialiștii în cancelaria facultății. Poate că au dreptate. Din ce am prins să aflu chiar dela profesor, din ce mi-au povestit alții, se pare că la drept vorbind cursul lui despre monedă nu mai este un curs de economie, ci mai degrabă unul de filosofie a culturii.
 
 Programul meu de școală nu-mi iartă niciun ceas Joia și Sâmbăta, când sunt prelegerile lui Ghiță Blidaru. Dealtfel, mi-a făgăduit că dacă mă prinde acolo, mă dă pur și simplu afară: „N’ai ce căuta la mine la curs. Stai și lucrează, aici, unde te afli. Scurt.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Îl văd rar, seara, la el acasă, dar când îl văd rămânem târziu noaptea, de vorbă. N’am descoperit încă o technică bună de conversație cu el. Ași avea să-i spun atâtea și izbutesc totuși așa de greu să-i vorbesc. Uneori îmi fac deacasă, depe drum, școlărește, planul celor ce trebue să-i spun, dar odată lângă el, totul e răsturnat, căci e unul din acei oameni, care fac lege pentru toți, obligându-te să te supui nu atât argumentelor lor, cât climatului și stilului lor. Câtă pasiune este în omul ăsta așa de neted construit, câte furtuni ascunde stăpânirea lui de sine, gândirea lui geometrică. Este până azi, singurul om căruia simt că e obligatoriu să mă supun, fără să am însă prin aceasta sentimentul unei abdicări, ci dimpotrivă al unei împliniri, al unei reîntegrări.
 
@@ -1044,7 +1048,7 @@ L-am întrebat zilele trecute, dacă nu crede că architectura mă condamnă la 
 
 „E naiv să crezi că o revoluție începută într’o parte, într’o disciplină, se poate limita acolo. Istoria se creează dinăuntru, nu din afară, dela centru, nu dela periferie. Grosolănia noastră este că nu prindem decât schimbările vizibile, directe, care angajează imediat viața noastră. Ne imaginăm deaceea că o revoluție se cheamă numai decât și în primul rând, o răsturnare politică sau economică, ceeace este o naivitate îngerească. Punctul de plecare al unei revoluții poate să fie în fizică, în astronomie, în matematici, oriunde însfârșit. E de ajuns ca pe un singur plan de gândire sau de viață omenească să se schimbe structural ceva, pentruca din acel moment virtual totul să fie schimbat. Toate se leagă în lumea asta: nu există nici fapte, nici preocupări izolate. Toate intră într’un ciclu. De ce ai vrea ca architectura să lipsească din acest lanț? Lucrează aici liniștit: vrei sau nu vrei, ne vom întâlni până la urmă, tu care faci architectură, eu care fac economie politică, ăsta care face antropologie, ăstălalt care face algebră. Vehiculele sunt altele: drumul e acelaș.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Mi-am amintit de curând, într’o seară, întorcându-mă dela Ghiță Blidaru, de brutalitatea primei mele convorbiri cu el. Convorbire! dacă se poate spune. Îl oprisem să mă plâng că fusesem dat afară dela cursul lui. Ce ritos m’a repezit! Nici n’a vrut să se uite bine la mine. Și astăzi amintindu-mi, mă înfior de rușine. Cât am suferit atunci. I-am vorbit despre ziua aceea și, deși m’am temut să nu vadă într’asta, nu știu ce mustrare îndrăzneață, nu m’am putut opri să nu-l întreb:
 
@@ -1080,7 +1084,7 @@ Marga, care se mândrește a nu avea nici o aptitudine pentru ideile generale, e
 
 Nu, nu o iubesc cu pasiune pe Marga, știu prea bine asta, și o știe și ea, dar e destul să vină într’un moment bun, pentruca să îndepărteze dintr’odată, „întrebările mari” și să pună în locul lor, o întreagă lume de ecouri intime, vii, imediate, mediocre ca valoare desigur, dar vii, vii.
 
-⁂
+<p class='separator'>⁂</p>
 
 Ce iubesc cu deosebire în ea, este teribila ei spaimă de abstracție. Dacă se întâmplă vreodată, din neatenție, să-i vorbesc despre unul din faimoasele mele procese de conștiință, fata asta, atât de înțelegătoare altminteri, se închide subit, cu discreție, dar și cu hotărîre, refuzând nu numai să răspundă, dar chiar să priceapă. Are o deosebită înclinare spre lucruri, spre obiecte, spre fapte precise, spre oameni exact determinați.
 
@@ -1090,7 +1094,7 @@ Eu, tu, cartea asta, scaunul ăsta, fereastra asta. Ea singură din toată lumea
 
 E într’adevăr ceva neted în inteligența ei — poate și ceva limitat în acelaș timp — ceva de bun simț, de simț al măsurii. Înțeleg acum dece când am auzit-o mai de mult, cântând pentru întâia oară la pian, am fost mirat de reputația ei de bună pianistă. Technic o fi — eu nu mă pricep — dar muzical felul ei de a cânta este cel puțin ciudat. Cânta atunci din nefericire din Chopin, o nocturnă, pe care o făcea de nerecunoscut, liniară, precisă, cu contururi exacte, fixe. Marga nu cântă: schematizează. Numai ascultând-o pe ea, am izbutit să înțeleg pentru prima dată ce poate însemna „construcția” unei bucăți de muzică. O vedeam parcă desenată, logic, frază cu frază, ciclu cu ciclu. (Poate de aici vine și curiozitatea ei pentru architectură). Maniera asta are probabil eu nu nenumărate riscuri muzicale, dar și oarecari avantagii. E o mare bucurie s’o asculți cântând din Mozart: e un Mozart lapidar, reliefat, minuțios, ca zimții unui ferestrău chirurgical, ideal de fin.
 
-⁂
+<p class='separator'>⁂</p>
 
 De unde ia Marga Stern această liniște care o pune în directă legătură cu obiectele, de unde deține ea această salutară opacitate, care o ferește de visuri și năluci? Îi invidiez spiritul aplicat, concret, fericit în sănătatea lui așa de cum se cade. Îi invidiez lipsa de imaginație și rezistența la abstracție. Am față de acest spirit bine gospodărit, admirația pe care ași avea-o în fața unui trup bine clădit, calm în vigoarea și armonia lui fizică.
 
@@ -1122,7 +1126,7 @@ Simțiam că e necesar să fac și eu un gest, care să mă solidarizeze cu neno
 
 Mi-am regăsit camera deșartă, planșele lipsite de înțeles, cărțile vide. Mâine, poimâine, voi restabili stupidul meu orgoliu de om singur. Și voi fi iar un intelectual, un biurocrat.
 
-⁂ 
+<p class='separator'>⁂</p> 
 
 Bucuria de a trăi prin forțele mulțimii, ca un copac prin forțele latente ale pădurii, sentimentul de a face parte, de a participa, de a împlini cu viața ta, un cerc de viață mai mare, ce trece și prin tine, mai departe spre puterile difuze, obscure, biologice ale speciei…
 
@@ -1142,7 +1146,7 @@ Cetiam în istoria lui Șapsă Zwi, pe care mi-a vândut-o în Decembrie Abraham
 
 Și istoriograful povestește acest lucru atroce cu orgoliu, ca pe un fapt eroic, în vreme ce mie mi se pare o sinistră abdicare dela viață, o anemie vitală compromițătoare, o rușinoasă fugă din biologie.
 
-⁂
+<p class='separator'>⁂</p>
 
 L-am întâlnit pe Sami Winkler cum nu se putea mai la timp. „Uite omul care îmi trebue” — mi-am spus bucuros, când i-am recunoscut de departe carura de boxeur, pătrat și masiv, în colț, la Național, unde se oprise un moment, fără treabă. Nu-l mai văzusem dela începutul lui Decembrie, din ziua în care fusesem la cămin și îl surprinsesem în discuție cu S. T. Haim, dușmanul lui de idei.
 
@@ -1166,7 +1170,7 @@ A tăcut ca și cum ar fi încheiat discuția și pe urmă, după câțiva pași
 
 — Uite, dacă vrei mai multe lămuriri, vino cu mine Joi seara, la conferința lui Jabotinski. E un sionist dizident care face mult sânge rău conducerii centrale, prin acțiunea lui violentă. Un tip ciudat, ai să vezi. A organizat pe vremuri, în războiu, o legiune ovreiască militară, cu care a luptat pentru cucerirea Jerusalimului. Vino să-l asculți, poate o să te lămurească el.
 
-⁂
+<p class='separator'>⁂</p>
 
 L-am ascultat pe Jabotinski, și nu m’am lămurit. Dar Winkler avea dreptate: e un „tip”. Vorbește retezat, scurt fără căldură, dar cu o animație lucidă, care trădează o vocație de luptător. Foarte puține gesturi, foarte puține surâsuri, sau încruntări. Oarecare asprime în ținută, oarecare lipsă de expresivitate chiar, care nu m’ași mira să fie voită. Multe cifre, multe informații, dar fasciculate în câteva idei simple, vehemente în simplicitatea lor. Nu mă pricep în politică sionistă, dar cred că am înțeles în linii mari poziția lui Jabotinski față de conducerea oficială a mișcării.
 
@@ -1224,7 +1228,7 @@ S. T. H. a tăcut o bună bucată de vreme. Se uita doar, cu oarecare compătimi
 
 „Haideți mă, să mergem că ne pierdem noaptea. Nu se poate discuta cu voi. Mituri, superstiții, poezii… Voi judecați, mă? Da, de unde… Voi cântați. Niște tenori, asta sunteți. Puccini, Giaccomo Puccini — maestrul vostru. Plata, chelner.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu cred că Winkler vrea să mă convertească la sionism. Se ocupă însă de mine, pentrucă îl intrig puțin. Cu tot calmul lui de om care crede, îndoelile mele psichologice asupra sionismului, îl derutează mai mult decât obiecțiile politice ale lui S. T. H.
 
@@ -1294,7 +1298,7 @@ L-am liniștit oarecum asigurându-l că și pe mine m’a interesat mult. Dar s
 
 Ne-am despărțit repede — eram amândoi grăbiți — dar m’a poftit pentru seara la el ceeace am primit cu bucurie.
 
-⁂
+<p class='separator'>⁂</p>
 
 Cărți, numai cărți, pretutindeni cărți. Am văzut oameni vorbind cu pisicile lor, cu câinii lor… Abraham Sulitzer vorbește cu cărțile.
 
@@ -1348,7 +1352,7 @@ Există romancieri idișiști, poeți, critici, esseiști și dacă ai știi câ
 
 — Nu sunt bătrân! Sunt ovrei — asta sunt.
 
-⁂
+<p class='separator'>⁂</p>
 
 M’am înșelat puțin. Abraham Sulitzer nu e un domn Bergeret decât ca soț în raporturile cu madam Roza. Ca intelectual însă, în raporturile lui cu ideile, devine categoric și asupritor. Apărând ghetoul, nu este mai puțin intolerant decât Winkler apărând sionismul și nici decât S. T. Haim înjurându-le pe amândouă. Absolutul este viciul lor comun.
 
@@ -1400,7 +1404,7 @@ Singurul om pe care moartea Babei nu l-a tulburat în casă e Mama-mare. Cu cei 
 
 Oamenii din familia tatii n’au cunoscut-o și cred că e într’asta o adevărată lege familiară, căci nu există exemplu de bunic sau străbunic de partea lor, care să se fi sfârșit înainte de 90 de ani. E un sânge tare, pe care nu l-a subțiat talmudismul și nu l-a otrăvit lumina lămpii, serile târzii, în sinagogi. Au trăit lângă un fluviu, au trăit printre vapoare, printre cereale. În intimitatea ei, Baba îi disprețuia. Excesul lor de sănătate i se părea probabil un semn de vulgaritate.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am coborît de câteva ori în port, dimineața, să văd noile remorchere, care au început să vină. E o lumină rece și vie, spălată de vânturi și ploi. Miroase a coajă udă de salcie, miroase a tulpină tânără, răzbind de sub zăpada care s’a dus. Departe, munții Măcinului albaștrii, au crestele încă albe.
 
@@ -1438,7 +1442,7 @@ E ceva din această cumpătare fricoasă în ezitările Margăi și sentimentul 
 
 Ași dori să fiu un vulgar crai de mahala, berbant până când și-a sedus iubita și ingrat după aceia. Scuzele Margăi ar fi maxime și totuși insuficiente. Căci nu e vorba de mine, nu e vorba de ce pot da eu în schimb, ci decât poate pierde ea cu nepăsare, cu inimă ușoară, cu totală lipsă de precauții. Nimeni în iubire nu valorează mai mult decât poate pierde.
 
-⁂
+<p class='separator'>⁂</p>
 
 Sunt obosit de mine, sunt ostenit de ea. Ne vom despărți. E o fată bună și va fi o soție excelentă. Face parte dintr’un neam de neveste.
 
@@ -1552,7 +1556,7 @@ Nu odată se întâmplă să se spargă un geam, două, la rafinărie sau la adm
 
 Între timp, noi clădim. Rafinăria a fost gata abia acum doi ani. Mă simt copleșit astăzi de gândul că am luat parte la ridicarea ei. Birourile au mers mai ușor, vilele nesfârșit mai lesne. Cred că la anul în vară, vom fi terminat totul. Ne-am mutat mereu cabana și șantierul spre margini, mereu spre marginile acestui mic oraș, care s’a ridicat lângă noi. Cinci ani! N’ași fi spus că au trecut atâția.
 
-⁂
+<p class='separator'>⁂</p>
 
 S’a schimbat la schele echipa de noapte. De aici, din pragul cabanei, se văd foarte bine lampionele celor care se întorc în sat. N’a plouat de vreo două săptămâni, și noaptea e senină până la albastru. Spre Ploești, cerul e alburiu. Trebue să fi fost călduri teribile acolo. Ziarele vorbesc de 40 grade la București.
 
@@ -1595,7 +1599,7 @@ La toate astea, se adaugă extraordinarul lui prost gust, de un pitoresc în pot
 
 Duminică a fost la biserică, în sat, și a cântat din strană, dăscălește. Are o voce caldă de copil mare. Cânta serios, din toată inima, pătruns de solemnitate. La ieșire i-am strâns mâinile și i-am spus cât de frumos cântase. S’a roșit totul și pentru întâia oară l-am văzut încurcat de măgulire.
 
-⁂
+<p class='separator'>⁂</p>
 
 La Câmpina, în gară, așteptând curierul pe care maistrul mi-l anunțase telefonic dela Brașov, am zărit-o la o fereastră de vagon pe Marga cu bărbatu-său. E mereu frumoasă, ceeace îmi face plăcere pentru trecut, – și amenințată de o ușoară obezitate, ceeace îmi face plăcere pentru viitor.
 
@@ -1603,7 +1607,7 @@ Cum îmi răspundea la salut cu aceeași atentă înclinare a capului, pe care i
 
 Curierul a venit abia cu trenul al doilea. L-am înjurat teribil. A trebuit să discut două ceasuri politică cu șeful gării.
 
-⁂
+<p class='separator'>⁂</p>
 
 Marjorie Dunton a trecut pela schele dimineața. Eram prăfuit, cu mâinile murdare, cu părul în dezordine și n’am vrut să cobor. Mi-a strigat de jos bună dimineața.
 
@@ -1635,7 +1639,7 @@ Mi-a împrumutat Shirly romanul Charlotei Brontë, pe care l-am iubit atâta atu
 
 Odată am întrebat-o dacă n’are de gând să scrie. A râs. „Ce ideie!” Totuși când îmi trimite iarna vreo scrisoare la București, sunt uluit de animația cu care știe să povestească o întâmplare de nimic, să evoace o imagine, să scape cu neglijență, între rânduri, o ușoară confesiune.
 
-⁂
+<p class='separator'>⁂</p>
 
 Muncisem toată ziua și obosit cum eram, n’ași fi crezut să stau așa de târziu la Nicholson. Oamenii ăștia au izbutit să creeze aici, în Prahova, la Uioara, o mondenitate veritabilă.
 
@@ -1687,7 +1691,7 @@ S’ar spune că mă abrutizez. Dar viața e așa de simplă acum, așa de neted
 
 Mi-am amintit de caetul meu albastru din 1922. Pe unde o mai fi? Acasă poate, prin sertare, prin lăzi. Am să-l caut într’o zi, deși cred că va fi jenant să-l recitesc. Câte copilării, Doamne, câte copilării trebue să fi scris acolo… Dar poate nu cu totul din vina mea. S. T. H. are dreptate: era un moment de spasm. Așteptam din stradă orientări — și în stradă nu erau decât confuzii, stupidități nebuloase, amețeli. Mă refugiam atunci în probleme de conștiință, obscure și ele, dar consolatoare. Jocul era ușor și-mi da în plus iluzia nu știu cărei superiorități intime. Reduceam totul la drama de a fi evreu, ceeace este poate mereu o realitate, dar nu atât de precumpănitoare, încât să anuleze și nici măcar să depășească dramele și comediile strict personale. Eram cred la doi pași de fanatism. A fost o bună întâmplare, aceea de a-mi fi întrerupt jurnalul. Scriind îmi întrețineam febra. Din ziua în care am aruncat acel caet și am lăsat zilele să treacă în voia lor, fără comentarii, fără refugii, lucrurile s’au așezat cu încetul, simplificându-se, liniștindu-se.
 
-⁂
+<p class='separator'>⁂</p>
 
 Bătrânul Ralph a sosit Joi din străinătate și a venit direct dela gară la schele. Avea se vede presimțiri. A făcut un scandal enorm, de a produs panică pe o rază de un kilometru.
 
@@ -1695,7 +1699,7 @@ Mi s’a spus mai târziu, că la sonde și în birouri, toată lumea tremura de
 
 L-am lăsat să vorbească, știind că va obosi — și într’adevăr a obosit. De două zile n’a mai dat pe aici. L-am văzut pela sonde și mi-a răspuns la salut bombănind. Săptămâna viitoare când vine maistrul, va mai avea un acces de indignare și pe urmă îi trece.
 
-⁂
+<p class='separator'>⁂</p>
 
 Astăseară, la club, recepție în onoarea bătrânului Ralph T. Rice. Recepție de gală la Uioara Prahovei! Atâtea fracuri, atâtea rochii lungi de mătase — e aproape neverosimil în ținutul ăsta cu țiței și pruni. Din tot ce a clădit maistrul aici, clubul îmi place mai mult. Are ceva solemn și cordial în acelaș timp. E britanic și e prahovean în egală măsură. Sala de dans și cea de biliard sunt liniare și sobre; terasele și sălile de lectură au un aer de mică grădină interioară. Aproape în fiecare seară, înainte de cină, mă întâlnesc aici cu Phillip Dunton să ne jucăm partida de șah.
 
@@ -1707,7 +1711,7 @@ S’a pudrat, s’a parfumat și cu foarte multă grijă și-a construit o ținu
 
 Scump băiat! A plecat fericit, învârtindu-și bastonul lui noduros între degete și l-am invidiat pentru sănătatea lui de fier, în vecii vecilor inatacabilă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am lucrat toată ziua pe frânte. Poimâine vine maistrul și vreau să găsească lucrurile în ordine. Marin Dronțu a venit foarte târziu la schele, obosit de noaptea nedormită și cum a venit, mi-a spus că are să-mi vorbească.
 
@@ -1743,7 +1747,7 @@ Am băut o sticlă, de vin și Marin a zis niște cântece de foc.
 
 — Lasă mă, că așa este toate. Nește dămuri. Mă consola.
 
-⁂
+<p class='separator'>⁂</p>
 
 Continuăm lucrările. Vizita maistrului a pus lucrurile la punct. Întrevederea lui cu Rice a fast totuși mai gravă decât o așteptam.
 
@@ -1753,7 +1757,7 @@ Bătrânul Ralph a venit și el pela ceasurile patru cu o față lungă, conster
 
 Noaptea, maistrul a dormit cu noi, la cabană. Am stat târziu de vorbă, cu vin și tutun, toți trei. Se auziau de departe bubuituri scurte, larg răspândite apoi pe toată valea, ca și cum fiecare sunet s’ar fi fărămițat în mii de cioburi mărunte. Este o sondă care a răzbit de vreo două zile la Steaua-Română. Parcă ar fi fost undeva în noapte, o respirație de animal prizonier.
 
-⁂
+<p class='separator'>⁂</p>
 
 Aseară, m’a căutat la cabană Pierre Dogany. Am fost surprins, căci nu venise niciodată până atunci.
 
@@ -1779,7 +1783,7 @@ Mi-a vorbit despre plecarea lui, care se apropie și se silia să pară indifere
 
 Ne-am întors spre casă, pe drumul Ursului. La Duntoni, era încă lumină și Dogany a tăcut brusc. S’a despărțit repede, cu un salut grăbit. Un moment, am vrut să-l strig din urmă și să-i spun ceva, nu știu bine ce, ceva care să nu-l lase așa de singur.
 
-⁂
+<p class='separator'>⁂</p>
 
 Marjorie a trecut azi pe la schele. Purta o rochie verde de fular și o eșarfă albă.
 
@@ -1787,7 +1791,7 @@ Eram groaznic de ocupat, dar am rămas anume mai multă vreme de vorbă, ca să 
 
 „O face pe nebuna” mi-a spus mai târziu.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu așteptam vizita profesorului și telegrama prin care îmi anunța sosirea a fost o adevărată surpriză. 
 
@@ -1825,7 +1829,7 @@ Un cap de pietrar… Nu știu. Mă simt însă liber, împăcat, gata să primes
 
 Viața este simplă, viața este imens de simplă.
 
-⁂
+<p class='separator'>⁂</p>
 
 A plouat două zile la rând și drumul dela cabană spre Uioara veche e plin de noroiu. Am făcut un foc împărătesc în sobă și am cetit în amândouă serile, până după miezul nopții. Miroase a toamnă — și nu suntem decât la începutul lui Septembrie. Azi dimineață, se înseninase puțin și am crezut că se îndreaptă vremea, dar pe urmă ploaia s’a deslănțuit din nou, mai puternică.
 
@@ -1980,7 +1984,7 @@ Sunt convins că aceste trei scurte propozițiuni îl rezumă pe Vieru în tot c
 
 „Nu. Ași putea spune, dimpotrivă. Am luptat cu seriozitate, fiindcă îmi place să fac orice cu seriozitate. Dar am știut mereu câtă valoare avea treaba asta. După a doua rană, m’am trezit într’o noapte la un post de ambulanță, trântit pe targă, într’un colț, lângă un caporal neamț, rănit și el, care nu avea mai mult de 19 ani și care mi-a spus că așteaptă să se termine războiul ca să poată pleca la Paris, unde voia să pregătească o teză, despre raporturile dintre Goethe și Stendhal. Am vorbit toată noaptea despre asta și ne-am ajutat amândoi să reconstruim din memorie, harta peregrinărilor lui Beyle prin Europa dela 1812 la 1840. A doua zi dimineață, urma să ne despărțim pe totdeauna, eu spre un spital, el spre altul, amândoi spre moarte poate — dar deocamdată în acea noapte, problema noastră cea mai urgentă asta era. Din doi ani de războiu, întâlnirea aceasta a fost cel mai frumos lucru.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Pe cât mi-e de lesne să-l văd pe maistru trăind între hotarele acestei gândiri liniare, cu așa de simple legi, pe atât mi-e de greu să înțeleg nu gândirea lui Ghiță Blidaru și nici viața lui, dar gândirea și viața lui la un loc. Mi se par atât de contrazicătoare!
 
@@ -2044,7 +2048,7 @@ La plecare s’a luat după mine și m’a ajuns din urmă, pe stradă.
 
 — Arză-le-ar focul de muieri. Numai ele, mă, numai ele face ale mai mari buclucuri.
 
-⁂
+<p class='separator'>⁂</p>
 
 Lungă scrisoare dezolată dela junele Dogany. Lucrurile nu merg deloc bine la Budapesta. Universitatea e din nou închisă, au fost scandaluri mari, bătăi de stradă, arestări. El însuși a fost lovit destul de rău la cap. 
 
@@ -2058,7 +2062,7 @@ Astăzi, totul e așezat, cuminte, și amical. Mi se întâmplă să-mi amintesc
 
 Silește-te să nu suferi. Să nu te lași adică pe seama plăcerii de a suferi. Există o mare voluptate în perzecuție și a te simți nedreptățit este probabil una din cele mai orgolioase bucurii intime. Fii atent aici și nu-ți îngădui asemenea orgoliu. Încearcă să primești cu oarecare humor tot ce ți se întâmplă. Gândește-te cât am fi de ridiculi dacă ne-am alarma de fiecare ploaie care ne udă. Crede-mă, ceeace ți se întâmplă dumitale acum, oricât ar fi de trist, nu e mai mult decât o ploaie”.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am încercat să-mi amintesc de unde îl cunosc pe Arnold Max și mi-a fost cu neputință să-mi aduc aminte. Nu mai țiu minte nici unde, nici în ce împrejurări l-am văzut întâia oară.
 
@@ -2098,7 +2102,7 @@ Scrie mereu, corectează, adaugă, șterge. Mă întreb dacă și-a ascultat vre
 
 Este o poezie de om singur, tulbure, amețită cu neașteptate izbucniri de melodie curată, dureros de simplă pentru acest om complicat. Din tot ce a scris, îmi plac cele „cinci basme pentru voce mică”. Restul e obositor și întortochiat. Are talent, știu, are talent, toată lumea o spune, dar vreau o viață fără otrăvuri, fără artificii, fără probleme, o viață de „bună ziua”, „bună seara”, „pâinea e albă”, „piatra e tare”, „plopul e înalt”.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am zărit-o pe Marjorie Dunton într’un tramvai. Cred că nu m’a văzut. A mai fost și Joia trecută odată. (O adusese Hacker dela contabilitate cu automobilul și am aflat asta chiar dela el). „Spune-i salutări, dacă vă întoarceți împreună diseară,” „Nu, mi-a răspuns Hacker, mă întorc singur. Doamna Dunton rămâne astă noapte în București.”
 
@@ -2106,7 +2110,7 @@ Vineri, la atelier, l-am pândit într’una pe Dronțu. „Ai dormit bine astă
 
 Stupidă întrebare.
 
-⁂
+<p class='separator'>⁂</p>
 
 M’a căutat la atelier Sami Winkler, ca să-mi ceară o scrisoare de recomandație pentru Ralph T. Rice.
 
@@ -2336,7 +2340,7 @@ N’am nici un chef pentru exerciții de psichologie. Și dacă ași avea, exemp
 
 În ce mă privește, singura calitate certă pe care o recunosc oamenilor este indiferența lor, ceeace constitue nu numai o politețe supremă, dar o garanție de securitate și de liniște. Nu m’a dezolat niciodată așa zisa dramă a neputinții de a ne cunoaște unul pe altul și gândul că doi oameni pot viețui laolaltă fără a înțelege nimic din ce se petrece esențial în sufletul celuilalt, gândul acestei impenetrabile singurătăți la care suntem prin firea noastră condamnați, departe de a mă îndurera, mă bucură. El satisface în mine o veche nostalgie după o sănătoasă, solidă și certă ignoranță, singurul lucru durabil în această lume, în care adevărurile sunt instabile și riscate. Să nu cunoști cu sinceritate, e un început de salvare. O spun fără ironie, cel mult cu un grăunte de exagerare, tocmai pentru a dezaproba mai sever experiențele psichologului Maurice Buret. 
 
-⁂
+<p class='separator'>⁂</p>
 
 _„Ça fait toujours une petite experience”_ spune Maurice Buret despre ultimul lui succes dela „Coupolă”. Experiențe, mereu experiențe, numai experiențe. Viața pentru băiatul ăsta n’are alt merit decât de a putea fi observată. Duce mereu cu el un registru invizibil, în care notează cu băgare de seamă o mulțime de concluzii sistematice. Fiecare om are fișa lui, fiecare sentiment capitolul lui. _„Du jardinage”_ numește el exercițiul acesta, „grădinărit” pentru care posedă tot ce-i trebue.
 
@@ -2368,7 +2372,7 @@ Vine însfârșit la rând, moralistul Maurice Buret, regisor al primilor doi, o
 
 — Nu-mi displace rolul și îl accept — minus compasiunea pe care mi-o oferi. Căci sunt încântat de technica mea de a trăi. Ea constă în a cere fiecărui om exact ceeace îți poate da. Gândește-te bine la toate dramele pe care le cunoști, și vei vedea că ele pornesc fără excepție dela o exigență deplasată. Toată filozofia mea se reduce la un precept, pe care ti-l recomand călduros: „e inutil să călărești un vițel, în speranță că va deveni armăsar.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Cel mai „tare lucru în Maurice Buret nu este totuși pasiunea pentru psichologie, ci înainte de orice, lipsa lui de sensibilitate morală. Mai mult chiar: simpatia pentru viciu, curiozitatea pentru deformări. Personal este un băiat sănătos, ordonat și cu un tenace simț a ceeace se cuvine, simț de echilibru pe care l-a moștenit din familia lui de burghezi provinciali. E un breton, dintr’o ginte de negustori și marinari.
 
@@ -2385,7 +2389,7 @@ E probabil cel mai inteligent om pe care l-am cunoscut, fiindcă este numai inte
 
 Pretutindeni el e în căutarea punctelor de reper. Într’o mulțime de oameni, sau într’o simfonie, într’un peisagiu sau într’o carte, prima lui grije e să stabilească nordul și sudul. Pe urmă, își permite să devină aventuros, căci cunoaște drumurile de întoarcere. (_„S’égarer est un plaisir délicieux, a condition que la route de Paris ne soit pas trop éloignée”_).
 
-⁂
+<p class='separator'>⁂</p>
 
 Pentru moment, Maurice se ocupă cu afacerea Robert Grevy — Jacques Bertrand. „E un cuplu obligatoriu” a înscris în carnetul lui imaginar la rubrica lui Robert, în ziua în care i l-a prezentat pe Jacques.
 
@@ -2437,7 +2441,7 @@ E un conrupător? Nu. Nimic comun cu Gide, nici viciul, nici prozelitismul și n
 
 Patronul lui spiritual (dacă „spiritual” e un termen posibil pentru el) nu este Gide, ci Laclos, iar ambianța morală în care trăește seamănă enorm cu atmosfera din _„Les liaisons dangereuses”_ care nu este perversă, ci numai libertină, pentrucă nu viciul primează, ci gustul inteligenții de a inventa pretutindeni jocuri variate.
 
-⁂
+<p class='separator'>⁂</p>
 
 Numai după o absență mai îndelungată (una din acele misterioase evadări, din care se întoarce cu surprinzătoare reportagii personale), numai după câteva săptămâni de lipsă, îmi dau seamă de valoarea prieteniei lui Buret. Aduce cu el sentimentul îndrăzneț că totul e posibil în viață, că toate femeile sunt de cucerit, toate ușile de deschis. Ciudat lucru: prevăzător cum îl știu, metodic și reflectat în tot ce face, îți dă totuși impresia că trăește cu spontaneitate. 
 
@@ -2465,7 +2469,7 @@ Marjorie are să scrie… Nu, Marjorie n’are să scrie, o știu și eu, o ști
 
 Deci încă un an aici.
 
-⁂
+<p class='separator'>⁂</p>
 
 La Exploatare, în Bulevardul Haussmann, il întâlnesc câte odată pe Pierre Dogany. Își face doctoratul de drept public și economie aici. S’a luptat cât s’a luptat la Budapesta și când a văzut că nu mai merge, a plecat. Are intenția însă să se întoarcă acolo îndată după teză. E decis să rămână ungur cu orice preț, cu orice efort. Mă și plictisește excesul lui de zel. Am impresia că regretă scrisoarea, pe care mi-a trimis-o acum doi ani la București. Nu-mi iartă faptul că-mi amintesc atât de bine deziluziile lui maghiare. Ar vrea să nu mi se fi plâns niciodată de persecuțiile suportate, să nu se fi denunțat niciodată, oprimat, gonit, contestat în ce are mai violent maghiar. Mie mi se pare excesiv acest devotament cu deasila.
 
@@ -2475,7 +2479,7 @@ M’am apropiat de el la ieșire să-l cunosc.
 
 Mi s’a recomandat și am aflat că îl chiamă Saul Berger. Aproape mi-a fost necaz de facilitatea simbolului, prea evident, ca să nu se impună, dar prea melodramatic pentru mine: doi evrei luptându-se unul cu altul pentru două victorii care nu sunt decât două abstracții. Destin, inevitabil destin.
 
-⁂
+<p class='separator'>⁂</p>
 
 Blidaru mă întreabă în ultima scrisoare, când am de gând să mă întorc în țară. Și-a oprit prin „Casa corpului didactic” un loc de construcție la Snagov și ar vrea să-i clădesc eu o vilă.
 
@@ -2536,7 +2540,7 @@ Deși cunosc absoluta absență morală în care trăește, am încercat din nou
 
 — O, funcționează excelent. Ca un bun plămân, ca un bun stomac. Am o conștiință în stare să digere cele mai grave crize. Asta, pentrucă nu mă păcălesc pe mine însumi și nu schimb într’o problemă morală, ceeace nu este decât o problemă tehnică. Ai jucat vreodată foot-bal? Eu am jucat. Cunoști în orice caz principiul general: să introduci balonul rotund în poarta adversarilor, respectând însă anumite reguli. Cea mai importantă, e să nu atingi mingea cu mâna. Perfect. Dacă vrei să joci football, trebue neapărat să accepți această regulă și să i te supui. Dacă nu accepți, nu joci. E simplu. Dar una e a respecta o regulă și alta este _a crede_ în ea. Că atingi sau nu atingi mingea cu mâna, acest fapt _în sine_ nu are absolut nici o valoare, nici o semnificație. El capătă un sens numai în cadrul jocului. Un moralist inițiat în foot-ball, n’ar întârzia însă să decreteze natura transcedentală a lovirii cu mâna. Ei bine, acest lucru este o afacere, la care nu „marchez”. Vezi noțiunea de „păcat” este pentru mine o abstracție. Nu există „păcat.” Există doar „lipsă de tact.”
 
-⁂
+<p class='separator'>⁂</p>
 
 N’am fost decât de vreo două ori la Buret acasă, pe vremea în care locuia cu maică-sa în apartamentele din Rue Vouillet. În amândouă rândurile, am avut impresia că îl stingheresc. Închidea cu precauție ușile și mă conducea grăbit prin coridor, spre odaia lui. O singură dată am zărit printr’o ușe întredeschisă o doamnă pe care am salutat-o încurcat, neștiind dacă trebue sau nu să mă prezint. El i-a spus doar în treacăt cu neglijență: „nu e nimic, un prieten” — și a trecut mai departe.
 
@@ -2582,7 +2586,7 @@ Am dejunat împreună, eu nerăbdător să-l ascult vorbind, el domol și potoli
 
 E o bună camaradă. Cred că n’am so uit niciodată și nu jur că într’o zi nu mă voi întoarce în România s’o văd și să vorbim de câte au trecut.
 
-⁂
+<p class='separator'>⁂</p>
 
 Bătrânul Ralph T. Rice a venit de vreo două zile și mi-a adus răspunsul maistrului la raportul meu. În teorie, punctul meu de vedere e acceptat. Dacă se va lucra, se va lucra la Dieppe. Avantagiile de teren sunt evidente, iar dezavantagiile comerciale în raport cu Havre nu există. Dar se va lucra? Greu de spus, pentru moment. Rice e mai degrabă înclinat să spună „nu”. Criza l-a speriat serios. Mai mult decât criza, l-a speriat starea de spirit din România. 
 
@@ -2612,7 +2616,7 @@ Chagall iubește iarba, fânul, arborii, dar nu știe cum să-i iubească. E pre
 
 Sinagoga mea din copilărie avea geamuri mici, albastre și roșii la ferestre. Lumina tablourilor lui Marc Chagall de acolo vine. Țin foarte bine minte cei doi lei de bronz, care proptiau din dreapta și din stânga tablele lui Moise. Îi revăd întocmai în desenele lui Chagall. E o nouă zoologie, trecută întâiu prin aur, prin bronz, prin țesături, un folclor de ornamente. Chagall descinde din această veche tradiție de sinagogă. E un talmudist sătul de abstracții, un hassid care a ieșit la câmp, unde va privi tulburat pasul lenes al boilor, va simți mirosul pământului ud, va urmări zborul scurt al vrăbiilor, dar nu va uita, nu va izbuti să uite clălinarea eternă a cititorului din sinagogă, deasupra cărților deschise.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am revenit în rue la Boëtie cu Maurice Buret. E un bun privitor de pictură, dar Chagall nu-i place. L-am simțit în fața tablourilor ostil, ostilitate obligatorie, pentru un om care în toată viața lui nu și-a îngăduit decât emoții sever măsurate. În autobuz, la întoarcere, mi-a explicat:
 
@@ -2652,7 +2656,7 @@ Naiv, Maurice Buret, care își imagina a-mi spune lucruri noui. Mi le-am denun�
 
 În ce mă privește, cred că drumul nu mi-ar fi greu, dacă el ar dacă el ar trece prin Montaigne și Stendhal.
 
-⁂
+<p class='separator'>⁂</p>
 
 I-am spus lui Maurice Buret: 
 
@@ -2688,7 +2692,7 @@ Nu numai Berlinul sau Viena, unde încordarea este maximă, dar Bucureștii chia
 
 — Nu știu. Văd. Văd timpurile care vin și înțeleg ce se poate și ce nu se poate.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am aflat cu surprindere că bătrânul Ralph Rice îl cunoaște pe S. T. H. și încă foarte bine. Au avut amândoi o convorbire de două ore, sus, în biroul din Bulevardul Haussmann. S. T. H. a lucrat în ultimul an pentru exploatarea Rice, la Berlin, unde dispune de informații și posibilități comerciale, pe care bătrânul Ralph le prețuește.
 
@@ -2700,7 +2704,7 @@ Austria nici vorbă că nu, extremul Orient trozmește. Nu mai e o criză de 7 s
 
 Bătrânul Ralph își privia încruntat călimara de parcă ar fi fost acolo, pe masa lui, prima doză din dinamita pe care o evoca S. T. Haim.
 
-⁂
+<p class='separator'>⁂</p>
 
 L-am prezentat lui Maurice Buret. Sătul de discuții sociale, căci avusese câteva cu mine și cu Rice, S. T. H. a fost admirabil. Din momentul în care nu se mai ocupă de destinele universului, e un băiat cu humor.
 
@@ -2716,7 +2720,7 @@ S’a aplecat peste masă și a silabisit confidențial: _„ab-so-lu-tul”_.
 
 _„Rien que ça”?_ a întrebat Buret.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu l-am văzut pe S. T. H. de patru zile. Azi dimineață deschid ziarul și observ în pagina treia: Mari arestări de comuniști în România. Numele lui S. T. Haim iese dintre rânduri cel dintâiu. Sunt înmărmurit. Am telefonat la hotel. Da, este exact: S. T. H. a părăsit Parisul în ziua de 12. Azi suntem în 18. Destul timp pentru ca să fi ajuns la București și să fi fost arestat.
 
@@ -2724,7 +2728,7 @@ Am scris în țară după vești, lui Pârlea și lui Marin. Nu înțeleg ce put
 
 Mi-e cu neputință să accept această indiferență a lucrurilor și mă urmărește fiecare amănunt al serii noastre, ca și cum fiecare ar ascunde un fragment de explicație. Costumul lui gris, cravata albastră cu puncte albe, țigările Chesterfield pe care le cumpărase în drum, dela debitul de lângă Chatelet….
 
-⁂
+<p class='separator'>⁂</p>
 
 Nici un răspuns dela Pârlea, niciunul dela Marin. În schimb un plic de băcănie, cu adresa scrisă de o mână grăbită. Deschid: e dela S. T. H. 
 
@@ -2766,7 +2770,7 @@ Absurda lui certitudine mă uluește. Nu, n’am să-l iau de umeri și n’am s
 
 Rămâi cu bine, S. T. H. Zece minute au trecut și ceasul Jilavei este mai exact decât ceasul istoriei. El măsoară cu minute și secunde, tu măsori cu decenii și veacuri.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am trecut pela „Central”, unde eram sigur că-l voi găsi pe Ștefan Pârlea. Nu se mișcă de aici din zori până după miezul nopții. Are în fund pe dreapta, lângă bar, o masă pe care toată lumea o știe proprietatea lui. La minister nu se mai duce de mult. A demisionat ca să fie liber. Liber pentru ce? Nu știu. Liber pentru „seara cea mare”. Ași fi vrut să-i spun că noua lui ținută de nihilist — pletos și neîngrijit — e o copilărie. Mi-era teamă însă că va izbucni, cu vechiul lui strigăt: „dumneata să taci! dumneata este un estet!”
 
@@ -2812,7 +2816,7 @@ Uneori izbucneste o ceartă de idei sau de palme la vreuna din mese, ceeace trez
 
 Este un basarabean bărbos, de vreo 20 de ani, despre care se spune că e fiu de fierar și geniu. A tradus din Alexandru Blok și se trezește din când în când recitând un vers din „Sciții” ca o chemare de trâmbiță.
 
-⁂
+<p class='separator'>⁂</p>
 
 Am găsit-o pe Vally singură, rezemală cu spatele de bar, și privind cu ochii întredeschiși, ca printr’un fum gros de țigare, nu știu ce. (Se privește foarte mult în vag la „Central”). E o fată frumoasă și bretonul ei lins îi păstrează un aer de cumințenie, pe care țigara nu-l înlătură cu totul. M’am apropiat de ea și i-am făcut o propunere care a surprins-o.
 
@@ -2916,7 +2920,7 @@ E primul om care intră în viața mea, fără să bată la ușe. Pe toți câț
 
 Un singur om necunoscut doarme lângă mine și am senzația că e o întreagă mulțime, care a intrat cu el. Nu mi-a spus nimic, nu i-am spus nimic, dar simt că nu mai am nici ce-i spune, nici ce-i ascunde. 
 
-⁂
+<p class='separator'>⁂</p>
 
 „Revoluție… Poate da. Într’o lună, în două, în trei, — spun băeții dela „Central”. Ștefan Pârlea precizează: „de Sfântul Gheorghe o să funcționeze spânzurătorile”. Se înșeală poate asupra datei și asupra instrumentelor. Nu se înșeală însă asupra atmosferei, care e sufocantă.
 
@@ -2940,7 +2944,7 @@ Am fost cu maistrul și cu profesorul Ghiță la Snagov să vedem parcela profes
 
 „Nu insistati, vă rog, nu insistati. Am sentimentul că nimic nu e mai ridicul astăzi, decât să construești ceva — nu importă ce. Știu precis că mâine se va cutremura pământul și eu astăzi mă pun să-mi ridic casă. Spuneți și voi dacă nu e comic. Nu se poate. Acuma e timp de dărâmat, nu de clădit.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Locuește mereu în aceiași casă din 1923. Toate sunt cum le-am cunoscut întâiu, geamul lung, dreptunghiular fără perdele, patul de campanie, cărțile, micul Breughel din perete… El însuși, în haina lungă de casă, sub bătaia aceleiași lămpi de birou, pare a fi rămas neschimbat. Vorbește rar, despicând lucrurile, verificând toate ipotezele, dându-și singur replica, respingându-și singur obiecțiile. Calm și stăpânit cum e, cine ar spune cât de arzătoare sunt problemele care îl preocupă? Am adesea, ascultându-l, impresia că mă aflu în fața unui chimist, care, cu o fiolă de ecrazită în mână, dizertează asupra calităților explozive ale corpului. Și omul acesta rece, e cel mai pasionat și mai tumultuos om.
 
@@ -2952,7 +2956,7 @@ El mi-a luat creionul din mână și i-a dus vârful spre mijlocul hărții: Vie
 
 Aplecat peste hartă, părea un general urmărind fazele unei lupte neangajate, dar inevitabilă.
 
-⁂
+<p class='separator'>⁂</p>
 
 Cum nu este prea mult de lucru în atelier, mă duc aproape regulat la cursul lui Ghiță Blidaru. Căderea lirei în Anglia, alimentează de trei săptămâni lecțiile cu o vivacitate de romanfoileton. Dela o prelegere la alta, o nouă serie de certitudini monetare se prăbușește. Profesorul primește buletinul dezastrelor, cu o seninătate de aprecieri tehnice, sub care nu mie greu să ghicesc satisfacția de a urmări etapele descompunerii generale. Nu cred dealtminteri că îl interesează fenomenul monetar în sine, ci numai ca simptom al lichidării și ca element al ei. O monedă tare însemnează în orice caz o axă de valori, care garantează prin reflex stabilitatea tuturor valorilor, pe orice plan s’ar găsi ele, de economie sau de cultură. Stabilitate provizorie evident, dar deocamdată reală. Dimpotrivă, o inflație monetară provoacă simultane inflații, pe toate planurile de viață, pe al psichologiei colective în primul rând. (Germamania revoluționară nu se datorește în bună parte anilor de inflație? Întrebare de pus lui Blidaru).
 
@@ -2976,7 +2980,7 @@ Toată noaptea am așteptat vești. Nu dela Uioara, cu care orice comunicație e
 
 Maistrul părea absent. O singură dată mi-a spus: „Ași fi trist dacă ni s’ar distruge Uioara.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Ziarele de dimineață sunt alarmate și confuze. Nimeni nu știe exact ce se întâmplă. Dela Exploatare au plecat pentru tratative doi directori însoțiți de un delegat al ministerului muncii și precedați de câteva plutoane de jandarmi. Lucrurile s’ar putea fără îndoială aranja, dacă ar fi numai un conflict de muncă. Este numai atât? Nu cred.
 
@@ -2988,7 +2992,7 @@ La „Central” e un entuziasm unanim. Pe calea Victoriei o rumoare de războiu
 
 „Mă, simt că a venit timpul nostru. Simt că ieșim din mediocritate. Prin sânge, prin flacări, dar ieșim. Altfel nu se putea, altfel ne închirciam. Când te sufoci într’o casă inundată de gaz aerian, nu stai să deschizi ferestrele: le spargi.”
 
-⁂
+<p class='separator'>⁂</p>
 
 Am încercat să plecăm în ascuns la Uioara maistrul, Dronțu și eu, cu Fordul lui Hacker, care oricum nu mai are mult de pierdut. A fost însă peste putință. Ne-au întors jandarmii dela Câmpina înapoi.
 
@@ -2996,7 +3000,7 @@ Ce s’a întâmplat dincolo? Nimeni nu știe. Umblă cele mai sinistre svonuri.
 
 Un ceas de spasm! un ceas de spasm! Parcă aud glasul lui S. T. H.
 
-⁂
+<p class='separator'>⁂</p>
 
 Vieru e deprimat. A crezut în durabilitatea lucrurilor dela Uioara și acum izbucnirea neașteptată a dezastrului îl dezorientează. Sunt atâția ani de muncă ce se duc într’o noapte, într’o clipă. Dacă știrile despre incendiu se confirmă, atunci ce va rămâne pe urma construcțiilor lui? Câteva planșe, câteva fotografii…
 
@@ -3006,7 +3010,7 @@ Ghiță Blidaru triumfă fără orgoliu. Cred că și fără bucurie. A venit la
 
 — Din nefericire încă nu. Cu un incendiu nu faci o revoluție. Ce se întâmplă acum la Uioara este desigur în ordinea naturală a lucrurilor. Zece ani au vorbit sondele și acum vorbesc prunii. Glasul lor vine mai de departe și deaceea era obligatoriu să se facă auzit. Dar să nu ne înșelăm. Deocamdată e insuficient. Noi avem de ars o întreagă istorie, nu trei sonde. Rămân de distrus atât de multe lucruri, încât Uioara nu termină nimic. Suntem la început.
 
-⁂
+<p class='separator'>⁂</p>
 
 O apariție senzațională la Exploatare: Eva Nicholson. A venit singură, într’o mașină de două locuri și pleacă peste două ceasuri înapoi. Poartă un training, peste care a aruncat o manta albă de cauciuc. E palidă, calmă și foarte ostenită, dar complect lipsită de emoție.
 
@@ -3018,7 +3022,7 @@ O apariție senzațională la Exploatare: Eva Nicholson. A venit singură, într
 
 Totuși, lucrurile la Uioara nu sunt chiar atât de grave. Eva Nicholson ne-a liniștit. În primul rând nu s’a distrus nimic, sau aproape nimic. S’a jefuit pe ici pe colo și s’a făcut scandal. Jandarmii au tras. Muncitorii s’au încuiat în uzină și rafinărie. Dacă în 24 de ore nu ies de acolo, jandarmii vor trage iar. Până în trei zile, totul va fi lichidat.
 
-⁂
+<p class='separator'>⁂</p>
 
 Liniște. Bătrânul Ralph T. Rice a sosit eri. Ultimul buletin dela Uioara anunță evacuarea tuturor clădirilor. Se triază pentru moment „instigatorii” și se face instrucția. E posibil să se reia lucrul săptămâna viitoare la sonde și rafinărie. La uzina electrică, a și început lucrul, cu echipe reduse. Comunicatul ministerului de interne vorbește de 4 morți și câțiva răniți ușor.
 
@@ -3068,7 +3072,7 @@ Se întâmplă exact acelaș lucru cu acest străvechiu strigăt de moarte, care
 
 Din senin? Exagerez. Trebue pentru asta un timp de oboseală, de enervare, un timp de așteptări extenuate, un timp descurajat. Atunci, vocile care nu se auziau, se aud.
 
-⁂
+<p class='separator'>⁂</p>
 
 La Snagov, pe șantier, pe schele, între oameni care lucrează, între pietre, ciment și bârne, nu există probleme. Problemele încep, de cum mă întorc în oraș.
 
@@ -3084,13 +3088,13 @@ Trebue făcut ceva pentru nervii care nu mai rezistă, trebue deschisă o nouă 
 
 Sunt câțiva băeți care strigă pe stradă „moarte jidanilor”. Nu e rău pentru moment.
 
-⁂
+<p class='separator'>⁂</p>
 
 E așa de greu să urmărești dela zi la zi, încordarea progresivă a ostilităților. Te trezești deodată încolțit din toate părțile, fără să știi nici cum, nici când. Mici fapte răslețe, mici gesturi fără însemnătate, mici amenințări aruncate în vânt. Astăzi o ceartă în tramvaiu, mâine un articol de gazetă, poimâine un geam spart. Toate par întâmplătoare, fără legătură, pe jumătate glumețe. Într’o bună dimineață, simți că nu mai poți respira.
 
 Ce este mai greu de înțeles, e că nimeni, absolut nimeni, nu are în povestea asta nici o vină.
 
-⁂
+<p class='separator'>⁂</p>
 
 Un moment groaznic la atelier. M’am certat cu Dronțu.
 
@@ -3110,7 +3114,7 @@ Am ciudata impresie că Marin Dronțu este un nume străin, dintr’o carte. Nu 
 
 Am dormit liniștit, fără vise. Toată ziua am lucrat.
 
-⁂
+<p class='separator'>⁂</p>
 
 A fost Marjorie la Snagov. Eram pe schele și și când am văzut-o de departe, în alb, am tresărit, de parcă ași fi revăzut cu ani în urmă la Uioara, imaginea Marjoriei Dunton. Am invitat-o în odaia mea, la o sută de pași de construcție, lângă lac. Abia acum îmi dam seama cât de bine seamănă încăperea asta cu vechea noastră cabană de pe vremuri.
 
@@ -3181,13 +3185,13 @@ Winkler i-a strigat pe cei doi băeți și le-a cumpărat o gazetă.
 
 Ne-am strâns mâinile. Ași fi vrut să-l îmbrățișez, dar mă temeam de tulburarea pe care ar fi adus-o această efuziune în stăpânita noastră despărțire. Ne-am strâns mâinile.
 
-⁂
+<p class='separator'>⁂</p>
 
 Ași vrea să învingă, dar mi-e greu să cred în victoria lui. Ași vrea să găsească între portocalii lui palestinieni, pacea pe care fiecare o căutăm unde ne-a fost scris; S. T. Haim la Jilava, Abraham Sulitzer pe drumuri și în cărți, Arnold Max în poezie, eu pe șantier, clădind. Vaporul care-l duce spre Haifa, va despica printre valuri un drum ce suie poate către o nouă istorie iudeie. Duce el spre o pace iudeie? Nu știu, nu cred, nu îndrăznesc să cred.
 
 Două mii de ani nu se pot totuși suprima cu o plecare. Ar trebui uitați, rana lor arsă cu fierul, melancolia lor retezată cu coasa. Sunt însă cu adevărat prea mulți, pentru a ne rupe de ei. Trăim mereu cu amintirea lor tulbure, venind de departe și mărginind cu un cerc de negură orizonturile viitoare. Foarte rar, străbate prin ceața lor o lumină dintr’o istorie de arme, de victorii, de regate. Se mai poate face cu atâta lucru o istorie?
 
-⁂
+<p class='separator'>⁂</p>
 
 Winkler are foarte multe lucruri de cucerit — și le va cuceri. Dar are unul de pierdut și pe acesta nu știu dacă va izbuti să-l piardă. Are de pierdut obișnuința de a suferi, are de pierdut vocația pentru durere. Este o aptitudine prea dezvoltată, un instinct prea sigur, ca să cedeze în fața unei vieți oricât de simplă. Această rădăcină amară rezistă tuturor anotimpurilor și niciodată nu va fi prea târziu ca să-și dea fructele ei triste, în cea mai calmă vară a sufletului tău păcălit de o liniște mereu înșelătoare. Vei regăsi într’o zi un ceas de spaimă și vei învăța iar, ceeace mereu ai învățat și mereu ai uitat: că de oriunde poți evada, numai din tine, nu.
 
@@ -3306,13 +3310,13 @@ M’au trezit târziu aclamațiile, strigătele, tunetul de aplause. Din galerii
 
 Evident.
 
-⁂
+<p class='separator'>⁂</p>
 
 Un ceas de spasm, un ceas de spasm… O lume care moare, o lume care se naște… Istoria care se împarte în două… un ev mort… un ev viu…
 
 Să nu vă speriați, bătrânii mei domni. Nu veți pierde nimic, nici ce ați crezut, nici ce n’ați crezut, nici capul, nici banii, nici micile voastre certitudini, nici micile voastre îndoeli. Toate rămân pe loc, toate vor fi cum sunt. Există întâmplător un strigăt care revine la timp, ca să calmeze marile indignări și să cumințească marile revoluții. Există o moarte ieftină, care se cere mai ușor decât moartea voastră scumpă. Există un neam de oameni gata să plătească la timp pentru voi, pentru sătui, pentru flămânzi, pentru albi, pentru roșii, pentru slabi, pentru grași. Nu spuneți că e un neam de bancheri? Să plătească deci.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu, nu, nu, de o mie de ori nu. Nu trebue să reiau dela capăt caetul din 1923. Dacă nu-mi retez imediat gustul meu de martiragiu — sunt pierdut.
 
@@ -3320,7 +3324,7 @@ Nu, nu, nu, de o mie de ori nu. Nu trebue să reiau dela capăt caetul din 1923.
 
 („Paza ultimului meu ceas” este încă prea retoric. Apreape un strigăt. Iubitul meu amic, oameni care strigă sunt destui. Tu încearcă să vorbești sau să taci.)
 
-⁂
+<p class='separator'>⁂</p>
 
 L-am întrebat pe Pârlea: 
 
@@ -3358,13 +3362,13 @@ Scriind, am impresia că mă înduioșez asupra „tristei mele soarte”, cum s
 
 E timpul să mă opresc. M’am înduioșat de tot și am devenit retoric. Vom relua mâine, mai puțin sentimental.
 
-⁂
+<p class='separator'>⁂</p>
 
 Este în sensibilitatea românească o regiune morală, în care mă simt acasă: Muntenia. E postul de observație în cultura țării, postul de control, de verificare, de judecată. Moldova e mai fertilă, dar și mai confuză: resursele ei de creație sunt nesfârșit mai complexe, dar inegale, învălmășite, tumultoase. Spirilul muntean are o răceală în care recunosc cu bucurie jocul puțin steril dar ordonator al inteligenții. E mai mult metal dincoace de Milcov.
 
 În ostilitatea lui Pârlea cred că nu este numai dezacordul român-evreu, ci și opunerea moldovean-muntean. I-am spus-o și asta l-a făcut să râdă. „Iată-te acum și valach.” Am primit gluma fără supărare și am acceptat să meditez serios asupra ei. Dacă Valachia însemnează nu atât un despărțământ geografic, cât unul psihologic, și dacă un neam valach nu există, ci numai un climat valach, atunci da, eu sunt în ordinea valorilor românești, un valach, un muntean. Învălmășeala gândirii lui Pârlea, obscuritățile acestei gândiri, salturile ei, naivitățile ei generoase, toate vin dintr’o sensibilitate despletită, lirică, retorică, cu cu care S. T. H. fălticenean, poate simpatiza direct, dar care în lumina de zi a șesului dunărean, apare ca un fel de zadarnică alergare după umbre ce nu există.
 
-⁂
+<p class='separator'>⁂</p>
 
 Nu voi înceta desigur niciodată să fiu evreu. Asta nu e o funcțiune din care să poți demisiona. Ești sau nu ești. Nu e vorba nici de orgoliu, nici de jenă.
 
@@ -3396,3 +3400,6 @@ Ne vom uita, alba mea vilă dela Snagov, tu pentru a-ți primi în fiecare zi so
 
 Iată aici ni se despart drumurile: ești ceeace mereu am visat să fiu — un lucru simplu, curat și calm, cu o inimă egală deschisă tuturor anotimpurilor.
 
+---
+
+__Această ediție__ a fost realizată după Mihail Sebastian, _De două mii de ani_, prima ediție, apărută la ..., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente. Am înglobat, de asemenea, erata prezentă la sfârșitul volumului.

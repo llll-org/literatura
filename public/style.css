@@ -1,0 +1,19 @@
+html {
+	font-size: 130%;
+}
+
+body {
+	font-family: 'Crimson Pro', sans-serif;
+	line-height: 1.33;
+	max-width: 33rem;
+	margin: 0 auto;
+	padding: 0.5rem;
+}
+
+header {
+	text-align: center;
+}
+
+.logo {
+	font-style: italic;
+}
