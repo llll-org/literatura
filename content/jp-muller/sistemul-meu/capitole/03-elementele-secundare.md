@@ -1,4 +1,4 @@
-# III. Elementele secundare ale sănătății sau mica hygienă.
+# III. Elementele secundare ale sănătății sau mica hygienă
 
 Până aci am examinat ceea-ce vom numi elementele primordiale ale unei bune sănătăți: exercițiul plămânilor, al pielii, al mușchilor și în acelaș timp aer proaspăt, lumină solară și apă. Aceasta e marea hygienă.
 

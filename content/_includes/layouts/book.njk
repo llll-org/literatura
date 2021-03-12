@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>{{ autor }} — {{ titlu }} ({{an}})</title>
+		<title>{{ autor }} — {{ titlu }} {% if an %}({{an}}){% endif %} · llll</title>
 		<link rel="stylesheet" type="text/css" href="/style.css">
 		<link rel="stylesheet" type="text/css" href="/book.css">
 		<link rel="stylesheet" type="text/css" href="/fonts/crimson-pro.css">
@@ -13,7 +13,7 @@
 			<a class='logo' href='/'>Edițiile llll</a>
 		</header>
 		<article class='book'>
-			<h1>{{ autor }} — {{ titlu }} ({{an}})</h1>
+			<h1>{{ autor }} — {{ titlu }} {% if an %}({{an}}){% endif %}</h1>
 			{{ content | safe }}
 		</article>
 	</body>
