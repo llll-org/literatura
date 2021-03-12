@@ -2,6 +2,7 @@
 	font-family: 'Crimson Pro';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: local('Crimson Pro'), url('./CrimsonPro-Regular.woff') format('woff');
 }
 
@@ -9,6 +10,7 @@
 	font-family: 'Crimson Pro';
 	font-style: italic;
 	font-weight: 400;
+	font-display: swap;
 	src: local('Crimson Pro'), url('./CrimsonPro-Italic.woff') format('woff');
 }
 
@@ -16,6 +18,7 @@
 	font-family: 'Crimson Pro';
 	font-style: normal;
 	font-weight: 700;
+	font-display: swap;
 	src: local('Crimson Pro'), url('./CrimsonPro-Bold.woff') format('woff');
 }
 
@@ -23,5 +26,6 @@
 	font-family: 'Crimson Pro';
 	font-style: italic;
 	font-weight: 700;
+	font-display: swap;
 	src: local('Crimson Pro'), url('./CrimsonPro-BoldItalic.woff') format('woff');
 }

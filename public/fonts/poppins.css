@@ -2,6 +2,7 @@
 	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 600;
+	font-display: swap;
 	src: local('Crimson Pro'), url('./PoppinsLatin-SemiBold.woff') format('woff');
 }
 
@@ -9,5 +10,6 @@
 	font-family: 'Poppins';
 	font-style: italic;
 	font-weight: 600;
+	font-display: swap;
 	src: local('Poppins'), url('./PoppinsLatin-SemiBoldItalic.woff') format('woff');
 }
