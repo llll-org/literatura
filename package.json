@@ -1,7 +1,7 @@
 {
-  "name": "literatura",
+  "name": "llll",
   "version": "1.0.0",
-  "description": "Arhiva de literatură",
+  "description": "An archive of Romanian works in the public domain.",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/llll-org/literatura.git"
+    "url": "git+https://github.com/llll-org/llll.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/llll-org/literatura/issues"
+    "url": "https://github.com/llll-org/llll/issues"
   },
-  "homepage": "https://github.com/llll-org/literatura#readme",
+  "homepage": "https://github.com/llll-org/llll#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1"
   }
