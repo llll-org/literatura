@@ -1,10 +1,15 @@
 .book {
 	margin-bottom: 3rem;
+	--indent: 1rem;
 }
 
 .book .separator {
 	text-align: center;
 	margin: 1rem 0;
+}
+
+.book section + section {
+	margin-top: 5rem;
 }
 
 .book hr {
@@ -13,16 +18,6 @@
 	width: 50%;
 	margin: 2rem auto;
 	background: rgba(0,0,0,0.1);
-}
-
-.book p {
-	margin: 0;
-	text-indent: 1rem;
-}
-
-.book h1, .book h2, .book h3, .book h4, .book h5, .book h6 {
-	/*text-align: center;*/
-	text-indent: 1rem;
 }
 
 .book p:empty:after {
@@ -34,10 +29,45 @@
 	margin: 1rem;
 }
 
-.book blockquote p:only-of-type {
-	text-indent: 0;
-}
-
 .book blockquote em {
 	font-style: normal;
 }
+
+/*
+	Style: prose
+	------------
+ */
+
+.book--prose h1, 
+.book--prose h2, 
+.book--prose h3, 
+.book--prose h4, 
+.book--prose h5, 
+.book--prose h6 {
+	text-indent: var(--indent);
+}
+
+.book--prose p {
+	margin: 0;
+	text-indent: var(--indent);
+}
+
+.book--prose blockquote p:only-of-type {
+	text-indent: 0;
+}
+
+.preamble h1, 
+.preamble h2, 
+.preamble h3, 
+.preamble h4, 
+.preamble h5, 
+.preamble h6,
+.preamble p {
+	text-indent: 0;
+	margin: 1rem 0;
+}
+
+/*
+	Style: reference
+	----------------
+ */

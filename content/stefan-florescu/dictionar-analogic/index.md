@@ -2,6 +2,7 @@
 titlu: Dicționar analogic
 autor: Ștefan Florescu
 an: 1938
+book_style: reference
 ---
 
 La sfârșitul grupului fiecărui cuvânt central urmează, după litera __v.__, cuvintele centrale antonime acestuia, sau de un înțeles contrariu, mai larg.

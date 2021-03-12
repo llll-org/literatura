@@ -2,7 +2,10 @@
 titlu: Urmuz
 autor: Urmuz
 an: 1930
+book_style: prose
 ---
+
+<section class='preamble'>
 
 Colecția Editurii UNU, 1930
 
@@ -16,6 +19,8 @@ Ediție făcută de Sașa Pană
 >
 > 13 Octombrie 1930.
 
+---
+
 ## Cuprinsul
 
 * [Pîlnia și Stamate](#pilnia-si-stamate)
@@ -27,6 +32,10 @@ Ediție făcută de Sașa Pană
 * [După furtună](#dupa-furtuna)
 * [Fuchsiada](#fuchsiada)
 * [Cronicari](#cronicari)
+
+</section>
+
+<section>
 
 ## Pîlnia și Stamate 
 
@@ -80,6 +89,10 @@ Cât despre eroul nostru, Stamate, pentru ultima oară cătînd prin tubul de co
 
 Suindu-se apoi pentru totdeauna în căruciorul cu manivelă, luă direcția spre capul misterios al canalului și mișcînd manivela cu o stăruință crescîndă aleargă și astăzi, nebun, micșorîndu-și mereu volumul, cu scopul de a putea odată pătrunde și dispărea în înfinitul mic.
 
+</section>
+
+<section>
+
 ##  Ismaïl și Turnavitu
 
 Ismaïl este compus din ochi, favoriți și rochie și se găsește astăzi cu foarte mare greutate.
@@ -102,6 +115,10 @@ Fire afară din cale sensibilă și neputînd suporta o atare umilință, disper
 
 Înainte de moarte se răsbună grozav pe Ismaïl căci punînd să i se fure acestuia toate rochile, cu gaz dintr’însul le dădu foc pe un maidan. Redus astfel la mizerabila situație de a rămîne compus numai din ochi și favorit, Ismaïl abia mai avu puterea să se tîrască pînă la marginea pepinierei cu viezuri; acolo căzu el în stare de decrepitudine și în această stare a rămas și pînă în ziua de azi…
 
+</section>
+
+<section>
+
 ## Gayk
 
 Gayk este singurul civil care poartă pe umărul drept un susținător de armă. El are gîtlejul totdeauna supt și moralul foarte ridicat. Nu poate fi ostil multă vreme cuiva, dar din privirea-i piezișe, din direcțiunea ce ia uneori nasul său ascuțit precum și din împrejurarea că este aproape în permanență ciupit de vărsat și cu unghiile netăiate, îți face impresia că este în tot momentul gata să sară pe tine pentru a te ciuguli.
@@ -119,6 +136,10 @@ Gayk nu are copii. A adoptat însă pe cînd era încă elev în gimnaziu pe o n
 Foarte sîrguitoare și conștiincioasă, această nepoată a sa ajunge în scurt timp la maturitate și observînd într’una din zile că a reușit să dobîndească o cultură generală, a cerut iubitului său unchiu să o libereze din pension și să fie acasă la cîmp… Încurajată că a fost atît de ușor satisfăcută, ea nu pregetă mai tîrziu să ceară să i se garanteze și accesul la mare. Gayk atunci, drept orice răspuns, sări brusc asupra ei și o ciuguli de nenumărate ori; ceiace dînsa găsind că i s’a făcut contra ori cărui uz internațional și fără nici un avis prealabil se consideră în stare de răsboi, răsboi care îi ținură angajați mai mult ca trei ani de zile și pe un front de aproape șapte sute de kilometrii. Amîndoi luptară avînd hrana în bani și cu foarte mult eroism, însă în cele din urmă Gayk fiind avansat mareșal pe cîmpul de luptă și negăsind acolo nici un ceaprazar militar pentru a-și pune galoanele noului său grad, renunță de a se mai bate și ceru pace. Aceasta conveni dealtfel de minune și nepoatei sale, care tocmai atunci căpătase un foruncul și căreia, rămasă cu retragerea tăiată, nu i se mai trimitea de neutrii nici fasole nici benzină.
 
 Primul schimb de prizonieri îl făcură la cassa Teatrului de operațiuni, obținînd pentru el prețuri modeste. După aceia conveniră să încheie o pace rușinoasă. Gayk își luă angajamentul să renunțe pentru totdeauna de a mai ciuguli pe cineva, mărginindu-se de aci înainte numai la cîte o litră de grăunțe ce se obliga nepoata să-i aducă zilnic sub garanția și controlul Marilor Puteri; iar nepoata sa obținu în sfîrșit o fășie lată de doi centimetri pînă la mare, însă iără dreptul de a se dispensa de pantaloni de baie. Totuși în cele din urmă amîndoi rămaseră pe deplin satisfăcuți, căci o clauză secretă a tratatului le dădea dreptul să-și poată ridica fiecare pe viitor cît va putea mai sus moralul.
+
+</section>
+
+<section>
 
 ## Plecarea în străinătate
 
@@ -138,6 +159,10 @@ Desgustat de viață și încărcat de glorie și de ani, își scoase căciula 
 
 De vreți cu toți, în timpul nopții, un somn în tihnă să gustați,<br/>
 Nu faceți schimb de ilustrate cu cel primar din Cîrligați
+
+</section>
+
+<section>
 
 ## Cotadi și Dragomir
 
@@ -162,6 +187,10 @@ Dragomir are o inimă foarte bună. Cînd vede pe iubitul său Cotadi că, cu to
 Pentru toate aceste importante servicii, precum și pentru acele că ține contabilitatea prăvăliei, că dă în fiecare zi grăunțe la păsări și că-l reprezintă pe Cotadi ca procurator mai în toate procesele ce le are, Dragomir este răsplătit cu vîrf și îndesat, putînd să ia ori și cînd la Cotadi masa de seară ce se compune din piciorușe de caracatiță și pîine; pe lîngă aceasta se mai adaugă în fiecare Duminică și sărbători bisericești cîte un lighean mare plin cu scorușe, în care de multe ori, se ascunde cîte un bobinaș de armiciu pentru dres ciorapii,— ceiace face lui Dragomir o surpriză din cele mai plăcute. În plus Dragomir mai are dreptul ca, de cîte ori va fi timp de ploaie, să poată împreună cu întreaga sa familie petrece noaptea în jumătatea din stînga unei firide situată în zidul dela poarta locuinței lui Cotadi; cealaltă fiind rezervată pentru vardistul de zi.
 
 De multă vreme nu se mai aude vorbindu-se nimic de cei doi mari eroi. Ultima veste ce se mai știe despre dînșii este că, om practic, Cotadi, și conștient pe ce amic prețios și excepțional a pus mîna, spre a putea acapara pentru totdeauna sursa eternă a bogățiilor din capul lui Dragomir a lăsat prin testament ca să fie îngropat în aceiaș groapă cu acesta, în speranța că din cîte două picături de undelemn franțuzesc, de cea mai fină calitate ce se scurg la fiecare secundă din smocurile de păr ale acestuia, vor răsări cu timpul livezi întregi de măslini deasupra, livezi cari împreună cu terenul devenind de drept proprietatea familiei sale, aceasta va avea astfel la îndemînă destul undelemn gratuit spre a întreține candela după obiceiul creștinesc.
+
+</section>
+
+<section>
 
 ## Algazy & Grummer¹
 
@@ -207,6 +236,10 @@ Ne permitem a arăta mai sus cititorilor cum ar fi putut și cum ar fi putut să
 
 Cerem scuze D–lor Algazy & Grummer pentru observările ce ne permiserăm mai sus; o facem însă și din dorinta de a-i servi, deșteptîndu-i din vreme asupra măsurilor mai nimerite de îndreptare în această privință.
 
+</section>
+
+<section>
+
 ## După furtună
 
 Ploaia încetase și ultimele rămășițe de nouri se împrăștiaseră cu totul… Cu vestmintele ude și părul în dezordine, rătăcia în întunericul nopții, căutînd un locaș de adăpost…
@@ -230,6 +263,10 @@ El însăși îndurerat și decepționat de pe urma atîtor încercări rele pri
 După aceia, regretînd sincer ceiace făcuse, dar totuși cu mult profitat moralmente, se dete jos, se scutură cu un centimetru și intonînd cîntecul libertății vîrî găina sub gheroc și dispăru cu ea în întuneric…
 
 Se crede că ar fi apucat drumul spre orașul său natal, unde, sătul de burlăcie, s’ar fi hotărît ca împreună cu dînsa să întemeieze un cămin și să devină folositor semenilor săi, învățîndu-i arta moșitului.
+
+</section>
+
+<section>
 
 ## Fuchsiada
 
@@ -333,6 +370,10 @@ Alergă de își scoase umbrela dela reparat și luînd și pianul cu sine disp�
 
 De acolo muzica se radiază cu egală putere în toate direcțiunile făcînd astfel să se împlinească în parte cuvîntul Destinului recunoscător care-i hărăzi ca prin gamele, concertele și etudele sale de staccato să ducă departe acel cuvînt și grație lor, prin forța educației, să facă să apară cu timpul pe această planetă o rasă mai bună și mai superioară de oameni, spre gloria sa, a pianului și a Eternității…
 
+</section>
+
+<section>
+
 ## Cronicari
 
 _Fabulă_
@@ -357,6 +398,8 @@ Servește-te de cartof!”
 ### Morala
 
 Pelicanul sau babița.
+
+</section>
 
 ---
 

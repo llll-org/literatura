@@ -1,6 +1,7 @@
 ---
 titlu: Sistemul Meu
 autor: J. P. Müller
+book_style: reference
 ---
 
 

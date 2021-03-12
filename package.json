@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "eleventy serve",
+    "start": "eleventy --serve",
     "build": "eleventy",
     "deploy": "npm run build && ./deploy.sh"
   },
