@@ -23,10 +23,10 @@ Tradus de N-M, Editura Librăriei „Universala” Alcalay & Co.; București, Ca
 * [V. Descrierea Exercițiilor](#v-descrierea-exercitiilor)
 ---
 
-{% include capitole/00-01-notita-biografica.md %}
-{% include capitole/00-02-prefata-editiei-franceze.md %}
-{% include capitole/01-sanatate-si-boala.md %}
-{% include capitole/02-diferite-sisteme.md %}
-{% include capitole/03-elementele-secundare.md %}
-{% include capitole/04-observatii-particulare.md %}
-{% include capitole/05-descrierea-exercitiilor.md %}
+{% include ./capitole/00-01-notita-biografica.md %}
+{% include ./capitole/00-02-prefata-editiei-franceze.md %}
+{% include ./capitole/01-sanatate-si-boala.md %}
+{% include ./capitole/02-diferite-sisteme.md %}
+{% include ./capitole/03-elementele-secundare.md %}
+{% include ./capitole/04-observatii-particulare.md %}
+{% include ./capitole/05-descrierea-exercitiilor.md %}
