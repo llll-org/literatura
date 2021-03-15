@@ -5,7 +5,7 @@ layout: layouts/home.njk
 ## Literatură
 
 <div class='book-covers'>
-	<a class='book-cover' href='./urmuz/urmuz' style='--bg-color: tomato; --fg-color: black'>	
+	<a class='book-cover' href='./urmuz/urmuz' style='--bg-color: #6764ab; --fg-color: white'>	
 		<span class='book-author'>Urmuz</span>
 		<span class='book-title'>Urmuz</span>
 		<span class='book-year'>1930</span>
@@ -15,7 +15,7 @@ layout: layouts/home.njk
 		<span class='book-title'>De două mii de ani</span>
 		<span class='book-year'>1934</span>
 	</a>
-	<a class='book-cover' href='./max-blecher/inimi-cicatrizate' style='--bg-color: #6764ab; --fg-color: white'>	
+	<a class='book-cover' href='./max-blecher/inimi-cicatrizate' style='--bg-color: #e52220; --fg-color: white'>	
 		<span class='book-author'>Max Blecher</span>
 		<span class='book-title'>Inimi cicatrizate</span>
 		<span class='book-year'>1937</span>
@@ -29,11 +29,6 @@ layout: layouts/home.njk
 		<span class='book-author'>Ștefan Florescu</span>
 		<span class='book-title'>Dicționar analogic</span>
 		<span class='book-year'>1938</span>
-	</a>
-	<a class='book-cover' href='./jp-muller/sistemul-meu' style='--bg-color: #e52220; --fg-color: white'>	
-		<span class='book-author'>J.P. Müller</span>
-		<span class='book-title'>Sistemul Meu</span>
-		<span class='book-year'></span>
 	</a>
 </div>
 
