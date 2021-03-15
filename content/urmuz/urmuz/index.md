@@ -29,7 +29,7 @@ Ediție făcută de Sașa Pană
 * [Gayk](#gayk)
 * [Plecarea în străinătate](#plecarea-in-strainatate)
 * [Cotadi și Dragomir](#cotadi-si-dragomir)
-* [Algazy & Grummer](#algazy-grummer1)
+* [Algazy & Grummer](#algazy-si-grummer)
 * [După furtună](#dupa-furtuna)
 * [Fuchsiada](#fuchsiada)
 * [Cronicari](#cronicari)
@@ -38,7 +38,7 @@ Ediție făcută de Sașa Pană
 
 <section>
 
-## Pîlnia și Stamate 
+<h2 id='pilnia-si-stamate'>Pîlnia și Stamate</h2>
 
 _Roman în patru părți_
 
@@ -94,7 +94,7 @@ Suindu-se apoi pentru totdeauna în căruciorul cu manivelă, luă direcția spr
 
 <section>
 
-##  Ismaïl și Turnavitu
+<h2 id='ismail-si-turnavitu'>Ismaïl și Turnavitu</h2>
 
 Ismaïl este compus din ochi, favoriți și rochie și se găsește astăzi cu foarte mare greutate.
 
@@ -120,7 +120,7 @@ Fire afară din cale sensibilă și neputînd suporta o atare umilință, disper
 
 <section>
 
-## Gayk
+<h2 id='gayk'>Gayk</h2>
 
 Gayk este singurul civil care poartă pe umărul drept un susținător de armă. El are gîtlejul totdeauna supt și moralul foarte ridicat. Nu poate fi ostil multă vreme cuiva, dar din privirea-i piezișe, din direcțiunea ce ia uneori nasul său ascuțit precum și din împrejurarea că este aproape în permanență ciupit de vărsat și cu unghiile netăiate, îți face impresia că este în tot momentul gata să sară pe tine pentru a te ciuguli.
 
@@ -142,7 +142,7 @@ Primul schimb de prizonieri îl făcură la cassa Teatrului de operațiuni, obț
 
 <section>
 
-## Plecarea în străinătate
+<h2 id='plecarea-in-strainatate'>Plecarea în străinătate</h2>
 
 Din toate preparativele voiajului, cea mai mare parte erau îndeplinite; în cele din urmă reuși să plătească și chiria, ajutat fiind de cele două bătrîne rațe ale sale și care nici de astădată nu-l lăsară să alerge la mila vecinilor. Singurul lucru ce îi cereau în schimb, era ca să fie și ele primite, cel puțin o oră pe zi, în camera sa de lucru care exala un așa de dulce și îmbătător miros de ciurciuvele. Se sui în corabie.
 
@@ -165,7 +165,7 @@ Nu faceți schimb de ilustrate cu cel primar din Cîrligați
 
 <section>
 
-## Cotadi și Dragomir
+<h2 id='cotadi-si-dragomir'>Cotadi și Dragomir</h2>
 
 Cotadi este scurt și pîntecos, cu musculatura proeminentă, cu picioarele îndoite de două ori în afară și odată înăuntru și veșnic neras. Părul negru ca pana corbului e plin de mătreață și încărcat cu sclipitori și scumpi piepteni de bagà.
 
@@ -193,7 +193,7 @@ De multă vreme nu se mai aude vorbindu-se nimic de cei doi mari eroi. Ultima ve
 
 <section>
 
-## Algazy & Grummer¹
+<h2 id='algazy-si-grummer'>Algazy & Grummer¹</h2>
 
 Algazy este un bătrîn simpatic, știrb, zîmbitor și cu barba rasă și mătăsoasă, frumos așezată pe un grătar înșurupat sub bărbie și împrejmuit cu sîrmă ghimpată…
 
@@ -241,7 +241,7 @@ Se pare că remediul nu ar putea fi de cît unul și singur: sau să-și găseas
 
 <section>
 
-## După furtună
+<h2 id='dupa-furtuna'>După furtună</h2>
 
 Ploaia încetase și ultimele rămășițe de nouri se împrăștiaseră cu totul… Cu vestmintele ude și părul în dezordine, rătăcia în întunericul nopții, căutînd un locaș de adăpost…
 
@@ -269,7 +269,7 @@ Se crede că ar fi apucat drumul spre orașul său natal, unde, sătul de burlă
 
 <section>
 
-## Fuchsiada
+<h2 id='fuchsiada'>Fuchsiada</h2>
 
 _Poem eroico–erotic și muzical, în proză_
 
@@ -375,7 +375,7 @@ De acolo muzica se radiază cu egală putere în toate direcțiunile făcînd as
 
 <section>
 
-## Cronicari
+<h2 id='cronicari'>Cronicari</h2>
 
 _Fabulă_
 
