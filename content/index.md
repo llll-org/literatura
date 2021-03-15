@@ -4,14 +4,38 @@ layout: layouts/home.njk
 
 ## Literatură
 
-* [Urmuz – Urmuz (1930)](./urmuz/urmuz) 
-* [Mihail Sebastian — De două mii de ani (1934)](./mihail-sebastian/de-doua-mii-de-ani)
-* [Max Blecher — Inimi cicatrizate (1937)](./max-blecher/inimi-cicatrizate)
+<div class='book-covers'>
+	<a class='book-cover' href='./urmuz/urmuz' style='--bg-color: tomato; --fg-color: black'>	
+		<span class='book-author'>Urmuz</span>
+		<span class='book-title'>Urmuz</span>
+		<span class='book-year'>1930</span>
+	</a>
+	<a class='book-cover' href='./mihail-sebastian/de-doua-mii-de-ani' style='--bg-color: #23b2a9; --fg-color: black'>	
+		<span class='book-author'>Mihail Sebastian</span>
+		<span class='book-title'>De două mii de ani</span>
+		<span class='book-year'>1934</span>
+	</a>
+	<a class='book-cover' href='./max-blecher/inimi-cicatrizate' style='--bg-color: #6764ab; --fg-color: white'>	
+		<span class='book-author'>Max Blecher</span>
+		<span class='book-title'>Inimi cicatrizate</span>
+		<span class='book-year'>1937</span>
+	</a>
+</div>
 
 ## Referință
 
-* [Ștefan Florescu — Dicționar analogic (1938)](./stefan-florescu/dictionar-analogic)
-* [J.P. Müller — Sistemul Meu](./jp-muller/sistemul-meu)
+<div class='book-covers'>
+	<a class='book-cover' href='./stefan-florescu/dictionar-analogic' style='--bg-color: #ffd700; --fg-color: black'>	
+		<span class='book-author'>Ștefan Florescu</span>
+		<span class='book-title'>Dicționar analogic</span>
+		<span class='book-year'>1938</span>
+	</a>
+	<a class='book-cover' href='./jp-muller/sistemul-meu' style='--bg-color: #e52220; --fg-color: white'>	
+		<span class='book-author'>J.P. Müller</span>
+		<span class='book-title'>Sistemul Meu</span>
+		<span class='book-year'></span>
+	</a>
+</div>
 
 ## Meta
 
