@@ -25,7 +25,7 @@ layout: layouts/home.njk
 ## Referință
 
 <div class='book-covers'>
-	<a class='book-cover' href='./200-retete-cercate' style='--bg-color: #ffd700; --fg-color: black'>	
+	<a class='book-cover' href='./200-retete-cercate' style='--bg-color: #6fc7d9; --fg-color: black'>	
 		<span class='book-title'>200 rețete cercate de bucate, prăjiturĭ și alte trebĭ gospodăreștĭ.</span>
 		<span class='book-year'>1842</span>
 	</a>
