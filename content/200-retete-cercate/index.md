@@ -77,7 +77,7 @@ E patru saŭ cincĭ hulubĭ să’ĭ curățĭ, și îĭ taĭe în doă în lung
 
 ### № 17. Hulubĭ înădușiți.
 
-E doĭ treĭ hulubĭ, îĭ grijeștĭ, și’ĭ așază bine și frumos puindule sare, și așază în fundul tingiriĭ câteva frunze de slănină, și aceapă tăiată în frunze, și morcovĭ asemine, și pune hulubiĭ deasupra, și lasă de ședŭ înădușițĭ pân ce ruminescŭ, apoĭ îĭ scoate, și pune puțină făină în aceeașĭ tingire, și o întoarce pân ce ruminește, apoĭ îĭ pune zamă de carne și puțin oțăt, puțină coajă de alămîe, și piperiŭ întreg, și lasă de ferbe bine, apoĭ strecoară prin sitișcă, pune puțin piperiŭ, doă lingurĭ smântână, și pune puiĭ de hulubŭ înuntru, și îĭ lasă să fearbă bine, și făcândule împregiur o cunună de hamut saŭ altă, le dă la masă. 
+E doĭ treĭ hulubĭ, îĭ grijeștĭ, și’ĭ așază bine și frumos puindule sare, și așază în fundul tingiriĭ câteva frunze de slănină, și ceapă tăiată în frunze, și morcovĭ asemine, și pune hulubiĭ deasupra, și lasă de ședŭ înădușițĭ pân ce ruminescŭ, apoĭ îĭ scoate, și pune puțină făină în aceeașĭ tingire, și o întoarce pân ce ruminește, apoĭ îĭ pune zamă de carne și puțin oțăt, puțină coajă de alămîe, și piperiŭ întreg, și lasă de ferbe bine, apoĭ strecoară prin sitișcă, pune puțin piperiŭ, doă lingurĭ smântână, și pune puiĭ de hulubŭ înuntru, și îĭ lasă să fearbă bine, și făcândule împregiur o cunună de hamut saŭ altă, le dă la masă. 
 
 ### № 18. Racĭ înădușiți. 
 
@@ -85,11 +85,51 @@ După ce spală raciĭ bine, pune o bucățică de unt în o tingire de se înf�
 
 ### № 19. Oue umplute.
 
-Șese oue să le răscocĭ, și apoĭ să le taĭ în doă; fiind întâiŭ  curățite, apoĭ să eĭ codițe de racĭ tăiate mărunțel, o franzelă luată coaja și muiat mĭezul cu puțin lapte, și puĭ în piuliță raciĭ ,franzela, un oŭ întregŭ și cincĭ lingurĭ de smântână, să eĭ o bucățică de unt de racĭ; aceste toate să le piseze bine la un loc, apoĭ eĭ puținĭ racĭ tăiațĭ, puĭ în tigae puține cĭuperce tăiate, puțin petrinjel hăcuit, puțină mazire verde, și puin unt de racĭ, și le ferbĭ înădușite până ce scad, apoĭ le lașĭ de se răcescŭ, și le amestecĭ cu celelalte la un loc, și puĭ pe jumătete într’un calup unsŭ cu unt, și așază ouele cele tăiate, și deasupra puĭ celelalte jumătățĭ, și o daĭ în cuptoriŭ. 
+Șese oue să le răscocĭ, și apoĭ să le taĭ în doă; fiind întâiŭ  curățite, apoĭ să eĭ codițe de racĭ tăiate mărunțel, o franzelă luată coaja și muiat mĭezul cu puțin lapte, și puĭ în piuliță raciĭ ,franzela, un oŭ întregŭ și cincĭ lingurĭ de smântână, să eĭ o bucățică de unt de racĭ; aceste toate să le piseze bine la un loc, apoĭ eĭ puținĭ racĭ tăiațĭ, puĭ în tigae puține cĭuperce tăiate, puțin petrinjel hăcuit, puțină mazire verde, și puin unt de racĭ, și le ferbĭ înădușite până ce scad, apoĭ le lașĭ de se răcescŭ, și le amestecĭ cu celelalte la un loc, și puĭ pe jumătate într’un calup unsŭ cu unt, și așază ouele cele tăiate, și deasupra puĭ celelalte jumătățĭ, și o daĭ în cuptoriŭ. 
 
 ### № 20. Spănac de curechiŭ vânăt.
 
-Întâiŭ se spală curechiul tare bine, și’l opăreștĭ de doă orĭ cu apă clocotită, apoĭ îl puĭ de ferbe moale, și strecurândul îĭ facĭ rumineală deabĭa galbănă de făină cu grăsime, și tăind curechiul tare mărunțel îl puĭ înuntru în rumineală ca să se prăjască bine, apoĭ îĭ puĭ doă polonice zamă de carne, puind piperiŭ și sare, o bucățică zahăr, doă lingurĭ smântânp, căstane pe câte vrei, și să’l lașĭ să fearbă puțin, și apoĭ îl puĭ pe farfuriĭ, făcând garnitură împregĭur cu cârnațĭ saŭ pârjoale.
+Întâiŭ se spală curechiul tare bine, și’l opăreștĭ de doă orĭ cu apă clocotită, apoĭ îl puĭ de ferbe moale, și strecurândul îĭ facĭ rumineală deabĭa galbănă de făină cu grăsime, și tăind curechiul tare mărunțel îl puĭ înuntru în rumineală ca să se prăjască bine, apoĭ îĭ puĭ doă polonice zamă de carne, puind piperiŭ și sare, o bucățică zahăr, doă lingurĭ smântână, căstane pe câte vrei, și să’l lașĭ să fearbă puțin, și apoĭ îl puĭ pe farfuriĭ, făcând garnitură împregĭur cu cârnațĭ saŭ pârjoale.
+
+### № 21. Limbă cu sosŭ de sardele.
+
+Ferbĭ limba în oală, o puĭ cu sardele, slănină tăiată, scoțĭ limba din oală, să eĭ pelea apoĭ de grabă, o spicueștĭ cu sardele și cu slănina cea tăĭată, și o puĭ în frigare, puĭ dedesupt în tigae o bucățică de unt, puțină smântână, să tot tornĭ nește limbă de vr’o treĭ orĭ, apoĭ o presărĭ bine cu posmag, să storcĭ și zamă de alămîe, să maĭ tornĭ sosŭ încă odată, și scoțĭ din frigare, și puindo pe farfuriĭ îĭ torni sosul deasupra și’ĭ gata de pus pe masă.
+
+### № 22. Răciturĭ de cap de vițel.
+
+Despică capul de vițel și’l ferbe cu saer și cu puțin petrinjel, și puĭ și doă cepe și puțin cimbrișor și coajă de alămîe, îl scoțĭ mi’l puĭ în apă rece, și în zama ceelaltă îl puĭ de ferbe cu un picĭor de vițel, și piperiŭ întreg și cuișoare până ce scad să rămâe jumătate de ocă, apoĭ o strecorĭ pin petică și storcĭ o alămîe, iar să o strecorĭ, apoĭ scoțĭ cĭolanele de la cap, și’l taĭ frumușel, și’l așăzĭ în calupŭ, să tornĭ zama deasupra și’l lasă de se prinde. 
+
+### № 23. Cârnăcĭorĭ de racĭ.
+
+Facĭ întâĭ clătite și le lașĭ de se răcescŭ, apoĭ le ta˘i în patru ca să se facă cârnăcĭorĭ de un deget de lungŭ, eĭ vârfurĭ de spărangă, cĭuperce și codițe de racĭ, cĭupercele să fie maĭ înainte înădușite cu un pic de unt, până ce se moae; apoĭ eĭ toate aceste și le tocĭ la un loc, puĭ puțin unt de racĭ într’o tigae și’l înfĭerbințĭ; să puĭ topitura înuntru, și o lasă de se prăjește eĭ de pe foc, puĭ un oŭ întreg și un gălbănuș să’l amestecĭ, și lasă de se răcește puțin, apoĭ întinzĭ de o muche de cuțit tocătura pe petiță, le facĭ cârnăcĭorĭ, le așezĭ frumos pe farfuriĭ unse cu unt; și cu jumătate deceas până a nu da bucate, tornĭ puțină smântână dulce, și le puĭ pe jaratic; de voeștĭ le împodobeștĭ cu codițe de raci prăjite.
+
+### № 24. Oue franțuzeștĭ.
+
+Eĭ oue și le ferbĭ vîrtos, apoĭ frecĭ puțin unt, și’l amestecĭ bine cu ouele, și puĭ și puțin petrinjel verde, apoĭ le facĭ chĭar ca ouele, și le moĭ în albușul cel de oŭ, și le tăvăleștĭ bine în posmag, și le prăjeștĭ în unt, și facĭ garniturĭ.
+
+### № 25. Spanac cu clătite.
+
+Eĭ patru oue și un polonic cu vîrfŭ de făină și pune patru linguri de lapte și amestecă bine, pune sare, pune unt în tigae să se înfĭerbinte, și apoĭ toarnă aluat subțire, și’l împunge cu cuțitul, și lasă să se ruminească, și cînd va fi rumăn pe o parte, să întorcĭ pe ceealaltă; apoĭ să facĭ spanacul după cum se face, și puĭ un rând de spanac și un rând de clătite, și așa le așază la farfuriĭ fiind gata.
+
+### № 26. Friganele cu crierĭ.
+
+Eĭ crierĭ și le taĭ mărunțel cu sare, petrinjel și piperiŭ, și le hăcueștĭ la un loc, apoĭ taĭ feliĭ supțirĭ de pîne, și întinde pe o felie crieriĭ, și pune alte feliĭ deasupra, și apoĭ le taĭ tot feliĭ câte de un deget de late de lungĭ, le tăvăleștĭ în oue și în posmag, le prăjeștĭ în grăsime, și le pune în supă.
+
+### № 27. Anghinar umplut.
+
+Să eĭ anghinarĭ și să le curățĭ frunzele cele groase, și să le ferbĭ cu apă până ce se moae, apoĭ freacă puțin unt, tae puțintică pâne muiată în lapte, și scobește puțintel anghinariĭ, și mezul acela îl hecueștĭ orĭ cu puțină carne, orĭ cu gîturĭ de racĭ, și le mestecă cu unt, apoĭ pune un oŭ înuntru și puțină sare și piperiŭ, și umple anghinariĭ, apoĭ îĭ ferbĭ puțin, îi așază pe farfuriĭ, și le facĭ cocŭ de smântână deasupra.
+
+### № 28. Cartofe cu sardele.
+
+Să spelĭ cartofele și să le curățĭ, pune puțin un într’o tingire să’l topeștĭ; apoĭ tăvălind fiește care cartofă în făină, o pune în unt, și le lasă acoperite până se ruminescŭ, apoĭ ungĭ o farfurie cu unt, toarnă puțină smântână, taĭ cartofele roate, eĭ puține sardele și le curățĭ, le taĭ subțire și puĭ pintre cartofe, presărĭ pe deasupra posmag, puĭ într’o tigae puțină grăsime și puțină ceapă tăiată de se topește, și opăreștĭ cartofele; apoĭ le ma˘i pu˘i puțin pe jaratic. 
+
+### № 29. Curechiŭ nemțescŭ umplut.
+
+Eĭ căpăținele nu prea marĭ, și le scobeștĭ înuntru, apoĭ eĭ și mĭezul acel scobit și’l ferbĭ cu sare, pe urmă eĭ carne și o hăcueștĭ cu puțină ceapă, cu puțină pâne muiată, și cu curechiul acel fert mărunțel, apoĭ frecĭ puțin, unt puĭ înuntru doă oue întregĭ, puțină sare, piperiŭ, și doă lingurĭ de smântână, și le mesticĭ toate bine la un loc, apoĭ umpli curechiul acel scobit, apoĭ îĭ facĭ iar calupŭ de curechiŭ, îl leagă cu ață, și îl ferbĭ în apă cu sare, apoĭ le taĭ feliĭ și le așază în farfuriĭ, și le facĭ un cocŭ deasupra.
+
+### № 30. Caralabiĭ rumene.
+
+E˘i caralabiile și le curățĭ și le taĭ lungurețe, apoĭ topeștĭ puțin un și le pune înuntru, și le lasă până se moae, dar le pestecă ca să nu se ardă; apoĭ pune doă lingurĭ de făină și doă lingurĭ de zamă și puțină sare, și lasă de ferbŭ până se ruminescŭ.
 
 ---
 
