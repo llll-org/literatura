@@ -33,6 +33,10 @@
 	font-style: normal;
 }
 
+.book :target {
+	background: #fc0;
+}
+
 /*
 	Style: prose
 	------------
