@@ -21,7 +21,7 @@ Să se ee doăzeciĭ racĭ, și să se spele bine, și să’ĭ fearbă în [zam
 
 ### № 3. Supă cu gălușĭcele de carne.
 
-Să eĭ șesăzecĭ și cincĭ [dramurĭ](#def-dramuri) [209g] carne de vițel saŭ de pasere, să o taĭ tare mărunțel, și să puĭ o franzelă, de pe care să eĭ coaja cu răzătoare, și apoĭ să o stropeștĭ cu lapte și să o puĭ în carne cu puțină măduvă de vacă; apoĭ să se pue toate în [piuliță](#def-piulita), să se piseze tare bine, apoĭ să eĭ doăzecĭ [dramurĭ](#def-dramuri) [65g] grăsime să frigă [puhav](#def-puhav), să puĭ înuntru doă oue întregĭ și un gălbănuș și să le pisezĭ bine, apoĭ să puĭ carnea acea pisată înuntru, puțină sare, să o amesticĭ bine, și dacă va fi prea subțire să puĭ puțin [posmag](#def-posmag); apoĭ să facă gălușĭcele, să le tăvălească în [posmag](#def-posmag), și să le prăjască în grăsime să se îngălbinească, apoĭ să pue în [chisă](#def-chisa), și să se toarne deasupra zamă făcută rumănă. 
+Să eĭ șesăzecĭ și cincĭ [dramurĭ](#def-dramuri) [209 gr.] carne de vițel saŭ de pasere, să o taĭ tare mărunțel, și să puĭ o franzelă, de pe care să eĭ coaja cu răzătoare, și apoĭ să o stropeștĭ cu lapte și să o puĭ în carne cu puțină măduvă de vacă; apoĭ să se pue toate în [piuliță](#def-piulita), să se piseze tare bine, apoĭ să eĭ doăzecĭ dramurĭ [65 gr.] grăsime să frigă [puhav](#def-puhav), să puĭ înuntru doă oue întregĭ și un gălbănuș și să le pisezĭ bine, apoĭ să puĭ carnea acea pisată înuntru, puțină sare, să o amesticĭ bine, și dacă va fi prea subțire să puĭ puțin [posmag](#def-posmag); apoĭ să facă gălușĭcele, să le tăvălească în posmag, și să le prăjască în grăsime să se îngălbinească, apoĭ să pue în [chisă](#def-chisa), și să se toarne deasupra zamă făcută rumănă. 
 
 ### № 4. Supă cu gălușĭcele de racĭ.
 
@@ -41,7 +41,7 @@ Puĭ vr’o șepte cĭuperce și le curățĭ, le taĭ feliĭ, puțin petrinjel 
 
 ### № 8. Bou de modă.
 
-Eĭ o bucată de carne de vacă macră, însă să nu o spelĭ de cât numaĭ să o razĭ foarte bine, și să o bațĭ puțin; apoĭ eĭ slăînină și o taĭ de un cuțin de groasă, asămine și jambon crudŭ, eĭ puțin petrinjel verde, puțină ceapă, vr’o câteva ciuperce, o țălină, puțin usturoiŭ, toate aceste hăcuite tare mărunțel, cu puțină sare și piperiŭ le amestecĭ la un loc bine, tăvălește bucățelele cele de slănină și de jambon în hăcuiturile acele, și apoĭ împănezĭ carnea, puĭ în [tingire](#def-tingire) feliĭ de slănină, de ceapă, de morcovi, și nește aceste carne pe deasupra, acopere bine, și o lașĭ să fearbă, pân ce va fi feartă pe jumătate, pe urmă puĭ cincĭzecĭ [dramurĭ](#def-dram) [190ml] vin și o lingură mare de zamă, și o lasă să fearbă pân ce va fi bine feartă, apoĭ scoțĭ carnea pe blidŭ, și curățĭ [salcea](#def-salce) de grăsime, și o tornĭ peste carne, însă [salcea](#def-salce) să o strecorĭ maĭ înainte. 
+Eĭ o bucată de carne de vacă macră, însă să nu o spelĭ de cât numaĭ să o razĭ foarte bine, și să o bațĭ puțin; apoĭ eĭ slăînină și o taĭ de un cuțin de groasă, asămine și jambon crudŭ, eĭ puțin petrinjel verde, puțină ceapă, vr’o câteva ciuperce, o țălină, puțin usturoiŭ, toate aceste hăcuite tare mărunțel, cu puțină sare și piperiŭ le amestecĭ la un loc bine, tăvălește bucățelele cele de slănină și de jambon în hăcuiturile acele, și apoĭ împănezĭ carnea, puĭ în [tingire](#def-tingire) feliĭ de slănină, de ceapă, de morcovi, și nește aceste carne pe deasupra, acopere bine, și o lașĭ să fearbă, pân ce va fi feartă pe jumătate, pe urmă puĭ cincĭzecĭ [dramurĭ](#def-dram) [190 ml.] vin și o lingură mare de zamă, și o lasă să fearbă pân ce va fi bine feartă, apoĭ scoțĭ carnea pe blidŭ, și curățĭ [salcea](#def-salce) de grăsime, și o tornĭ peste carne, însă [salcea](#def-salce) să o strecorĭ maĭ înainte. 
 
 ### № 9. Puĭ cu mazire cu racĭ.
 
@@ -65,7 +65,7 @@ Să eĭ doĭ saŭ triĭ puĭ să’ĭ prăjască după rînduială, puindule sar
 
 ### № 14. Pârjoale cu sardele.
 
-E un [but](#def-but) de oae și facĭ [pârjoale](#def-parjoale-1), saŭ le facĭ de costițe, apoĭ e doăsprezece sardele spalate curățite, și le toacă cu petrinjel și tare subțire, și apoĭ e tocătura aceea și o întinde subțire pe pârjoale, apoĭ o pune în tigae și stoarce peste dânsele zama de la o alămîe, cincĭzecĭ [dramurĭ](#def-dram) [190ml] smântână, le acopere și le pune jaratic deasupra, și ferbe până scad, facĭ [friganele](#def-friganea) de franzelă, apoĭ e crierĭ de la un mĭel, le curăță și le toacă bine cu petrinjel, și cu piperiŭ și sare, să se prăjască cu puțin unt, apoĭ să întindă aceasta pe franzelă și să pue altă franzelă deasupra; apoĭ așază pârjoalele pe farfuriĭ, și fă garnitură împregĭur cu sardele.
+E un [but](#def-but) de oae și facĭ [pârjoale](#def-parjoale-1), saŭ le facĭ de costițe, apoĭ e doăsprezece sardele spalate curățite, și le toacă cu petrinjel și tare subțire, și apoĭ e tocătura aceea și o întinde subțire pe pârjoale, apoĭ o pune în tigae și stoarce peste dânsele zama de la o alămîe, cincĭzecĭ [dramurĭ](#def-dram) [190 ml.] smântână, le acopere și le pune jaratic deasupra, și ferbe până scad, facĭ [friganele](#def-friganea) de franzelă, apoĭ e crierĭ de la un mĭel, le curăță și le toacă bine cu petrinjel, și cu piperiŭ și sare, să se prăjască cu puțin unt, apoĭ să întindă aceasta pe franzelă și să pue altă franzelă deasupra; apoĭ așază pârjoalele pe farfuriĭ, și fă garnitură împregĭur cu sardele.
 
 ### № 15. Jambon cu [friganele](#def-friganea).
 
@@ -131,6 +131,346 @@ Eĭ căpăținele nu prea marĭ, și le scobeștĭ înuntru, apoĭ eĭ și mĭez
 
 Eĭ caralabiile și le curățĭ și le taĭ lungurețe, apoĭ topeștĭ puțin unt și le pune înuntru, și le lasă până se moae, dar le mestecă ca să nu se ardă; apoĭ pune doă lingurĭ de făină și doă lingurĭ de zamă și puțină sare, și lasă de ferbŭ până se ruminescŭ.
 
+### № 31. Uger de vacă.
+
+### № 32. Cârnăcĭorĭ de carne.
+
+### № 33. Pârjoale umplute.
+
+### № 34. Limbă umplută.
+
+### № 35. Mâncare de mĭel.
+
+### № 36. Feliĭ de carne umplute.
+
+### № 37. Pept de căprioară cu sosŭ.
+
+### № 38. Friganele umplute cu migdale.
+
+### № 39. Mușchiŭ împanat de vacă saŭ de vițel.
+
+### № 40. Mușchiŭ de vițel învălit.
+
+### № 41. Feliĭ de carne învălite.
+
+### № 42. Aluat pentru bucate.
+
+### № 43. Aluat de pastetă.
+
+### № 44. Aluat de pastetă frecat.
+
+### № 45. Pastetă de tocătură.
+
+### № 46. Pastetă de hulubĭ.
+
+### № 47. Fasole, mazire, și bobŭ verde de murat.
+
+### № 48. Mazire verde cu marole căpăține.
+
+### № 49. Mazire verde în grăunte.
+
+### № 50. Păstrarea mazireĭ verde.
+
+### № 51. Mâncare dulce de morcovĭ.
+
+### № 52. Maiurĭ de gîscă cu sosŭ.
+
+### № 53. Gălușĭcele de smântână cu racĭ.
+
+### № 54. Gălușĭcele de grisă.
+
+### № 55. Gălușĭcele de crierĭ.
+
+### № 56. Gălușĭcele de racĭ.
+
+### № 57. Gălușĭcele de posmag cu migdale.
+
+### № 58. Gălușĭcele de carne.
+
+### № 59. Maiurĭ de gîscă cu cercŭ de orezŭ împregĭur.
+
+### № 60. Rață sălbatică friptă.
+
+### № 61. Friptură despinare și de but de căprioară.
+
+### № 62. Puĭ prăjițĭ cu unt.
+
+### № 63. Mĭel prăjit friptură.
+
+### № 64. Curcan umplutŭ.
+
+### № 65. Puĭ prăjițĭ.
+
+### № 66. Puĭ umpluțĭ și fripțĭ.
+
+### № 67. Cașcaval de vară.
+
+### № 68. Brînză sburată.
+
+### № 69. Carne murată.
+
+### № 70. Mușchiŭ.
+
+### № 71. Saleamurĭ.
+
+### № 72. Limbĭ.
+
+### № 73. Dobă de curcan.
+
+### № 74. Pastramă de vacă.
+
+### № 75. Pastramă de mascur.
+
+### № 76. Cum se ferbe jambonul.
+
+### № 77. Jamboane.
+
+### № 78. Budincă de grisă de pus în supă.
+
+### № 79. Franzelă umplută cu tocătură pentru supă.
+
+### № 80. Trahana pentru cĭorbă.
+
+### № 81. Salce de hrean cu migdale.
+
+### № 82. Salce de mustariŭ rece pentru răsol.
+
+### № 83. Sosŭ cu patlagele roșiĭ.
+
+### № 84. Sosŭ de harpagică de răsol.
+
+### № 85. Sosŭ de cĭuperce.
+
+### № 86. Sosŭ de smântână pentru vânat.
+
+### № 87. Sosŭ de unt pentru bucate.
+
+### № 88. Bulion de patlagele roșiĭ, de a se pute ține peste earnă.
+
+### № 89. Zalatină pentru bucate.
+
+### № 90. a) Zalatină de portocală.
+
+### № 91. a) Zalatină de smeură.
+
+### № 92. Zalatină de alămîe.
+
+### № 93. Zalatină de vanilie.
+
+### № 94. Zalatină de pomușoare.
+
+### № 95. Zalatină de toporașĭ.
+
+### № 96. Zalatină de fragĭ.
+
+### № 97. Zalatină de lapte.
+
+### № 98. Zalatină de gutâĭ.
+
+### № 99. Zalatină de cafe cu lapte.
+
+### № 100. Zalatină de vișinĭ proaspete.
+
+### № 101. b) Zalatină de smeură.
+
+### № 102. b) Zalatină de portocală.
+
+### № 103. Budincă de cartofe.
+
+### № 104. Budincă de cĭocolată. 
+
+### № 105. Budincă de fragĭ. 
+
+### № 106. Budincă de vișinĭ cu migdale.
+
+### № 107. a) Budincă de vișinĭ. 
+
+### № 108. Budincă de vinŭ.
+
+### № 109. b) Budincă de vișinĭ.
+
+### № 110. Budincă de gălbănușŭ de oŭ.
+
+### № 111. Budincă de cafe.
+
+### № 112. Budinca Împărătuluĭ.
+
+### № 113. Budincă de orez cu șoto.
+
+### № 114. Budincă de morcovĭ. 
+
+### № 115. Budincă de carne. 
+
+### № 116. Budincă de carne de mĭel. 
+
+### № 117. Budincă Împărătească.
+
+### № 118. Budincă cu șoto.
+
+### № 119. Budincă de cartofe. 
+
+### № 120. Budincă de pâne. 
+
+### № 121. Budincă de cĭocolată.
+
+### № 122. Budincă cu migdale și festicurĭ.
+
+### № 123. Budincă de racĭ ce se chĭamă meridon.
+
+### № 124. Budincă de alămîe. 
+
+### № 125. Budincă de alămîe. 
+
+### № 126. Învârtită de cĭocolată.
+
+### № 127. Învârtită de jambon.
+
+### № 128. Învîrtită de racĭ. 
+
+### № 129. Tortŭ de lențĭ. 
+
+### № 130. a) Tortŭ de migdale. 
+
+### № 131. b) Tortŭ de migdale. 
+
+### № 132. Tortŭ de lențĭ cu gratiĭ.
+ 
+### № 133. Tortŭ de migdale negre.
+
+### № 134. Tortŭ de lențĭ frecat. 
+
+### № 135. Babe. 
+
+### № 136. Babe fără lapte. 
+
+### № 137. Babe opărite. 
+
+### № 138. Babe opărite tare bune.
+
+### № 139. Cozonacĭ.
+
+### № 140. Posmagĭ de făină. 
+
+### № 141. Posmagĭ de brașov. 
+
+### № 142. Bezele. 
+
+### № 143. Scoarță. 
+
+### № 144. Alt fel de scoarță. 
+
+### № 145. Scoarță de migdale.
+
+### № 146. Scoarță de migdale hăcuite. 
+
+### № 147. Pâne spaniolească. 
+
+### № 148. Prăjiturĭ de migdale. 
+
+### № 149. Prăjiturĭ de zahar. 
+
+### № 150. Milhbrod. 
+
+### № 151. Mandel kuhen. 
+
+### № 152. Mandel kuhen cu foĭ.
+
+### № 153. Krapfen. 
+
+### № 154. Gugoașe de cĭocolată. 
+
+### № 155. Blamanje. 
+
+### № 156. Bucĭume prăjite în unt.
+
+### № 157. Cum se face hamutul. 
+
+### № 158. Sufle de orezŭ.
+
+### № 159. Sufle de mere. 
+
+### № 160. Lapte sburat.
+
+### № 161. Cum se face tremura.
+
+### № 162. Orezŭ cu cĭocolată și cu șodo.
+
+### № 163. Gratiĭ de franzelă.
+
+### № 164. Spumă de lapte cu fragĭ. 
+
+### № 165. Tocmagĭ de brânză.
+
+### № 166. Tocmagĭ de orez prăjițĭ. 
+
+### № 167. Tocmagi Împărăteștĭ. 
+
+### № 168. Consome. 
+
+### № 169. Copabiele.
+
+### № 170. Înghĭețată.
+ 
+### № 171. Rahatlocum.
+
+### № 172. Orjadă.
+
+### № 173. Glasŭ. 
+
+### № 174. Meridon de orezŭ. 
+
+### № 175. Castale prăjite. 
+
+### № 176. Perje prăjite.
+
+### № 177. Migdale prăjite. 
+
+### № 178. Castale înghĭețate. 
+
+### № 179. Orezŭ de cartofe.
+
+### № 180. Când mirosă peștele a glod.
+
+### № 181. a) Vișinatŭ. 
+
+### № 182. b) Vișinatŭ. 
+
+### № 183. c) Vișinatŭ. 
+
+### № 184. Cum se pestreazp patlagelele. 
+
+### № 185. Patlagele murate. 
+
+### № 186. a) Cum se facŭ drojdiile de pâne. 
+
+### № 187. b) Drojdiĭ de pâne tare bune. 
+
+### № 188. Mustŭ pentru mustariŭ. 
+
+### № 189. Halva de făină de orezu. 
+
+### № 190. Chitonag de gutâĭ.
+
+### № 191. Beltea de gutâĭ. 
+
+### № 192. Oțet de vin. 
+
+### № 193. Ceară pentru scândurĭ.
+
+### № 194. Mijloc de a face brînză din cartofe. 
+
+### № 195. Mijloc de a ține nucile proaspete un an întreg.
+
+### № 196. Mijloc a scoate sarea de prisos din bucatele cele prea sărate. 
+
+### № 197. Mijloc ca să se oue găinile, în fiește care vreme a anuluĭ. 
+
+### № 198. Metod de a limpezi vinul turburat. 
+
+### № 199. Mijloc de a scoate din vin mirosul de poloboc. 
+
+### № 200. Chipul de a pute ține vara câteva săptămîni carnea proaspătă. 
+
 ---
 
 ## Glosar
@@ -141,7 +481,7 @@ Eĭ caralabiile și le curățĭ și le taĭ lungurețe, apoĭ topeștĭ puțin 
 * <strong id='def-curechiu-nemtescu'>curechiŭ nemțescŭ</strong>. varză creață.
 * <strong id='def-curechiu'>curechiŭ</strong>. varză.
 * <strong id='def-de-isnoava'>de isnoavă</strong>. din nou.
-* <strong id='def-dram'>dram</strong>. unitate veche de măsură, echivalentă cu 3,23 grame sau 3,8 mililitri.
+* <strong id='def-dram'>dram</strong>. (în Moldova) unitate de măsură echivalentă cu 3,23 grame sau 3,8 mililitri.
 * <strong id='def-floare-de-nucusoara'>floare de nucușoară</strong>. învelișul roșiatic al seminței de nucșor, folosit drept condiment; macis.
 * <strong id='def-friganea'>friganea</strong>. felie de pîine muiată în lapte și ou, apoi prăjită în grăsime.
 * <strong id='def-harpacica'>harpacică</strong>. arpagic (_Allium schoenoprasum_, fr. _ciboulette_, eng. _chives_).
