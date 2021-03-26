@@ -69,7 +69,7 @@ E un [but](#def-but) de oae și facĭ [pârjoale](#def-parjoale-1), saŭ le fac�
 
 ### № 15. Jambon cu [friganele](#def-friganea).
 
-E o bucată de jambon și o pune decusară în apă, apoĭ o taĭ feliĭ subțire și o pune într’o [tingire](#def-tingire), și pune o litră de zamă, și un pahar de vin albŭ, puțin petrinjel verde, puțină [harpacică](#def-harpacica) și piperiŭ pisat; aceasta să fearbă până s-a muea jambonul, zama încă să nu fie sarată, să fearbă până va scăde bine, apoĭ prăjăște feliĭ de franzelă, și toarnă carne deasupra, apoĭ facĭ garnitură saŭ de cartofe prăjite sau de cĭuperce. 
+E o bucată de jambon și o pune decusară în apă, apoĭ o taĭ feliĭ subțire și o pune într’o [tingire](#def-tingire), și pune o [litră](#def-litra) de zamă, și un pahar de vin albŭ, puțin petrinjel verde, puțină [harpacică](#def-harpacica) și piperiŭ pisat; aceasta să fearbă până s-a muea jambonul, zama încă să nu fie sarată, să fearbă până va scăde bine, apoĭ prăjăște feliĭ de franzelă, și toarnă carne deasupra, apoĭ facĭ garnitură saŭ de cartofe prăjite sau de cĭuperce. 
 
 ### № 16. Hulubĭ [în papiloturĭ](#def-in-papiloturi).
 
@@ -133,23 +133,44 @@ Eĭ caralabiile și le curățĭ și le taĭ lungurețe, apoĭ topeștĭ puțin 
 
 ### № 31. Uger de vacă.
 
+Ferbĭ ugerul până se moae, îl taĭ bucățele subțiri, le ungĭ cu unt și le tăvăleștĭ în posmag; apoĭ le puĭ în grăsime să nu se ruminească prea tare, le așază cu puțină smântână și petrinjel, și le lasă de scadŭ.
+
 ### № 32. Cârnăcĭorĭ de carne.
+
+Eĭ noăzecĭ [dramurĭ](#def-dram) [290 gr.] de carne și o hăcueștĭ părunțel cu petrinjel verde, apoĭ eĭ puțină pâne muiată în lapte, eĭ o bucată unt cât un oŭ și o freacă puhav, pune doă oue întregĭ și un gălbănuș, și le mestecă cu topitura, pune puțină coajă de alămîe, sare, piperiŭ, dou lingurĭ de smântână, doă lingurĭ de posmag, și le mestecă bine, apoĭ facĭ cârnăcĭorĭ, îĭ tăvăleștĭ în oue, în posmag să se prăjască în grăsime. 
 
 ### № 33. Pârjoale umplute.
 
+Facĭ pârjoale saŭ de carne de vițel, saŭ de mĭel, dar nu tocate și le ferbĭ în zamă; apoĭ le pune pe o farfurie. Pentru douăsprezece pârjoale eĭ noăzecĭ [dramurĭ](#def-dram) [290 gr.] carne friptă, puțin mĭez de pâne muĭată în lapte, și le hăcueștĭ la un loc mărunțel, apoĭ puțină măduvă, coajă de alămîe, petrinjel, sare, piperiŭ, doă oue și le mestecĭ bine la un loc; apoĭ întinde tocătura aceasta pe pârjoale deasupra nu prea gros, le pune în tingire cu puțină grăsime, și le lasă de ferbŭ înădușite până se gătescŭ, apoĭ le pune pe farfuriĭ și le facĭ un sosŭ. 
+
 ### № 34. Limbă umplută.
+
+Să fearbă limba până s-a muia, care apoĭ se curăță; pe urmă o despică dealungu, și scoate carnea acea de la mijloc, apoĭ tae carnea aceea și puțină pâne muiată în lapte, frecĭ doăzecĭ [dramurĭ](#def-dram) [65 gr.] unt [puhav](#def-puhav), puĭ doă oue întregĭ și doă gălbănușurĭ, sare, puperiŭ, coajă de alămîe, petrinjel, și apoĭ umpli limba; o leagă bine cu sfoară, o învălește în hârtie, și o frige în cuptoriŭ; apoĭ îĭ facĭ sosŭ de sardele saŭ alt sosŭ, și toarnă deasupra.
 
 ### № 35. Mâncare de mĭel.
 
+Taĭ feliĭ de carne macră, le bate și le sărează; apoĭ le pune în tingire cu puțin unt, petrinjel, ceapă, morcovi, cimbru, coajă de alămîe, toate tăiate mărunțel, le puĭ în unt, și feliile de carne deasupra, și le lasă de se ruminescŭ; apoĭ scoțĭ bucățălile de carne și maĭ puĭ puțină grăsime, doă lingurĭ de făină, puțină zamă peste feliile cele tăiate, puțină smântână, și le lasă de ferbŭ; apoĭ strecoară cocul prin sîtă, și pune carnea înuntru în sosŭ, și pune să maĭ fearbă puțin.
+
 ### № 36. Feliĭ de carne umplute.
+
+Eĭ feliĭ de carne rătunde și le bate bine, apoĭ eĭ carne friptă și puțină pâne muiată în lapte și le tae mărunțel, apoĭ pune câțĭva cârnăcĭorĭ și coajă de alămîe, și puțin piperiŭ, doă oue, doă lingurĭ de smântână, și le mestecă bine la un loc; apoĭ întinde tocătura cu feliile cele de carne, le pune în tingire puțină grăsime sau slănină, le așază pe jaratic până se ruminescŭ; apoĭ pui într'o tingire puțină grăsime, doă lingurĭ de [posmag](#def-posmag), puțină [zamă](#def-zama-buna), cincĭzecĭ [dramurĭ](#def-dram) smântână [190 ml.], puțină floare de safran, zama de la jumătate alămîe, și le lasă să fearbă bine, așază feliile de carne pe farfuriĭ, și toarnă sosul deasupra; asămine se face și de căprioară.
 
 ### № 37. Pept de căprioară cu sosŭ.
 
+Să spelĭ peptul de căprioară, și să taĭ coastele și să le sărezĭ, să le puĭ în tingire, și să puĭ: vin, oțăt, și apă; apoĭ să puĭ o ceapă împănată cu cuișoare înuntru, cimbru, rpsmarin, piperiŭ, și [imbirĭ](#def-imbiri), și lasă peptul de căprioară acolo până s-a muia, apoĭ îl scoate, pune într'o tingire puțin unt, treĭ cepe micĭ tăiate, și pune peptul înuntru, și lasă să se ruminească pe amândoă părțile; apoĭ puĭ treĭ lingurĭ [posmag](#def-posmag) peste pept, și'l maĭ lasă puțin să se ruminească, toarnă peste dânsul oțăt de acel în care aŭ fert pe atâta cât trebuie pentru sosŭ, pune puțină smântână și coajă de alămîe, puțin zahar arsŭ și'l maĭ lasă jumătate de ceasŭ de maĭ ferbe; apoĭ pune'l în farfurie, și toarnă sosul deasupra.
+
 ### № 38. Friganele umplute cu migdale.
+
+Patruzecĭ [dramurĭ](#def-dram) [129 gr.] migdale pisate, puĭ treĭ gălbănușuri și [omăt](#def-omat) de la doă albușurĭ, coajă de alămîe, și doăzeci dramurĭ [65 gr.] zahar, și le mesticĭ până ce se îngroașă, apoĭ tae feliĭ de pâne de un deget de groasă, și întinzĭ migdalile pe feliĭ, și puĭ alte deasupra, le tăvăleștĭ în gălbănușul de oŭ, și le prăjeștĭ în grăsime de vacă; după ce se prăjescŭ le puĭ pe farfuriĭ și le presărĭ cu zahar și scorțișoară, și tornĭ deasupra vin fert cu zahar, și le puĭ sus și jos jaratic.
 
 ### № 39. Mușchiŭ împanat de vacă saŭ de vițel.
 
+Să eĭ mușchiul să'l grijeștĭ frumos, și să'l sărezĭ, apoĭ să eĭ o parte oțăt și două de apă, pune vr'o câteva cepe, morcovĭ, și coajă de alămîe, doă frunze de dafin, și piperiŭ 
+ntreg, și le ferbĭ bine, apoĭ le tornĭ fĭerbinte nește mușchiŭ, îl acoperĭ și'l lasă doăsprezece saŭ doăzecĭ și patru  ceasurĭ înuntru la răcoare; apoĭ eĭ mușchiul și'l împănezĭ, făcând treĭ sau patru rândurĭ; pe urmă eĭ ceapa și morcoviĭ și le puĭ în tingire și mușchiul deasupra, puĭ deasupra jaratic și'l lașĭ doă ceasurĭ să fearbă încet până se ruminește, apoĭ toarnă o [litră](#def-litra) smântână [??? ml.] peste mușchiŭ, și-l maĭ lasă un sfert de ceas la foc până se ruminește sosul, apoĭ puĭ mușchiul în blidŭ și sosŭ deasupra.
+
 ### № 40. Mușchiŭ de vițel învălit.
+
+Să eĭ mușchiŭ saŭ carne macră să o prăjăștĭ și să taĭ feliĭ subțirĭ, să le bațĭ cu cuțitul și sare puțin; carnea rămasă să o tocĭ mărunt cu petrinjel verde, coajă de alămîe, pâne muiată în lapte, și puțină smântână; apoĭ întinzĭ tocătura aceasta supțire pe feliile de carne, și le învăleștei rătunde, apoĭ puĭ în [tingire](#def-tingire) puțină slănină saŭ grăsime, ceapă, frunză de dafin, ceva cimbru și morcovĭ, toate tăiate feliĭ, puĭ feliile cele învălite deasupra, le sărezĭ, și tornĭ deasupra oțăt și apă cât să le cuprindă, și le lasă să fearbă; când sânt gata puĭ carnea în blidŭ și tornĭ sosul cât trebuie pin sîtă.
 
 ### № 41. Feliĭ de carne învălite.
 
@@ -486,9 +507,12 @@ Eĭ caralabiile și le curățĭ și le taĭ lungurețe, apoĭ topeștĭ puțin 
 * <strong id='def-friganea'>friganea</strong>. felie de pîine muiată în lapte și ou, apoi prăjită în grăsime.
 * <strong id='def-harpacica'>harpacică</strong>. arpagic (_Allium schoenoprasum_, fr. _ciboulette_, eng. _chives_).
 * <strong id='def-hulub'>hulub</strong>. porumbel.
+* <strong id='def-imbiri'>imbirĭ</strong>. ghimbir.
 * <strong id='def-in-papiloturi'>în papiloturĭ</strong>. metodă de gătit în aburi alimentele împachetate etanș în hârtie de copt (fr. _en papillote_).
+* <strong id='def-litra'>litră</strong>. TODO.
 * <strong id='def-mai'>maĭ</strong>. ficat.
 * <strong id='def-marola'>marolă</strong>. lăptucă, salată verde.
+* <strong id='def-omat'>omăt</strong>. albușul de ou bătut spumă tare.
 * <strong id='def-parjoale-1'>pârjoale¹</strong>. bucăți de carne fripte.
 * <strong id='def-petica'>petică</strong>. bucată de material textil.
 * <strong id='def-piulita'>piuliță</strong>. mojar.
