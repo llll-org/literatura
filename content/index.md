@@ -22,19 +22,27 @@ layout: layouts/home.njk
 	</a>
 </div>
 
-## Referință
+## Gastronomie
 
 <div class='book-covers'>
+	<a class='book-cover' href='./carte-intrucare-sa-scriu-mancarile' style='--bg-color: #d4b48b; --fg-color: black'>	
+		<span class='book-title'>Carte întrucare să scriu mâncările</span>
+		<span class='book-year'>[sec. XVIII]</span>
+	</a>
 	<a class='book-cover' href='./200-retete-cercate' style='--bg-color: #6fc7d9; --fg-color: black'>	
 		<span class='book-title'>200 rețete cercate de bucate, prăjiturĭ și alte trebĭ gospodăreștĭ.</span>
 		<span class='book-year'>1842</span>
 	</a>
+</div>
+
+## Referință
+
+<div class='book-covers'>
 	<a class='book-cover' href='./stefan-florescu/dictionar-analogic' style='--bg-color: #ffd700; --fg-color: black'>	
 		<span class='book-author'>Ștefan Florescu</span>
 		<span class='book-title'>Dicționar analogic</span>
 		<span class='book-year'>1938</span>
 	</a>
-	
 </div>
 
 ## Meta

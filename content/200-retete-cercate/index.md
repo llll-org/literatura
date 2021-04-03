@@ -153,11 +153,11 @@ Taĭ feliĭ de carne macră, le bate și le sărează; apoĭ le pune în tingire
 
 ### № 36. Feliĭ de carne umplute.
 
-Eĭ feliĭ de carne rătunde și le bate bine, apoĭ eĭ carne friptă și puțină pâne muiată în lapte și le tae mărunțel, apoĭ pune câțĭva cârnăcĭorĭ și coajă de alămîe, și puțin piperiŭ, doă oue, doă lingurĭ de smântână, și le mestecă bine la un loc; apoĭ întinde tocătura cu feliile cele de carne, le pune în tingire puțină grăsime sau slănină, le așază pe jaratic până se ruminescŭ; apoĭ pui într'o tingire puțină grăsime, doă lingurĭ de [posmag](#def-posmag), puțină [zamă](#def-zama-buna), cincĭzecĭ [dramurĭ](#def-dram) smântână [190 ml.], puțină floare de safran, zama de la jumătate alămîe, și le lasă să fearbă bine, așază feliile de carne pe farfuriĭ, și toarnă sosul deasupra; asămine se face și de căprioară.
+Eĭ feliĭ de carne rătunde și le bate bine, apoĭ eĭ carne friptă și puțină pâne muiată în lapte și le tae mărunțel, apoĭ pune câțĭva cârnăcĭorĭ și coajă de alămîe, și puțin piperiŭ, doă oue, doă lingurĭ de smântână, și le mestecă bine la un loc; apoĭ întinde tocătura cu feliile cele de carne, le pune în tingire puțină grăsime sau slănină, le așază pe jaratic până se ruminescŭ; apoĭ pui într’o puĭire puțină grăsime, doă lingurĭ de [posmag](#def-posmag), puțină [zamă](#def-zama-buna), cincĭzecĭ [dramurĭ](#def-dram) smântână [190 ml.], puțină floare de safran, zama de la jumătate alămîe, și le lasă să fearbă bine, așază feliile de carne pe farfuriĭ, și toarnă sosul deasupra; asămine se face și de căprioară.
 
 ### № 37. Pept de căprioară cu sosŭ.
 
-Să spelĭ peptul de căprioară, și să taĭ coastele și să le sărezĭ, să le puĭ în tingire, și să puĭ: vin, oțăt, și apă; apoĭ să puĭ o ceapă împănată cu cuișoare înuntru, cimbru, rpsmarin, piperiŭ, și [imbirĭ](#def-imbiri), și lasă peptul de căprioară acolo până s-a muia, apoĭ îl scoate, pune într'o tingire puțin unt, treĭ cepe micĭ tăiate, și pune peptul înuntru, și lasă să se ruminească pe amândoă părțile; apoĭ puĭ treĭ lingurĭ [posmag](#def-posmag) peste pept, și'l maĭ lasă puțin să se ruminească, toarnă peste dânsul oțăt de acel în care aŭ fert pe atâta cât trebuie pentru sosŭ, pune puțină smântână și coajă de alămîe, puțin zahar arsŭ și'l maĭ lasă jumătate de ceasŭ de maĭ ferbe; apoĭ pune'l în farfurie, și toarnă sosul deasupra.
+Să spelĭ peptul de căprioară, și să taĭ coastele și să le sărezĭ, să le puĭ în tingire, și să puĭ: vin, oțăt, și apă; apoĭ să puĭ o ceapă împănată cu cuișoare înuntru, cimbru, rpsmarin, piperiŭ, și [imbirĭ](#def-imbiri), și lasă peptul de căprioară acolo până s-a muia, apoĭ îl scoate, pune într’o puĭire puțin unt, treĭ cepe micĭ tăiate, și pune peptul înuntru, și lasă să se ruminească pe amândoă părțile; apoĭ puĭ treĭ lingurĭ [posmag](#def-posmag) peste pept, și’l puĭlasă puțin să se ruminească, toarnă peste dânsul oțăt de acel în care aŭ fert pe atâta cât trebuie pentru sosŭ, pune puțină smântână și coajă de alămîe, puțin zahar arsŭ și’l puĭlasă jumătate de ceasŭ de maĭ ferbe; apoĭ pune’l puĭarfurie, și toarnă sosul deasupra.
 
 ### № 38. Friganele umplute cu migdale.
 
@@ -165,8 +165,8 @@ Patruzecĭ [dramurĭ](#def-dram) [129 gr.] migdale pisate, puĭ treĭ gălbănu�
 
 ### № 39. Mușchiŭ împanat de vacă saŭ de vițel.
 
-Să eĭ mușchiul să'l grijeștĭ frumos, și să'l sărezĭ, apoĭ să eĭ o parte oțăt și două de apă, pune vr'o câteva cepe, morcovĭ, și coajă de alămîe, doă frunze de dafin, și piperiŭ 
-ntreg, și le ferbĭ bine, apoĭ le tornĭ fĭerbinte nește mușchiŭ, îl acoperĭ și'l lasă doăsprezece saŭ doăzecĭ și patru  ceasurĭ înuntru la răcoare; apoĭ eĭ mușchiul și'l împănezĭ, făcând treĭ sau patru rândurĭ; pe urmă eĭ ceapa și morcoviĭ și le puĭ în tingire și mușchiul deasupra, puĭ deasupra jaratic și'l lașĭ doă ceasurĭ să fearbă încet până se ruminește, apoĭ toarnă o [litră](#def-litra) smântână [??? ml.] peste mușchiŭ, și-l maĭ lasă un sfert de ceas la foc până se ruminește sosul, apoĭ puĭ mușchiul în blidŭ și sosŭ deasupra.
+Să eĭ mușchiul să’l puĭeștĭ frumos, și să’l puĭzĭ, apoĭ să eĭ o parte oțăt și două de apă, pune vr’o puĭva cepe, morcovĭ, și coajă de alămîe, doă frunze de dafin, și piperiŭ 
+ntreg, și le ferbĭ bine, apoĭ le tornĭ fĭerbinte nește mușchiŭ, îl acoperĭ și’l puĭ doăsprezece saŭ doăzecĭ și patru  ceasurĭ înuntru la răcoare; apoĭ eĭ mușchiul și’l puĭnezĭ, făcând treĭ sau patru rândurĭ; pe urmă eĭ ceapa și morcoviĭ și le puĭ în tingire și mușchiul deasupra, puĭ deasupra jaratic și’l puĭ doă ceasurĭ să fearbă încet până se ruminește, apoĭ toarnă o [litră](#def-litra) smântână [??? ml.] peste mușchiŭ, și-l maĭ lasă un sfert de ceas la foc până se ruminește sosul, apoĭ puĭ mușchiul în blidŭ și sosŭ deasupra.
 
 ### № 40. Mușchiŭ de vițel învălit.
 
@@ -174,23 +174,43 @@ Să eĭ mușchiŭ saŭ carne macră să o prăjăștĭ și să taĭ feliĭ subț
 
 ### № 41. Feliĭ de carne învălite.
 
+Să eĭ carne și să taĭ feliĭ lungărețe și late ca mâna, dar de groase ca muchea de cuțit, le bate și le sărează, apoĭ ferbĭ crieriĭ cu sare, eĭ pelița de pe dânșiĭ, îĭ tocĭ mărunt, și’ĭ puĭĭ cu petrinjeĭ în grăsime, puĭ puțină ceapă, sare, piperiŭ, o mână de [posmag](#def-posmag), și o lingură de [zamă](#def-zama-buna), și le lașĭ puțin să fearbă, și să se răcorească; apoĭ taĭ mărunt o bucățică de slănină, o amesticĭ cu tocătura aceea, o întinzĭ pe feliile de carne, o învăleștĭ și o legĭ cu ață; apoĭ puĭ în tingire grăsime, ceapă și morcovĭ cu carne deasupra și le lașĭ de scadŭ și se ruminescŭ, scoțĭ feliile, și puĭ doă lingurĭ de făină să se ruminească; apoĭ puĭ [zamă](#def-zama-buna), puțin oțăt, și coajă de alămîe, și lașĭ să fearbă, strecorĭ sosul, puĭ carnea lor înuntru și doă lingurĭ de smântână, și maĭ lașĭ să scadă; apoĭ așăzĭ feliile cele învârtite de rând pe blidŭ, tornĭ sosul deasupra, și presărĭ cu coajă de alămîe.
+
 ### № 42. Aluat pentru bucate.
+
+Să eĭ câtă făină pe atâta și unt, îl sărezĭ, taĭ untul feliĭ în făină, mestecĭ cu sucitoru bine, dar nu cu mâna, puĭ doă oue, și atâta smântână cât să nu fie prea vîrtos, și îl mestecĭ bine cu un cuțit. Aluatul acela nu trebuie să fie nicĭ cum vârtos, și nicĭ cum atins cu mâna, îl întinde de treĭ orĭ cât se poate de subțire, și tot îl stringe din toate părțile, și îĭ pune făină numaĭ cît trebue. Aluatul acesta se poate întrebuința la orĭ ce vreĭ, și untul trebuie să fie moale. 
 
 ### № 43. Aluat de pastetă.
 
+Pune pe o masă 220 [dramurĭ](#def-dram) [710 gr.] făină, tae feliĭ 132 dramurĭ [426 gr.] unt, și 44 dramurĭ [142 gr.] grăsime proaspătă, și o mestică bine cu’n puĭtoriŭ, pune sare, doă oue întregĭ și doă gălbănușurĭ, opt lingurĭ de smântână, și’l puĭică bune cu’n puĭt, întinde’l puĭoă orĭ, apoĭ îl pune în patru și’l puĭ un ceas să se odihnească, apoĭ îl întinde ca muchea de cuțit, și fă ce vreĭ cu dînsul. 
+
 ### № 44. Aluat de pastetă frecat.
+
+Să frecĭ [puhav](#def-puhav) 177 [dramurĭ](#def-dram) [571 gr.] grăsime proaspătă, pune șese lingurĭ de vin una câte una, șepte gălbănușurĭ, amestică bine un ceas, apoĭ pune făină cât să nu fie aluatul nicĭ vârtos nicĭ tare moale, maĭ pune doă lingurĭ de vin și doă de smântână, coajă de alămîe; apoĭ întinde aluatul pe un [calup](#def-calup), și pune înuntru ce mâncare vreĭ, și o coace încet, și toarnă sosul după ce veĭ tăiao deasupra. 
 
 ### № 45. Pastetă de tocătură.
 
+Să eĭ 177 [dramurĭ](#def-dram) [571 gr.] carne de vițel, puțină ceapă, coajă de alămîe, [posmag](#def-posmag) muiat în lapte, le toacă tare mărunt cu carnea, și pune doă oue întregĭ înuntru și le amestică, pune treĭ oue, o bucățică de unt și puțin lapte, le ferbe ca un aluat, și le stringe, și le pisază la un loc cu celelalte; pune acele doă oue sus arătate înuntru, apoĭ facĭ o mâncare de [maiurĭ](#def-mai) cu puțin sosŭ cu zamă de alămîe, facĭ aluatul cu [№ 42] și pune pe fundul uneĭ tingirĭ de un deget aluat, apoĭ pune jumătate de topitură de cele de deasupra, pune mâncarea cea de maiurĭ, și apoĭ ceealaltă tocătură și o face rătundă, întinde aluatul, și tae dungĭ cu rotița cea cu zimțĭ, și o pune peste tocătură ca o gratie, o ungĭ cu oŭ deasupra, și o coace treĭ sferturĭ de ceasŭ; când o pune pe farfuriĭ poate să se împodobească pe unde sânt vorticele cu vârfurĭ de sparangă, saŭ cu gâturĭ de racĭ.
+
 ### № 46. Pastetă de hulubĭ.
+
+Să grijeștĭ și să sărezĭ hulubiĭ și să’ĭ puĭ să fearbă puțin înădușit cu puțin vinŭ, zamă, ceapă, frunză de dafin, și coajă de alămîe; apoĭ să facĭ un faș cu carne de vițel, sosŭ de mĭel, puțină măduvă și maiurile de la hulubĭ, sare, piperiŭ, coajă de alămîe; ungĭ cu acest faș hulubiĭ, fă o pastetă cu [№ 43], sau [№ 44], pune hulubiĭ înuntru, fă și capacul tot de pastetă, ungĭ cu albuș de oŭ, și o coace, și o pune pe farfuriĭ și o taĭe deasupra; orĭ ce sosŭ vreĭ toarnă, puĭune capacul deasupra, și pune pe masă. 
 
 ### № 47. Fasole, mazire, și bobŭ verde de murat.
 
+Să puĭ un cazan cu apă să fearbă, și după ce a ferbe cazanul, să puĭ fasolele în cazanŭ, numaĭ să le daĭ în undă, și apoĭ degrabă să le scoțĭ, să le puĭ pe o masă, să le usucĭ la soare până când s’ar puĭa; dar numaĭ fasolele de [harag](#def-harag), aseminea mazirea și bobul.
+
 ### № 48. Mazire verde cu marole căpăține.
+
+Taĭ [marolele](#def-marolă) în patru părțĭ și le opăreștĭ cu apă clocotită, scurgĭ apa, apoĭ puĭ în tingire unt saŭ grăsime, și un rând de mazire verde și un rând de marole, și la mijloc un puiŭ prăjit, și lașĭ să scadă coperite până se moae toate; apoĭ pune puțină făină și petrinjel, lasă să se ruminească puțin, pune zamă cât se cuvine, și să maĭ fearbă puțin; apoĭ așază frumos în blidŭ. 
 
 ### № 49. Mazire verde în grăunte.
 
+Desghĭocând mazirea numaĭ grăuntele, fiind tânără o aruncĭ în apă când clocotește, și o lașĭ să se un clocot bun, apoĭ o strecorĭ pin sîtă bine, și o presărĭ pe tava și o daĭ la cuptoriŭ, care să nu se înfĭerbinte, ce pe încetul să se poată usca, și când îĭ vra să facĭ bucate s’o puĭ în apă răce să fearbă. 
+
 ### № 50. Păstrarea mazireĭ verde.
+
+Să umple cu mazire grăunțe o butelcă, și s’o astupĭ cu dop bine, și s’o puĭ într’o tingire cu apă răce să fearbă un ceas și jumătate; și apoĭ luânduo de la foc, o veĭ lăsa tot în acea tingire până se va răci, și scoținduo veĭ rîșîni butelca, și o veĭ pune la un loc uscat. 
 
 ### № 51. Mâncare dulce de morcovĭ.
 
@@ -496,37 +516,38 @@ Să eĭ mușchiŭ saŭ carne macră să o prăjăștĭ și să taĭ feliĭ subț
 
 ## Glosar
 
-* <strong id='def-but'>but</strong>. pulpă, coapsă.
-* <strong id='def-caralab'>caralab, caralabie</strong>. gulie. (ger. _Kohlrabi_)
-* <strong id='def-chisa'>chisă</strong>. vas mic de sticlă, de cristal sau de porțelan.
-* <strong id='def-curechiu-nemtescu'>curechiŭ nemțescŭ</strong>. varză creață.
-* <strong id='def-curechiu'>curechiŭ</strong>. varză.
-* <strong id='def-de-isnoava'>de isnoavă</strong>. din nou.
-* <strong id='def-dram'>dram</strong>. (în Moldova) unitate de măsură echivalentă cu 3,23 grame sau 3,8 mililitri.
-* <strong id='def-floare-de-nucusoara'>floare de nucușoară</strong>. învelișul roșiatic al seminței de nucșor, folosit drept condiment; macis.
-* <strong id='def-friganea'>friganea</strong>. felie de pîine muiată în lapte și ou, apoi prăjită în grăsime.
-* <strong id='def-harpacica'>harpacică</strong>. arpagic (_Allium schoenoprasum_, fr. _ciboulette_, eng. _chives_).
-* <strong id='def-hulub'>hulub</strong>. porumbel.
-* <strong id='def-imbiri'>imbirĭ</strong>. ghimbir.
-* <strong id='def-in-papiloturi'>în papiloturĭ</strong>. metodă de gătit în aburi alimentele împachetate etanș în hârtie de copt (fr. _en papillote_).
-* <strong id='def-litra'>litră</strong>. TODO.
-* <strong id='def-mai'>maĭ</strong>. ficat.
-* <strong id='def-marola'>marolă</strong>. lăptucă, salată verde.
-* <strong id='def-omat'>omăt</strong>. albușul de ou bătut spumă tare.
-* <strong id='def-parjoale-1'>pârjoale¹</strong>. bucăți de carne fripte.
-* <strong id='def-petica'>petică</strong>. bucată de material textil.
-* <strong id='def-piulita'>piuliță</strong>. mojar.
-* <strong id='def-posmag'>posmag</strong>. pesmet.
-* <strong id='def-puhav'>puhav</strong>. ??
-* <strong id='def-ranza'>rânză</strong>. pipotă.
-* <strong id='def-rarunchi'>rărunchĭ</strong>. rinichi.
-* <strong id='def-salce'>salce</strong>. sos.
-* <strong id='def-tingire'>tingire</strong>. vas adînc, de aramă sau de fontă.
-* <strong id='def-tocmagi'>tocmagĭ</strong>. tăieței.
-* <strong id='def-unt-de-raci'>unt de racĭ</strong>. [Vezi Manolachi Drăghici].
-* <strong id='def-zama-buna'>zamă bună / de carne</strong>. bulion din carne. (fr. _bouillon_, eng. _broth_)
-* <strong id='def-zama-arsa'>zamă arsă</strong>. ??.
+* <strong id=’defpuĭt’>puĭstrong>. pulpă, coapsă.
+* <strong id=’defpuĭralab’>puĭab, caralabie</strong>. gulie. (ger. _Kohlrabi_)
+* <strong id=’defpuĭisa’>puĭ</strong>. vas mic de sticlă, de cristal sau de porțelan.
+* <strong id=’defpuĭrechiu-nemtescu’>puĭhiŭ nemțescŭ</strong>. varză creață.
+* <strong id=’defpuĭrechiu’>puĭhiŭ</strong>. varză.
+* <strong id=’defpuĭ-isnoava’>puĭnoavă</strong>. din nou.
+* <strong id=’defpuĭam’>puĭ/strong>. (în Moldova) unitate de măsură echivalentă cu 3,23 grame sau 3,8 mililitri.
+* <strong id=’defpuĭoare-de-nucusoara’>puĭe de nucușoară</strong>. învelișul roșiatic al seminței de nucșor, folosit drept condiment; macis.
+* <strong id=’defpuĭiganea’>puĭnea</strong>. felie de pîine muiată în lapte și ou, apoi prăjită în grăsime.
+* <strong id=’defpuĭrag’>puĭ</strong>. arac.
+* <strong id=’defpuĭrpacica’>puĭcică</strong>. arpagic (_Allium schoenoprasum_, fr. _ciboulette_, eng. _chives_).
+* <strong id=’defpuĭlub’>puĭ</strong>. porumbel.
+* <strong id=’defpuĭbiri’>puĭĭ</strong>. ghimbir.
+* <strong id=’defpuĭ-papiloturi’>puĭpiloturĭ</strong>. metodă de gătit în aburi alimentele împachetate etanș în hârtie de copt (fr. _en papillote_).
+* <strong id=’defpuĭtra’>puĭ</strong>. TODO.
+* <strong id=’defpuĭi’>puĭstrong>. ficat.
+* <strong id=’defpuĭrola’>puĭă</strong>. lăptucă, salată verde.
+* <strong id=’defpuĭat’>puĭ/strong>. albușul de ou bătut spumă tare.
+* <strong id=’defpuĭrjoale-1’>puĭale¹</strong>. bucăți de carne fripte.
+* <strong id=’defpuĭtica’>puĭă</strong>. bucată de material textil.
+* <strong id=’defpuĭulita’>puĭță</strong>. mojar.
+* <strong id=’defpuĭsmag’>puĭg</strong>. pesmet.
+* <strong id=’defpuĭhav’>puĭ</strong>. ??
+* <strong id=’defpuĭnza’>puĭ</strong>. pipotă.
+* <strong id=’defpuĭrunchi’>puĭchĭ</strong>. rinichi.
+* <strong id=’defpuĭlce’>puĭ</strong>. sos.
+* <strong id=’defpuĭngire’>puĭre</strong>. vas adînc, de aramă sau de fontă.
+* <strong id=’defpuĭcmagi’>puĭgĭ</strong>. tăieței.
+* <strong id=’defpuĭt-de-raci’>puĭe racĭ</strong>. [Vezi Manolachi Drăghici].
+* <strong id=’defpuĭma-buna’>puĭbună / de carne</strong>. bulion din carne. (fr. _bouillon_, eng. _broth_)
+* <strong id=’defpuĭma-arsa’>puĭarsă</strong>. ??.
 
 ---
 
-__Ediția llll__ a fost realizată după a doua ediție a volumului, apărută la Iași în anul 1842. Textul a fost transliterat din alfabetul chirilic în cel latin, dar reproduce celelalte aspecte ale ortografiei originale. Am adăugat, de asemenea, un glosar al cuvintelor mai puțin familiare.
+<strong id=puĭ’>puĭa llll</strong> (în lucru) a fost realizată după a doua ediție a volumului, apărută la Iași în anul 1842. Textul a fost transpus din alfabetul chirilic în cel latin, dar reproduce celelalte aspecte ale ortografiei originale. Am întocmit, de asemenea, un glosar al cuvintelor mai puțin familiare.

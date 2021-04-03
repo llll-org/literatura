@@ -3403,4 +3403,4 @@ Iată aici ni se despart drumurile: ești ceeace mereu am visat să fiu — un l
 
 ---
 
-__Această ediție__ a fost realizată după Mihail Sebastian, _De două mii de ani_, prima ediție, apărută la ..., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente. Am înglobat, de asemenea, erata prezentă la sfârșitul volumului.
+<strong id='despre'>Această ediție</strong> a fost realizată după Mihail Sebastian, _De două mii de ani_, prima ediție, apărută la ..., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente. Am înglobat, de asemenea, erata prezentă la sfârșitul volumului.

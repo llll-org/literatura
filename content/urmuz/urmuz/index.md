@@ -408,4 +408,4 @@ S’a terminat de cules pentru Editura „Unu” în două zeci și opt Octombri
 
 ---
 
-__Ediția llll__ (versiunea {{ version }}) a fost realizată după Urmuz, _Urmuz_, București, 1930. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.
+<strong id='despre'>Ediția llll</strong> (versiunea {{ version }}) a fost realizată după Urmuz, _Urmuz_, București, 1930. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.

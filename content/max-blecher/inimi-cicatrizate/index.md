@@ -3317,4 +3317,4 @@ Emanuel rămase câteva minute inert, apoi se ridică în coate și privi afară
 
 ---
 
-__Această ediție__ a fost realizată după M. Blecher, _Inimi Cicatrizate_, Ediția II-a, apărută la Editura Librăriei „Universala” Alcalay & Co., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.
+<strong id='despre'>Această ediție</strong> a fost realizată după M. Blecher, _Inimi Cicatrizate_, Ediția II-a, apărută la Editura Librăriei „Universala” Alcalay & Co., București. Am păstrat ortografia originală, corectînd doar erorile de tipar, acolo unde erau evidente.
