@@ -214,21 +214,39 @@ Să umple cu mazire grăunțe o butelcă, și s’o astupĭ cu dop bine, și s�
 
 ### № 51. Mâncare dulce de morcovĭ.
 
+Să iaĭ una litră și jumătate de morcovĭ tăiațĭ lungurețĭ și subțirĭ, să li se dee maĭ întâiŭ un clocot, și să se scurgă bine de apă, apoĭ să se pue într'o altă tingire curată cu o litră de zahar sfarmat, și să se toarne deasupra apă clocotită până le va acoperi peste tot. După ce va scade apa pe jumătate, să se pue coajă de alămîe cât se va socoti de trebuință, și după se va maĭ scăde în cât să rămîe ca patru lingurĭ de apă numaĭ, să se stoarcă zamă de la doă alămîĭ; așa fiind gata să se așeze pe farfuriĭ, și să se dee fĭerbinte la masă. 
+
 ### № 52. Maiurĭ de gîscă cu sosŭ.
+
+Să sărezĭ maiurile și să le împănezĭ cu coajă de alămîe, pune într'o tingire puțină grăsime saŭ unt, ceapă tăĭată, și maiurile și marariŭ, și le lasă să fearbă puțin, pune puțină făină și lasă să ruminească puțin, pune zamă și smântână, câteva picăturĭ oțet, și piperĭu, lasă să maĭ ee un clocot, și apoĭ așazele.
 
 ### № 53. Gălușĭcele de smântână cu racĭ.
 
+Eĭ doăzecĭ dramurĭ unt, și'l frecĭ puhav, puĭ patru oue întregĭ unul după altul, puĭ patru lingurĭ de smântână, puțină sare, apoĭ puĭ făină în trânsul cât trebue să fie de grosŭ aluatul, puĭ jumătate ocă lapte în tingire să fearbă, și facĭ gălușĭcele cu lingura, le puĭ în lapte ca să fearbă cât trebue, eĭ gîturĭ de racĭ hăcuite, ungĭ o farfurie cu unt, și așăzĭ un rând de găluș˘icele, presărĭ racĭ de ceĭ hăcuițĭ și puțină smântână, și așa le așezĭ până ce se mîntue; însă pe deasupra puĭ gîturĭ de racĭ întregĭ, și smântână să le puĭ, racĭ și sus, și jos; și le lasă să fearbă să se ruminească.
+
 ### № 54. Gălușĭcele de grisă.
+
+Să frecĭ o bucățică de unt puhav, bate înuntru doă oue, unul după altul, pune și cincĭ lingurĭ de grisă, sare, și doă lingurĭ de smântână, amestică toate bine la un loc, facĭ gălușĭcele, prăjăștele în grăsime, apoĭ punele în supă să maĭ ee vr'o doă clocote.
 
 ### № 55. Gălușĭcele de crierĭ.
 
+Să eĭ crierĭ să'ĭ curățĭ de peliță, și să'ĭ tocĭ mărunt, cu petrinjel, pune și doă oue, sare, piperiŭ, și usucăĭ puțin pe jaratic cu puțin unt, apoĭ să'ĭ puĭ să'ĭ pisezĭ cu puțină pâne muiată în lapte, freacă puțin unt de racĭ și mestică cu tocătura, pune și un oŭ și puțin posmag, facĭ gălușĭcele, și le ferbĭ în supă.
+
 ### № 56. Gălușĭcele de racĭ.
+
+Să moĭ pâne în lapte, și o toacă mărunt cu codițe de racĭ, petrinjel, coajă de alămîe, apoĭ eĭ unt de racĭ de mărimea unuĭ oŭ, îl frecĭ înuntru, puĭ racĭ, doă oue întregĭ, și un gălbănuș, sare, doă lingurĭ smântână, puțin posmag, le mestică toate bine la un loc, fă gălușĭcele și ferbe în supă.
 
 ### № 57. Gălușĭcele de posmag cu migdale.
 
+Să frecĭ patruzecĭ dramurĭ unt, și frecându'l să pu˘i câte puțină apă înuntru, apoĭ pune o mână de migdale pisaet, șepte oue, și atâta posmag ca să se facă aluatul cam vârtos, fă gălușĭcele și le ferbe în supă; aceasta este pentru patrusprezece persoane.
+
 ### № 58. Gălușĭcele de carne.
 
+Să eĭ 177 dramurĭ carne tocată, și o amestică cu o litră lapte și cu doă oue, puĭ doă saŭ treĭ mânĭ de pâne muiată în lapte, tornĭ și unt topit de mărime ca jumătate de oŭ, puțină floare de nucușoară, și frămîntă bine aluatul, fă gălușĭcele și le ferbe în zamă.
+
 ### № 59. Maiurĭ de gîscă cu cercŭ de orezŭ împregĭur.
+
+Să eĭ maiurĭ de gîscă, le spelĭ, le sărezĭ, le puĭ în tingire; supt maiurĭ puĭ noă saŭ zece feliĭ de ceapă, și morcovĭ roate tăiațĭ, împănezĭ maiurile cu cuișoare, apoĭ puĭ jumătate litră smântână, o mână posmag, și câteva bucățele unt, saŭ grăsime bună, acoperĭ cu capacul, puĭ dedesupt și deasupra jaratic, și le lașĭ un ceas să se coacă bine; apoĭ scoțĭ maiurile și eĭ grăsime de pe sos, și pesgte celelalte rădăcinĭ și cuișoare, puĭ câteva lingurĭ de zamă și să le scazĭ degrabă; apoĭ așezĭ maiurile în farfurie, unde trebue să fie gata cercul acel de orezŭ, și tornĭ sosul pe dînsul. Cercul acela de orezŭ ce face în următorul chip: să puĭ o bucățică unt să se înfĭerbinte, să puĭ înlăuntru petrinjel verde hăcuit, puĭ și 83 dramurĭ orezŭ, taĭe și o ceapă în patru, puĭ puțin piperiŭ, apoĭ le lașĭ toate aceastea să fearbă un ceas, și tot puĭ din vreme în vreme câte puțină zamă ca să nu se ruminească orezul; îndată ce se va muia orezul să scoțĭ ceapa și piperiul afară, și să puĭ o bucățică de unt de racĭ, apoĭ puĭ în altă tingire o bucățică de unt să se înfĭerbinte, puĭ puțin petrinjel verde, și vr'o câteva cĭuperce tăĭate, și le lașĭ să scadă puind și puțin piperiŭ pisat; când va fi scăzut să puĭ puțină făină, o lingură saŭ doă smântână, și earășĭ să scadă; din orezul maĭ sus zis să facĭ împregiurul farfurieĭ un cerc frumos, și apoĭ puĭ dea curmezișul un rând de cĭuperce și un rând de gîturi de racĭ, tot câte de doă degete unul de altul departe ca să fie ca o cordea, apoĭ fiind cercul gata, veĭ pune maiurile de gîscă cu sosul lor.
 
 ### № 60. Rață sălbatică friptă.
 
