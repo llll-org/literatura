@@ -250,11 +250,19 @@ Să eĭ maiurĭ de gîscă, le spelĭ, le sărezĭ, le puĭ în tingire; supt ma
 
 ### № 60. Rață sălbatică friptă.
 
-### № 61. Friptură despinare și de but de căprioară.
+Rața după ce'i grijită, o puĭ într'o farfurie, și ferbe oțăt amestecat cu puțină apă, și cu o bucățică de coajă de alămîe, și cu frunze de dafin, și cu enibahar, și apoĭ clocotită fiind tornĭ peste rață, și o lașĭ de șede vr'o doă zile, apoĭ eĭ rața și o întinzĭ cu șese rândurĭ de slănină pe pept, pu˘i rața în frigare, și puĭ oțet de cel în care aŭ șezut rața, cât socoteștĭ că trebuie pentru salce, și puĭ și o lingură de smântână, și tot tornĭ peste rață până ce se frige; după ce'ĭ friptă o puĭ pe farfurie, și tornĭ salcea deasupra, și o daĭ la masă.
+
+### № 61. Friptură de spinare și de but de căprioară.
+
+Eĭ butul saŭ spinarea spalată curat, și o puĭ să șadă doă ceasurĭ în sare, apoĭ puĭ oțăt amestecat cu apă într'o ulcică, și puĭ doă cepe întregĭ, vâră patru cuișoare în cepe, o țelină și un cățăl de usturoiŭ, doă frunze de dafin, coajă de alămîe, vr'o câteva fire de enipere, și puțin piperiŭ întreg; aceste toate se ferbŭ cu oțet, și fiind clocotit, puĭ butul în strachină și tornĭ oțet deasupra ca să'l cuprindă, și'l lasă doă saŭ treĭ zile opărindu'l în toate zilele câte de doă orĭ tot cu acel oțet; apoĭ eĭ pelea acea vânătă de pe dânsul, și'l împănezĭ foarte des cu slănină, îl puĭ în frigare, și puĭ de cel strecurat în tigaea cea de supt frigarea cu friptura, cât socoteștĭ ca să aĭbă salce; puĭ și o lingură de smântână, și frigânduse să tot tornĭ deasupra salce de aceea până ce va frige bine, apoĭ puind pe farfuriĭ tornĭ salcea deasupra și'i gata.
 
 ### № 62. Puĭ prăjițĭ cu unt.
 
+Puiul grijit foarte curat și tăiat în patru, îl sarĭ pre cât trebue, și îl lașĭ să șadă un ceas, apoĭ puind unt mult în tigae de lut lașĭ să clocotească, și apoĭ tăvălind bucățălile de puĭ în făină de grîŭ, le moĭ pe urmă în apă rece, și apoĭ tăvălindule în posmag de franzelă, le puĭ în tigaea cu unt, și rumininduse bine pe o parte, le întorcĭ pe ceea paret ca să se ruminească de o potrivă, și sînt gata.
+
 ### № 63. Mĭel prăjit friptură.
+
+Eĭ carne de mĭel și taĭ tot feliĭ, și pe urmă o ferbĭ  cu puțin unt, apoĭ după ce se răcorește, o tăvăleștĭ în oŭ și o presărĭ bine cu posmag, și o prăjeștĭ în grăsime, apoĭ o pu˘i în farfuriĭ, și pune petrinjel pe deasupra.
 
 ### № 64. Curcan umplutŭ.
 
